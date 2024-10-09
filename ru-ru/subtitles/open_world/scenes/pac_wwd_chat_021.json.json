@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Ни-кола» или «Циррус»… «Циррус». Нет. «Ни-кола».",
+              "maleVariant": "",
+              "stringId": "2179618285604691968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да возьми ты обе.",
+              "maleVariant": "",
+              "stringId": "2211184156483477504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я тебе деньги что, печатаю? «Ни-кола». Или «Циррус»?",
+              "maleVariant": "",
+              "stringId": "2217194786818580480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Возьми хоть что-нибудь. Всё равно везде одна химия.",
+              "maleVariant": "",
+              "stringId": "2217195386134290432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не отвлекай, а? Пить хочется, аж думать не могу.",
+              "maleVariant": "",
+              "stringId": "2217195703190118400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей, «Циррус». Или «Ни-кола»?",
+              "maleVariant": "",
+              "stringId": "2217196095592423424"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

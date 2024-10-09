@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, як там справи?",
+              "maleVariant": "",
+              "stringId": "1624570545386098688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якось ідуть, але квапитись не збираються.",
+              "maleVariant": "",
+              "stringId": "1720326743053930496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти за ним у всі чотири ока стеж.",
+              "maleVariant": "",
+              "stringId": "1720327385940070400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та зрозумів я, все.",
+              "maleVariant": "",
+              "stringId": "1720327529553039360"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

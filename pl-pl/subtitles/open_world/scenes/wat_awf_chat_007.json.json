@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ty już długo na ulicy?",
+              "maleVariant": "",
+              "stringId": "1963250224297189376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czekaj... z sześć lat będzie. Jak nie siedem.",
+              "maleVariant": "",
+              "stringId": "1967844386578681856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja niecały rok. Od zeszłej jesieni. Redukcję w dziale zrobili. Spóźniłem się z ratą...",
+              "maleVariant": "",
+              "stringId": "1967844547623178240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przestań o tym myśleć, chłopie. To nic nie da. Jest, jak jest, i tyle. Życie.",
+              "maleVariant": "",
+              "stringId": "1967848075955589120"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

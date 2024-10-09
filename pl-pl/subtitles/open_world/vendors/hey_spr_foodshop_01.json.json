@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę zjeść.",
+              "maleVariant": "",
+              "stringId": "1740377075363586048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jedzenie na pewno jest świeże?",
+              "maleVariant": "",
+              "stringId": "1740377075363586064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mam ochotę na coś smacznego.",
+              "maleVariant": "",
+              "stringId": "1740377075380363264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To doskonale pani trafiła.",
+              "maleVariant": "To doskonale pan trafił.",
+              "stringId": "1740377075397140484"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystkie produkty są świeże? Na pewno?",
+              "maleVariant": "",
+              "stringId": "1740377075430694912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oczywiście. Przecież gdyby tak nie było, to nie moglibyśmy nazwywać się \"Fresh Food\".",
+              "maleVariant": "",
+              "stringId": "1740377075430694920"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Robię, co mogę, ale czasem się włamią jakieś gnojki...",
+              "maleVariant": "",
+              "stringId": "2172145595973230592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie no, wiadomo, jak coś, to od razu strzelam...",
+              "maleVariant": "",
+              "stringId": "2208476380999815168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ze dwóch cwaniaczków już tak udupiłem, darmozjadów pieprzonych...",
+              "maleVariant": "",
+              "stringId": "2208477235983519744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ta... może jak te drony się pojawią, to się trochę uspokoi... A nie wiem kiedy, zapowiadają je i zapowiadają...",
+              "maleVariant": "",
+              "stringId": "2208478968180740096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No? Długo mam jeszcze czekać, aż jaśnie pan się zdecyduje?",
+              "maleVariant": "",
+              "stringId": "2172211025015451648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Morda tam. Mistrza nie wolno poganiać.",
+              "maleVariant": "",
+              "stringId": "2178091326430232576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A, pierdolenie. Taki z ciebie mistrz, jak ze mnie Richard Night.",
+              "maleVariant": "",
+              "stringId": "2178091716232069120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak na razie, to wygrywam z tobą trzy do zera. I kto tu jest czempion, hę?",
+              "maleVariant": "",
+              "stringId": "2178091840249249792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, dobra. Zobaczymy kto się będzie śmiał, jak już cię oskubię z ostatniej puszki.",
+              "maleVariant": "",
+              "stringId": "2178092036442013696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sraty-taty. Nic, tylko byś gębą kłapał.",
+              "maleVariant": "",
+              "stringId": "2178092138749476864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To jest element strategii. Najpierw cię rozkojarzę, a potem taką kartę pierdolnę, że się nie pozbierasz.",
+              "maleVariant": "",
+              "stringId": "2178092638542741504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No to dawaj, dawaj!",
+              "maleVariant": "",
+              "stringId": "2178092858861142016"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

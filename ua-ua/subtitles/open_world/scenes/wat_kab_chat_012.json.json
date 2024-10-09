@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чуєш… Маєш шось таке… Ну, ти пойняв.",
+              "maleVariant": "",
+              "stringId": "2180919585866567680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не пойняв. Яке таке?",
+              "maleVariant": "",
+              "stringId": "2180920561310683136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, таке, знаєш… З-під прилавка, січеш? Шось особливе. Я заплачу.",
+              "maleVariant": "",
+              "stringId": "2180920823018475520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чеши-но звідсіля, поки в нас обох проблем нема.",
+              "maleVariant": "",
+              "stringId": "2180921084357169152"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

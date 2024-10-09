@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Опять система безопасности накрылась.",
+              "maleVariant": "",
+              "stringId": "2178301430946324480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И обратные диоды пропали, да?",
+              "maleVariant": "",
+              "stringId": "2188083722547085312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну ясное дело, что пропали.",
+              "maleVariant": "",
+              "stringId": "2188084092669247488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Каждый раз одно и то же. Они крадут, мы чиним, они крадут…",
+              "maleVariant": "",
+              "stringId": "2188084399725854720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кочевники просто пиздец. Каждый думает, что он типа пуп земли. Заезжай куда хочешь, бери что хочешь!",
+              "maleVariant": "",
+              "stringId": "2188084834608070656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Солнечные фермы — это просто как шведский стол! Подходи, угощайся, чего эти панели тут просто так стоят!",
+              "maleVariant": "",
+              "stringId": "2188085055513673728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага… Пусть потом какой-нибудь неудачник всё чинит.",
+              "maleVariant": "",
+              "stringId": "2188085530644430848"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Don't get it, choom. Been thinkin' and thinkin', but I just don't get it.",
+              "maleVariant": "",
+              "stringId": "2167915868692697088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Get what?",
+              "maleVariant": "",
+              "stringId": "2182248835446001664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "All that food in the dumpsters. Good food! If they don't want it, why don't they just give it to us?",
+              "maleVariant": "",
+              "stringId": "2182248903511166976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "'Cause they don't even like to think about us. Simple as that.",
+              "maleVariant": "",
+              "stringId": "2182249951214751744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V? Hey, listen, there's this chick – an NC badge. Knew too much for her own good, so the top brass tossed her into the loony bin. I'm gonna need you to bust her out.",
+              "maleVariant": "",
+              "stringId": "2328851748475232256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So, you her merc in shining chrome? Spec's attached. Be in touch.",
+              "maleVariant": "",
+              "stringId": "2342020320872206336"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

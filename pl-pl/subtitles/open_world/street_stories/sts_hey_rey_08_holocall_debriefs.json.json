@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzięki tobie będzie mi darowane osobiste wyprawianie Karubo na tamten świat.",
+              "maleVariant": "",
+              "stringId": "2328880621795532800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I padł Karubo Barei niby gromem Pana trafiony i nikt nie wiedział jak, ani kiedy się to stało i padł strach wielki na ich serca.",
+              "maleVariant": "",
+              "stringId": "2328880709892694016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra robota, V. Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2334534867720323072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zaprawdę, miła jest to niespodzianka. Zamykam kontrakt. Bądź pozdrowiona.",
+              "maleVariant": "Zaprawdę, miła jest to niespodzianka. Zamykam kontrakt. Bądź pozdrowiony.",
+              "stringId": "2334543254516383744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widzę już Karubo pośród ogni piekielnych, słyszę jego rozdzierające krzyki, czuję smród węglącego się ciała grzesznika.",
+              "maleVariant": "",
+              "stringId": "2334546400479264768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słowem, raduje się serce moje. Kontrakt zamknięty. Idź z Bogiem.",
+              "maleVariant": "",
+              "stringId": "2334546597326340096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

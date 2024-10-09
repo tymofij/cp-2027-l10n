@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я б поїла.",
+              "maleVariant": "Я би поїв.",
+              "stringId": "1884923752043921408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добре почуваєшся?",
+              "maleVariant": "",
+              "stringId": "1884923752043921424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "З’їла б щось.",
+              "maleVariant": "З’їв би щось.",
+              "stringId": "1884923752094253060"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кхе! Кхе! Що саме?",
+              "maleVariant": "",
+              "stringId": "1884923752094253068"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Агов, ти як почуваєшся?",
+              "maleVariant": "",
+              "stringId": "1884923752161361924"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не твоє… Кхе-кхе… Не твоє, курва, діло.",
+              "maleVariant": "",
+              "stringId": "1884923752161361932"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

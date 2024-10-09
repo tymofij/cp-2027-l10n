@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Офигеть! С вами Хуанита! У меня  бомбическая новость! Керри Евродин взял и  выступил на сцене! Серьёзно, народ!",
+              "maleVariant": "",
+              "stringId": "1792269305569517568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И с кем! С улётными красотками из Us Cracks! Они вместе спели крутейший хит «Off the leash», но… добавили в него новую фишку!",
+              "maleVariant": "",
+              "stringId": "1802311699667861504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я видела это живьём и… Вау! Просто офигеть. Бешеная энергетика! Реально чума! Похоже, все эти слухи о депрессии Керри — полнейшая чушь. От него просто искры летят!",
+              "maleVariant": "",
+              "stringId": "1802311927653449728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Новый сингл Us Cracks с участием Керри будет официально представлен публике завтра в полночь.",
+              "maleVariant": "",
+              "stringId": "1802312161880162304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если не послушаете — мы больше не друзья! Фух… После перерыва Линда Оз расскажет нам все тайны о своём бывшем!",
+              "maleVariant": "",
+              "stringId": "1802312558090895360"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

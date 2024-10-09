@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Некоторые просто хотят быть счастливыми. Ты не понимаешь, что ли?",
+              "maleVariant": "",
+              "stringId": "2161782791709421568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слушай, ты выбрал не то место для таких разговоров.",
+              "maleVariant": "",
+              "stringId": "2218889969057239040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Почему? Ты никогда мне не отвечаешь, у тебя всегда какие-то отговорки.",
+              "maleVariant": "",
+              "stringId": "2218934077985492992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Никогда»? «Всегда»? Да ладно.",
+              "maleVariant": "",
+              "stringId": "2218934519276605440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу нормальных отношений. Чтобы у нас всё было серьёзно.",
+              "maleVariant": "",
+              "stringId": "2218934895606337536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты же знаешь, я не верю в отношения. Мы что, не можем просто веселиться, как все?",
+              "maleVariant": "",
+              "stringId": "2218935243767123968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давай не будем портить вечер.",
+              "maleVariant": "",
+              "stringId": "2218935718948212736"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

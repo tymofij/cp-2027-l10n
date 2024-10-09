@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rozglądam się za nową bronią.",
+              "maleVariant": "",
+              "stringId": "1828465168108400640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak idzie interes?",
+              "maleVariant": "",
+              "stringId": "1828465168108400656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rozglądam się za nową bronią.",
+              "maleVariant": "",
+              "stringId": "1828465168125177860"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kumam. Śmiało, obejrzyj sobie, co mam.",
+              "maleVariant": "",
+              "stringId": "1828465168141955072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak idzie interes?",
+              "maleVariant": "",
+              "stringId": "1828465168158732292"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie narzekam. W Night City ludzie mogą nie mieć na chleb, ale na broń nie pożałują.",
+              "maleVariant": "",
+              "stringId": "1828465168158732300"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

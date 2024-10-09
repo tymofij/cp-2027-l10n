@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Саме так.",
+              "maleVariant": "",
+              "stringId": "1815753681951170560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Саме так.",
+              "maleVariant": "",
+              "stringId": "1815753681967947780"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привіт! Це ти за книгою?",
+              "maleVariant": "",
+              "stringId": "1815753682018279428"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ціна не обговорюється. Платиш усе й на місці.",
+              "maleVariant": "",
+              "stringId": "1815763652801634304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я зателефоную пізніше.",
+              "maleVariant": "",
+              "stringId": "1842959193754357760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я зателефоную пізніше.",
+              "maleVariant": "",
+              "stringId": "1842959381910835200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Файно. Я кину тобі адресу. Приходь сама.",
+              "maleVariant": "Файно. Я кину тобі адресу. Приходь сам.",
+              "stringId": "1842960760461119488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зрозуміла… Згодна.",
+              "maleVariant": "Зрозумів… Згоден.",
+              "stringId": "1842961087566499840"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówię ci, na kaca najlepsze jest gówniane żarcie.",
+              "maleVariant": "",
+              "stringId": "2172190711699189760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Umami?",
+              "maleVariant": "",
+              "stringId": "2188357755538345984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, umami! Coś mi pamięć szwankuje. Muszę rippera odwiedzić.",
+              "maleVariant": "",
+              "stringId": "2188387646128361472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chyba tak zrobię. Ty! Ostatnio zadzwonili do mnie z lotniska i powiedzieli, że na parkingu od miesiąca stoi mój Herrera Outlaw...",
+              "maleVariant": "",
+              "stringId": "2188387801787371520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przejdź na pamięć zewnętrzną. Polecam.",
+              "maleVariant": "",
+              "stringId": "2188387947363274752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty masz Herrera Outlaw? Czekaj... ktoś ukradł twoje dane i kupił auto na ciebie, tak?",
+              "maleVariant": "",
+              "stringId": "2188388555285696512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lepiej. Sam je kupiłem na wyjeździe służbowym, tylko, kurwa, o tym zapomniałem.",
+              "maleVariant": "",
+              "stringId": "2188392561433219072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty, jak to się nazywa, ten smak taki dziwny... Cholera, no!",
+              "maleVariant": "",
+              "stringId": "2188406524623556608"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

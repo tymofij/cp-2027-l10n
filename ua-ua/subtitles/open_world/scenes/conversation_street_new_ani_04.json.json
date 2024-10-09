@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чумбо, надто багато маси не буває. Давай, пий свій сік і тримайся зграї.",
+              "maleVariant": "",
+              "stringId": "2276532206771019792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну бля, я тепер якийсь дьорганий став! Все мене нервує!",
+              "maleVariant": "",
+              "stringId": "2276532206771019804"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От і чудово, користуйся цим! Бути уйобком якраз в моді!",
+              "maleVariant": "",
+              "stringId": "2276532206787796992"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

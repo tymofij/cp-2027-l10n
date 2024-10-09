@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może zajrzę do Afterlife. Poszukam czegoś ciekawszego niż to.",
+              "maleVariant": "",
+              "stringId": "2159445825242505216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No nie wiem, stary. Ja kiedyś stałem na bramce w Afterlife. Widziałem setki takich jak ty.",
+              "maleVariant": "",
+              "stringId": "2199481560359694336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pełni zapału, niby gotowi na wszystko, przekonani, że rzucą to miasto na kolana.",
+              "maleVariant": "",
+              "stringId": "2199483687660351488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wchodzili do środka jak młodzi bogowie. Ale wiesz, jak wychodzili?",
+              "maleVariant": "",
+              "stringId": "2199485195378421760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No?",
+              "maleVariant": "",
+              "stringId": "2199487287312707584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W najlepszym wypadku - już bez żadnych nadziei. W najgorszym - w plastikowych workach.",
+              "maleVariant": "",
+              "stringId": "2199487342811738112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Myślisz, że mógłbyś biegać dla jakiegoś fixera. Ale się mylisz. Posłuchaj starszego kolegi.",
+              "maleVariant": "",
+              "stringId": "2199487833780187136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stój, gdzie stoisz. Tu masz większe szanse, że życie nie kopnie cię w dupę.",
+              "maleVariant": "",
+              "stringId": "2199489087625424896"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

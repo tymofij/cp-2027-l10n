@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do wszystkich jednostek wspierających działania NCPD. Podejrzenie przestępczości zorganizowanej przy skraju Willow Street.",
+              "maleVariant": "",
+              "stringId": "2329306669280960512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Poszukiwany to Shinobu Imai, wielokrotnie skazany za przestępstwo handlu ludźmi i przymuszania ludzi do pracy.",
+              "maleVariant": "",
+              "stringId": "2358364346269405184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Za zneutralizowanie siatki przestępczej, której częścią jest Shinobu Imai, władze Night City wypłacą nagrodę.",
+              "maleVariant": "",
+              "stringId": "2358364668123516928"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

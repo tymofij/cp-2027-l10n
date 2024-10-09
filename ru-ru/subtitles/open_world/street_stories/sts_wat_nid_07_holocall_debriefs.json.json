@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви, я понимаю, почему ты так сделала, но это было не лучшее решение. Аарон тот ещё мудак, но у него большие связи. Тем более у тебя был на него компромат.",
+              "maleVariant": "Ви, я понимаю, почему ты так сделал, но это было не лучшее решение. Аарон тот ещё мудак, но у него большие связи. Тем более у тебя был на него компромат.",
+              "stringId": "2328730960470188032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Блин… Похоже, мирно договориться не получилось. Ну, главное, работа сделана как надо. Не волнуйся за Аарона. Пусть немного отдохнёт.",
+              "maleVariant": "",
+              "stringId": "2328732192823812096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Аарон доволен, и я тоже. Когда есть друзья среди копов — это всегда хорошо. Заказ закрыт, деньги я перевела.",
+              "maleVariant": "",
+              "stringId": "2328734139417075712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, теперь уже ничего не изменишь. Наш заказчик мёртв, а значит, денег мы не получим, сама понимаешь. Считай, ничего не было.",
+              "maleVariant": "Ну, теперь уже ничего не изменишь. Наш заказчик мёртв, а значит, денег мы не получим, сам понимаешь. Считай, ничего не было.",
+              "stringId": "2340192984807870464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Теперь он знает, что запись у нас, так что когда тихий час закончится… у нас появится свой собственный источник в полиции. Спасибо, заказ закрываю.",
+              "maleVariant": "",
+              "stringId": "2369388616399294464"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

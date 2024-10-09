@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаю вот себе новую химкожу замутить.",
+              "maleVariant": "",
+              "stringId": "1833083872609951744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А со старой что не так?",
+              "maleVariant": "",
+              "stringId": "1833091159290404864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ах, огонька не хватает. Подсветка простейшая, да и всё. Скукота.",
+              "maleVariant": "",
+              "stringId": "1833091293441024000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну сейчас же мода пошла. Чтоб под леопарда или под рептилию. Клиенты требуют.",
+              "maleVariant": "",
+              "stringId": "1833091456247128064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я думала, такое только «Животным» интересно.",
+              "maleVariant": "",
+              "stringId": "1833091620110196736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха, ты, видно, новенькая.",
+              "maleVariant": "",
+              "stringId": "1964786365518036992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На этом рынке, милая моя, нужно быть гибким. Во всех смыслах.",
+              "maleVariant": "",
+              "stringId": "1964786787901227008"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

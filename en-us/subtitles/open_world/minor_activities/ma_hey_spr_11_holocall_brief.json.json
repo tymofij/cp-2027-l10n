@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Attention all NCPD subcons, APB out for suspected organized crime activity on Skyline South.",
+              "maleVariant": "",
+              "stringId": "2328887377406963712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Primary target is Denzel Cryer, AKA \"The Brain.\" Cryer leads a subgroup of the so-called Animals gang, known to traffic the illegal supplement commonly called \"juice.\"",
+              "maleVariant": "",
+              "stringId": "2358378652922908672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "City's got a reward on offer for neutralizing Cryer and his entourage.",
+              "maleVariant": "",
+              "stringId": "2358378682350145536"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

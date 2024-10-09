@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "",
+              "maleVariant": "Ty, a widziałeś ostatni odcinek Ziggy'ego?",
+              "stringId": "1963249724537479168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie, miałem zmianę w drugiej robocie. Kto był?",
+              "maleVariant": "",
+              "stringId": "1967835503697121280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A, jakaś babka z policji. Tak po niej jechał, że się kurzyło normalnie, no.",
+              "maleVariant": "",
+              "stringId": "1967837636651700224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I dobrze. Jebać gliniarzy. Są gorsi, niż Maelstrom.",
+              "maleVariant": "",
+              "stringId": "1967837892370026496"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

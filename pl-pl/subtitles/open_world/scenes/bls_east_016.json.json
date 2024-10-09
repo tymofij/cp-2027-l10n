@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Strasznie się wczoraj narąbałem. Paliłem blanty do rana i zasnąłem w rurze... He, he,he... No, takiej wodociągowej... Ta, teraz mnie krzyż napierdala.",
+              "maleVariant": "",
+              "stringId": "2178222126977589248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yhm, trochę się przespałem, ale musiałem wstać rano, bo mam obowiązki... No wiesz, mam dziecko.",
+              "maleVariant": "",
+              "stringId": "2228592536150446080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A tam, to tak się mówi, że nie można chlać jak się ma dzieci, ale to nieprawda. Oczywiście, że można, tylko człowiek musi wstać rano.",
+              "maleVariant": "",
+              "stringId": "2228594071852912640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na tym właśnie polega odpowiedzialność.",
+              "maleVariant": "",
+              "stringId": "2228594876622409728"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

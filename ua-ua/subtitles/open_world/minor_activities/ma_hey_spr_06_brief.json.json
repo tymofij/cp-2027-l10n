@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, кілька корпарів із «Зетатеха» зайшли в автокрамницю. І цікаве те, що жоден із них не повернувся.",
+              "maleVariant": "",
+              "stringId": "2357655775014432768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це сімейний бізнес, у якого, як повідомляється, зараз не найкращі часи.",
+              "maleVariant": "",
+              "stringId": "2357678334598590464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Інтуїція підказує мені, що власники таки поїхали дахом. А ти ж знаєш, що в мене нюх на такі речі.",
+              "maleVariant": "",
+              "stringId": "2357679071772684288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

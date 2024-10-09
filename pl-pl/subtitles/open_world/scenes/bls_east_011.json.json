@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słyszałaś? Mają nam tu zrobić jakieś centrum rozrywki z butikami.",
+              "maleVariant": "",
+              "stringId": "2178181591294353408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wykupią teren i ogrodzą. Będziesz musiał chodzić na około żeby ominąć tę ich rozrywkę.",
+              "maleVariant": "",
+              "stringId": "2188259241702940672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Albo przejdę przez centrum i pooglądam sobie co tam mają. Nie jesteś ciekawa?",
+              "maleVariant": "",
+              "stringId": "2188270056900354048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie będę płaciła za bilet żeby oglądać rzeczy, na które mnie nie stać.",
+              "maleVariant": "",
+              "stringId": "2188270345200033792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zobaczę, kto będzie wychodził z torbami, a kto z głupią miną.",
+              "maleVariant": "",
+              "stringId": "2188275437487742976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak nic nie kupisz to skąd będziesz wiedziała, że cię nie stać?",
+              "maleVariant": "",
+              "stringId": "2188279640046133248"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всем вспомогательным группам полиции. У нас сообщение о преступной активности на Мартин-Стрит. Обнаружены члены группировки «Мальстрём».",
+              "maleVariant": "",
+              "stringId": "2328567125268488192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Среди них замечен Кайзер Херцог по кличке «Хирург». Был осуждён за работу рипером без лицензии и приговорён к смертной казни за убийство первой степени.",
+              "maleVariant": "",
+              "stringId": "2352315089095593984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Властями города назначена награда за устранение Херцога и его подельников из «Мальстрёма».",
+              "maleVariant": "",
+              "stringId": "2352320228158181376"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

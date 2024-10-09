@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Me cae que se tuvo que haber filtrado algún virus del biolaboratorio y clausuraron el lugar.\" t=\"Po mojemu, to jakiś wirus im spierniczył z probówki, no i zamknęli.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2156435943719428096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Qué virus? ¿Dónde? Si hubiera llegado a la comida de la gente, alguien ya se habría enfermado.\" t=\"Gdzie wirus, jaki wirus? By się toto rozniosło po ludziach, ktoś by zauważył.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2172061775908552704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Órale, ¿ahora eres científica o qué? ¿Realizas estudios? ¿Analizas la velocidad de transmisión, eh?\" t=\"Patrzcie go, uczony się znalazł! Badania robiłeś, że wiesz, czy się nie rozniósł?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2172062112493060096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Nomás piénsalo, el continente entero se atiborra con comida de All Foods. Si hubiera una nueva epidemia, nos habríamos enterado.\" t=\"Ty pomyśl trochę, cała Ameryka u nich żre! Jakby była nowa epidemia, to byśmy o tym usłyszeli.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2172062316000690176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Entonces, ¿por qué abandonaron la fábrica?\" t=\"No to czemu porzucili fabrykę?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2172062509240664064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Cómo voy a saberlo? Igual y construyeron otra.\" t=\"A bo ja wiem? Może zbudowali se nową?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2172062783028051968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Nel, es un virus. Apostaría lo que sea.\" t=\"E, tam. Wirus jak nic.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2172062988918046720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

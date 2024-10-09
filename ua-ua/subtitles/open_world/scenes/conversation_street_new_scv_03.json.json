@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Блядь, це найтупіший жарт, який я коли-небудь чула. А я працювала в комедійному клубі.",
+              "maleVariant": "",
+              "stringId": "2276536005954805776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та ти просто не зрозуміла його! Вона подумала, що її чоловік нарешті зрозумів, як змусити її кінчити, а в нього просто почався напад кіберпсихозу! Ха-ха-ха!",
+              "maleVariant": "",
+              "stringId": "2276536005954805788"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти якщо ще раз так пожартуєш, то в мене також почнеться напад кіберпсихозу",
+              "maleVariant": "",
+              "stringId": "2276536005971582976"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

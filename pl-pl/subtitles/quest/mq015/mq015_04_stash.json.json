@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A to co? Jakiś straszny rzęch...",
+              "maleVariant": "",
+              "stringId": "1816999226980081664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zetatech XPR... Kiedyś to był szczyt techniki.",
+              "maleVariant": "",
+              "stringId": "1817076610177605632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jest taki netrunner z Afterlife'u, Nix... Specjalizuje się w artefaktach starej sieci.",
+              "maleVariant": "",
+              "stringId": "1843072635970572288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co najmniej. Miałem ten tablet... Wtedy to był szczyt techniki...",
+              "maleVariant": "",
+              "stringId": "1843074024754958336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O cholera... Zetatech XPR! Przecież to ma z pięćdziesiąt lat...",
+              "maleVariant": "",
+              "stringId": "1843075924070027264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeśli ktoś jest w stanie odzyskać dane z tego złomu, to właśnie on.",
+              "maleVariant": "",
+              "stringId": "1843084489425997824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zabierz go do Nixa.",
+              "maleVariant": "",
+              "stringId": "1892462086408425472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[otwórz]",
+              "maleVariant": "",
+              "stringId": "2146297219442974724"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[weź]",
+              "maleVariant": "",
+              "stringId": "2148997357420584960"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

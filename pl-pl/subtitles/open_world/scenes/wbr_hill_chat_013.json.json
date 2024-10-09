@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Skurwiel od początku kłamał. Mówił mi, że nigdy wcześniej nie zdradził żony!",
+              "maleVariant": "",
+              "stringId": "2159186788284854272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale co to za różnica? Tak czy inaczej się z nią nie rozwiedzie...",
+              "maleVariant": "",
+              "stringId": "2209884301980942336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie rozumiesz! Myślałam, że złamał zasady specjalnie dla mnie!",
+              "maleVariant": "",
+              "stringId": "2209885014945513472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Że jestem dla niego kimś wyjątkowym, a nie kolejnym numerkiem z całej serii!",
+              "maleVariant": "",
+              "stringId": "2209885437899128832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ach, no tak. A wiesz chociaż którym konkretnie numerem jesteś? 5? 38?",
+              "maleVariant": "",
+              "stringId": "2209885864996716544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bo 38 to rzeczywiście byłoby słabo…",
+              "maleVariant": "",
+              "stringId": "2209886106353745920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz co? Pierdol się.",
+              "maleVariant": "",
+              "stringId": "2209887007743229952"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

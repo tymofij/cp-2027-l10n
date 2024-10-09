@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty... nie gadaj, że to kiecka z Jinguji.",
+              "maleVariant": "",
+              "stringId": "1963293454750171136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wolisz, żeby cię okłamywać?",
+              "maleVariant": "",
+              "stringId": "1963294215445921792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, nie wierzę! Dziewczyno, jak żeś to zrobiła? Sprzedałaś nerkę, czy jak?",
+              "maleVariant": "",
+              "stringId": "1963294862945796096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Możliwe.",
+              "maleVariant": "",
+              "stringId": "1963295423791349760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zajebioza, żeby nie było... ale tyle forsy...? Nie szkoda ci trochę?",
+              "maleVariant": "",
+              "stringId": "1963295761214717952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niczego nie żałuję... i nie boję się mierzyć wyżej.",
+              "maleVariant": "",
+              "stringId": "1963296350296326144"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do wszystkich jednostek wspierających działania NCPD. Podejrzenie przestępczości zorganizowanej przy Pacific Boulevard.",
+              "maleVariant": "",
+              "stringId": "2348979256648261636"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na miejscu jest Anton Kolev - kierujący grupą Kosiarzy. Kolev jest ścigany listem gończym za cztery morderstwa pierwszego stopnia.",
+              "maleVariant": "",
+              "stringId": "2352368516274163712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Za zneutralizowanie zagrożenia władze Night City wypłacą nagrodę.",
+              "maleVariant": "",
+              "stringId": "2352370305648136192"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

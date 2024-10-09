@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що ж, любонько. Я задоволена. Як-то кажуть, будемо на зв’язку. Контракт закрито.",
+              "maleVariant": "Що ж, любчику. Я задоволена. Як-то кажуть, будемо на зв’язку. Контракт закрито.",
+              "stringId": "2328779755594993668"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, ти дозволила цілі померти. Знаю, трапляються неприємності й нічого вже не змінити. Але знаєш, у чому проблема насправді?",
+              "maleVariant": "Ві, ти дозволив цілі померти. Знаю, трапляються неприємності й нічого вже не змінити. Але знаєш, у чому проблема насправді?",
+              "stringId": "2328779755628548100"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти підставила мене, Ві. Поводилася безрозсудно, як усі мої колишні чоловіки. А вони, згодом, всі померли. Бувай, Ві.",
+              "maleVariant": "Ти підставив мене, Ві. Поводився безрозсудно, як усі мої колишні чоловіки. А вони, згодом, всі померли. Бувай, Ві.",
+              "stringId": "2340929764586786816"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

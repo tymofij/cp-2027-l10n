@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szybko, wskakuj do windy.",
+              "maleVariant": "",
+              "stringId": "1199713875651371008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chodź.",
+              "maleVariant": "",
+              "stringId": "1780446051313819648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może im jeszcze drzwi przytrzymasz? Rusz się!",
+              "maleVariant": "",
+              "stringId": "1789366170710614016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szybciej, szybciej.",
+              "maleVariant": "",
+              "stringId": "1789367420999081984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wskakuj.",
+              "maleVariant": "",
+              "stringId": "1789372393531023364"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pewnie będą też w środku. Nie daj się zaskoczyć.",
+              "maleVariant": "",
+              "stringId": "2233328576890486784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Musimy stąd spadać, i to szybko.",
+              "maleVariant": "",
+              "stringId": "2233356649551708160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Panowie też na dół?",
+              "maleVariant": "",
+              "stringId": "2237419660830654464"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

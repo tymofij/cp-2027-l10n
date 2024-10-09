@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаю забахати собі нову хімшкіру.",
+              "maleVariant": "",
+              "stringId": "1833083872609951744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А зі старою шо не так?",
+              "maleVariant": "",
+              "stringId": "1833091159290404864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та вона якась неприваблива. Просто іноді світиться синім.",
+              "maleVariant": "",
+              "stringId": "1833091293441024000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зара’ клієнтам подавай леопардові плями та рептильну шкіру.",
+              "maleVariant": "",
+              "stringId": "1833091456247128064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я думала, шо таке лайно цікаве лише «Звірам».",
+              "maleVariant": "",
+              "stringId": "1833091620110196736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ти, схоже, геть новенька.",
+              "maleVariant": "",
+              "stringId": "1964786365518036992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На цьому ринку, дорогенька, треба проявляти гнучкість. У всіх значеннях.",
+              "maleVariant": "",
+              "stringId": "1964786787901227008"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

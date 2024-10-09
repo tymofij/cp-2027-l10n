@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ulica mówi, że odpuściliśmy. Że po tej akcji z NetWatchem jesteśmy skończeni...",
+              "maleVariant": "",
+              "stringId": "1895083069263654912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tę buźkę pamiętam... Wpadłaś na drugą rundę?",
+              "maleVariant": "Tę buźkę pamiętam... Wpadłeś na drugą rundę?",
+              "stringId": "1895084581176029188"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ulica?! Która ulica?!",
+              "maleVariant": "",
+              "stringId": "1895088898054369280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bez jebanego Netwatchu! Po mojemu! Tylko my dwie!",
+              "maleVariant": "Bez jebanego NetWatchu! Po mojemu! Tylko ty i ja!",
+              "stringId": "1933150926448435200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak generalnie gadają.",
+              "maleVariant": "",
+              "stringId": "1934560652860137472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To się im wyśle jakiś, kurwa, czytelny przekaz. Daj mi pomyśleć...",
+              "maleVariant": "",
+              "stringId": "1934568062500806656"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

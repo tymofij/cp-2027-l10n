@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А я тебе всегда говорю, милая: кто не рискует, тот не выигрывает.",
+              "maleVariant": "",
+              "stringId": "1806742988473884672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, я знаю. Слушай, может, завтра зайдём к моей сестре?",
+              "maleVariant": "",
+              "stringId": "1806743579317100544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот к примеру я. Вчера сыграл на понижение — сегодня фиксирую 17% прибыли!",
+              "maleVariant": "",
+              "stringId": "1806743791163006976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу. Ладно, забей. Одна схожу.",
+              "maleVariant": "",
+              "stringId": "1806744038056517632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А? Ну да, иди, конечно. Я всё равно буду занят. Кстати, вкусно?",
+              "maleVariant": "",
+              "stringId": "1806744357058502656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу.",
+              "maleVariant": "",
+              "stringId": "1806744877689069568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты чего, надулась?",
+              "maleVariant": "",
+              "stringId": "1806745086649294848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет.",
+              "maleVariant": "",
+              "stringId": "1806745318090989568"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

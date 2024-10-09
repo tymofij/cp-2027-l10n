@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нравятся эти передачи. Мужик, конечно, странные вещи рассказывает, но у него есть голова на плечах. Тем более он разбирается в людях.",
+              "maleVariant": "",
+              "stringId": "2178270466683510784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я только не понимаю: почему он думает, что ему это сойдёт с рук?",
+              "maleVariant": "",
+              "stringId": "2218662121929687040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, он живёт посреди пустыни? Или у него такие связи, что ни одна корпорация не рискнёт его тронуть?",
+              "maleVariant": "",
+              "stringId": "2218662293661270016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, у него «друзья» повсюду. И у нас, и в «Биотехнике».",
+              "maleVariant": "",
+              "stringId": "2218662477824770048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Иногда он рассказывает про какую-то крутую нетраннершу.",
+              "maleVariant": "",
+              "stringId": "2218662577112334336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чёрт, будь у меня такие связи, я бы не тратила силы на какое-то нишевое радио.",
+              "maleVariant": "",
+              "stringId": "2218662653633216512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что бы ты делала?",
+              "maleVariant": "",
+              "stringId": "2218662725607473152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не знаю. Что-нибудь. Да что угодно.",
+              "maleVariant": "",
+              "stringId": "2218662774194290688"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

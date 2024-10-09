@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всю ночь без остановок ехали…",
+              "maleVariant": "",
+              "stringId": "1976299695402405888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спина не разгибается, ноги гудят, башка трещит.",
+              "maleVariant": "",
+              "stringId": "1976299717934206976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И ещё массаж сделать. С маслом пассифлоры.",
+              "maleVariant": "",
+              "stringId": "1976299741288091648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ты что, у нас реально такое есть в лагере?!",
+              "maleVariant": "",
+              "stringId": "1976299768416849920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Э-э… нет. Но ты можешь покурить и лечь спать.",
+              "maleVariant": "",
+              "stringId": "1976299792055947264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я так и собирался.",
+              "maleVariant": "",
+              "stringId": "1976299819973234688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А вместо этого стою тут и зачем-то слушаю тебя.",
+              "maleVariant": "",
+              "stringId": "1976299843041906688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ванна с солью обычно помогает. Полежать, откиснуть.",
+              "maleVariant": "",
+              "stringId": "1976300559714242560"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

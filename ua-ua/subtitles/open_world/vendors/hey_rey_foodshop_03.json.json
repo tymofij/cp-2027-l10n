@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу з’їсти щось.",
+              "maleVariant": "",
+              "stringId": "1857532471949017088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що це за дивний запах?",
+              "maleVariant": "",
+              "stringId": "1857532471949017104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чогось би з’їсти.",
+              "maleVariant": "",
+              "stringId": "1857532471982571524"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гм. Наприклад?",
+              "maleVariant": "",
+              "stringId": "1857532471982571532"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Е, що це за дивний запах?",
+              "maleVariant": "",
+              "stringId": "1857532472016125956"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Щуряча отрута. Довелось розкласти її по всіх кухні, бо… Ем, не має значення.",
+              "maleVariant": "",
+              "stringId": "1857532472016125964"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

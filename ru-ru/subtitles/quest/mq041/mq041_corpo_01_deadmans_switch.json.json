@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй, Ви. Это Фрэнк из «Арасаки». Помнишь меня?",
+              "maleVariant": "",
+              "stringId": "1822800113761656832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О-о, конечно, помню! Привет, старик! Сто лет с тобой не…",
+              "maleVariant": "Эй, конечно, помню! Привет, старик! Сто лет с тобой не виделись…",
+              "stringId": "1822802647440039936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дослушай меня до конца, пожалуйста.",
+              "maleVariant": "",
+              "stringId": "1822803091549724672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Абернати устраивает чистку. Кто недостаточно лоялен — всех за борт.",
+              "maleVariant": "",
+              "stringId": "1822803529535725568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я в списке. Причин не знаю. У них как обычно: пленных не брать, бить наверняка.",
+              "maleVariant": "",
+              "stringId": "1822803896772206592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сидеть сложа руки я не буду. Сейчас я собираю на неё компромат. Пущу ей жизнь под откос.",
+              "maleVariant": "",
+              "stringId": "1822804051693019136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты разберёшься, что с ними делать.",
+              "maleVariant": "",
+              "stringId": "1822804282128080896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Все документы лежат в тайнике. Если я не успею ими воспользоваться, ты получишь это сообщение и координаты.",
+              "maleVariant": "",
+              "stringId": "1874799152169537536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Твою ж мать…",
+              "maleVariant": "",
+              "stringId": "1874801294016040960"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

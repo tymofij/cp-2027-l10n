@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха, а я смотрю, Уайатт неплохо поднялся…",
+              "maleVariant": "",
+              "stringId": "1318377528401293312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это уж точно. Причём по закону всё, гараж оформлен по всем правилам.",
+              "maleVariant": "",
+              "stringId": "1318383482752692224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ну? Умный он мужик, уж чё не отнять…",
+              "maleVariant": "",
+              "stringId": "1624225864327065600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Охренеть у тебя тачка, чумба!",
+              "maleVariant": "",
+              "stringId": "1760773975902023680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, стоило рисковать.",
+              "maleVariant": "",
+              "stringId": "1760778456844759040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Покупателя нашёл?",
+              "maleVariant": "",
+              "stringId": "1760778658825662464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не, себе оставлю. Только вот перекрашу и колёса сменю.",
+              "maleVariant": "",
+              "stringId": "1760778842250964992"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

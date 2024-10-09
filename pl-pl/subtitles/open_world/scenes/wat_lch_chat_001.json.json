@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przepraszam, gdzie tu można zjeść coś dobrego?",
+              "maleVariant": "",
+              "stringId": "1802364343957446656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W dupie.",
+              "maleVariant": "",
+              "stringId": "1802374897027637248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słucham?",
+              "maleVariant": "",
+              "stringId": "1802375562059702272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gościu, daj nam spokój.",
+              "maleVariant": "",
+              "stringId": "1802375889282523136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pieprzeni turyści. “Gdzie mogę zjeść? Gdzie pójść?”.",
+              "maleVariant": "",
+              "stringId": "1802376218719936512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wielcy, kurwa, poszukiwacze “orientalnych” smaków.",
+              "maleVariant": "",
+              "stringId": "1802376652545187840"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Только что кто-то из «когтей» звал на помощь. Говорил, на него напал акки.",
+              "maleVariant": "",
+              "stringId": "2357683923642888192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если что, «когти» так называют тех, кто охотится на своих же. Конкретно этот парень убивает тихо, но зрелищно.",
+              "maleVariant": "",
+              "stringId": "2357691500569178112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я думаю, что у этого акки приступ киберпсихоза… но у меня нет доказательств.",
+              "maleVariant": "",
+              "stringId": "2357691866010497024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если получится, возьми его живым. И не забывай об осторожности.",
+              "maleVariant": "",
+              "stringId": "2357692621035548672"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

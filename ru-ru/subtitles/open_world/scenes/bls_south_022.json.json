@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да они охренели с такими ценами. Ещё немного, и CHOOH2 будет дороже нефти.",
+              "maleVariant": "",
+              "stringId": "2178299332183711744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, «Биотехника» подняла цену на лицензию?",
+              "maleVariant": "",
+              "stringId": "2182510920708374528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ненасытные корпораты. Что они хотят, чтоб мы все на велосипеды пересели?",
+              "maleVariant": "",
+              "stringId": "2182511172232396800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отличный план. Деньги рекой потекут.",
+              "maleVariant": "",
+              "stringId": "2182511302692028416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подожди, я знаю. Это из-за урожая пшеницы. Он в этом году плохой.",
+              "maleVariant": "",
+              "stringId": "2182511531919130624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что общего у пшеницы с топливом?",
+              "maleVariant": "",
+              "stringId": "2182511856205938688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты шутишь, что ли? Из чего, по-твоему, делают CHOOH2?",
+              "maleVariant": "",
+              "stringId": "2182511971633184768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Моё-то какое дело? Нахрена мне знать, что я там в тачку заливаю? Главное, чтобы ездила.",
+              "maleVariant": "",
+              "stringId": "2182512206514208768"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

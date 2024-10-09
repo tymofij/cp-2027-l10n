@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отлично. Парень получил свою машину, а значит, ты получишь свои деньги.",
+              "maleVariant": "",
+              "stringId": "2328773298531094528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви, я на тебя понадеялся, а ты меня подвела.",
+              "maleVariant": "Ви, я на тебя понадеялся, а ты меня подвёл.",
+              "stringId": "2328773312087085060"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добрые дела всегда дают плоды. Работа выполнена безупречно. До скорого.",
+              "maleVariant": "",
+              "stringId": "2334381805605208064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы оба должны извлечь из этого урок. Ступай с Богом.",
+              "maleVariant": "",
+              "stringId": "2338938500978937856"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pamiętam, jak tam w dole roiło się od samochodów. Huk silników przez całą dobę.",
+              "maleVariant": "",
+              "stringId": "2179643510736150528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A teraz patrz. Pustka i cisza.",
+              "maleVariant": "",
+              "stringId": "2211507386043265024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzieciaki siedziały na tym moście i szprycowały się spalinami, tak było od nich gęsto.",
+              "maleVariant": "",
+              "stringId": "2212633214378504192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podobno tak właśnie skończy się świat. Po cichu.",
+              "maleVariant": "",
+              "stringId": "2212635488848900096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "On się już skończył dawno temu. Po prostu to przegapiliśmy.",
+              "maleVariant": "",
+              "stringId": "2212640937300127744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

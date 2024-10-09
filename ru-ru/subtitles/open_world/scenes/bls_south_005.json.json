@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я же говорила заменить масло. Говорила, что стучит, как консервная банка.",
+              "maleVariant": "",
+              "stringId": "1973555515895095296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаю, знаю. Сколько будет стоить ремонт?",
+              "maleVariant": "",
+              "stringId": "1979006129199697920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Теперь-то? Да до хрена! Коробку передач полностью менять придётся.",
+              "maleVariant": "",
+              "stringId": "1979006661104553984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ты ж долбанись…",
+              "maleVariant": "",
+              "stringId": "1979007237821353984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну а чё хотел-то? Не думаешь о тачке — готовься думать о кошельке.",
+              "maleVariant": "",
+              "stringId": "1979009381295247360"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

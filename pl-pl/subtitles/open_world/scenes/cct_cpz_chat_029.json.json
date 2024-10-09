@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty bierz starszego.",
+              "maleVariant": "",
+              "stringId": "2172097639878352896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sama go bierz, to był twój pomysł, żeby mieć naturalne dziecko. No to patrz, masz to, co chciałaś, opóźnionego, naturalnego syna.",
+              "maleVariant": "",
+              "stringId": "2207215055103430656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie jest opóźniony, po prostu nie jest twoim ideałem z laboratorium.",
+              "maleVariant": "",
+              "stringId": "2207238080808980480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bo nie chciałaś, żeby był. A teraz co? Zero szans na pracę w korpo, zero na dobrą edukację. Ja się z nim nie będę męczył.",
+              "maleVariant": "",
+              "stringId": "2207238270307635200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha. A ja to co? Mam ci oddać i apartament, i młodszego?! Ok, czyli rozwód to dla ciebie jakaś kolejna rozgrywka, tak?",
+              "maleVariant": "",
+              "stringId": "2207240677368369152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A dla ciebie, nie? Pfff... proszę cię. Z mieszkania mogę zrezygnować, ale opiekę rodzicielską nad młodszym przejmuję ja.",
+              "maleVariant": "",
+              "stringId": "2207242121031028736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobrze... ale będziesz płacił mi dodatkowo - oprócz oficjalnych alimentów - pod stołem.",
+              "maleVariant": "",
+              "stringId": "2207242622736896000"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

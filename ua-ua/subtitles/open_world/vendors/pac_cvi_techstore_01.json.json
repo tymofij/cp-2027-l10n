@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що ти продаєш?",
+              "maleVariant": "",
+              "stringId": "1715598496904040452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу придбати щось.",
+              "maleVariant": "",
+              "stringId": "1715598744804184064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чим ти торгуєш?",
+              "maleVariant": "",
+              "stringId": "1715599999320510464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що сьогодні в меню?",
+              "maleVariant": "",
+              "stringId": "1715616633292640256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тяжкі часи. Треба заробляти єдики скільки можливо. Торгую всім підряд.",
+              "maleVariant": "",
+              "stringId": "1715627135091658752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та нічим конкретним. Всім що потрапить під руку.",
+              "maleVariant": "",
+              "stringId": "1715641366985887744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дивись, миленька. Ти не розчаруєшся.",
+              "maleVariant": "Дивись, миленький. Ти не розчаруєшся.",
+              "stringId": "1715642130751868928"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

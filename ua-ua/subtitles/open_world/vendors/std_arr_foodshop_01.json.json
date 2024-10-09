@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Покажи що у вас в меню.",
+              "maleVariant": "",
+              "stringId": "1783748166422384640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це тут \"Самурай\" грали свій перший концерт?",
+              "maleVariant": "",
+              "stringId": "1783748166439161860"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу подивитися меню.",
+              "maleVariant": "",
+              "stringId": "1783748166439161884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Їїіііххаааа! Вже несу, партнерко!",
+              "maleVariant": "Їїіііххаааа! Вже несу, партнере!",
+              "stringId": "1783748166439161892"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хвилинку, це ж тут \"Самурай\" влаштовували свій перший концерт?",
+              "maleVariant": "",
+              "stringId": "1783748166472716292"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ах, що то була за ніч. Досі легенди ходять. Музика грала так гучно, що довелось всі вікна замінити. А ще з’явилась нова заборона обслуговувати оголених клієнтів.",
+              "maleVariant": "",
+              "stringId": "1783748166472716300"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Для фанатів \"Самурая\" є особлива страва. Реберця а ля Сільвергенд. Звичайно, дорого, але смачно аж пальці облизуватимеш.",
+              "maleVariant": "",
+              "stringId": "1976545601390956544"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

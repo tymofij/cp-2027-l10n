@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Доверься мне, милый.",
+              "maleVariant": "",
+              "stringId": "1802421228953788416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можно мне, э-э…",
+              "maleVariant": "",
+              "stringId": "1802421756060360704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чего спрашивать, если ты уже?",
+              "maleVariant": "",
+              "stringId": "1802421917205520384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я, э-э… Дай скажу на ушко.",
+              "maleVariant": "",
+              "stringId": "1802422146399068160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "М-м-м… Да-а… И это тоже… Нет, милый, такого я не делаю… Нет, дело не в деньгах…",
+              "maleVariant": "",
+              "stringId": "1802422519037812736"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

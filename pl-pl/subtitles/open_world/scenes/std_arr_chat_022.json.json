@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale ja nie chcę tam iść. Straszny tam smród, poza tym ci twoi koledzy są okropni.",
+              "maleVariant": "",
+              "stringId": "2167965985946390528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pójdziemy tylko na chwilkę.",
+              "maleVariant": "",
+              "stringId": "2214510439408439296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ta, na chwilkę. Na pewno.",
+              "maleVariant": "",
+              "stringId": "2221773874861019136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tatuś musi, ok? Bo jak tatuś nie pójdzie, to będzie się bardzo źle czuł.",
+              "maleVariant": "",
+              "stringId": "2221774012081868800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tato, nie mam pięciu lat, ok? Chcesz iść chlać, to beze mnie.",
+              "maleVariant": "",
+              "stringId": "2221774519642984448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

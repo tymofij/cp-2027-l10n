@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что думаете? Берём?",
+              "maleVariant": "",
+              "stringId": "1973566015613739008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я считаю, надо обсудить. Лично я проблемы не вижу. Деньги есть деньги.",
+              "maleVariant": "",
+              "stringId": "1974940029184360448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я слышал, они здесь надолго. Хотят наладить какую-то систему гидропоники.",
+              "maleVariant": "",
+              "stringId": "1974940111912812544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну и чего мы тут стоим, время теряем? Соглашаться надо!",
+              "maleVariant": "",
+              "stringId": "1974940146742312960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сам иди в жопу. Ты на переговорах не был, вот и придержи своё ценное мнение.",
+              "maleVariant": "",
+              "stringId": "1974940175582347264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А сколько дают? Если мало, пусть идут в жопу. Никогда не любил «Биотехнику».",
+              "maleVariant": "",
+              "stringId": "1974940203432525824"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

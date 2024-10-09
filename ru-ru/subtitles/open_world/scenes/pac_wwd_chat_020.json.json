@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты где вчера была?",
+              "maleVariant": "",
+              "stringId": "2179608373071831040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пошла в ГИМ посмотреть, может, осталось чего-нибудь.",
+              "maleVariant": "",
+              "stringId": "2211183046184099840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну и как?",
+              "maleVariant": "",
+              "stringId": "2217180710868574208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да никак. Это ж Пасифика. Тут уже давно всё украли.",
+              "maleVariant": "",
+              "stringId": "2217180794452664320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да… Надо переселиться поближе к корпоратам. Они вечно всё выбрасывают.",
+              "maleVariant": "",
+              "stringId": "2217181315133562880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Переселяйся. Я никуда отсюда не пойду.",
+              "maleVariant": "",
+              "stringId": "2217181704012652544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что так?",
+              "maleVariant": "",
+              "stringId": "2217182019894075392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это мой дом.",
+              "maleVariant": "",
+              "stringId": "2217182082221432832"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

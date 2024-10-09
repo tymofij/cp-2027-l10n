@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, в «Посмертие» попробую. Всё лучше, чем здесь.",
+              "maleVariant": "",
+              "stringId": "2159445825242505216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слушай, ну не знаю. Я когда-то там охранником работал. Таких, как ты, там сотни.",
+              "maleVariant": "",
+              "stringId": "2199481560359694336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У каждого глаза горят… Все хотят стать крутыми и богатыми.",
+              "maleVariant": "",
+              "stringId": "2199483687660351488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Они входили, как боги какие-то. А знаешь, как выходили?",
+              "maleVariant": "",
+              "stringId": "2199485195378421760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как?",
+              "maleVariant": "",
+              "stringId": "2199487287312707584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В лучшем случае с унылым хлебалом. А в худшем — в большом мешке.",
+              "maleVariant": "",
+              "stringId": "2199487342811738112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты думаешь: вот познакомлюсь с фиксером, а дальше всё само пойдёт. А я таких много повидал, и поверь — ты сильно ошибаешься.",
+              "maleVariant": "",
+              "stringId": "2199487833780187136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лучше не рыпайся. Ты ж хочешь дожить до следующего «Бусидо»?",
+              "maleVariant": "",
+              "stringId": "2199489087625424896"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

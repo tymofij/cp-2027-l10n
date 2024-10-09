@@ -1,0 +1,103 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Надо его спрятать. Трупами лучше не раскидываться, согласна?",
+              "maleVariant": "Надо его спрятать. Трупами лучше не раскидываться, согласен?",
+              "stringId": "1641760379296006144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"Если его найдут, \" a=\", слетятся, как мухи на говно. А нам этого не надо.\"/>",
+              "maleVariant": "<mothertongue l=\"mex\" m=\"ese\" b=\"Если его найдут, \" a=\", слетятся, как мухи на говно. А нам этого не надо.\"/>",
+              "stringId": "1641792319424282624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Красава. Сам бы лучше не сделал.",
+              "maleVariant": "",
+              "stringId": "1641795696661086208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Внимание. Новые тела на подходе. Они уже близко.",
+              "maleVariant": "",
+              "stringId": "1641800385809072128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мясники ебучие.",
+              "maleVariant": "",
+              "stringId": "1641801968554852352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй, тащи тело сюда. Лучше не палиться раньше времени. Пусть будет им сюрприз.",
+              "maleVariant": "",
+              "stringId": "1641802083965321216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"pendejos\" b=\"Ви, не спать, тут ещё \" a=\".\"/>",
+              "maleVariant": "",
+              "stringId": "1648758626992504832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Oye\" b=\"\" a=\", Ви. К нам идут.\"/>",
+              "maleVariant": "",
+              "stringId": "1648766252371394560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Выжди момент и убери их.",
+              "maleVariant": "",
+              "stringId": "1648769660226617344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Убери этого. Только тихо.",
+              "maleVariant": "",
+              "stringId": "1650195529809772544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй, возьми того, который ближе.",
+              "maleVariant": "",
+              "stringId": "1650196747298783232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Убери его по-тихому.",
+              "maleVariant": "",
+              "stringId": "1945890678242439168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Открыть.]",
+              "maleVariant": "",
+              "stringId": "2308278107970506756"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

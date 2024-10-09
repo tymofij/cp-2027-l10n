@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, ти реально могла зробити все тишком-нишком. Але ні, тепер пів міста знає про цей безлад.",
+              "maleVariant": "Ві, ти реально міг зробити все тишком-нишком. Але ні, тепер пів міста знає про цей безлад.",
+              "stringId": "2328832749569601536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ідеально тишком-нишком виконати таке завдання? Ти прямо вражаєш. Дякую, контракт закритий.",
+              "maleVariant": "",
+              "stringId": "2328832957506416640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я думала, ми з тобою нормально порозумілися. Окей. Контракт закритий.",
+              "maleVariant": "",
+              "stringId": "2331697846301331456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, я все чітко тобі пояснила. Твоя основна задача була забрати скіпку!",
+              "maleVariant": "",
+              "stringId": "2362267863501606912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Люди, до яких я тебе відправила, — професіонали. Думаєш, вони тепер чекатимуть тебе назад? Ні, їх більше нема.",
+              "maleVariant": "",
+              "stringId": "2362321136162017280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, ти все проїбала. Абсолютно. І сподіваюся, що більше такого не станеться. Бувай.",
+              "maleVariant": "",
+              "stringId": "2362321158291165184"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

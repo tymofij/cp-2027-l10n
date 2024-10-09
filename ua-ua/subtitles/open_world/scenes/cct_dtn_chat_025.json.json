@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Немає нічого кращого за шмаляння по мішенях. Одразу ж відчуваєш у собі… Силу, розумієш?",
+              "maleVariant": "",
+              "stringId": "2172225876458713088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гм, ну так. Напевно… Не знаю. Я щось такого не відчуваю.",
+              "maleVariant": "",
+              "stringId": "2178193727191498752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, типу, мені теж подобається, справді. Але немає такого, щоб аж «ух».",
+              "maleVariant": "",
+              "stringId": "2178193909173960704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А-а-а, ну є таке, так. Тобі потрібні справжні відчуття, а не ця вся фігня з мішенями.",
+              "maleVariant": "",
+              "stringId": "2178194167962517504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Значить, знаю одного чувака, який влаштовує вилазки в ПІЗ. Полювання на безхатьків.",
+              "maleVariant": "",
+              "stringId": "2178194513690607616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я скажу йому за тебе. Там тобі гарантовано буде і «ух», і «ах».",
+              "maleVariant": "",
+              "stringId": "2178194696243494912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гм-м-м… А з поліцією як?",
+              "maleVariant": "",
+              "stringId": "2178194845762043904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я тебе прошу. У них є важливіші проблеми, ніж носитися з бомжацькими трупами.",
+              "maleVariant": "",
+              "stringId": "2178195058346147840"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

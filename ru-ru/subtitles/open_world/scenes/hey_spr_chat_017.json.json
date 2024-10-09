@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я просто не понимаю. Зачем прыгать под поезд? Не легче себе башку прострелить?",
+              "maleVariant": "",
+              "stringId": "2162102246139736064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну правда, я на этой неделе из-за них три раза на работу опоздал. Они скоро меня самого в гроб вгонят.",
+              "maleVariant": "",
+              "stringId": "2213002326738046976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И ведь не боятся же. Это больно, наверное, да и непонятно, помрёшь ты или нет. А пуля что? Раз — и свет погас.",
+              "maleVariant": "",
+              "stringId": "2218479991645376512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот именно. Вместо того чтобы сидеть дома и не мешать никому, они всю линию метро блокируют.",
+              "maleVariant": "",
+              "stringId": "2218490505473658880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ох… Просто не понимаю.",
+              "maleVariant": "",
+              "stringId": "2218491848154255360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А я вот понимаю. Эгоисты ёбаные!",
+              "maleVariant": "",
+              "stringId": "2218492120062595072"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

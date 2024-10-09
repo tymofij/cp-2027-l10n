@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Piękna akcja. Nie wiem jak dla Pedra, ale dla mnie już jesteś bohaterką.",
+              "maleVariant": "Piękna akcja. Nie wiem jak dla Pedra, ale dla mnie już jesteś bohaterem.",
+              "stringId": "2328798711231827972"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystko poszło w pizdu! Spalona robota, spalony kontakt i spalona kasa! Samochód jakby też, nie?! Nara!",
+              "maleVariant": "",
+              "stringId": "2328798711265382404"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He, he, he... lubisz ryzyko, co? Ta akcja z tym czekaniem na żołnierzy korporacyjnych?! Wariatka! Podobało mi się to!",
+              "maleVariant": "He, he, he... lubisz ryzyko, co? Ta akcja z tym czekaniem na żołnierzy korporacyjnych?! Nie no, wariat! Podobało mi się to!",
+              "stringId": "2328804771380350980"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak sie tak gra, to się kasa zgadza, nie? Szacunek. Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2341962679290531840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, do brzegu. Pedro jest zadowolony, ja jestem zadowolony, ty dostajesz kasę. Kontrakt zamknięty.",
+              "maleVariant": "",
+              "stringId": "2342004181542735872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

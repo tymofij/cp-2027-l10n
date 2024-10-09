@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jesteś pewien, że ten koleś był od Valentinosów?",
+              "maleVariant": "",
+              "stringId": "1492482923293011968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Miał złotą rękę, litr żelu we włosach i krzyż wytatuowany na czole.",
+              "maleVariant": "",
+              "stringId": "1863447679068303360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha. No to raczej tak. Cholera... Nie myślałem, że Matheus się z nimi zadaje...",
+              "maleVariant": "",
+              "stringId": "1863448290648158208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Prawda? Taki przyzwoity gość.",
+              "maleVariant": "",
+              "stringId": "1863453697055682560"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

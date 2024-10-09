@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От себя никто не убежит. Ни мужчина, ни женщина, ни ребёнок.",
+              "maleVariant": "",
+              "stringId": "2159345535122120704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можно превратить своё тело в металл. Можно притвориться, что вас не тревожат заботы плоти.",
+              "maleVariant": "",
+              "stringId": "2196916705295527936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но никакой хром не заменит вам душу!",
+              "maleVariant": "",
+              "stringId": "2196917335061884928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Металл заржавеет. Плоть сгниёт. Но душа всё так же будет жалобно кричать: «Кайтесь! Трепещите!»",
+              "maleVariant": "",
+              "stringId": "2196917606970224640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Истинно говорю вам: этот город разрушен ржавчиной и гнилью.",
+              "maleVariant": "",
+              "stringId": "2196918519952764928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А потому кайтесь! Трепещите!",
+              "maleVariant": "",
+              "stringId": "2196920029096898560"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

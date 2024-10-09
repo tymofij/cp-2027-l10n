@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Proszę ją podpiąć.",
+              "maleVariant": "Proszę go podpiąć.",
+              "stringId": "1651833571497889792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Łącze osobiste jest uszkodzone.",
+              "maleVariant": "",
+              "stringId": "1651835426001014784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Proszę wbić się poniżej ucha, niezbyt głęboko.",
+              "maleVariant": "",
+              "stringId": "1651835543290531840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeśli niechcący rozerwę żyłę, umrze.",
+              "maleVariant": "",
+              "stringId": "1651976446402940928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Umrze, jeśli pan jej nie pomoże.",
+              "maleVariant": "Umrze, jeśli pan mu nie pomoże.",
+              "stringId": "1651977667314503680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chyba mam styki.",
+              "maleVariant": "",
+              "stringId": "1651994664748240896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Proszę podłączyć przewód, nad głową.",
+              "maleVariant": "",
+              "stringId": "1651996370387128320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I?",
+              "maleVariant": "",
+              "stringId": "1652000628125782016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Teraz ja się nią zajmę.",
+              "maleVariant": "Teraz ja się nim zajmę.",
+              "stringId": "1652001223616286720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Między węzłami chłonnymi, pod mięśniem  mostkowym powinny być styki neurozłącza.",
+              "maleVariant": "",
+              "stringId": "1764721937822015488"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

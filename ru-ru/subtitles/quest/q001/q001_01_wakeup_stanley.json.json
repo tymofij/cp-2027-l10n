@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В Санто-Доминго прошла горячая перестрелка между бандой Шестой улицы и нашей бесстрашной полицией. И у каждой стороны, конечно, свой ответ на вопрос «Кто выстрелил первым?».",
+              "maleVariant": "",
+              "stringId": "1599388075838627840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "К другим новостям. Ханако Арасака прибыла сегодня утром в Найт-Сити на своём авиалайнере. Что же ищет в нашем городе дочь корпоративного магната? Приходится только гадать.",
+              "maleVariant": "",
+              "stringId": "1599388075855405056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А теперь подарок специально для преступных элементов в «Атлантиде». Встречайте, Джонни Сильверхенд и его нестареющий хит «Chippin' In».",
+              "maleVariant": "",
+              "stringId": "1599388075855405072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет, Найт-Сити! У микрофона Стен, и мы пережили ещё одну огненную ночь!",
+              "maleVariant": "",
+              "stringId": "1741447545447673856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Полиция Найт-Сити заблокировала Уотсон. Местным говорят, что это учения, но я бы не верил им на слово.",
+              "maleVariant": "",
+              "stringId": "1780759276095991808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если вы сейчас в Уотсоне и видите полицейских за работой — набирайте нам. Правда всегда на расстоянии одного телефонного звонка.",
+              "maleVariant": "",
+              "stringId": "1780763401328193536"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

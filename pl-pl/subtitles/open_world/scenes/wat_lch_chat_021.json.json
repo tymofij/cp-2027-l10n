@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chodzi o to, żeby pracować mądrze, a nie ciężko. Jeśli możesz sobie ułatwić życie, zrób to.",
+              "maleVariant": "",
+              "stringId": "2156507374513582080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dla zleceniodawcy to nie ma znaczenia. Liczy się efekt końcowy.",
+              "maleVariant": "",
+              "stringId": "2176366912042942464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystko pięknie, ale to nie on będzie potem dostawał spam od jakiegoś napalonego frajera.",
+              "maleVariant": "",
+              "stringId": "2176367127395287040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na wszystko jest sposób. Czasem wystarczy grzecznie powiedzieć, że już nie jesteś zainteresowana.",
+              "maleVariant": "",
+              "stringId": "2176367432874835968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A czasem przystawić typowi do skroni M-76e.",
+              "maleVariant": "",
+              "stringId": "2176367623749222400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To chyba nie w moim stylu. Źle bym się czuła, gdybym uwiodła kogoś tylko po to, żeby dokończyć robotę.",
+              "maleVariant": "",
+              "stringId": "2176367987194052608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wolę starą, dobrą strzelaninę. Wiesz, tak po żołniersku.",
+              "maleVariant": "",
+              "stringId": "2176369225738469376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szanuję to.",
+              "maleVariant": "",
+              "stringId": "2176369569067417600"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

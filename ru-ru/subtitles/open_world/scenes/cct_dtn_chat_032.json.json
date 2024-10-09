@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чумба, соберись! Мы должны взорвать зал! Другого шанса не будет!",
+              "maleVariant": "",
+              "stringId": "2172281829514260480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Взорвём, взорвём. Станем знаменитыми.",
+              "maleVariant": "",
+              "stringId": "2180821017675153408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не станем, если ты опять наблюёшь на сцене.",
+              "maleVariant": "",
+              "stringId": "2180821237825781760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хорошо, мамочка. Я больше не буду.",
+              "maleVariant": "",
+              "stringId": "2180821358336524288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можешь послушать хоть раз? Я серьёзно.",
+              "maleVariant": "",
+              "stringId": "2180821847677583360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что ты всё время до меня доёбываешься? Марк тоже иногда творит хуйню.",
+              "maleVariant": "",
+              "stringId": "2180821958289768448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Когда он перейдёт на вокал и начнёт блевать в первом же куплете, я до него тоже доебусь.",
+              "maleVariant": "",
+              "stringId": "2180822253837205504"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

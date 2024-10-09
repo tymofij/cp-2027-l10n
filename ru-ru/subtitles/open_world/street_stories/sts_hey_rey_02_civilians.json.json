@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй, слышь, хозяин! Повтори мне!",
+              "maleVariant": "",
+              "stringId": "1344510445038415872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На сидячей работе только геморрой отращивать.",
+              "maleVariant": "",
+              "stringId": "1344510652807458816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"bra\" m=\"tio\" b=\"Ну, \" a=\" Карлос хочет увидеть тебя голенькую!\"/>",
+              "maleVariant": "",
+              "stringId": "1344510686630326272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну у вас тут и помойка! Всё разваливается к херам!",
+              "maleVariant": "",
+              "stringId": "1562041857092956160"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

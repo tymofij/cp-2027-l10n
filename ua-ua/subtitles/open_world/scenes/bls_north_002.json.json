@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ніхто не наважується йти на північ! Навіть «Примари»!",
+              "maleVariant": "",
+              "stringId": "1973560822578847744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ой, ну шо ти оце!.. Я ж просто пожартував!",
+              "maleVariant": "",
+              "stringId": "1974865321030041600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шо за?!. Ану відстань від нього! Ти шо, хочеш, шоби він заслаб від тих випарів, чи шо?",
+              "maleVariant": "",
+              "stringId": "1974865407449481216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та ти шо? Бʼюся об заклад, шо на нафтові поля ти навіть не ступиш. Туда ходять ті’ки сміливі кочівники.",
+              "maleVariant": "",
+              "stringId": "1974865423169732608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нє, не правда! Нічо’ я не буюся!",
+              "maleVariant": "",
+              "stringId": "1974865437010935808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шо, сциш, та? Я ж бачу, шо на сраку сів.",
+              "maleVariant": "",
+              "stringId": "1974865448654323712"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

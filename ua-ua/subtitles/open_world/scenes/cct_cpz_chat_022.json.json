@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаєш, вона сама так грає? Без чипів?",
+              "maleVariant": "",
+              "stringId": "2192500353517588480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, а яка різниця? Звучить непогано, і це головне.",
+              "maleVariant": "",
+              "stringId": "2192500616466894848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Яка різниця?! Та велика! Одна справа, якщо вона сама всьому навчилася, геть інша, якщо їй зробили операцію та завантажили цю навичку за п’ятнадцять хвилин.",
+              "maleVariant": "",
+              "stringId": "2192529340671299584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей, зумере.",
+              "maleVariant": "",
+              "stringId": "2192529383956516864"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

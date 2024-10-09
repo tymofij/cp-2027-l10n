@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gdzie sobie robiłaś cycki?",
+              "maleVariant": "",
+              "stringId": "2179601603733610496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jest taki doktorek w Japantown. Robi wszczepy za uśmiech.",
+              "maleVariant": "",
+              "stringId": "2211176826685579264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie pierdol. Nie ma darmowych obiadów i nikt nic nie robi za uśmiech.",
+              "maleVariant": "",
+              "stringId": "2217158932750360576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ty myślałaś, że naprawdę mam na myśli uśmiech?",
+              "maleVariant": "",
+              "stringId": "2217159468463644672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No to stary nie będzie zadowolony...",
+              "maleVariant": "",
+              "stringId": "2217159837461733376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jakby teraz był.",
+              "maleVariant": "",
+              "stringId": "2217160068232339456"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

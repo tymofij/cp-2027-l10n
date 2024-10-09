@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Море кровищи. Явно не профи.",
+              "maleVariant": "",
+              "stringId": "1789372348653252608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Один, без охраны. Видно, пришёл на встречу, и договора не вышло.",
+              "maleVariant": "",
+              "stringId": "1789372363937296384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Посмотрим, что тут у нас…",
+              "maleVariant": "Посмотрим, что у нас тут…",
+              "stringId": "1789378210981621764"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тебе уже не пригодится…",
+              "maleVariant": "",
+              "stringId": "1789405210169454592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тело ещё тёплое.",
+              "maleVariant": "",
+              "stringId": "1790776711892316160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ещё не окоченел… Лежит не больше двух часов.",
+              "maleVariant": "",
+              "stringId": "1855953953139863552"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

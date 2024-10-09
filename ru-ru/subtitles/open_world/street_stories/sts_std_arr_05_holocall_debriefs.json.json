@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тед передаёт тебе спасибо. Представляю, как охуеют эти уроды из «Кэндати», когда он за них как следует возьмётся.",
+              "maleVariant": "",
+              "stringId": "2328641020468621312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дело сделано. Тед получил свой компромат на «Кэндати», но за такую работу я могу поставить только тройку с минусом.",
+              "maleVariant": "",
+              "stringId": "2328645256279453700"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну-ка, просвети меня… Как ты прилепишь жучок под машину, которую только что разнесла на куски?",
+              "maleVariant": "Ну-ка, просвети меня… Как ты прилепишь жучок под машину, которую только что разнёс на куски?",
+              "stringId": "2328647440840749060"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Контракт закрываю, хотя честно скажу, я недоволен.",
+              "maleVariant": "",
+              "stringId": "2334643841073397760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот честно, все бы работали, как ты! Заказ закрыл, деньги скоро тебе придут.",
+              "maleVariant": "",
+              "stringId": "2334644712213561344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот именно, что никак! Какого хрена ты устроила, Ви? У меня просто в голове не укладывается, как можно было проебать такой заказ!",
+              "maleVariant": "Вот именно, что никак! Какого хера ты устроил, Ви? У меня просто в голове не укладывается, как можно было проебать такой заказ!",
+              "stringId": "2341708162330365952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Извини, мне надо… успокоиться. Пока.",
+              "maleVariant": "",
+              "stringId": "2341712488318734336"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

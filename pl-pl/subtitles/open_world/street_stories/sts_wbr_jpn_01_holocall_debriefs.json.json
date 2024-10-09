@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie zadajesz zbędnych pytań. Nie kombinujesz i robisz to, co do ciebie należy.",
+              "maleVariant": "",
+              "stringId": "2333111386495176708"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, kto to widział? Dałaś się przekupić wrednemu korposowi z bagażnika? Ciągle mnie zaskakujesz.",
+              "maleVariant": "",
+              "stringId": "2333111428991864836"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kochanie, zawiodłaś mnie. No i po co ci to?",
+              "maleVariant": "Kochanie, zawiodłeś mnie. No i po co ci to?",
+              "stringId": "2333111461707436032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Następnym razem bądź bardziej rozważna. Nie wprawiaj mnie w zły nastrój. Nalegam. Do usłyszenia, V.",
+              "maleVariant": "Następnym razem bądź bardziej rozważny. Nie wprawiaj mnie w zły nastrój. Nalegam. Do usłyszenia, V.",
+              "stringId": "2343017082554519552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lubię takie podejście, V. I potrafię je docenić. Kontrakt zamknięty.",
+              "maleVariant": "",
+              "stringId": "2344958500550316032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Coś za coś, V. Coś za coś. Kontrakt zamknięty.",
+              "maleVariant": "",
+              "stringId": "2345012894079750144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z drugiej strony rację ma ten, kto więcej płaci, prawda? I dziś nie jest to Sergiei - na jego nieszczeście. Biedaczek ma teraz przez ciebie naprawdę przechlapane.",
+              "maleVariant": "",
+              "stringId": "2345017834718203904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

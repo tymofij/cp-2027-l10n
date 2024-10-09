@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zostanę najsuperowszym nomadą w całej Ameryce!",
+              "maleVariant": "",
+              "stringId": "1963291900445237248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak? A jakim dokładnie? Takim zwykłym, czy na przykład zwiadowcą?",
+              "maleVariant": "",
+              "stringId": "1969142892513181696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, zwiadowcą! Kupię sobie motor Yaiby i dlatego będę jeździł najszybciej w całym konwoju.",
+              "maleVariant": "",
+              "stringId": "1969143248206938112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale też dlatego, że będę strzelał za siebie i to mi doda szybkości.",
+              "maleVariant": "",
+              "stringId": "1969143666966249472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie zostaniesz żadnym nomadą. Będziesz pracował dla Petrochemu, jak twój dziadek.",
+              "maleVariant": "",
+              "stringId": "1969143905605369856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No już, cicho. Niech sobie pomarzy, póki jeszcze może.",
+              "maleVariant": "",
+              "stringId": "1969144417780219904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

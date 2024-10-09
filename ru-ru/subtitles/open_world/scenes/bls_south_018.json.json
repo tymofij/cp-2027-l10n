@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он приедет. Точно.",
+              "maleVariant": "",
+              "stringId": "2178290715321688064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага.",
+              "maleVariant": "",
+              "stringId": "2182489272495071232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну что ты так смотришь. Я ему заплатил, сколько он просил. Он обещал, что сделает нам такие бумаги, что нас без вопросов пропустят.",
+              "maleVariant": "",
+              "stringId": "2182505865883115520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он обещал.",
+              "maleVariant": "",
+              "stringId": "2182506787237486592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага.",
+              "maleVariant": "",
+              "stringId": "2182507031295647744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что «ага»? Типа, меня ёбаный кочевник на хую провернул, так ты думаешь? Ну скажи!",
+              "maleVariant": "",
+              "stringId": "2182508058665246720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не буду я ничего говорить.",
+              "maleVariant": "",
+              "stringId": "2182509385474596864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но ты так думаешь.",
+              "maleVariant": "",
+              "stringId": "2182509593512075264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подождём ещё. Может, он уже едет.",
+              "maleVariant": "",
+              "stringId": "2182534816915480576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что нам ещё остаётся?",
+              "maleVariant": "",
+              "stringId": "2182535115382153216"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

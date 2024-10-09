@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І я кажу їй: «Якщо ви хочете отримати інтерв’ю, то лише без імен. Але з вечерею. І можливо, навіть і зі сніданком.» Хе-хе.",
+              "maleVariant": "",
+              "stringId": "2276543334628630544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нормально. І щось вийшло з цього?",
+              "maleVariant": "",
+              "stringId": "2276543334628630556"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якби ж то. Все, що вона мені дала, це кілька купонів в «Кальєнте». Бля, ти прикинь.",
+              "maleVariant": "",
+              "stringId": "2276543334628630568"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

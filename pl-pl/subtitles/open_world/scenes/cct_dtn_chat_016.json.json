@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Es lo mismo con Emilio. Siempre me ayuda con las compras.\" t=\"Tak samo Emilio. Zawsze mi pomaga zakupy wnieść.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2172172634114732032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak, szczególnie chłopcy.",
+              "maleVariant": "",
+              "stringId": "2181106406106959872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No mówię. To złote chłopaki są, a że czasem trochę nabroją? Takie prawa młodości.",
+              "maleVariant": "",
+              "stringId": "2181123114301493248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Si no lo haces mientras eres joven, entonces ¿cuándo?\" t=\"Młodzi muszą się wyszaleć.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2181123232127881216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Y te diré una cosa, esos agentes prefieren acosar a nuestros muchachos en lugar de ocuparse de los criminales de verdad.\" t=\"A policjanci, to ci powiem, że zamiast przestępcami się zająć, to się na naszych  uwzięli.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2181123659493904384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"El otro día, un policía me dijo que Emilio estaba con los Valentinos. ¿Lo puedes creer?\" t=\"Ostatnio jeden taki policjant mówił, że Emilio to w tych całych Valentinosach jest, wiesz?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2181124645708992512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A tam, takie gadanie. Chłopcy się po prostu bawią.",
+              "maleVariant": "",
+              "stringId": "2181124829067186176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Recuerdo cuando Emilio tenía cinco años, era un angelito. No mataba ni a una mosca.\" t=\"Ahhh... pamiętam jak Emilio miał pięć lat, taki był kochany. Muchy by nie skrzywdził.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2181128622076956672"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

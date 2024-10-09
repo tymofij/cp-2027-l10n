@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та я роблю, що можу, але іноді ці додіки як увірвуться…",
+              "maleVariant": "",
+              "stringId": "2172145595973230592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нє, та певна річ, шо я відразу шмаляю…",
+              "maleVariant": "",
+              "stringId": "2208476380999815168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, двом дибілам уже пиздарики прийшли… Дармоїди йобані…",
+              "maleVariant": "",
+              "stringId": "2208477235983519744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та… Та, може, коли з’являться ті дрони, то трохи спокійніше стане… Та хто його знає, вони постійно кажуть, що десь от-от…",
+              "maleVariant": "",
+              "stringId": "2208478968180740096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

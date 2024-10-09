@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бля, як це мене бісить. На дорозі не ловить сигнал, я ж тут навіть не дізнаюся, чи хтось горнув мене праворуч.",
+              "maleVariant": "",
+              "stringId": "2276543156202938384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Може, ти спробуєш знайти собі когось з місцевих? Поглянь, он Реджі на тебе заглядається. І він не виглядає як серійний убивця.",
+              "maleVariant": "",
+              "stringId": "2276543156219715584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мою собаку звали Реджі. Він утік від нас. А, як ми знаємо, історія любить повторюватися…",
+              "maleVariant": "",
+              "stringId": "2276543156219715596"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

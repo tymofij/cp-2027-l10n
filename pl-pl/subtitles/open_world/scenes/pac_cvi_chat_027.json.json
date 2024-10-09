@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Weź się, kurwa, pośpiesz, no!",
+              "maleVariant": "",
+              "stringId": "2179524516888473600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Już kończę.",
+              "maleVariant": "",
+              "stringId": "2182375796709314560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty wiesz, co Voodoo Boys nam zrobią, jak nas tu złapią? Albo kurwa Kosiarze?! Ja pierdolę, mówiłam, żeby tego nie robić...",
+              "maleVariant": "",
+              "stringId": "2182375876703080448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zluzuj, okej? Zaraz idziemy.",
+              "maleVariant": "",
+              "stringId": "2182376385254051840"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

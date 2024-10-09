@@ -1,0 +1,37 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, у мене тут клієнт, якому треба допомогти з якимись корпоративними іграми.",
+              "maleVariant": "",
+              "stringId": "2328539244270182400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чувак хоче якогось компромату на свого заклятого ворога, якогось Матея Стова. Що скажеш, накопаєш нам щось? Деталі в листі.",
+              "maleVariant": "",
+              "stringId": "2334632546718695424"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

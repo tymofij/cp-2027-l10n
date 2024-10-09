@@ -1,0 +1,97 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Куда лезешь, тля? За вход платить положено.",
+              "maleVariant": "",
+              "stringId": "1654898876169560064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Заплатить.] Пожалуйста.",
+              "maleVariant": "",
+              "stringId": "1654898876186337280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прочь с дороги.",
+              "maleVariant": "",
+              "stringId": "1654898876186337296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А у вас тут что?",
+              "maleVariant": "",
+              "stringId": "1654898876203114524"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ясно. Вот, пожалуйста.",
+              "maleVariant": "Ясно. Вот, возьми.",
+              "stringId": "1654898876219891712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну что стоишь, как хер на свадьбе? Проходи давай.",
+              "maleVariant": "",
+              "stringId": "1654898876219891724"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ну прочь с дороги.",
+              "maleVariant": "",
+              "stringId": "1654898876253446156"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чё? Думаешь, я тебя пропущу, потому что ты такая борзая?",
+              "maleVariant": "Чё? Думаешь, я тебя пропущу, потому что ты такой борзый?",
+              "stringId": "1654898876253446164"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не думаю, я знаю. Шаг в сторону, быстро.",
+              "maleVariant": "",
+              "stringId": "1654898876253446172"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А у вас тут что?",
+              "maleVariant": "А что тут у вас?",
+              "stringId": "1654898876270223360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Раз ты спрашиваешь, значит, тебе здесь не место.",
+              "maleVariant": "",
+              "stringId": "1654898876270223372"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей, иди, раз неймётся…",
+              "maleVariant": "",
+              "stringId": "1934578947258109952"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

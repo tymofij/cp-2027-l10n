@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To boli... jakbyś miała kolec... tam w głowie... To twoja wina, Juliet... Ty mnie podtruwasz...",
+              "maleVariant": "",
+              "stringId": "1616858748448907264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dlaczego, Juliet?! Czemu mi to robisz...?",
+              "maleVariant": "",
+              "stringId": "1616859352881668096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Moi przyjaciele... Oni mówią, że nie możesz mnie tutaj trzymać. Musimy stąd wyjść. Czy parada już się zaczęła...?",
+              "maleVariant": "",
+              "stringId": "1616859828700291072"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

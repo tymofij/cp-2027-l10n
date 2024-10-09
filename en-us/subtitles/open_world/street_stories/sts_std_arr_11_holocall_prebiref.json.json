@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, V. Got a serious gig, which means I'll be needing a serious merc.",
+              "maleVariant": "",
+              "stringId": "2328805864433639424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Want you to hop to 6th Street turf and graft a virus onto their tech. Counting on you, champ.",
+              "maleVariant": "",
+              "stringId": "2341735102865051648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, and one last thing – there's this techie, Lucius Thoran. And I wouldn't mind if he got a piece of lead to the skull – ya dig? Good. Spec's attached.",
+              "maleVariant": "",
+              "stringId": "2341852475060228096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

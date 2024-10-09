@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"連中は何か企んでる。こっちも手を打っておかねえと\" t=\"Вони щось там планують. Нам треба бути готовими.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2276538543491948560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"私に3人ほどつけてよ。こっちから仕掛けてやる\" t=\"Дай мені трьох і я з усім впораюся. Вони навіть не зрозуміють, що сталося.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2276538543508725760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"今4人も失うリスクは負えねえよ。普段ならお前がどこで死のうが知ったこっちゃねえがな\" t=\"Повір, я б з радістю позбувся цих чотирьох ідіотів. Проте це розкіш, яку я не можу собі дозволити.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2276538543508725772"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

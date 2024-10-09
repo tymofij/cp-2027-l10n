@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я делаю, что могу, но иногда как вломятся эти засранцы…",
+              "maleVariant": "",
+              "stringId": "2172145595973230592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не, ну понятное дело, я сразу стреляю…",
+              "maleVariant": "",
+              "stringId": "2208476380999815168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Два урода уже отъехали… Дармоеды, блядь…",
+              "maleVariant": "",
+              "stringId": "2208477235983519744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да… Может, как эти дроны появятся, поспокойней будет… Не знаю когда, всё обещают и обещают…",
+              "maleVariant": "",
+              "stringId": "2208478968180740096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

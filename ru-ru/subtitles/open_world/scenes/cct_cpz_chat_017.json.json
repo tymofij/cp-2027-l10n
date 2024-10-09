@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скажи что-нибудь по-корпоратски.",
+              "maleVariant": "",
+              "stringId": "2172015214120787968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Мы уже на финишной прямой! Нужен последний рывок, чтобы закрыть квартал!»",
+              "maleVariant": "",
+              "stringId": "2189931340874747904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скажи ещё!",
+              "maleVariant": "",
+              "stringId": "2189933610211315712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Надо закончить проект до дедлайна с повышением планки качества. Не снижайте темпа!»",
+              "maleVariant": "",
+              "stringId": "2189933679484440576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "М-м-м, замечательно. Это, кажется, из обращения за 2076 год. Чувствуются деликатные нотки переработок в период модернизации по плану M-251…",
+              "maleVariant": "",
+              "stringId": "2189935892197904384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да-да, они самые. А, ещё забыл: «Не нравится? Увольняйся, на твоё место тысячи желающих».",
+              "maleVariant": "",
+              "stringId": "2189936601152720896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О-о-о, да, да, ещё!",
+              "maleVariant": "",
+              "stringId": "2189938042114248704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Печеньки в неограниченном количестве!»",
+              "maleVariant": "",
+              "stringId": "2189942507303178240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "М-м-м!",
+              "maleVariant": "",
+              "stringId": "2189944267166027776"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

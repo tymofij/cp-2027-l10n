@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Właśnie otrzymaliśmy wiadomość z ostatniej chwili: AV-ka z floty Kang-Tao rozbiła się na obrzeżach Night City.",
+              "maleVariant": "",
+              "stringId": "1745883341299179520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Silniki samolotu zostały dezaktywowane przez nagły impuls elektromagnetyczny pochodzący z uszkodzonej elektrowni w Santo Domingo. Próba lądowania awaryjnego zakończyła się niepowodzeniem.",
+              "maleVariant": "",
+              "stringId": "1745883713468162048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pasażerowie, którzy przeżyli wypadek, zostali zaatakowani przez nomadów.",
+              "maleVariant": "",
+              "stringId": "1745883970629328896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zażarta wymiana ognia trwała kilkadziesiąt minut, jednak ostatecznie pracownikom ochrony udało się odeprzeć napastników.",
+              "maleVariant": "",
+              "stringId": "1745884119359348736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Korporacja ogłosiła już, że przeprowadzi atak odwetowy na obozowiska nomadów.",
+              "maleVariant": "",
+              "stringId": "1745884264566153216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Już po przerwie: oficjalne oświadczenie prezydent Myers w sprawie fali nielegalnych imigrantów z Holandii.",
+              "maleVariant": "",
+              "stringId": "1745884564140122112"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

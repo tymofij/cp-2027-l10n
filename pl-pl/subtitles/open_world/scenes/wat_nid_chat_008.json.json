@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znowu coś capi. Mówię wam, pewnego pięknego dnia wszyscy pozdychamy od tego smrodu.",
+              "maleVariant": "",
+              "stringId": "1963287909145550848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mary mówiła, że Petrochem miał jakiś wyciek.",
+              "maleVariant": "",
+              "stringId": "1964955540303626240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A, tak, tak, no, tak było. Dzieciaki sąsiadów bawiły się przy tym świństwie ze dwie godziny, zanim ktoś się skapnął.",
+              "maleVariant": "",
+              "stringId": "1964955780687577088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Najmłodsza tyle się tego nawdychała, że piana jej z ust poszła. Sam widziałem.",
+              "maleVariant": "",
+              "stringId": "1964955966176477184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja pierdolę... Co za ludzie. Jak się robi dzieci, to trzeba ich potem pilnować!",
+              "maleVariant": "",
+              "stringId": "1964956436727054336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Selekcja naturalna.",
+              "maleVariant": "",
+              "stringId": "1964956785592483840"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

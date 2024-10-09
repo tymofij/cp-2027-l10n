@@ -1,0 +1,91 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W ostatnich tygodniach byliśmy świadkami narastającego napięcia na linii Arasaka-Militech. Groźba konfliktu była poważna.",
+              "maleVariant": "",
+              "stringId": "1743128075853680640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"「継続は力なり」――アラサカ社の基本理念です\" t=\"Motto Arasaki brzmi: ciągłość to moc\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1743128857470619648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Saburo Arasaka i obecna prezydent NUSA, Rosalind Myers, spotkają się, by opracować koncepcję zmierzającą ku trwałemu pokojowi.",
+              "maleVariant": "",
+              "stringId": "1743129221250994176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wielu komentatorów ostrzegało wręcz przed wybuchem kolejnej wielkiej wojny korporacyjnej.",
+              "maleVariant": "",
+              "stringId": "1743131549039382528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zaostrzenie konfliktu zbiegło się z przejęciem sterów firmy przez Yorinobu Arasakę, który oskarżył Militech o zabójstwo ojca. Oskarżenia pogorszyły relacje firm.",
+              "maleVariant": "",
+              "stringId": "1743131827675385856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do nieoczekiwanej zmiany doszło tuż po powrocie Saburo Arasaki, który to powrót przełożył się na odprężenie w relacjach między megakorporacjami.",
+              "maleVariant": "",
+              "stringId": "1743132092067532800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"息子のヨリノブはこの言葉を忘れ、焦って変化を求めすぎました\" t=\"Yorinobu zapomniał o tej mądrej maksymie. Zmieniał zbyt dużo – i zbyt szybko.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1743133623089156096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"私が敵味方両者に説き続けてきた教訓――完璧な物を変える必要はない。これが真理なのです\" t=\"Naszym przyjaciołom i wrogom mówię jedno: to, co perfekcyjne, nie musi się zmieniać.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1743134039717761024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"以上となります\" t=\"Dziękuję państwu.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1743134328688529408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Już dziś, w geście dobrej woli ze strony korporacji Arasaka, jej szef zdecydował o wycofaniu z Night City grupy piętnastu ciężkich pojazdów opancerzonych klasy Aka-ashi.",
+              "maleVariant": "",
+              "stringId": "1743140047974354944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Będziemy, rzecz jasna, informować państwa o dalszym rozwoju wypadków.",
+              "maleVariant": "",
+              "stringId": "1743140692890537984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

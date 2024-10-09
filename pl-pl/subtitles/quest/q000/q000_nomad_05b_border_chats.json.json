@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gnojkom wydaje się, że Night City to pieprzony raj.",
+              "maleVariant": "",
+              "stringId": "1826840345187471360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co zrobisz. Młode to, to i naiwne.",
+              "maleVariant": "",
+              "stringId": "1826845102048301056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ręce za głowę i na ziemię! Nie będę powtarzał!",
+              "maleVariant": "",
+              "stringId": "1885222865276522496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nic nie zrobiłem!",
+              "maleVariant": "",
+              "stringId": "1885223767538421760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zostawcie go!",
+              "maleVariant": "",
+              "stringId": "1885223825117827072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie dyskutuj ze mną! Na ziemię, już!",
+              "maleVariant": "",
+              "stringId": "1885224014482264064"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

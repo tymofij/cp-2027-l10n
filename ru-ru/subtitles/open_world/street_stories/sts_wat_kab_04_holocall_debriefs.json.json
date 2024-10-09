@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тебе же сказали сделать всё по-тихому. А теперь половина города узнает про этот бардак.",
+              "maleVariant": "",
+              "stringId": "2328832749569601536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Выполнить такой заказ без осечек, да ещё и по-тихому? Это впечатляет. Заказ закрыт. Спасибо.",
+              "maleVariant": "",
+              "stringId": "2328832957506416640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я думала, мы друг друга поняли. Ну ладно. Заказ выполнен.",
+              "maleVariant": "",
+              "stringId": "2331697846301331456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви, я же дала тебе чёткие инструкции. Твоя главная задача была забрать щепку.",
+              "maleVariant": "",
+              "stringId": "2362267863501606912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Люди, к которым я тебя отправила, профессионалы. Думаешь, они будут ждать тебя обратно? Нет.",
+              "maleVariant": "",
+              "stringId": "2362321136162017280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это провал, Ви, по-другому не скажешь. Надеюсь, больше такого не повторится. Пока.",
+              "maleVariant": "",
+              "stringId": "2362321158291165184"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"Rodzina jest najważniejsza...\" - ta, jasne.",
+              "maleVariant": "",
+              "stringId": "1973560424069636096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zajebiście. Pewnie chce mnie dojechać... honorowy kretyn.",
+              "maleVariant": "",
+              "stringId": "1973767518967021568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wystarczy, że pomógł odstawić tę szopkę z ceremonią wykluczenia z rodziny?",
+              "maleVariant": "",
+              "stringId": "1973767580472295424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ptaszki ćwierkają, że twój brat cię szuka.",
+              "maleVariant": "",
+              "stringId": "1973767750089949184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mnie po prostu sprali i wykopali z auta gdzieś po drodze.",
+              "maleVariant": "",
+              "stringId": "1973767912510177280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Miałeś ceremonię? To i tak nieźle.",
+              "maleVariant": "",
+              "stringId": "1973767940947558400"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

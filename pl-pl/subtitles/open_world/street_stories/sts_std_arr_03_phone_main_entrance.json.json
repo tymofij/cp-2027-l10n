@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej, mała. Słuchaj, kończę zaraz zmianę no i ten... Może wpadnę?",
+              "maleVariant": "",
+              "stringId": "1496406152395059200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak to, po co. Wiesz, po co, kotku.",
+              "maleVariant": "",
+              "stringId": "1496410457781006336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No i co z tego, że głowa cię boli? Głowy nie musisz używać.",
+              "maleVariant": "",
+              "stringId": "1496410611242201088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ej, ej, nie obrażaj się, ja tylko... Kurwa. Ech.",
+              "maleVariant": "",
+              "stringId": "1496410742742020096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Залишилося кілька міліграмів.",
+              "maleVariant": "",
+              "stringId": "2159443550084243456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гаразд, чуваче, відкладу для тебе. Тільки бабло наперед. І ціна потрійна.",
+              "maleVariant": "",
+              "stringId": "2199624549182664704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Агов-агов, чуєш, моєю шнягою, блядь, пудрять носики в йобаному «Кришталевому палаці». Справжня якість коштує дорого, чумбо.",
+              "maleVariant": "",
+              "stringId": "2199624911352426496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. Гаразд, просто чудово.",
+              "maleVariant": "",
+              "stringId": "2199627239979675648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, прийшли. Дуже дякую за «округлення».",
+              "maleVariant": "",
+              "stringId": "2199627724539228160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нє, я в іншому кінці міста, але заскочу, щойно матиму змогу.",
+              "maleVariant": "",
+              "stringId": "2199628191835025408"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

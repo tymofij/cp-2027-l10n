@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да всё нормально. Не жалуюсь.",
+              "maleVariant": "",
+              "stringId": "2179674277432385536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Места много, бриз приятный…",
+              "maleVariant": "",
+              "stringId": "2212748366746677248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, постреливают. В основном, ночью. Но я уже привык.",
+              "maleVariant": "",
+              "stringId": "2212748807500918784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Еда ничего. Я такое классное место нашёл, гаитяне держат. Дешёвое, тут таких много.",
+              "maleVariant": "",
+              "stringId": "2212749202923122688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет-нет, не приезжай. Времени твоего жалко, да и денег. Давай лучше я к тебе приеду.",
+              "maleVariant": "",
+              "stringId": "2212749665185755136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скоро, скоро. Как только встану на ноги.",
+              "maleVariant": "",
+              "stringId": "2212750366070730752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Обещаю… И я по тебе тоже… Расскажи хоть, как там у тебя.",
+              "maleVariant": "",
+              "stringId": "2212750842812100608"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

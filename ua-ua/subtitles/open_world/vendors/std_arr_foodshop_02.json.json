@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що є в меню?",
+              "maleVariant": "",
+              "stringId": "1783751526462541824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чому таке сумне лице? Мало на чай залишають?",
+              "maleVariant": "",
+              "stringId": "1783751526462541840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А що там у меню?",
+              "maleVariant": "",
+              "stringId": "1783751526479319044"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти сама не бачиш?",
+              "maleVariant": "Ти сам не бачиш?",
+              "stringId": "1783751526496096260"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чом таке сумне обличчя? На чай замало залишають?",
+              "maleVariant": "",
+              "stringId": "1783751526512873476"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пф, ні. Сьогодні бос вчетверте відмовив мені у відпустці.",
+              "maleVariant": "",
+              "stringId": "1783751526512873484"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але дякую що спитала. Зазвичай всім байдуже.",
+              "maleVariant": "Але дякую що спитав. Зазвичай всім байдуже.",
+              "stringId": "1975166013788180480"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

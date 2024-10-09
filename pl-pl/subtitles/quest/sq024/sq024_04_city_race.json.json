@@ -1,0 +1,607 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej, V. Dobrze cię widzieć.",
+              "maleVariant": "",
+              "stringId": "1388025120258269184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Claire? Jestem na miejscu.",
+              "maleVariant": "",
+              "stringId": "1752026505280495616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przed nami ostry zakręt.",
+              "maleVariant": "",
+              "stringId": "1783639476469243908"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uważaj, kilka wozów za nami. Będą taranować.",
+              "maleVariant": "",
+              "stringId": "1783639476486021124"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Siądź na ogonie kolesiowi przed nami.",
+              "maleVariant": "",
+              "stringId": "1783639476502798340"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przeładowuję!",
+              "maleVariant": "",
+              "stringId": "1783639476536352772"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zdjęłam strzelca!",
+              "maleVariant": "",
+              "stringId": "1783639476553129988"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobrze nam idzie, V. Oby tak dalej.",
+              "maleVariant": "",
+              "stringId": "1783639476586684420"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, jesteśmy na miejscu.",
+              "maleVariant": "",
+              "stringId": "1831217688833171456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jakieś porady przed startem?",
+              "maleVariant": "",
+              "stringId": "1831236474047045632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie zdejmuj nogi z gazu. Ja postaram się spowolnić paru natrętów.",
+              "maleVariant": "",
+              "stringId": "1831250494430912512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale w tym wyścigu bardziej liczy się prędkość niż siła ognia.",
+              "maleVariant": "",
+              "stringId": "1831251265830526976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Świetnie, też niedługo będę.",
+              "maleVariant": "",
+              "stringId": "1831257317389115392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Twoim.",
+              "maleVariant": "",
+              "stringId": "1831257630854619140"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Moim.",
+              "maleVariant": "",
+              "stringId": "1831257986732924928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Twoim.",
+              "maleVariant": "",
+              "stringId": "1831269745413857280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Moim.",
+              "maleVariant": "",
+              "stringId": "1831269764841873408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[weź drzazgę]",
+              "maleVariant": "",
+              "stringId": "1831294346214776836"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Musimy przejechać przez wszystkie punkty kontrolne. Inaczej nas zdyskwalifikują.",
+              "maleVariant": "",
+              "stringId": "1831294658371657728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak chcesz się jeszcze pokręcić, to proszę bardzo. Ja posiedzę w wozie.",
+              "maleVariant": "",
+              "stringId": "1831295509463048192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kiedy startujemy?",
+              "maleVariant": "",
+              "stringId": "1831295649234034688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[V bierze drzazgę.]",
+              "maleVariant": "",
+              "stringId": "1831296158741307392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pierwszy wyścig eliminacji. Wszyscy gotowi?",
+              "maleVariant": "",
+              "stringId": "1831397819929337856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeśli ktoś chce się wycofać, to już za późno.",
+              "maleVariant": "",
+              "stringId": "1831399069043400704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Po co to?",
+              "maleVariant": "",
+              "stringId": "1831501146876813312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Po co ta drzazga?",
+              "maleVariant": "",
+              "stringId": "1831501356994666496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wyświetli ci trasę. Bez niej nie wiedziałabyś, gdzie jechać.",
+              "maleVariant": "Wyświetli ci trasę. Bez niej nie wiedziałbyś, gdzie jechać.",
+              "stringId": "1831501842577629184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zaraz przyjadę, pa.",
+              "maleVariant": "",
+              "stringId": "1831625776023216128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej, pojedziemy Bestią.",
+              "maleVariant": "",
+              "stringId": "1831626285765369856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może być twoim.",
+              "maleVariant": "",
+              "stringId": "1831626395387699200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czas zapiąć pasy, zacisnąć zęby i przygotować się na kopa.",
+              "maleVariant": "",
+              "stringId": "1855979224088842240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gliny nie mają z tym problemu?",
+              "maleVariant": "",
+              "stringId": "1855991730698063876"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sporo korposów przyjechało na wyścig.",
+              "maleVariant": "",
+              "stringId": "1855991834817466368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak ci się to podoba?",
+              "maleVariant": "",
+              "stringId": "1855993984314380288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powiem ci po wyścigu, jak mi się podoba.",
+              "maleVariant": "",
+              "stringId": "1855996647730974720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widzę, że sporo korposów bierze udział.",
+              "maleVariant": "",
+              "stringId": "1855998444923129856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Opowiem ci o wrażeniach, jak dojedziemy do mety. Byle w całości.",
+              "maleVariant": "",
+              "stringId": "1855998469250093056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Myśl raczej o tym, żeby wygrać.",
+              "maleVariant": "",
+              "stringId": "1856000556033773568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Po czym poznajesz?",
+              "maleVariant": "",
+              "stringId": "1856004563758354432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Byłam jedną z nich. Też lubiłam spuścić trochę pary po godzinach.",
+              "maleVariant": "Byłem jednym z nich. Też lubiłem spuścić trochę pary po godzinach.",
+              "stringId": "1856005372420165632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Albo to, albo zawał i wycieczka ambulansem Traumy na sygnale.",
+              "maleVariant": "",
+              "stringId": "1856006353417539584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tutaj zawał im raczej nie grozi, ale ambulans i tak może się przydać.",
+              "maleVariant": "",
+              "stringId": "1856104005236822016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bez obaw, potrafię dodać gazu.",
+              "maleVariant": "",
+              "stringId": "1856109070194446336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gliny nie mają z tym problemu?",
+              "maleVariant": "",
+              "stringId": "1856111172211838976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Problem robi się niewidoczny, gdy zasłania go stos eurobaksów.",
+              "maleVariant": "",
+              "stringId": "1856111753911472128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pieniądz rozwiąże każdy problem, co?",
+              "maleVariant": "",
+              "stringId": "1856114270913302528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm.",
+              "maleVariant": "",
+              "stringId": "1856115192720658432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jakieś porady przed startem?",
+              "maleVariant": "",
+              "stringId": "1856116004201041924"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A więc trupy padają tu bezkarnie?",
+              "maleVariant": "",
+              "stringId": "1856116195981398016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A więc trupy padają tu bezkarnie?",
+              "maleVariant": "",
+              "stringId": "1856117579933945856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Policja ma w dupie, kto zginie w wyścigu. Wszystko idzie na konto wypadków drogowych.",
+              "maleVariant": "",
+              "stringId": "1856118237013610496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kula w czaszce to też wypadek drogowy?",
+              "maleVariant": "",
+              "stringId": "1856118834450272256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jakie drogi, takie wypadki.",
+              "maleVariant": "",
+              "stringId": "1856120796294025216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej. Nie będę zwalniać.",
+              "maleVariant": "",
+              "stringId": "1856123254525267968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha, masz tu drzazgę.",
+              "maleVariant": "",
+              "stringId": "1856123873789087744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Drzazga. Usłyszysz spikera.",
+              "maleVariant": "",
+              "stringId": "1856135765530120192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Start za trzy...",
+              "maleVariant": "",
+              "stringId": "1856145996930748416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dwa...",
+              "maleVariant": "",
+              "stringId": "1856146462783705088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeden!",
+              "maleVariant": "",
+              "stringId": "1856146646410334208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Wystrzał i start.]",
+              "maleVariant": "",
+              "stringId": "1856146817537937408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trzymaj się!",
+              "maleVariant": "",
+              "stringId": "1856150396453654528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Życzę powodzenia.",
+              "maleVariant": "",
+              "stringId": "1856152170006712320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pocałuję go zderzakiem.",
+              "maleVariant": "",
+              "stringId": "1856153183769989120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie świruj, V.",
+              "maleVariant": "",
+              "stringId": "1856155046443618304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcesz medal?",
+              "maleVariant": "",
+              "stringId": "1856156835012284416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie musisz dziękować.",
+              "maleVariant": "",
+              "stringId": "1856156944584282112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie zapeszaj.",
+              "maleVariant": "",
+              "stringId": "1856157495380283392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, czekam.",
+              "maleVariant": "",
+              "stringId": "1863078313456701440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To powiedz mi jeszcze – którym wozem chcesz pojechać?",
+              "maleVariant": "",
+              "stringId": "1863078505757151232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[wstań]",
+              "maleVariant": "",
+              "stringId": "1963616653590667268"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej, postawiłem na nas kupę forsy. Przegrana nie wchodzi w rachubę.",
+              "maleVariant": "",
+              "stringId": "1977929348032765952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Patrz, Sampson. Nowe mięso.",
+              "maleVariant": "",
+              "stringId": "1977931092007591936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widzę. Byłby wstyd przegrać z kimś takim, jak ona.",
+              "maleVariant": "Widzę. Byłby wstyd przegrać z kimś takim, jak on.",
+              "stringId": "1977931360090726400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wyluzuj, zgubi się na pierwszym zakręcie.",
+              "maleVariant": "",
+              "stringId": "1977931663640895488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przyjmujemy ostatnie zakłady! Nie bać się, obstawiać!",
+              "maleVariant": "",
+              "stringId": "2008388904462454784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co ty, do cholery, robisz?",
+              "maleVariant": "",
+              "stringId": "2014019308506714112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V! Wracaj na trasę!",
+              "maleVariant": "",
+              "stringId": "2014019352496574464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gdzie ty jedziesz? Wracaj na trasę!",
+              "maleVariant": "",
+              "stringId": "2014019381504380928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spieprzyłaś to! Won z mojego wozu!",
+              "maleVariant": "Spieprzyłeś to! Won z mojego wozu!",
+              "stringId": "2014029674594832384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spieprzyłaś to! Wypuść mnie!",
+              "maleVariant": "Spieprzyłeś to! Wypuść mnie!",
+              "stringId": "2014029715933892608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dosyć tego! Wysiadaj!",
+              "maleVariant": "",
+              "stringId": "2014029741569478656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dość tego! Wysiadam!",
+              "maleVariant": "",
+              "stringId": "2014029766399758336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[usiądź i poczekaj]",
+              "maleVariant": "",
+              "stringId": "2054976714581295104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słyszałaś, co rok temu odjebał Peter Sampson?",
+              "maleVariant": "",
+              "stringId": "2231449145960435712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I co o nich myślisz?",
+              "maleVariant": "",
+              "stringId": "2231449757473181700"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Naprzód Heywood! Jesteśmy u siebie!",
+              "maleVariant": "",
+              "stringId": "2231449848992894980"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"chingados\" b=\"Pokażcie tym \" a=\", kto tu rządzi!\"/>",
+              "maleVariant": "",
+              "stringId": "2231449943079522308"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz dojechać w jednym kawałku, kochanie! W jednym kawałku! Rozumiesz? Kocham cię!",
+              "maleVariant": "",
+              "stringId": "2231450144573886468"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej, Bucky! Postawiłam okrągłą stówkę, więc ciśnij tego grata, jeśli kochasz własną matkę, co?",
+              "maleVariant": "",
+              "stringId": "2231450227671437312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Peter \"człowiek-z-okładki-Time'a i guru sukcesu\" Sampson? Masz na myśli jego wygraną w finale?",
+              "maleVariant": "",
+              "stringId": "2241456326931779584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie, pierwszy wyścig. Trasa leciała wtedy przez Little China, Kabuki i kończyła się w Northside.",
+              "maleVariant": "",
+              "stringId": "2241456401707831296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pamiętam. Sampson dojechał na drugim miejscu. Całkiem nieźle.",
+              "maleVariant": "",
+              "stringId": "2241456555085139968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lepiej. Opłacił gangusów z Maelstromu, żeby za metą wyzerowali zwycięzców, więc de facto i tak wygrał. Sprytny skurwiel.",
+              "maleVariant": "",
+              "stringId": "2241456655345782784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"kurwa\" b=\"O tych japiszonach? A co mam, \" a=\", myśleć? Jebać ich.\"/>",
+              "maleVariant": "",
+              "stringId": "2241865452111400960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobrze, bo już myślałem, że jesteś spięty, kolego. A za kółkiem masz być luźny jak dupa kurwiszona.",
+              "maleVariant": "",
+              "stringId": "2241865532927250432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej! Jestem spokojny. Po prostu...",
+              "maleVariant": "",
+              "stringId": "2241865575591710720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Po prostu pokażmy tym chujom co się robi z gajerami na Vista del Rey.",
+              "maleVariant": "",
+              "stringId": "2241865677597184000"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

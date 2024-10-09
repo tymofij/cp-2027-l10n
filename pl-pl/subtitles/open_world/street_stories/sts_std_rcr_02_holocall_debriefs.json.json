@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zajebista robota. Jasmine jest już w drodze do kochającego męża, a ja dostałem kochane pieniążki, którymi już się tobą dzielę.",
+              "maleVariant": "",
+              "stringId": "2328856469063720960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Miałaś eskortować Jasmine do auta, V. Laska jest nieco zagubiona, nie wie, gdzie góra, a gdzie dół. Mogła przepaść i byłby chuj, na szczęście nie przepadła.",
+              "maleVariant": "Miałeś eskortować Jasmine do auta, V. Laska jest nieco zagubiona, nie wie, gdzie góra, a gdzie dół. Mogła przepaść i byłby chuj, na szczęście nie przepadła.",
+              "stringId": "2328856556858892288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zapamiętaj sobie na przyszłość: robota jest skończona dopiero, kiedy klient jest bezpieczny, tak? To nie jest kurwa trudne. Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2342023314615406592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzięki, V. Kontrakt zamknięty.",
+              "maleVariant": "",
+              "stringId": "2342024929523109888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

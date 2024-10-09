@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Też wymyślili... Może za sprzęt też mam bulić z własnej kieszeni? Albo samemu sobie pensję wypłacać?",
+              "maleVariant": "",
+              "stringId": "2156376068888977408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Straszny z ciebie dzieciak. Jak się chce pracować, to najpierw trzeba porobić parę inwestycji.",
+              "maleVariant": "",
+              "stringId": "2170848571027079168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No ale ile można? To już drugi raz w tym roku. Jeśli chcą, żebym sobie kupił nowy uniform, to niech mi dadzą podwyżkę!",
+              "maleVariant": "",
+              "stringId": "2170848969653731328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz, jak to się nazywa? Postawa roszczeniowa.",
+              "maleVariant": "",
+              "stringId": "2170849181986177024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Młody, na pieniądze trzeba sobie zasłużyć. Pogłodujesz sobie kilka dni w miesiącu i uzbierasz, ile trzeba.",
+              "maleVariant": "",
+              "stringId": "2170849399972544512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To nawet zdrowe. Taki detoks organizmu.",
+              "maleVariant": "",
+              "stringId": "2170849571754459136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Taa. A potem zemdleję w pracy i mnie wywalą z roboty.",
+              "maleVariant": "",
+              "stringId": "2170849765850071040"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

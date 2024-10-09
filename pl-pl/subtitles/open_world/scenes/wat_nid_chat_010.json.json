@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale po co ci to? Jesteś taka zdolna. Byłby z ciebie technik pierwsza klasa.",
+              "maleVariant": "",
+              "stringId": "1963288946766028800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tato, proszę... gadaliśmy o tym milion razy.",
+              "maleVariant": "",
+              "stringId": "1965052560611721216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I pogadamy milion pierwszy. Zależy mi na tobie. Nie chcę, żeby krzywdzili cię jacyś...",
+              "maleVariant": "",
+              "stringId": "1965053021733502976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Od tego mam innych Moxów. Żeby nie krzywdzili mnie ci \"jacyś\".",
+              "maleVariant": "",
+              "stringId": "1965053228982452224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przedstawię cię szefowi w fabryce. Przecież zawsze marzyłaś o pracy z maszynami.",
+              "maleVariant": "",
+              "stringId": "1965053607862321152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha. Ze śmierdzącymi, przeciekającymi maszynami. Tymi, od których mama dostała raka.",
+              "maleVariant": "",
+              "stringId": "1965053864654389248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lepiej dawać dupy za pieniądze, niż truć się tymi oparami.",
+              "maleVariant": "",
+              "stringId": "1965054185015328768"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

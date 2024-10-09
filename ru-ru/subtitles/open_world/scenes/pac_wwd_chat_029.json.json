@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А раньше там, внизу, были пробки на несколько часов. Шум стоял круглыми сутками.",
+              "maleVariant": "",
+              "stringId": "2179643510736150528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А теперь гляди. Пустота и тишина.",
+              "maleVariant": "",
+              "stringId": "2211507386043265024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дети приходили на мост, чтобы посидеть в облаке выхлопного газа. Представляешь, сколько тут машин было?",
+              "maleVariant": "",
+              "stringId": "2212633214378504192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот так и мир умрёт. По-тихому.",
+              "maleVariant": "",
+              "stringId": "2212635488848900096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да он уже умер. Только мы не заметили.",
+              "maleVariant": "",
+              "stringId": "2212640937300127744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

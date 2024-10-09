@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет, Ви. У нас клиент — Ларри Фангорн. Говорит, его партнёр Адам выкинул его из бизнеса.",
+              "maleVariant": "",
+              "stringId": "2328701353954238464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Они держали клуб «Эмпатия». Ларри хочет вернуться, а мы должны ему помочь.",
+              "maleVariant": "",
+              "stringId": "2333228337897127936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "По своему опыту скажу, в клубном бизнесе без грязи не обходится. Все детали переслал.",
+              "maleVariant": "",
+              "stringId": "2333228757193310208"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

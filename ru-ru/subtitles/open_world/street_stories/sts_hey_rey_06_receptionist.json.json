@@ -1,0 +1,91 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я родственница Грейера. Хочу увидеть его.",
+              "maleVariant": "Я родственник Грейера. Хочу увидеть его.",
+              "stringId": "1228535817236504576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Боюсь, это невозможно. Морг открыт только для сотрудников.",
+              "maleVariant": "",
+              "stringId": "1228536890995105792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А вы скидки даёте?",
+              "maleVariant": "",
+              "stringId": "1518579379130675232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что нового? Может, скидки или спецпредложения?",
+              "maleVariant": "",
+              "stringId": "1518579506603962368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "По обстоятельствам. Хотите кого-то кремировать или для себя спрашиваете?",
+              "maleVariant": "",
+              "stringId": "1518579506620739588"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я от семьи Грейера.",
+              "maleVariant": "",
+              "stringId": "1711181191107915776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да? Чем могу помочь?",
+              "maleVariant": "",
+              "stringId": "1904103149158060032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха, для себя мне пока рановато.",
+              "maleVariant": "Ну, для себя мне пока рановато.",
+              "stringId": "1904108470521876480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всегда лучше позаботиться заранее. Есть уникальное предложение «Кремация и спасение души» со скидкой 50%.",
+              "maleVariant": "",
+              "stringId": "1904111113688371200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ну? Что-то как-то даже слишком щедро.",
+              "maleVariant": "",
+              "stringId": "1904113068703797248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И тем не менее! Все подробности вы найдёте в нашей рекламной брошюре.",
+              "maleVariant": "",
+              "stringId": "1904114481731260416"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

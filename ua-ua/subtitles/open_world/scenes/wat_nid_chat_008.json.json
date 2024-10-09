@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Фу, знову смердить. В один прекрасний день ця фігня роз’їсть нам легені наскрізь, точно вам кажу.",
+              "maleVariant": "",
+              "stringId": "1963287909145550848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мері каже, що це витік у «Нафтохіма».",
+              "maleVariant": "",
+              "stringId": "1964955540303626240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так і є. Біля мене сусідські діти грали на вулиці близько двох годин, поки хтось не помітив їх.",
+              "maleVariant": "",
+              "stringId": "1964955780687577088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Найменша з них так надихалася, що в неї з рота пішла піна. Я сам бачив.",
+              "maleVariant": "",
+              "stringId": "1964955966176477184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що ж це за батьки такі?.. Якщо маєте дітей, тож стежте за ними!",
+              "maleVariant": "",
+              "stringId": "1964956436727054336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Природний відбір.",
+              "maleVariant": "",
+              "stringId": "1964956785592483840"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

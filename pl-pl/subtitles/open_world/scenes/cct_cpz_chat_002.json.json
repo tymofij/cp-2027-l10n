@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rozmawiałem z Miguelem. Valentinosi zaakceptowali warunki.",
+              "maleVariant": "",
+              "stringId": "1963273134877483008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale czy Stevenson da nam kod do celi? Ostatnim razem prawie wpadliśmy.",
+              "maleVariant": "",
+              "stringId": "1966137044216037376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"Prawie\" to słowo-klucz. Każdemu mogło się zdarzyć.",
+              "maleVariant": "",
+              "stringId": "1966137389910573056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stevenson nie skreśla ludzi po jednym potknięciu. Zresztą, ma obiecany bonus, jeśli wszystko pójdzie gładko.",
+              "maleVariant": "",
+              "stringId": "1966137709231325184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale jeśli ktoś się połapie, zostaniemy z tym sami. Będzie umywał ręce.",
+              "maleVariant": "",
+              "stringId": "1966138107539210240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stawia sprawę uczciwie. Jak zawsze.",
+              "maleVariant": "",
+              "stringId": "1966138517725364224"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

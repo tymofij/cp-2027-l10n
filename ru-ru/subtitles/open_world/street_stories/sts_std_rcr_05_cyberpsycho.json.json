@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Больно… шипы в голове… Это всё ты, Джулиет… Это твой яд. Ты меня травишь…",
+              "maleVariant": "",
+              "stringId": "1616858748448907264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зачем, Джулиет?! Зачем ты со мной это делаешь?!",
+              "maleVariant": "",
+              "stringId": "1616859352881668096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мои друзья говорят, ты не должна меня тут держать… Надо уходить… Парад уже начался?",
+              "maleVariant": "",
+              "stringId": "1616859828700291072"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

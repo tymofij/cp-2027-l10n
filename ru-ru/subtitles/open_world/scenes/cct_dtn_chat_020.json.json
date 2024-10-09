@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я же говорю, от похмелья такой хавчик лучше всего.",
+              "maleVariant": "",
+              "stringId": "2172190711699189760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Умами?",
+              "maleVariant": "",
+              "stringId": "2188357755538345984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Умами, точно! Что-то меня память подводит. Надо к риперу записаться.",
+              "maleVariant": "",
+              "stringId": "2188387646128361472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, наверное. Мне недавно позвонили из аэропорта, говорят, что моя «Эррера Аутло» уже месяц у них на парковке стоит…",
+              "maleVariant": "",
+              "stringId": "2188387801787371520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Переходи на внешнюю память. Очень советую.",
+              "maleVariant": "",
+              "stringId": "2188387947363274752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты купил «аутло»? Погоди… Кто-то купил себе машину на твоё имя?",
+              "maleVariant": "",
+              "stringId": "2188388555285696512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха! Ещё лучше! Я сам её купил в командировке. И забыл, прикинь?",
+              "maleVariant": "",
+              "stringId": "2188392561433219072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Блин, как же он называется, этот вкус… Он странный такой ещё… М-м-м…",
+              "maleVariant": "",
+              "stringId": "2188406524623556608"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tylko tyle bierzesz?",
+              "maleVariant": "",
+              "stringId": "2157377079805767680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, na razie tak, a co?",
+              "maleVariant": "",
+              "stringId": "2179451667178143744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hm, hm. Warto zrobić zapasy, myślę. Podobno ostatnio ci tutaj pchają się pod wpierdol.",
+              "maleVariant": "",
+              "stringId": "2179458808752455680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Migają się od płacenia za ochronę.",
+              "maleVariant": "",
+              "stringId": "2179459804966764544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha. A to skurwysyństwo.",
+              "maleVariant": "",
+              "stringId": "2179465899105927168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ej, ale to może spuszczą z ceny? Skoro im się tak pod dupą pali?",
+              "maleVariant": "",
+              "stringId": "2179470481987026944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No! Widzę, że myślisz.",
+              "maleVariant": "",
+              "stringId": "2179472899567075328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tygersi w każdej chwili mogą im tu zrobić nalot - i koniec biznesów.",
+              "maleVariant": "",
+              "stringId": "2222894185739534336"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

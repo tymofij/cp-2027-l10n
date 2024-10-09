@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, did you hear about Militech's new mobile radar unit on the border? Well, it's bad for smuggling, bad for the Aldecaldos, and definitely bad for me.",
+              "maleVariant": "",
+              "stringId": "2328763362761789444"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I want to know what makes it tick, but I need to get my hands on it first.",
+              "maleVariant": "",
+              "stringId": "2332972600377720832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Snatch me that radar, and I will make sure you're well compensated. Details attached.",
+              "maleVariant": "",
+              "stringId": "2332972827205681152"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

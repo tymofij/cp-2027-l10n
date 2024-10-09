@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, co za los. Cały dzień z trupami.",
+              "maleVariant": "",
+              "stringId": "1202609158318841872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ci co idą do pieca mają gorzej. Nie narzekaj.",
+              "maleVariant": "",
+              "stringId": "1327023799124701184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co jest za tymi drzwiami?",
+              "maleVariant": "",
+              "stringId": "1711172327654371332"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej, co jest za tymi drzwiami?",
+              "maleVariant": "",
+              "stringId": "1711172422747631616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gówno, kurwa. Weź nie przeszkadzaj.",
+              "maleVariant": "",
+              "stringId": "1711175577786986496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zero szacunku dla zmarłych.",
+              "maleVariant": "",
+              "stringId": "1904095919604027392"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

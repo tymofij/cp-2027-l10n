@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ten atak w Paryżu... to byliśmy my?",
+              "maleVariant": "",
+              "stringId": "1963273693441335296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ciszej, idioto! To poufne informacje.",
+              "maleVariant": "",
+              "stringId": "1966148764259041280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie na to się pisałem. Przecież ktoś w końcu się połapie.",
+              "maleVariant": "",
+              "stringId": "1966149007847440384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kto ma wiedzieć, ten już wie. I wszyscy milczą, jak obiecali.",
+              "maleVariant": "",
+              "stringId": "1966149272273141760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak myślisz, na co idzie to tajemnicze siedem procent budżetu?",
+              "maleVariant": "",
+              "stringId": "1966149792333283328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeśli to wyjdzie na jaw, nie pomoże nam żadne siedem procent!",
+              "maleVariant": "",
+              "stringId": "1966149978661044224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak to będzie wyglądać? Prowokujemy zamieszki, na które dostarczamy broń!",
+              "maleVariant": "",
+              "stringId": "1966150236073869312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Perpetuum mobile. Militech w najlepszej odsłonie.",
+              "maleVariant": "",
+              "stringId": "1966150663825768448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

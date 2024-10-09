@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hahahah! That's what I'm fuckin' talkin' about!",
+              "maleVariant": "",
+              "stringId": "2328731950680498176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Y'know, true, I didn't say \"Don't make a complete fuckin' mess\" – but I didn't think I had to.",
+              "maleVariant": "",
+              "stringId": "2328802268707151872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Get in, install what you need, get out like it ain't no thing. Gig is closed!",
+              "maleVariant": "",
+              "stringId": "2333232222174953472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Larry wants to get back into his biz, not blow it into low Earth orbit. Ah, whatever. Closin' the gig.",
+              "maleVariant": "",
+              "stringId": "2333233815876255744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

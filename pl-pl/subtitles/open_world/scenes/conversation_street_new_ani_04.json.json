@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mordo, nie możesz być za duży. Pij soczek, przytulaj teścia i się nie wyłamuj.",
+              "maleVariant": "",
+              "stringId": "2276532206771019792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale, kurwa, bo ja teraz za bardzo się nerwowy robię. Wszystko mnie wkurwia.",
+              "maleVariant": "",
+              "stringId": "2276532206771019804"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ciśnij z fartem i nie pierdol. Bycie chujem to zaleta.",
+              "maleVariant": "",
+              "stringId": "2276532206787796992"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

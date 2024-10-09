@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це все?",
+              "maleVariant": "",
+              "stringId": "2157377079805767680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, поки що так. А що?",
+              "maleVariant": "",
+              "stringId": "2179451667178143744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гм. Гадаю тобі варто запастися. Я чув, що тутешнім торгівцям скоро вкрутять гайки.",
+              "maleVariant": "",
+              "stringId": "2179458808752455680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Платять не вчасно.",
+              "maleVariant": "",
+              "stringId": "2179459804966764544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, цих підарасів усюди вистачає…",
+              "maleVariant": "",
+              "stringId": "2179465899105927168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слу-у-ухай. А якщо вони вже й так по вуха лайні, то може хоч ціни знизять?",
+              "maleVariant": "",
+              "stringId": "2179470481987026944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А дійсно! Оце ти голова.",
+              "maleVariant": "",
+              "stringId": "2179472899567075328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Кігті» можуть сюди прийти будь-якої миті та перевернути тут все догори дриґом, і торгувати тут уже ніхто не буде.",
+              "maleVariant": "",
+              "stringId": "2222894185739534336"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

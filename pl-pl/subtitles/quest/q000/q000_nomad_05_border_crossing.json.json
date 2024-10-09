@@ -1,0 +1,517 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Proszę skierować pojazd do strefy kontrolnej.",
+              "maleVariant": "",
+              "stringId": "1660532849951920128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Proszę pozostać w pojeździe. Kontrola rozpocznie się za chwilę.",
+              "maleVariant": "",
+              "stringId": "1660629253579886592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mam złe przeczucia.",
+              "maleVariant": "",
+              "stringId": "1660629844339216384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uspokój się.",
+              "maleVariant": "",
+              "stringId": "1660633705565147140"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[weź dokumenty] Daj papiery przewozowe.",
+              "maleVariant": "",
+              "stringId": "1660635662140854272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trzymaj.",
+              "maleVariant": "",
+              "stringId": "1660637394170302464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zdajesz sobie sprawę, że oni widzą, jak się denerwujesz?",
+              "maleVariant": "",
+              "stringId": "1725817784919584768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uspokój się, bo się zorientują.",
+              "maleVariant": "",
+              "stringId": "1725820610974511104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, dobra... Wiem.",
+              "maleVariant": "",
+              "stringId": "1725820906085740544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Daj papiery przewozowe. Będą potrzebne.",
+              "maleVariant": "",
+              "stringId": "1725823397435207680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Popatrzmy... Oznaczone sygnaturą LOA. Świetnie.",
+              "maleVariant": "",
+              "stringId": "1725823727342383104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Właściciel pojazdu w polu kontroli wzywany do złożenia wyjaśnień.",
+              "maleVariant": "",
+              "stringId": "1745908337402204160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Chingada madre...\" b=\"\" a=\" Co teraz?\"/>",
+              "maleVariant": "",
+              "stringId": "1745914294672838656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Będę trzymał silnik na chodzie... Tak w razie czego.",
+              "maleVariant": "",
+              "stringId": "1745916599476441088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A teraz do pokoju numer dwa.",
+              "maleVariant": "",
+              "stringId": "1745918865474342912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Proszę siadać.",
+              "maleVariant": "",
+              "stringId": "1745920106719891456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[usiądź]",
+              "maleVariant": "",
+              "stringId": "1745920676658696196"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dokumenty.",
+              "maleVariant": "",
+              "stringId": "1745923202887995392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[podaj dokumenty] To rutynowa kontrola?",
+              "maleVariant": "",
+              "stringId": "1745924676816752640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[podaj dokumenty] Znam zasady.",
+              "maleVariant": "",
+              "stringId": "1745925350623301632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To rutynowa kontrola?",
+              "maleVariant": "",
+              "stringId": "1745926609971466240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znam zasady. Wszystko jest w papierach.",
+              "maleVariant": "",
+              "stringId": "1745927387343769600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm...",
+              "maleVariant": "",
+              "stringId": "1745927602696114176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co przewozicie?",
+              "maleVariant": "",
+              "stringId": "1745927602696114184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[podaj łapówkę] Dodatek do dokumentów.",
+              "maleVariant": "",
+              "stringId": "1745927602712891392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Coś nie tak?",
+              "maleVariant": "",
+              "stringId": "1745927602712891408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mam tu jeszcze mały załącznik do dokumentacji.",
+              "maleVariant": "",
+              "stringId": "1745927602746445824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeżeli coś jest nie tak, to wystarczy powiedzieć. Na pewno jakoś to załatwimy.",
+              "maleVariant": "",
+              "stringId": "1745927602763223040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[db_db]Officer gives V a long look. Smiles a little.",
+              "maleVariant": "",
+              "stringId": "1745929126134435840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Idź już. Kolega czeka na ciebie w samochodzie.",
+              "maleVariant": "",
+              "stringId": "1745935402272837632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[wstań]",
+              "maleVariant": "",
+              "stringId": "1745936319500013572"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I co tam było?",
+              "maleVariant": "",
+              "stringId": "1745939096162816000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zaraz ci powiem. Znikajmy stąd.",
+              "maleVariant": "",
+              "stringId": "1745939473700507648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co to znaczy?",
+              "maleVariant": "",
+              "stringId": "1815731105973596160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lost On Arrival. Transport został oznaczony jako taki, który \"zgubi się\", jak tylko przekroczy granicę.",
+              "maleVariant": "",
+              "stringId": "1815731169089482752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czyli oni wiedzą, że jesteśmy przemytnikami?",
+              "maleVariant": "",
+              "stringId": "1815731644086022144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zaraz się dowiedzą.",
+              "maleVariant": "",
+              "stringId": "1815731911196078080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Potrzebujemy jeszcze pieniędzy, żeby celnicy przymknęli oko na podrobione papiery. Masz credchip z łapówką?",
+              "maleVariant": "",
+              "stringId": "1815734083241570304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mam... Zapomniałem o nim.",
+              "maleVariant": "",
+              "stringId": "1815734803906883584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm, jasne. Zapomniałeś.",
+              "maleVariant": "",
+              "stringId": "1815734872307593216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może rutynowa. Zobaczymy.",
+              "maleVariant": "",
+              "stringId": "1817126272429387776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zaraz zobaczymy, czy jest, czy nie ma.",
+              "maleVariant": "",
+              "stringId": "1817126712445431808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystko jest tam napisane.",
+              "maleVariant": "",
+              "stringId": "1817163208846143488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystko...?",
+              "maleVariant": "",
+              "stringId": "1817163285685792768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeszcze nic nie powiedziałem.",
+              "maleVariant": "",
+              "stringId": "1817164322115088384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pytanie brzmi: czy powinienem uznać, że coś jest nie tak?",
+              "maleVariant": "",
+              "stringId": "1817164673530654720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ach, tak... Przypomnij mi, z którą rodziną nomadów jeździsz?",
+              "maleVariant": "",
+              "stringId": "1817166927851614208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wzajemnie.",
+              "maleVariant": "",
+              "stringId": "1817188737410330628"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I z wzajemnością.",
+              "maleVariant": "",
+              "stringId": "1817188753382240256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak zrób.",
+              "maleVariant": "",
+              "stringId": "1883809499365437440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha, dobra.",
+              "maleVariant": "",
+              "stringId": "1883858553243889664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz pieniądze na łapówkę?",
+              "maleVariant": "",
+              "stringId": "1908331701848018944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Taka jest procedura.",
+              "maleVariant": "",
+              "stringId": "1908332506785288192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spokojnie, na razie wszystko idzie według planu, zgodnie z procedurami.",
+              "maleVariant": "",
+              "stringId": "1908333198677676032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wygląda na to, że wiesz, co robisz.",
+              "maleVariant": "",
+              "stringId": "1914000072512565248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeżeli przekroczysz granicę, otworzymy ogień!",
+              "maleVariant": "",
+              "stringId": "1915576214748155904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kieruj się do biura. Przestrzegaj procedury.",
+              "maleVariant": "",
+              "stringId": "1915579325864759296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Natychmiast wracaj do pojazdu.",
+              "maleVariant": "",
+              "stringId": "1915619282633379844"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Próba nielegalnego przekroczenia granicy uprawnia do użycia siły.",
+              "maleVariant": "",
+              "stringId": "1967515890164363264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz broń? Odłóż ją tutaj.",
+              "maleVariant": "",
+              "stringId": "1979090529668845568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[odłóż broń]",
+              "maleVariant": "",
+              "stringId": "1979094424616980484"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie zapomnij swoich rzeczy.",
+              "maleVariant": "",
+              "stringId": "1979168689332703232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[podnieś broń]",
+              "maleVariant": "",
+              "stringId": "1979180039974965248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[weź pieniądze i wysiądź] Jasne...",
+              "maleVariant": "",
+              "stringId": "1985307043203928068"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie twoja sprawa.",
+              "maleVariant": "",
+              "stringId": "1996740732432347140"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To nie twoja sprawa.",
+              "maleVariant": "",
+              "stringId": "1996740741710147584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z żadną. Jeżdżę sama.",
+              "maleVariant": "Z żadną. Jeżdżę sam.",
+              "stringId": "1996740745401135104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z żadną.",
+              "maleVariant": "",
+              "stringId": "1996741285275168768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak ci się wydaje...?",
+              "maleVariant": "",
+              "stringId": "1996743954798669824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Odważnie. I niezbyt mądrze...",
+              "maleVariant": "",
+              "stringId": "1996745404484349952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz, zawsze, kiedy widzę kogoś takiego jak ty, cieszę się, że nie siedzę po tamtej stronie stołu.",
+              "maleVariant": "",
+              "stringId": "1996746100453601280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie każ im czekać...",
+              "maleVariant": "",
+              "stringId": "2239109368962531328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pokój numer 2.",
+              "maleVariant": "",
+              "stringId": "2253228609118584832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uważaj na tę zabawkę.",
+              "maleVariant": "",
+              "stringId": "2253305459622723596"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Miłego pobytu w Night City.",
+              "maleVariant": "",
+              "stringId": "2253305459622723608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Siadaj.",
+              "maleVariant": "",
+              "stringId": "2253309757106601984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dokumenty. Daj mi je.",
+              "maleVariant": "",
+              "stringId": "2253319572096729096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To wszystko, co masz?",
+              "maleVariant": "",
+              "stringId": "2253320904224456712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Idź już.",
+              "maleVariant": "",
+              "stringId": "2253374931842809864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zejdź mi z oczu, zanim się rozmyślę.",
+              "maleVariant": "",
+              "stringId": "2253377278472011784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zgłoś się do pomieszczenia straży celnej.",
+              "maleVariant": "",
+              "stringId": "2253392234890313728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[wsiądź] Zaraz ci powiem.",
+              "maleVariant": "",
+              "stringId": "2289348898572402688"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie podoba mi się to. Czemu jej jeszcze nie ma? Mówiła, że wszystko poszło gładko...",
+              "maleVariant": "",
+              "stringId": "2156520533437739008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spokojnie. Gdyby coś było nie tak, już by po nas przyszli.",
+              "maleVariant": "",
+              "stringId": "2172367324411838464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Poza tym, to jedna z topowych najemniczek. Wiedziałeś, że kropnęła tego chuja z zarządu?",
+              "maleVariant": "",
+              "stringId": "2172367493761056768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gówno mnie obchodzi, kogo kropnęła. Jeśli Brown dowie się o tym zleceniu, to...",
+              "maleVariant": "",
+              "stringId": "2172367622089981952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jego słowo przeciw naszemu. Niczego nam nie udowodnią.",
+              "maleVariant": "",
+              "stringId": "2172367788234752000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chyba że ją złapali.",
+              "maleVariant": "",
+              "stringId": "2172367899115372544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie sypnie nas. Najemnicy, którzy sypią, nie narzekają na nadmiar klientów.",
+              "maleVariant": "",
+              "stringId": "2172368028232826880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

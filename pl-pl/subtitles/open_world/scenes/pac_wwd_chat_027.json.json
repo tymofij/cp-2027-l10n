@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Serio? Skazali go?",
+              "maleVariant": "",
+              "stringId": "2179634193492467712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale jaja.",
+              "maleVariant": "",
+              "stringId": "2211504564769845248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm. Na 116 lat. I jeszcze zrobią mu to czyszczenie łba braindansami. Już po facecie.",
+              "maleVariant": "",
+              "stringId": "2212585221591855104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No ale przecież nie udowodnili, że to była cyberpsychoza.",
+              "maleVariant": "",
+              "stringId": "2212586423679381504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Myślisz, że musieli?",
+              "maleVariant": "",
+              "stringId": "2212587088057135104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ile on osób zabił w tej kaplicy? Kilkanaście? Tyle to dziennie pewnie pada w naszej okolicy.",
+              "maleVariant": "",
+              "stringId": "2212587208316219392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A wiesz, co jest najciekawsze? Podobno gnata kupił w tym sklepie.",
+              "maleVariant": "",
+              "stringId": "2212588174146990080"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

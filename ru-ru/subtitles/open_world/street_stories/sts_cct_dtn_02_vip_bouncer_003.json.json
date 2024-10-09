@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты далеко? Вход только для вип-клиентов.",
+              "maleVariant": "",
+              "stringId": "1712569812403908608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Исчезни, а то допросишься.",
+              "maleVariant": "",
+              "stringId": "1712569812454240256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знаю босса.",
+              "maleVariant": "",
+              "stringId": "1712569812538126336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы друзья с твоим боссом.",
+              "maleVariant": "",
+              "stringId": "1712569812856893440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Босса много кто знает. Он никого не держит в «больших друзьях».",
+              "maleVariant": "",
+              "stringId": "1712569812856893448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей…",
+              "maleVariant": "Окей, но…",
+              "stringId": "1925708864649744384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Говно! Босс сказал: никого не пускать, он отдыхает. Так что пройди на выход.",
+              "maleVariant": "",
+              "stringId": "1925709299917836288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне сообщили, что вылазка прошла успешно, и ты показала себя настоящим профессионалом.",
+              "maleVariant": "Мне сообщили, что вылазка прошла успешно, и ты показал себя настоящим профессионалом.",
+              "stringId": "2328618844492914688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эту вылазку сложно назвать успешной. Ты меня огорчила, Ви. Ничего страшного, но смотри, чтоб это не вошло в привычку.",
+              "maleVariant": "Эту вылазку сложно назвать успешной. Ты меня огорчил, Ви. Ничего страшного, но смотри, чтоб это не вошло в привычку.",
+              "stringId": "2328620321626120196"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чем больше промахов, тем меньше к тебе доверия. А если я теряю доверие, я перестаю звонить. Запомни это, Ви.",
+              "maleVariant": "",
+              "stringId": "2343097402704367616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прекрасная работа, Ви. Не опускай планку. Я закрываю заказ и перечисляю твою плату.",
+              "maleVariant": "",
+              "stringId": "2343104436870942720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дитинко, маю до тебе буквально загробне завдання. Мережниця досі жива, але це лише справа часу або твоєї обережності.",
+              "maleVariant": "",
+              "stringId": "2328787616878317572"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "6а6айка в пастці у мережі. Якщо вона від’єднається, то на неї вже чекають «Тигрові кігті», які стерв’ятниками роздеруть її на шматки.",
+              "maleVariant": "",
+              "stringId": "2334551533569163264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але, якщо залишиться, то рано чи пізно в неї підсмажаться синаптичні зв’язки. Я розраховую на тебе, Ві. Подробиці додаю.",
+              "maleVariant": "",
+              "stringId": "2334551703203594240"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

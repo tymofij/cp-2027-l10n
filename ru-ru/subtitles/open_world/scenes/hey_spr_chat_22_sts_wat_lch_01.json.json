@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Брат, ты лучше туда не подключайся. Поймают — так даже разговаривать не станут.",
+              "maleVariant": "",
+              "stringId": "2162145636835373056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это наш сервер. Кто меня там поймает?",
+              "maleVariant": "",
+              "stringId": "2213047137121701888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Тигриные когти».",
+              "maleVariant": "",
+              "stringId": "2218810156485283840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И что? Всё равно они ни хера про локальные сети не знают. Пусть попробуют меня отследить.",
+              "maleVariant": "",
+              "stringId": "2218817391743569920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне кажется, ты староват для игр в нетраннера. Успокойся уже.",
+              "maleVariant": "",
+              "stringId": "2218819461431267328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Успокойся»? Да иди на хер! Что ты обо мне знаешь? Чёртов русский!",
+              "maleVariant": "",
+              "stringId": "2218820854611283968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Просто… А, неважно. Обижайся, сколько хочешь.",
+              "maleVariant": "",
+              "stringId": "2218823208001703936"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

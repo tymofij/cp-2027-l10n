@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Простите, сэр. Вас нет в системе.",
+              "maleVariant": "",
+              "stringId": "2177920697144373248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да не может быть. Я менеджер всего отдела логистики на четвёртом складе! Как это меня нет в системе?",
+              "maleVariant": "",
+              "stringId": "2177921938406699008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Четвёртый склад? Подождите, я, кажется, знаю, в чём дело.",
+              "maleVariant": "",
+              "stringId": "2177922972671733760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну наконец-то.",
+              "maleVariant": "",
+              "stringId": "2177923397336625152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу. Да, вижу.",
+              "maleVariant": "",
+              "stringId": "2177923974758068224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Все менеджеры склада номер четыре попали под сокращение.",
+              "maleVariant": "",
+              "stringId": "2177926208409497600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что?",
+              "maleVariant": "",
+              "stringId": "2177926760581230592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ваш контракт с корпорацией расторгнут.",
+              "maleVariant": "",
+              "stringId": "2177926920551985152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет… Быть такого не может…",
+              "maleVariant": "",
+              "stringId": "2177932435860418560"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

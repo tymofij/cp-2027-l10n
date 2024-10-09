@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czy mi się wydaje, czy kiedyś tu było jakoś spokojniej?",
+              "maleVariant": "",
+              "stringId": "2161788985688535040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A było, było. Mniej się strzelali. I cyberpsychoza coś rzadziej atakowała ludzi.",
+              "maleVariant": "",
+              "stringId": "2177914670113603584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak sobie myślę, że burmistrz powinien dozbroić mieszkańców.",
+              "maleVariant": "",
+              "stringId": "2177914831527198720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wpadnie taki wariat do sklepu i trach! Wszyscy do niego prują z karabinów.",
+              "maleVariant": "",
+              "stringId": "2177915026881101824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A powinno tak być, powinno. Trach! I po problemie.",
+              "maleVariant": "",
+              "stringId": "2177915218510462976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A, ludzie mają za mało broni. To jest wielka tragedia Night City.",
+              "maleVariant": "",
+              "stringId": "2177915710569431040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A, a jakby, ten... jakby ktoś przez pomyłkę strzelił i wiesz, zabił?",
+              "maleVariant": "",
+              "stringId": "2177915833512869888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To mówi się trudno. Lepiej zastrzelić obcego przez pomyłkę, niż ryzykować, że to on zastrzeli ciebie.",
+              "maleVariant": "",
+              "stringId": "2177916100320935936"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

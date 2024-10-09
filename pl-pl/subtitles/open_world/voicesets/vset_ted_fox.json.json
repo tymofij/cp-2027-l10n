@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ej, ja ci nie przerywałem.",
+              "maleVariant": "",
+              "stringId": "1895271845206241284"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Koleżanko, wysłuchaj do końca.",
+              "maleVariant": "Kolego, wysłuchaj do końca.",
+              "stringId": "1895271845223018500"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ciekawość zawsze wygrywa, nie?",
+              "maleVariant": "",
+              "stringId": "1895271845306904576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiedziałem, że wrócisz.",
+              "maleVariant": "",
+              "stringId": "1895271845323681796"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sprawa jest raczej nagląca.",
+              "maleVariant": "",
+              "stringId": "1895271845357236228"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty może masz czas, ale ja nie.",
+              "maleVariant": "",
+              "stringId": "1895271845390790656"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

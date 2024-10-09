@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kiedyś myślałam, że to Brick był pierdolnięty.",
+              "maleVariant": "",
+              "stringId": "2156423008251011072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, a nie był? Chłopaki mówili, że odwalał pojebane numery, jeszcze zanim został szefem.",
+              "maleVariant": "",
+              "stringId": "2170944424312029184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słyszałam, że raz wbił do miejscówki 6th Streetów i wrzasnął, że kto się podlizuje NUSA, ten ameba i chuj.",
+              "maleVariant": "",
+              "stringId": "2170944770342109184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Po rozróbie jaka się wywiązała, musieli mu ponoć wstawić nową tchawicę. Ale twierdził, że było warto.",
+              "maleVariant": "",
+              "stringId": "2170957039553724416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie o takie pierdolnięcie mi chodzi. Brick wpadał czasem na popieprzone pomysły, ale mów, co chcesz - miał olej w głowie.",
+              "maleVariant": "",
+              "stringId": "2170957432258019328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A okradanie Militechu to zupełnie nowy poziom zjebania umysłowego.",
+              "maleVariant": "",
+              "stringId": "2170957803504254976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ech, cały Royce...",
+              "maleVariant": "",
+              "stringId": "2170958471908540416"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

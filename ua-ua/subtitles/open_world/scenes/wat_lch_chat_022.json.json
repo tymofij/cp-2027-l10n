@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Також підкладеш фальшиві документи. Нехай думають, що це він тебе підіслав до них.",
+              "maleVariant": "",
+              "stringId": "2156517410442866688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але ти там сильно вже не гаруй. Що менше тупів, то легше мені буде потім їх прибирати.",
+              "maleVariant": "",
+              "stringId": "2172410176877608960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це все. Усе ясно?",
+              "maleVariant": "",
+              "stringId": "2172410311112114176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ясно як божий день. Але-от річ у тім, що потрапити туди — суще пекло. А схильностей бути мішенню я не маю.",
+              "maleVariant": "",
+              "stringId": "2172410810133626880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тож без доплати авансом тут не обійтися. Для такої справи доведеться оновити спорядження.",
+              "maleVariant": "",
+              "stringId": "2172411132004515840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не проблема. Уже завтра гроші будуть на твоєму рахунку.",
+              "maleVariant": "",
+              "stringId": "2172411304591736832"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

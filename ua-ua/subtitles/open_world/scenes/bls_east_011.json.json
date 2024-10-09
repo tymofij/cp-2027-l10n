@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чула? Нам тут хочуть забахати ТРЦ — з бутіками та генделиками.",
+              "maleVariant": "",
+              "stringId": "2178181591294353408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, радощів повні штани. Поскуповують усю землю та понаставляють тут своїх парканів. А тобі потім доведеться робити отакий гак, щоби обійти ті всі генделики.",
+              "maleVariant": "",
+              "stringId": "2188259241702940672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Або ми можемо туди зайти та подивитися, шо там. Тобі хіба не цікаво?",
+              "maleVariant": "",
+              "stringId": "2188270056900354048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пф-ф-ф, я не платитиму за те, щоби подивитися на речі, які я собі не можу дозволити.",
+              "maleVariant": "",
+              "stringId": "2188270345200033792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А я подивлюся хто виходитиме з повними торбами, а хто — з тупою пикою.",
+              "maleVariant": "",
+              "stringId": "2188275437487742976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А може там буде не дорого, ти звідки знаєш? Однаково треба прийти хоч поглянути.",
+              "maleVariant": "",
+              "stringId": "2188279640046133248"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

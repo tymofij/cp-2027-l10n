@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От деяких корпарів я взагалі не можу зрозуміти.",
+              "maleVariant": "",
+              "stringId": "2328615815182626816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У них є все: влада, престиж, бабла, як у Скруджа Мак-Дака… а поводяться все одно як повні мудили.",
+              "maleVariant": "",
+              "stringId": "2334647299411263488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От, наприклад, мій клієнт: якась вагома шишка в «Кан-Тао». Поїхав до Арройо, щоби добре повеселитися. Тільки от Арройо жартувати не вміє.",
+              "maleVariant": "",
+              "stringId": "2334647422908350464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сам чувак живий, але загубив дещо вкрай цінне, як він сам сказав. Треба знайти цю річ, поки історія не дійшла до його керівництва. Можеш приступати. Інфа в листі.",
+              "maleVariant": "",
+              "stringId": "2334647575396466688"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

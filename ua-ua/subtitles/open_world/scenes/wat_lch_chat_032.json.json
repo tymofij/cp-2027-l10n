@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Останнім часом вона геть не відлипає від того візора…",
+              "maleVariant": "",
+              "stringId": "2156550085547421696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якась нова гра?",
+              "maleVariant": "",
+              "stringId": "2222769755419918336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Гра»… Пф… Ну так. Якась хрінь про веселкових мишей і кроликів…",
+              "maleVariant": "",
+              "stringId": "2222770172031746048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та чому ж одразу «хрінь»? Ти хоч сам грав?",
+              "maleVariant": "",
+              "stringId": "2222771126219128832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні… Не хочу, щоби мене теж затягнуло…",
+              "maleVariant": "",
+              "stringId": "2222771769658916864"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты куда вчера пропал?",
+              "maleVariant": "",
+              "stringId": "2181071947346698240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Повёз нашу девочку на просмотр в «Облаках».",
+              "maleVariant": "",
+              "stringId": "2181072200363892736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ого, смело. И как прошло?",
+              "maleVariant": "",
+              "stringId": "2181074730435174400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да этот хер её весь день допрашивал, а под конец сказал, что у неё ноги слишком короткие.",
+              "maleVariant": "",
+              "stringId": "2181075387565170688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот урод! Сколько вообще времени надо, чтоб на ноги посмотреть?",
+              "maleVariant": "",
+              "stringId": "2181075744936648704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не говори. У малышки драма. Он-то хотела отсюда вырваться… Говорит, там по крайней мере ничем не пахнет, да и «Духов» нет.",
+              "maleVariant": "",
+              "stringId": "2181076186747854848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да везде свои «Духи» есть.",
+              "maleVariant": "",
+              "stringId": "2181076527929319424"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

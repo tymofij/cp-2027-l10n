@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Красиво и тихо. Хотя о разводе мистера Гутьерреса этого не скажешь. Изумительная работа, Ви. Закрываю заказ.",
+              "maleVariant": "",
+              "stringId": "2328653895436414976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мистер Гутьеррес просил работать тихо.",
+              "maleVariant": "",
+              "stringId": "2342903326335930368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ты вместо этого подняла шум. Сначала его подставила супруга, теперь ты… Не везёт нашему клиенту на женщин. Закрываю заказ.",
+              "maleVariant": "Может, тебе не говорили, но «работать тихо» и «поднимать шум» — это противоположные вещи. Запомни на будущее. Закрываю заказ.",
+              "stringId": "2342904435460902912"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

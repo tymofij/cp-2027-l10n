@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну что, как оно? Какие планы на выходные?",
+              "maleVariant": "",
+              "stringId": "2156497932395192320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дома буду сидеть. Мне новые рольставни должны поставить. Противовзломные.",
+              "maleVariant": "",
+              "stringId": "2169272921204510720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ого. И что, дорого? Тоже про них думал.",
+              "maleVariant": "",
+              "stringId": "2169273763034877952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дорого, конечно, но тут лучше не экономить. А то будешь червей кормить, как мой сосед.",
+              "maleVariant": "",
+              "stringId": "2169273871164035072"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

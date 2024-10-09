@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No i jak tam nasza korporacyjna księżniczko?",
+              "maleVariant": "",
+              "stringId": "2161935480598589440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobrze.",
+              "maleVariant": "",
+              "stringId": "2227630222672760832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Warunki już odpowiednie? Woda wystarczająco wodnista?",
+              "maleVariant": "",
+              "stringId": "2227630290301718528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jest wspaniale.",
+              "maleVariant": "",
+              "stringId": "2227630408010665984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A obiady? Czy już się rozsmakowałeś w naszej kuchni? Poczułeś jej... niepowtarzalny bukiet?",
+              "maleVariant": "",
+              "stringId": "2227630527347003392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak, to cudowna kuchnia.",
+              "maleVariant": "",
+              "stringId": "2227630706393452544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ha! Mówiłem ci, że na Militechu świat się nie kończy, to nie wierzyłeś. A teraz? Pewnie byś już nawet nie umiał żyć w tym  swoim korpo-apartamenciku.",
+              "maleVariant": "",
+              "stringId": "2227630985012678656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pewnie nie.",
+              "maleVariant": "",
+              "stringId": "2227632256339775488"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

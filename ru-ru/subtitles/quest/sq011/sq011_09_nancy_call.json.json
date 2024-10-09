@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет. Я договорилась. Концерт сегодня вечером в «Красной грязи».",
+              "maleVariant": "",
+              "stringId": "1382699297359486976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты уже звонила Керри? Он случайно не передумал?",
+              "maleVariant": "",
+              "stringId": "1382722066826616832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я его таким не видела со времён Сильверхенда.",
+              "maleVariant": "",
+              "stringId": "1382722385996374016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет-нет, ты что. Он там уже бьёт копытом.",
+              "maleVariant": "",
+              "stringId": "1408153568979259392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У тебя не получилось убедить Денни?",
+              "maleVariant": "Что, не получилось убедить Денни?",
+              "stringId": "1834445243826327552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что там с Генри? Он не с нами?",
+              "maleVariant": "",
+              "stringId": "1834445594252038144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Короче, увидимся вечером.",
+              "maleVariant": "",
+              "stringId": "1834446005411270656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет. Я пыталась, но куда там.",
+              "maleVariant": "",
+              "stringId": "1834449831505711104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Насчёт гитары не беспокойся. Всё, что нужно, я достану.",
+              "maleVariant": "",
+              "stringId": "1834450169331732480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ему не звонила. Ещё распинаться перед этим придурком.",
+              "maleVariant": "",
+              "stringId": "1834451873645219840"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

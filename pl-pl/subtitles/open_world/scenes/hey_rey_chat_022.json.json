@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widzisz, bo tobie się wydaje, że będziesz zarabiał na gównie, a przy tym, że gównem się nie ubrudzisz.",
+              "maleVariant": "",
+              "stringId": "2161904328059940864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O czym ona mówi?",
+              "maleVariant": "",
+              "stringId": "2227410684245020672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie patrz na mnie, ja tu jestem od walenia w mordę, kolego.",
+              "maleVariant": "",
+              "stringId": "2227411668614615040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty sobie myślisz, że jesteś lepszy, że ty się nie musisz brudzić, ale ja cię w to gówno wciągnę po uszy, aż się nim zaczniesz, kurwa, krztusić.",
+              "maleVariant": "",
+              "stringId": "2227411956243206144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wystarczy.",
+              "maleVariant": "",
+              "stringId": "2227412958027550720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wystarczy. Zmieniamy zasady gry. Od teraz dajesz nam pełen dostęp do swoich danych i jeździsz z nami na akcje, albo... zresztą sam wiesz. Rozumiemy się?",
+              "maleVariant": "",
+              "stringId": "2227413064613203968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czy się rozumiemy panie fixer?",
+              "maleVariant": "",
+              "stringId": "2227492232185090048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak. Rozumiemy się.",
+              "maleVariant": "",
+              "stringId": "2227492476343914496"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

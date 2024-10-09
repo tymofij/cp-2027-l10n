@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На штучному м’ясі.",
+              "maleVariant": "",
+              "stringId": "2172161397591093248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Перепрошую?",
+              "maleVariant": "",
+              "stringId": "2181066060627021824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Він заробив свої статки на виробництві штучного м’яса.",
+              "maleVariant": "",
+              "stringId": "2181066143288365056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І вони його прийняли?",
+              "maleVariant": "",
+              "stringId": "2181066224355872768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага.",
+              "maleVariant": "",
+              "stringId": "2181066477557616640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мені стає вже гидко. Раніше це був елітний клуб, а що тепер?",
+              "maleVariant": "",
+              "stringId": "2181066539784310784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тепер вони приймають будь-кого, хто заробляє більше комунальника.",
+              "maleVariant": "",
+              "stringId": "2181066649607966720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Посмотреть в зеркало.]",
+              "maleVariant": "",
+              "stringId": "2413972943627247616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Отойти от зеркала.]",
+              "maleVariant": "",
+              "stringId": "2413972943828574208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Улыбнуться.]",
+              "maleVariant": "",
+              "stringId": "2520255724287582208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Нахмуриться.]",
+              "maleVariant": "",
+              "stringId": "2520255724287582220"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Расстроиться.]",
+              "maleVariant": "",
+              "stringId": "2520255724287582232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Удивиться.]",
+              "maleVariant": "",
+              "stringId": "2520255724304359424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Посмотреть.]",
+              "maleVariant": "",
+              "stringId": "2520255724304359436"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Изменить внешность.]",
+              "maleVariant": "",
+              "stringId": "2888250071064666112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Изменить выражение лица.]",
+              "maleVariant": "",
+              "stringId": "2888250071081443340"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Вернуться.]",
+              "maleVariant": "",
+              "stringId": "2898462936862187520"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

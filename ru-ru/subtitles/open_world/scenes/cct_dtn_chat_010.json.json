@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А может, пойдём в «Блё»? На hors d'oeuvres?",
+              "maleVariant": "",
+              "stringId": "1964679706095370240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет уж, спасибо. Мне моя жизнь дорога.",
+              "maleVariant": "",
+              "stringId": "1964715443880706048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ого! Я чего-то не знаю?",
+              "maleVariant": "",
+              "stringId": "1964715650139799552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А я не рассказывал? Месяц назад там чуть насмерть не отравили Харпера из совета «Биотехники».",
+              "maleVariant": "",
+              "stringId": "1964716011017715712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кто-то из конкурентов отправил туда своего человека под видом официанта. Хорошо, что с Харпером был начальник охраны…",
+              "maleVariant": "",
+              "stringId": "1964717084759539712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что он сделал? Первым продегустировал блюдо и расплавил себе горло?",
+              "maleVariant": "",
+              "stringId": "1964717671089684480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да нет, он просто гурман, обоняние на максимум выкручено. Унюхал яд ещё до того, как тарелку на стол поставили.",
+              "maleVariant": "",
+              "stringId": "1964717920449445888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Серьёзно?!",
+              "maleVariant": "",
+              "stringId": "1964718562849046528"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I need guns.",
+              "maleVariant": "",
+              "stringId": "1979351707821776900"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Don't look the salesman type.",
+              "maleVariant": "",
+              "stringId": "1979352287189377024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Like to buy some iron.",
+              "maleVariant": "I'd like to buy some iron.",
+              "stringId": "1979352912929202176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So buy some.",
+              "maleVariant": "",
+              "stringId": "1979354932671127552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lookin' at you, can't help thinkin' retail just ain't your hobby, ain't your callin'.",
+              "maleVariant": "",
+              "stringId": "1979357082017046528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You wanna buy – buy. You wanna talk – fuck off.",
+              "maleVariant": "",
+              "stringId": "1979357626454482944"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

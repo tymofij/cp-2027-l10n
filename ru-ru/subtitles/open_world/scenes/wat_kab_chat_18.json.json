@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну давай, вмажься. Не ссы.",
+              "maleVariant": "",
+              "stringId": "2156436149844287488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну не знаю… Ты где это взял хоть?",
+              "maleVariant": "",
+              "stringId": "2169147410264412160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В пизде! У чумбы купил, конечно. Торкает нормально, отвечаю.",
+              "maleVariant": "",
+              "stringId": "2169147515323338752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ты этому чумбе доверяешь? Я подыхать пока не хочу…",
+              "maleVariant": "",
+              "stringId": "2169147899873906688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты чего такой обломщик-то? Не хочешь — как хочешь. Тебе же хуже.",
+              "maleVariant": "",
+              "stringId": "2169148703183785984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

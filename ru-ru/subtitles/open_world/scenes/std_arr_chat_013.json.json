@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Короче, надо что-то делать.",
+              "maleVariant": "",
+              "stringId": "2167867518284648448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Точно. За своё надо драться. Всем вместе!",
+              "maleVariant": "",
+              "stringId": "2214409772538892288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мужики, ну а что мы можем сделать? Не будем же мы этих роботов ломать.",
+              "maleVariant": "",
+              "stringId": "2214409820337180672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если они их захотят вместо нас посадить, они посадят. Рано или поздно.",
+              "maleVariant": "",
+              "stringId": "2221543300246376448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это что такое? Тебя со дня на день уволят, а ты их ещё защищаешь?",
+              "maleVariant": "",
+              "stringId": "2221543529255374848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да никого я не защищаю. Просто тут всё ясно. Это же капитализм. На их месте, наверно, я бы так же сделал.",
+              "maleVariant": "",
+              "stringId": "2221545653922009088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну всё, держите меня, я его сейчас отоварю!",
+              "maleVariant": "",
+              "stringId": "2221546298938855424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Я бы так же сделал»? Слыхали дебила?!",
+              "maleVariant": "",
+              "stringId": "2221546593680986112"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This is a joke! A fuckin' joke! Sendin' a cop to a neighborhood like that... a year before retirement!",
+              "maleVariant": "",
+              "stringId": "2161791634458619904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "More like a goddamn death sentence. Tellin' you, Lena's about to crack.",
+              "maleVariant": "",
+              "stringId": "2178018288229662720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Few months in Northside, she'll blast herself.",
+              "maleVariant": "",
+              "stringId": "2178018458082197504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Helluva good cop, too. Got her heart in the right place. Why they gotta do her like this?",
+              "maleVariant": "",
+              "stringId": "2178018587149320192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Eddies, choom. Better to send someone who's on their way out already.",
+              "maleVariant": "",
+              "stringId": "2178018743177428992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Man, you gotta be a real coldhearted bastard to think that way 'bout Lena... 'bout anyone.",
+              "maleVariant": "",
+              "stringId": "2178018888417787904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, but that's the system. Ain't got a better one.",
+              "maleVariant": "",
+              "stringId": "2178019049495838720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

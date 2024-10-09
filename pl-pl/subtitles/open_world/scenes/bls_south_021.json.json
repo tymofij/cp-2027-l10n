@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co ja sobie myślałam, żeby przyjeżdżać do tego zasranego miasta?",
+              "maleVariant": "",
+              "stringId": "2178297681288880128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To samo, co my wszyscy. Że spełnisz swoje marzenia i takie tam bzdury.",
+              "maleVariant": "",
+              "stringId": "2182451169291124736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ile mogłam mieć? Dziewiętnaście, dwadzieścia lat? Głupia byłam.",
+              "maleVariant": "",
+              "stringId": "2182451371439800320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszyscy byliśmy. Ja, wyobraź sobie, chciałam zostać aktorką braindansową z North Oak.",
+              "maleVariant": "",
+              "stringId": "2182451868011839488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zamiast tego czyszczę kible i mieszkam w zasyfionym motelu.",
+              "maleVariant": "",
+              "stringId": "2182452170572152832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Życie skończyło się, zanim w ogóle zdążyło się zacząć.",
+              "maleVariant": "",
+              "stringId": "2182452340491796480"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

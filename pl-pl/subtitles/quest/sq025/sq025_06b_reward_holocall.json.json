@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tu Sieć Delamain, jak się Pani miewa?",
+              "maleVariant": "Tu Sieć Delamain, jak się Pan miewa?",
+              "stringId": "1945772020274995200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bywało lepiej. A co u ciebie?",
+              "maleVariant": "",
+              "stringId": "1999691393957126144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Moje zguby wróciły do domu, więc nareszcie mogę powiedzieć, że wszystko u mnie gra.",
+              "maleVariant": "",
+              "stringId": "1999694635298480128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zapraszam do mojego biura po wynagrodzenie. Chciałbym Pani podziękować osobiście!",
+              "maleVariant": "Zapraszam do mojego biura po wynagrodzenie. Chciałbym Panu podziękować osobiście!",
+              "stringId": "1999782213439741952"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

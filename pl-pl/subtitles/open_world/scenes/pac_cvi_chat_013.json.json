@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co u was? Trzymacie się?",
+              "maleVariant": "",
+              "stringId": "2179208896737210368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stara bida. Barak rdzewieje, będę musiał kupić trochę nowej płyty falistej.",
+              "maleVariant": "",
+              "stringId": "2189811502947221504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak to jest, że mieszkamy w dzielnicy wyjebanych w kosmos hoteli, a kisimy się w tych puszkach?",
+              "maleVariant": "",
+              "stringId": "2189811765158330368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Voodoo Boysi powinni coś z tym zrobić. Zawalczyć o ludzi.",
+              "maleVariant": "",
+              "stringId": "2189811981013991424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Odpiernicz się od nich. Wystarczy, że dzięki nim nie muszę się bać gangusów z miasta.",
+              "maleVariant": "",
+              "stringId": "2189816933631377408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale musisz się bać kwaśnych deszczy i głodu. Wielkie dzięki za taką protekcję.",
+              "maleVariant": "",
+              "stringId": "2189817343549095936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie można mieć wszystkiego. Byle przeżyć jak najdłużej.",
+              "maleVariant": "",
+              "stringId": "2189817702447300608"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

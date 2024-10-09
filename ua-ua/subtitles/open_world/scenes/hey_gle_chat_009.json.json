@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти можеш бути в штаті, можеш бути геніальним стратегом, але на цьому все. Тобі ніколи не стати обличчям кампанії.",
+              "maleVariant": "",
+              "stringId": "1832762598201352192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знаю, як добитися свого.",
+              "maleVariant": "",
+              "stringId": "1832764961221894144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знаю, що ти знаєш. Але тобі однаково чогось… Бракує. Того, чого бракує людям.",
+              "maleVariant": "",
+              "stringId": "1832765131930066944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "За підтримки Томпсона у мене хороші шанси отримати місце в Раді. І я не збираюся відступати.",
+              "maleVariant": "",
+              "stringId": "1832765298896920576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Томпосон тепер із «Арасакою».",
+              "maleVariant": "",
+              "stringId": "1832767069799178240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що?",
+              "maleVariant": "",
+              "stringId": "1832767235692290048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Саме так. Тож нехай щастить.",
+              "maleVariant": "",
+              "stringId": "1832767383868661760"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

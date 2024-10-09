@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To nie mogła być żaglica. Skąd niby żywa żaglica tutaj.",
+              "maleVariant": "",
+              "stringId": "2179671749777022976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Prędkość się zgadzała. Pruła ponad sześćdziesiątką. Ta płetwa też jakaś taka znajoma, jak na zdjęciach.",
+              "maleVariant": "",
+              "stringId": "2211512237997355008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To musiał być dron. Albo torpeda.",
+              "maleVariant": "",
+              "stringId": "2211512313176059904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bez sensu. Co niby miałoby wystrzelić tę torpedę?",
+              "maleVariant": "",
+              "stringId": "2212736922504327168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Posłuchaj tych podcastów, które ci wysłałam.",
+              "maleVariant": "",
+              "stringId": "2212737257780211712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podobno tu aż się roi od okrętów podwodnych Militechu.",
+              "maleVariant": "",
+              "stringId": "2212737754385805312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To już wolę wierzyć w to, że w tym ścieku przeżyła jedna żaglica.",
+              "maleVariant": "",
+              "stringId": "2212738161065521152"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

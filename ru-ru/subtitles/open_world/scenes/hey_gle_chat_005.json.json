@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как думаешь, кто такой этот доктор Парадокс?",
+              "maleVariant": "",
+              "stringId": "1832717649556660224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да никто. Очередная идиотская рекламная кампания.",
+              "maleVariant": "",
+              "stringId": "1832725763269976064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты думаешь? Но это же была пиратская врезка!",
+              "maleVariant": "",
+              "stringId": "1832725948473663488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Парень вклинился в эфир вместо других передач!",
+              "maleVariant": "",
+              "stringId": "1832726182566158336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Именно. По-твоему, это реально без участия владельцев каналов?",
+              "maleVariant": "",
+              "stringId": "1832726371309838336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Точно тебе говорю, чумба, очередная замаскированная реклама. Сперва привлекут внимание, а потом раскроют карты.",
+              "maleVariant": "",
+              "stringId": "1832726522405445632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не верь всему, что показывают по телеку!",
+              "maleVariant": "",
+              "stringId": "1964907639154130944"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

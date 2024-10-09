@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Good evening, Night City. Tonight's main story – what's next for Arasaka? How will the Japanese megacorp emerge from this crisis?",
+              "maleVariant": "",
+              "stringId": "1672053263212388352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"皆さん、ご苦労感謝する\" t=\"Good day, everyone. Welcome.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1680726200143892480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"なぜなら、アラサカはただの一企業ではないからだ\" t=\"That is because Arasaka is more than just a corporation.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1680726428431470592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The company was recently shocked by a series of disastrous events – the most significant of which being an attack on their corporate headquarters last night.",
+              "maleVariant": "",
+              "stringId": "1680727482325848064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"どうも我々の敵は、アラサカを潰せると考えたらしい\" t=\"It seems our enemies believed Arasaka could be destroyed.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1680728991738417152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"だが私は、彼らにこう伝えたい… 不可能であると。太陽を消し去り、海を干上がらせるほうがまだ簡単だろう\" t=\"But I have message for them... It cannot be done. They've a better chance to extinguish the sun, or empty the seas.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1680729275122372608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"アラサカという強大な存在は誰にも止められない。アラサカは力そのものなのだ\" t=\"Arasaka is a force – one that cannot be stopped or slowed. Arasaka is strength.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1680730020366307328"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

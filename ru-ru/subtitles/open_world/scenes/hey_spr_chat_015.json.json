@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слушай, мы с тобой давно знакомы, я тебе как друг говорю: не трать ты время на колледж, займись тем, что тебе по силам.",
+              "maleVariant": "",
+              "stringId": "2162084750020030464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха-ха! Ну ты шутканул. Вот закончу курс, буду сидеть с тобой за соседним столом в «Милитехе».",
+              "maleVariant": "",
+              "stringId": "2209951033022844928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не будешь. Тебя никогда не примут. У меня другая ситуация. Вот кто твои родители?",
+              "maleVariant": "",
+              "stringId": "2217609008499757056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Э-э-э… Ну ты же знаешь.",
+              "maleVariant": "",
+              "stringId": "2217609914251317248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ответь.",
+              "maleVariant": "",
+              "stringId": "2217610067225972736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отец работает в доках, мама — официантка, но это ничего не значит. Мне надо просто сдать экзамены.",
+              "maleVariant": "",
+              "stringId": "2217610135677014016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тебе так кажется. Мы с тобой из разных миров. Это видно по тому, как ты говоришь, даже по тому, как… пф-ф-ф, прости, ты даже выглядишь как ряженый.",
+              "maleVariant": "",
+              "stringId": "2217612365301911552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В общем, я тебе говорю по-дружески. Чем раньше ты поймёшь, где твоё место, тем лучше.",
+              "maleVariant": "",
+              "stringId": "2217613456492040192"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

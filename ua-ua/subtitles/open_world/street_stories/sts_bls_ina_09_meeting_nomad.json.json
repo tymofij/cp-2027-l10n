@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Агов, Мак-Адамс! Ходи сюди!",
+              "maleVariant": "",
+              "stringId": "1654819827128643584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Старкі… Давно не бачилися.",
+              "maleVariant": "",
+              "stringId": "1771933063627321344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гівняний вигляд маєш.",
+              "maleVariant": "",
+              "stringId": "1771933614037446656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та, мені щось трохи хріново. Схоже, що тобі доведеться бути моїм шофером.",
+              "maleVariant": "",
+              "stringId": "1932908631723626496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "До речі, Ві. Дакота надіслала тобі оплату.",
+              "maleVariant": "",
+              "stringId": "1932910879333699584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Супер, дякую.",
+              "maleVariant": "",
+              "stringId": "1932913393365962752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Щасти.",
+              "maleVariant": "",
+              "stringId": "1932913571338670080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Зачекати]",
+              "maleVariant": "",
+              "stringId": "2412608350794985476"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

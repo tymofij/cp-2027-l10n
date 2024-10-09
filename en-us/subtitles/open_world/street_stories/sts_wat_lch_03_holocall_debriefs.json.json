@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sig reached me that Roh's secured. Can't say I'm not impressed.",
+              "maleVariant": "",
+              "stringId": "2328716792749436928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, Roh's secure, but I dunno... Guess I was expecting something more?",
+              "maleVariant": "",
+              "stringId": "2328717304454524928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Like more discretion? Next time, try and go that extra mile, 'K? Gig closed.",
+              "maleVariant": "",
+              "stringId": "2334798849447923712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You handled it like a real pro. Closing the gig, sending the eds.",
+              "maleVariant": "",
+              "stringId": "2334801610977677312"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

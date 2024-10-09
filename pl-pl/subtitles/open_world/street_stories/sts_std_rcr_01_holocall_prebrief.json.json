@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie jestem zwolenniczką rozwiązań siłowych, ale czasami trzeba sięgnąć po starą sprawdzoną metodę: przemoc.",
+              "maleVariant": "",
+              "stringId": "2328596370291085312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mam jednego typa do spacyfikowania. Sadysta na korporacyjnej smyczy, prawdziwy wrzód na dupie Night City.",
+              "maleVariant": "",
+              "stringId": "2342006299783696384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zrób przysługę nam wszystkim i weź ten kontrakt. Szczegóły w załączniku.",
+              "maleVariant": "",
+              "stringId": "2342006345149288448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

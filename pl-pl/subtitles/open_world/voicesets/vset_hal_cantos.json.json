@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystko ogarniemy, bez nerwów.",
+              "maleVariant": "",
+              "stringId": "1895157721348997124"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No jak tam?",
+              "maleVariant": "",
+              "stringId": "1895157721365774340"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No dobra... potem dokończę.",
+              "maleVariant": "",
+              "stringId": "1895157721483214852"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czyli teraz nie masz czasu?",
+              "maleVariant": "",
+              "stringId": "1895157721499992068"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, wróćmy do naszej rozmowy.",
+              "maleVariant": "",
+              "stringId": "1895157721567100928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O, już możemy.",
+              "maleVariant": "",
+              "stringId": "1895157721583878148"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie chcę cię pośpieszać, ale... no sama rozumiesz.",
+              "maleVariant": "Nie chcę cię pośpieszać, ale... no sam rozumiesz.",
+              "stringId": "1895157721617432580"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trochę czas nas goni.",
+              "maleVariant": "",
+              "stringId": "1895157721634209796"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No zdarza się.",
+              "maleVariant": "",
+              "stringId": "1895157721852313604"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przecież tu stoję.",
+              "maleVariant": "",
+              "stringId": "1895157721869090820"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

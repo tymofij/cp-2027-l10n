@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dziwni ludzie ostatnio się tu kręcą.",
+              "maleVariant": "",
+              "stringId": "2161744896507064320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podobno szukają bezdomnych do specjalnego braindansu za zamówienie.",
+              "maleVariant": "",
+              "stringId": "2176610830584102912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lucas mówił, że jakiś zasraniec z North Oak poczuł się, rozumiesz, \"znużony\".",
+              "maleVariant": "",
+              "stringId": "2176610973391765504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zażyczył sobie poodżywać \"proste życie prymitywa z ulicy\".",
+              "maleVariant": "",
+              "stringId": "2176611459830366208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To niech się do nas pofatyguje. Z rozkoszą zrobię mu prymitywną prezentację.",
+              "maleVariant": "",
+              "stringId": "2176611668136280064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chciałbyś. On chce zaznać tej prostoty na swojej skórzanej kanapie, popijając drinka z palemką.",
+              "maleVariant": "",
+              "stringId": "2176611813628297216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiem przecież. Daj człowiekowi pomarzyć.",
+              "maleVariant": "",
+              "stringId": "2176612010894802944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ech, dałbym w mordę takiemu wielbicielowi prostoty...",
+              "maleVariant": "",
+              "stringId": "2176612482804334592"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

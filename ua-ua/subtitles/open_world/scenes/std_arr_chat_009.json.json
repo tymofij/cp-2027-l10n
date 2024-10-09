@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вам для цього своїх людей бракує чи шо?",
+              "maleVariant": "",
+              "stringId": "1963264060534333440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нам не потрібна зайва увага.",
+              "maleVariant": "",
+              "stringId": "1966556545382334464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мова йде про доволі медійну особу. У жодному разі не можна допустити, щоби будь-які докази змогли пов’язати нас із цим інцидентом, ясно?",
+              "maleVariant": "",
+              "stringId": "1966556831282872320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усе ясно. То шо саме треба зробити? Кілька зламаних кісток?",
+              "maleVariant": "",
+              "stringId": "1966557165099139072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Просто відгамсельте її — без важких наслідків. Бейсбольна бита підійде якнайкраще. Потрібно, щоби було чітко видно почерк «Шостої вулиці».",
+              "maleVariant": "",
+              "stringId": "1966557510827229184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І перекажіть їй привіт від Діксі. Вона зрозуміє, що це означає.",
+              "maleVariant": "",
+              "stringId": "1966558290883887104"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что, и это тоже? Да вы озверели с этими ценами.",
+              "maleVariant": "",
+              "stringId": "2161828864410808320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вы думаете, я сам эти цены придумываю? Мне и так еле на жизнь хватает.",
+              "maleVariant": "",
+              "stringId": "2221476507465125888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё из-за корпораций. Они искусственно завышают цену, а кто становится крайним? Мы, обычные люди, вот кто.",
+              "maleVariant": "",
+              "stringId": "2221477520003665920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, вы и правы. Топливо вон тоже подорожало. Говорят, сократили производство.",
+              "maleVariant": "",
+              "stringId": "2221477767501156352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну вы же знаете, как бывает. Говорят одно, а делают другое. Главное, чтоб у них самих карман был полный.",
+              "maleVariant": "",
+              "stringId": "2221480675210792960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "По правде сказать, это место тоже денег не приносит.",
+              "maleVariant": "",
+              "stringId": "2221484901710270464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Валентино»?",
+              "maleVariant": "",
+              "stringId": "2221485742986989568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу… Всюду, как пиявки. А бедному человеку горбатиться.",
+              "maleVariant": "",
+              "stringId": "2221485819742752768"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

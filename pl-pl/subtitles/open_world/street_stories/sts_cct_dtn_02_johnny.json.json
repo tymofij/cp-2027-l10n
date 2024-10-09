@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słodki Jezu... Słyszysz to? Co oni tu puszczają?",
+              "maleVariant": "",
+              "stringId": "1918600390360985600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O gustach się nie dyskutuje.",
+              "maleVariant": "",
+              "stringId": "1924196680551682048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja nie dyskutuję. Ja pogardzam.",
+              "maleVariant": "",
+              "stringId": "1924197765030924288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wiem, co wywinął ten facet, na którego masz zlecenie, ale za sam dobór muzy należy mu się kulka.",
+              "maleVariant": "",
+              "stringId": "1924198675899535360"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

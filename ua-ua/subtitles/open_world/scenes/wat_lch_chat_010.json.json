@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ого! Ти диви! 308-ий калібр!",
+              "maleVariant": "",
+              "stringId": "1827244266865942528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дам тобі за нього п’ять дев’яток!",
+              "maleVariant": "",
+              "stringId": "1827247383133151232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нє-а! Хіба на твій магнітик «Арасаки»!",
+              "maleVariant": "",
+              "stringId": "1827247555737149440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ніколи!",
+              "maleVariant": "",
+              "stringId": "1827247770753949696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пацани! Я знайшов гранату!",
+              "maleVariant": "",
+              "stringId": "1827247953826930688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ану покажи!",
+              "maleVariant": "",
+              "stringId": "1827248352201924608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не покажу!",
+              "maleVariant": "",
+              "stringId": "1827248553276858368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага-ага, бо ти нічого не знайшов!",
+              "maleVariant": "",
+              "stringId": "1827248776598380544"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

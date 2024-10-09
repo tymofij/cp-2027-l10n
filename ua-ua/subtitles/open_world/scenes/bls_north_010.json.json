@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А раптом, ну… Не знайдемо?",
+              "maleVariant": "",
+              "stringId": "1973570501220540416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нічого. Знайдемо іншу криницю.",
+              "maleVariant": "",
+              "stringId": "1975096026674741248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От блядь… Якщо знову буде спека, то струмок таки пересохне… Що ми скажемо сім’ї?",
+              "maleVariant": "",
+              "stringId": "1975096042512433152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І старі відходи. Бочка з ціаністим воднем, яку закопали ще у двадцятих, тріснула.",
+              "maleVariant": "",
+              "stringId": "1975096058081689600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що?! Нову свердловину?!",
+              "maleVariant": "",
+              "stringId": "1975096071117586432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чергова криниця отруєна.",
+              "maleVariant": "",
+              "stringId": "1975096082257657856"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

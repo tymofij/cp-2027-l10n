@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Крутий. У мене був схожий, тільки без цього кочівницького гівна.",
+              "maleVariant": "",
+              "stringId": "1821466168323067904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "По-перше, не пизди, а по-друге — брюнетка.",
+              "maleVariant": "",
+              "stringId": "1821466807367225344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так-так…",
+              "maleVariant": "",
+              "stringId": "1831628381640077316"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу. Дай угадаю — замість них там була цицьката блондинка на боку?",
+              "maleVariant": "",
+              "stringId": "1922946147673231360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бляха… Його вже не полагодиш. На жаль, це купа брухту.",
+              "maleVariant": "",
+              "stringId": "1922946801732997120"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

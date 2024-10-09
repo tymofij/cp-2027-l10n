@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти диви, твій чумба знову зламався. Думаєш, у нього знову проблеми?",
+              "maleVariant": "",
+              "stringId": "1730070130741911552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В-в-в-вірус у м-моєму я-я-дрі… Пошкоджене…",
+              "maleVariant": "",
+              "stringId": "1730089518459166720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Б-б-будь ласка…",
+              "maleVariant": "",
+              "stringId": "1730090022916497408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Йой. Що ж, треба йому задзвонити, спитатися, як він там.",
+              "maleVariant": "",
+              "stringId": "1730290755796377600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Деле?",
+              "maleVariant": "",
+              "stringId": "1934387835406147584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ї-ї-їдьте с-сюди…",
+              "maleVariant": "",
+              "stringId": "1934388112465092608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Деле? Твоє авто тут стоїть посеред дороги. Усе гаразд?",
+              "maleVariant": "",
+              "stringId": "2004076145601060888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

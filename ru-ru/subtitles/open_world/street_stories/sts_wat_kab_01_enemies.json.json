@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Стой! Сюда нельзя.",
+              "maleVariant": "",
+              "stringId": "1162145720628125696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Огонь на поражение!",
+              "maleVariant": "",
+              "stringId": "1164583150639620112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вижу цель!",
+              "maleVariant": "",
+              "stringId": "1164856352871784464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Первый и второй сектор, чисто!",
+              "maleVariant": "",
+              "stringId": "1400830310622928896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ничего. Всё чисто.",
+              "maleVariant": "",
+              "stringId": "1400834335225389056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Принято. Переходим к сектору три.",
+              "maleVariant": "",
+              "stringId": "1417043610452860928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Жду приказа.",
+              "maleVariant": "",
+              "stringId": "1430027684662452224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Принято.",
+              "maleVariant": "",
+              "stringId": "1492205566638264320"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

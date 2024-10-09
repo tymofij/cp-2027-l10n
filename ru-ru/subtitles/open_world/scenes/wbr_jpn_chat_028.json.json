@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что за херня? Здесь кто-то электричество вовсю пиздит. Это же не рестораны?",
+              "maleVariant": "",
+              "stringId": "2160371417893347328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй, ты меня слышишь? Это что за дела?",
+              "maleVariant": "",
+              "stringId": "2180890586751799296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не обращай внимания.",
+              "maleVariant": "",
+              "stringId": "2180890735481819136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В смысле? Не могут эти рестораны столько электричества тратить.",
+              "maleVariant": "",
+              "stringId": "2180890813864972288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я же сказал, забей. Здесь всё как надо.",
+              "maleVariant": "",
+              "stringId": "2180890895737786368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты же знаешь, что нет. Кто-то ворует электричество.",
+              "maleVariant": "",
+              "stringId": "2180891312601272320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слышь ты, блядь, займись тем, зачем тебя сюда прислали, и не лезь куда не просят. Тебе всё ясно?",
+              "maleVariant": "",
+              "stringId": "2180891467522084864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ясно, ясно.",
+              "maleVariant": "",
+              "stringId": "2180891856451506176"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

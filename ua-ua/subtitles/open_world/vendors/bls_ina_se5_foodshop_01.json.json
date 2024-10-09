@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можна щось попоїсти?",
+              "maleVariant": "",
+              "stringId": "1935695189159358464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пахне неймовірно. Аж слинка тече.",
+              "maleVariant": "",
+              "stringId": "1935695189159358480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можна щось попоїсти?",
+              "maleVariant": "",
+              "stringId": "1935695189209690116"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Звичайно, панно.",
+              "maleVariant": "Звичайно, пане.",
+              "stringId": "1935695189209690124"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пахне неймовірно. Аж слинка тече.",
+              "maleVariant": "",
+              "stringId": "1935695189243244548"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пасерований у вершковому маслі часник. М-м-м! Найсмачніший запах на світі.",
+              "maleVariant": "",
+              "stringId": "1935695189243244556"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

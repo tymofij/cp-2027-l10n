@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tam prowadziłem czołgi za miliony eurodolców, a tu? Spójrz na mnie!",
+              "maleVariant": "",
+              "stringId": "1833075916770238464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stary, wiem. Wszyscy coś straciliśmy.",
+              "maleVariant": "",
+              "stringId": "1833081588475879424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ta, ale mnie jakoś nikt wszczepu nie zasponsorował.",
+              "maleVariant": "",
+              "stringId": "1833081747725213696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ani mnie.",
+              "maleVariant": "",
+              "stringId": "1833081894710403072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Travis mówi co innego.",
+              "maleVariant": "",
+              "stringId": "1833082103284752384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Naprawdę? To do mnie masz pretensje?",
+              "maleVariant": "",
+              "stringId": "1833082277801353216"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

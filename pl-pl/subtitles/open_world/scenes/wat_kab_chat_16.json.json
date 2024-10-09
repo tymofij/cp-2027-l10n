@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cześć. Miałem odebrać paczkę. Numer 48.",
+              "maleVariant": "",
+              "stringId": "2156410557224689664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Już sprawdzam... 48? Na pewno? Ale to przecież jest...",
+              "maleVariant": "",
+              "stringId": "2169119529870086144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tśśśś. Tak, tak, tak. 48, na pewno.",
+              "maleVariant": "",
+              "stringId": "2169119752805732352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Myślałem, że mnisi żyją w ascezie i takie tam...",
+              "maleVariant": "",
+              "stringId": "2169119985103065088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No oczywiście. To dla kolegi, spoza zakonu. Pomagam bliźnim po prostu.",
+              "maleVariant": "",
+              "stringId": "2169120384686018560"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

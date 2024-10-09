@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Holobites czy Karlsson's...",
+              "maleVariant": "",
+              "stringId": "2179621399120437248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ej.",
+              "maleVariant": "",
+              "stringId": "2211185798939369472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No?",
+              "maleVariant": "",
+              "stringId": "2217210366544011264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zastanawiałeś się kiedyś, kto te maszyny uzupełnia? I po co?",
+              "maleVariant": "",
+              "stringId": "2217210439692673024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No jak to: po co. Żebyś miał co żreć.",
+              "maleVariant": "",
+              "stringId": "2217210855985733632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale komu się to opłaca, że ja tu raz dziennie wrzucę moniaki wygrzebane z chodnika?",
+              "maleVariant": "",
+              "stringId": "2217212734782267392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dopóki wrzucasz, to się opłaca.",
+              "maleVariant": "",
+              "stringId": "2217213387617296384"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

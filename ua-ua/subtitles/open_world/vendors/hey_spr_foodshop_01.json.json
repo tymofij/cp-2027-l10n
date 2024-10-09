@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я проста людина, маю щось їсти.",
+              "maleVariant": "",
+              "stringId": "1740377075363586048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ваша їжа точно свіжа?",
+              "maleVariant": "",
+              "stringId": "1740377075363586064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чогось вишуканого, ось чого хочу.",
+              "maleVariant": "",
+              "stringId": "1740377075380363264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, тоді ти прийшла в ідеальне місце.",
+              "maleVariant": "Ну, тоді ти прийшов в ідеальне місце.",
+              "stringId": "1740377075397140484"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Їжа свіжа? Гарантуєш?",
+              "maleVariant": "",
+              "stringId": "1740377075430694912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну звичайно. Інакше не називала би заклад \"Свіжа Їжа\", чи не так?",
+              "maleVariant": "",
+              "stringId": "1740377075430694920"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

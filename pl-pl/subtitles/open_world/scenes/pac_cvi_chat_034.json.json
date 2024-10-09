@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No i chuj, no i nie kupię. Przecież te ceny są z kosmosu.",
+              "maleVariant": "",
+              "stringId": "2179581872452169728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kupuj, nie wydziwiaj. Taniej już nie dostaniesz. Nie w tym mieście.",
+              "maleVariant": "",
+              "stringId": "2188233163283349504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ja myślałem, że to w Los Angeles jest drogo... Z czego to się bierze?",
+              "maleVariant": "",
+              "stringId": "2188233299094913024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wolna dzielnica w wolnym mieście, to i rynek wolny.",
+              "maleVariant": "",
+              "stringId": "2188233454267383808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czemu my tu jeszcze przyjeżdżamy? Chyba tylko po to, żeby stracić resztę forsy.",
+              "maleVariant": "",
+              "stringId": "2188233699617390592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale i zarobić na sprzedaży ładunku. Każdy kij ma dwa końce.",
+              "maleVariant": "",
+              "stringId": "2188234057693511680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, niech będzie, kupię. Ale potem stawiasz piwo, bo będę spłukany.",
+              "maleVariant": "",
+              "stringId": "2188234204007612416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Umowa stoi.",
+              "maleVariant": "",
+              "stringId": "2188234342788743168"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

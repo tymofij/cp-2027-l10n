@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я говорил с Мигелем. «Валентино» приняли наши условия.",
+              "maleVariant": "",
+              "stringId": "1963273134877483008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А Стивенсон? Он даст нам код от камеры? В прошлый раз чуть не попались.",
+              "maleVariant": "",
+              "stringId": "1966137044216037376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ключевое слово — «чуть». Со всяким могло случиться.",
+              "maleVariant": "",
+              "stringId": "1966137389910573056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но Стивенсон готов дать нам ещё один шанс. А если всё пройдёт гладко, ему достанется хорошая доля.",
+              "maleVariant": "",
+              "stringId": "1966137709231325184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но если нас поймают на месте, то он ни при чём. Помогать не станет.",
+              "maleVariant": "",
+              "stringId": "1966138107539210240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, об этом он никогда не устанет напоминать.",
+              "maleVariant": "",
+              "stringId": "1966138517725364224"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"bastardo\" b=\"Man, that Julio's a real \" a=\", man.\"/>",
+              "maleVariant": "",
+              "stringId": "1963298421765873664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Maybe Santa Muerte should pay him a visit, hehehe.",
+              "maleVariant": "",
+              "stringId": "1966203539990233088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "'Ey! Watch your tongue!",
+              "maleVariant": "",
+              "stringId": "1966315462878543872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wha...? The hell, choom?",
+              "maleVariant": "",
+              "stringId": "1966315844207886336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"mamá\" b=\"Did your \" a=\" teach you nothing? Santa Muerte ain't no joke!\"/>",
+              "maleVariant": "",
+              "stringId": "1966316107006197760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "She hears all, her judgment is final.",
+              "maleVariant": "",
+              "stringId": "1966317552313024512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If she hears your call, it's Julio's blood on your hands!",
+              "maleVariant": "",
+              "stringId": "1966317763320070144"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

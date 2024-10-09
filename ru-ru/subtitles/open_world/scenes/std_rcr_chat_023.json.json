@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй, я тут слышал про тебя… Ты правда дезертировал? Если я буду с тобой общаться, мне надо знать.",
+              "maleVariant": "",
+              "stringId": "2167645459363680256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Потому что я по жизни патриот.",
+              "maleVariant": "",
+              "stringId": "2198149165436592128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, я сбежал, это правда. Как раз потому, что я тоже патриот.",
+              "maleVariant": "",
+              "stringId": "2198154151356751872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что-то здесь одно с другим не вяжется, друг.",
+              "maleVariant": "",
+              "stringId": "2198157997348970496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мой знакомый принимал участие в протестах против корпораций. Мне приказали пустить ему пулю между глаз.",
+              "maleVariant": "",
+              "stringId": "2198160720391790592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А потом поехать к его семье и сказать, как он геройски погиб в борьбе с врагом.",
+              "maleVariant": "",
+              "stringId": "2198169935344787456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "По крайней мере, сделали из него героя.",
+              "maleVariant": "",
+              "stringId": "2198171092100276224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я написал в рапорте всё, что об этом думаю, а меня разжаловали и отобрали все импланты.",
+              "maleVariant": "",
+              "stringId": "2198193094479536128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И только тогда я оттуда свалил.",
+              "maleVariant": "",
+              "stringId": "2198195865807183872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Э-э-эй, как поживаешь? Спишь нормально? Я вот нет. Какой там сон, когда деньги делать надо!",
+              "maleVariant": "",
+              "stringId": "2328749159102259200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Смотри, на меня работает одна девушка, Джулиет. Я должен был получить от неё кое-какие важные данные, но она куда-то пропала.",
+              "maleVariant": "",
+              "stringId": "2342048242739810304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Проверь, что с ней, а? И про данные не забудь. Детали прилагаю.",
+              "maleVariant": "",
+              "stringId": "2342048636920500224"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

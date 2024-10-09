@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yo, don't forget, we're playin' tonight.",
+              "maleVariant": "",
+              "stringId": "1806908953341845504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Like I forgot! Game's the only reason I get out of bed in the mornin', choom.",
+              "maleVariant": "",
+              "stringId": "1806909946938908672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We win tonight, we're goin' somewhere that'll really get you up, heh heh.",
+              "maleVariant": "",
+              "stringId": "1806910114761400320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nope, not for me. I'm here for the poker, that's it.",
+              "maleVariant": "",
+              "stringId": "1806910278003712000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You sure?",
+              "maleVariant": "",
+              "stringId": "1806910452721639424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "C'mon. Kid's on the way whether I like it or not.",
+              "maleVariant": "",
+              "stringId": "1806910707064233984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "",
+              "maleVariant": "[V i KERRY demolują jacht. W pewnym momencie KERRY zbliża się i całuje V.]",
+              "stringId": "1376443577852235776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[pocałuj Kerry'ego]",
+              "maleVariant": "",
+              "stringId": "1376445104495005696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[powstrzymaj Kerry'ego] Hej, coś ci się pomyliło.",
+              "maleVariant": "",
+              "stringId": "1376445224183664640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "",
+              "maleVariant": "Kerry.",
+              "stringId": "1376448995685044224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "",
+              "maleVariant": "Kurwa, ale bajzel.",
+              "stringId": "1376450595778465792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "",
+              "maleVariant": "No co? Myślałem...",
+              "stringId": "1379192287361888256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "",
+              "maleVariant": "Pomyliłeś się.",
+              "stringId": "1379192736873836544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "",
+              "maleVariant": "Pomyliłem się. Jasne.",
+              "stringId": "1379193858095181824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[pomóż Kerry'emu]",
+              "maleVariant": "",
+              "stringId": "1903599036432834564"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pomóż mi z tym chujstwem!",
+              "maleVariant": "",
+              "stringId": "1942998503599501312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, dzięki.",
+              "maleVariant": "",
+              "stringId": "2016875661656453120"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

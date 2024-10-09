@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То не брухт! Цей товар найвищої якості! Чудова дальність, жодних перешкод…",
+              "maleVariant": "",
+              "stringId": "2157391700075769856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Чудова» дальність? Ти, блядь, гониш?",
+              "maleVariant": "",
+              "stringId": "2182595521280557056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сигнал уже тричі зникав! Тричі!",
+              "maleVariant": "",
+              "stringId": "2182599191078453248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Забирай цей шмат лайна назад.",
+              "maleVariant": "",
+              "stringId": "2182601482292510720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І бабло поверни.",
+              "maleVariant": "",
+              "stringId": "2182601750593748992"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

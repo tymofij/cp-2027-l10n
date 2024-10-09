@@ -1,0 +1,91 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You'd think every smart-ass would've encrypted their comms by now. Anyway... what's the message say?",
+              "maleVariant": "",
+              "stringId": "1725423000301776896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Raffen Shiv bought a virus, and they're broadcasting it around via an aerial transmitter.",
+              "maleVariant": "",
+              "stringId": "1725423242564775936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wasn't there an antenna around here?",
+              "maleVariant": "",
+              "stringId": "1934412645738532864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mmm-hm. Not for much longer, it won't be.",
+              "maleVariant": "Uh-huh. Not for much longer, it won't be.",
+              "stringId": "1934413013578993664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Man, this transmitter takes me back...",
+              "maleVariant": "",
+              "stringId": "1963479469163720704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Back in 2020 we used 'em for pirate broadcasts. Y'know, blastin' hardcore punk on badge frequencies and whatnot.",
+              "maleVariant": "",
+              "stringId": "1963480417814622208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hm... so this must be how Raffen Shiv hacked those drones...",
+              "maleVariant": "",
+              "stringId": "1963481477832683520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Better put it out of its misery. Once and for all.",
+              "maleVariant": "",
+              "stringId": "1963482039131222016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How so?",
+              "maleVariant": "",
+              "stringId": "2014153326853410816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That is, 'til some netbozos hijacked 'em and let loose the demons of cyber-hell 'cross the whole city. Ruined our good, clean fun.",
+              "maleVariant": "",
+              "stringId": "2014154957733023744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Was beginning to think you'd never figure it out.",
+              "maleVariant": "",
+              "stringId": "2014157339443384320"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

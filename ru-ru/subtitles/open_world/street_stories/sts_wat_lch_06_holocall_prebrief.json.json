@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сын Арати Капур передознулся «блестяшками». Может, слышала — это новая мощная наркота, только что появилась на улицах.",
+              "maleVariant": "Сын Арати Капур передознулся «блестяшками». Может, слышал — это новая мощная наркота, только что появилась на улицах.",
+              "stringId": "2328754903955779584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Арати просит сровнять с землёй лабораторию, где делают это говно.",
+              "maleVariant": "",
+              "stringId": "2334841753117757440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прочитай моё письмо, там подробности и про Арати, и про ситуацию в целом.",
+              "maleVariant": "",
+              "stringId": "2334843361717227520"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

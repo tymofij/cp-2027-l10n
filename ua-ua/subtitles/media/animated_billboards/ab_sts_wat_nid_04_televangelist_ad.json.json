@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Господи, світ змінився, але диявол — ні!",
+              "maleVariant": "",
+              "stringId": "1993698883485880320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Він досі тут, спокушає, псує і спостерігає.",
+              "maleVariant": "",
+              "stringId": "1993699661478940672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але я можу допомогти. Я прожену Сатану від вашої душі й проведу її до світла!",
+              "maleVariant": "",
+              "stringId": "1993699975951077376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Приєднуйтеся у спільній молитві до мене — Брайса Стоуна, щонеділі, Н54.",
+              "maleVariant": "",
+              "stringId": "1993700393988968448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

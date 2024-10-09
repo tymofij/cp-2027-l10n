@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти що, не чуєш мене? Воно взагалі не працює.",
+              "maleVariant": "",
+              "stringId": "1508143809060843520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що там, Філе? Ти закінчив?",
+              "maleVariant": "",
+              "stringId": "1731533950570377216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Еге ж, ну й палить. Добре, коли закінчиш, то перенеси все всередину, гаразд?",
+              "maleVariant": "",
+              "stringId": "1906939400655646720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, майже. Сорян, я через спеку дуже повільно працюю…",
+              "maleVariant": "",
+              "stringId": "1916875776071217152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добре, босе.",
+              "maleVariant": "",
+              "stringId": "1916876500209414144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що? Ні, не стріляє, не крутиться, взагалі ніхріна не робить!",
+              "maleVariant": "",
+              "stringId": "1934323803014615040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спробувати вимкнути та ввімк… Та ти що, жартуєш?!",
+              "maleVariant": "",
+              "stringId": "1934324151997485056"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powinniśmy coś z nimi zrobić.",
+              "maleVariant": "",
+              "stringId": "2178254088027054080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Od Wraithów lepiej się trzymać z daleka. Wiesz, do czego są zdolni.",
+              "maleVariant": "",
+              "stringId": "2181051025136009216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiem. I właśnie dlatego trzeba coś zrobić. Pamiętasz, co się stało z Jimem?",
+              "maleVariant": "",
+              "stringId": "2181051218107547648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeszcze pytasz? To myśmy znaleźli to, co z niego zostało.",
+              "maleVariant": "",
+              "stringId": "2181051344003776512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, jak można przywiązać człowieka do motocykla i wlec go przez tyle mil?",
+              "maleVariant": "",
+              "stringId": "2181051568164159488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czasem śni mi się, jak krzyczy... chociaż go nie słyszałem. Tego... w-wrzasku.",
+              "maleVariant": "",
+              "stringId": "2181051879549288448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To są, kurwa, zwierzęta, nie ludzie.",
+              "maleVariant": "",
+              "stringId": "2181052939852562432"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Discreet and with finesse – something I cannot say about Mr. Gutierrez's divorce. Marvellous work, V. Closing the contract.",
+              "maleVariant": "",
+              "stringId": "2328653895436414976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mr. Gutierrez insisted on discretion.",
+              "maleVariant": "",
+              "stringId": "2342903326335930368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Instead, you make noise. First his wife betrays him, now you. It seems our client has no luck with women. I am closing the contract.",
+              "maleVariant": "Perhaps you are not aware, but raising the alarm and discretion are not the same thing. Keep that in mind for the future. I am closing the contract.",
+              "stringId": "2342904435460902912"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

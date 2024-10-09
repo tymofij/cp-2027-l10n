@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"Odkryj w sobie multimiliardera\", albo \"Masz w sobie diament – pora go znaleźć\" - to ostatnie sam napisałem. Poczytaj, a wyrwiesz się z biedy.",
+              "maleVariant": "",
+              "stringId": "2172194262596956160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Panie, daj mi pan po prostu kilka drobnych.",
+              "maleVariant": "",
+              "stringId": "2189508480305827840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wolę dać ci wędkę niż rybę.",
+              "maleVariant": "",
+              "stringId": "2189508506058854400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz rybę?",
+              "maleVariant": "",
+              "stringId": "2189509129634418688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co... ? Nie. To metafora.",
+              "maleVariant": "",
+              "stringId": "2189509207782690816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Musisz zmienić nastawienie i wyznaczyć sobie cel, wtedy dzięki ciężkiej pracy wyjdziesz na swoje. Rozumiesz?",
+              "maleVariant": "",
+              "stringId": "2189516522950856704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Taa, to da mi pan te drobne?",
+              "maleVariant": "",
+              "stringId": "2189517041853370368"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

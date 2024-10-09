@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wejdę na trawę.",
+              "maleVariant": "",
+              "stringId": "1831674694678994944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kochanie, spokojnie, chodź.",
+              "maleVariant": "",
+              "stringId": "1831677700266909696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tam mogą być ukryte druty, albo miny.",
+              "maleVariant": "",
+              "stringId": "1831677869616128000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tu naprawdę nic nie ma.",
+              "maleVariant": "",
+              "stringId": "1831678011685593088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie, nie... za głośno, za dużo ludzi. Chcę iść do domu.",
+              "maleVariant": "",
+              "stringId": "1831678199858847744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jesteś ze mną, nie na wojnie. Ni ci nie grozi.",
+              "maleVariant": "",
+              "stringId": "1831678354611888128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę iść.",
+              "maleVariant": "",
+              "stringId": "1831678519330594816"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

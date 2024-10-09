@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co dla ciebie?",
+              "maleVariant": "",
+              "stringId": "1796864074633428996"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na co masz ochotę? Piwo czy coś mocniejszego?",
+              "maleVariant": "",
+              "stringId": "1796864074650206212"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ej! Przecież mówię do ciebie.",
+              "maleVariant": "",
+              "stringId": "1796864074734092292"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeszcze nie skończyłem.",
+              "maleVariant": "",
+              "stringId": "1796864074750869508"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No witam z powrotem.",
+              "maleVariant": "",
+              "stringId": "1796864074834755588"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I widzisz. Wszystkie drogi prowadzą do mojej lady.",
+              "maleVariant": "",
+              "stringId": "1796864074868310020"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No?",
+              "maleVariant": "",
+              "stringId": "1796864074901864452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dawaj koleżanko.",
+              "maleVariant": "Dawaj kolego.",
+              "stringId": "1796864074918641668"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Patrz pod nogi.",
+              "maleVariant": "",
+              "stringId": "1796864075136745472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No pewnie, zdepcz mnie.",
+              "maleVariant": "",
+              "stringId": "1796864075153522692"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

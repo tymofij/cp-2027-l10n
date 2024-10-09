@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І як тобі, чуваче? Миленькі, та?",
+              "maleVariant": "",
+              "stringId": "1963566167490281472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хех! Вони були такими солоденькими, чумбо, що я, здається, отримав діабет!",
+              "maleVariant": "",
+              "stringId": "1963576588272123904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Важко було навіть вирішити, чи то трахати їх, чи поз’їдати всіх.",
+              "maleVariant": "",
+              "stringId": "1963577269292875776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха-ха! Та яка різниця, якщо до них однаково не можна торкатися?",
+              "maleVariant": "",
+              "stringId": "1963578916144398336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Закладаюся, у них кров на смак, мов шоколад… Або мед…",
+              "maleVariant": "",
+              "stringId": "1963579191542398976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ем… Мабуть, у тебе таки дійсно діабет.",
+              "maleVariant": "",
+              "stringId": "1963579583357501440"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czym zajmowałeś się wcześniej?",
+              "maleVariant": "",
+              "stringId": "1953082758967087108"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czym zajmowałeś się wcześniej, zanim zacząłeś brać zlecenia?",
+              "maleVariant": "",
+              "stringId": "1953152787519655936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeździłem z Trauma Teamem.",
+              "maleVariant": "",
+              "stringId": "1953176413497217024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I? Tam chyba lepiej płacą?",
+              "maleVariant": "",
+              "stringId": "1953180293563961344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powiedzmy, że popełniłem błąd w sztuce lekarskiej.",
+              "maleVariant": "",
+              "stringId": "1953183773896757248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, to teraz już musisz powiedzieć.",
+              "maleVariant": "",
+              "stringId": "1953186614984069120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zastrzeliłem klienta. Przypadkiem.",
+              "maleVariant": "",
+              "stringId": "1953187476678660096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

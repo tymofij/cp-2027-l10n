@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От просто цікаво. Нашо стрибати під той потяг? Хіба не легше просто пустити с’бі кулю?",
+              "maleVariant": "",
+              "stringId": "2162102246139736064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От серйозно. Минулого тижня я через них тричі спізнився на роботу. В’ни мене скоро самого доведуть до смерті, чесне слово.",
+              "maleVariant": "",
+              "stringId": "2213002326738046976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хіба їм хоч не страшно? Ну, типу, це ж боляче… І не факт, шо в’но тебе таки вб’є. А куля — раз! — і світло згасло.",
+              "maleVariant": "",
+              "stringId": "2218479991645376512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Саме так. І замість того, шоби сидіти вдома та займатися своїми справами, вони, блядь, беруть і блокують усю лінію метро.",
+              "maleVariant": "",
+              "stringId": "2218490505473658880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ех-х… Я цього просто не розумію.",
+              "maleVariant": "",
+              "stringId": "2218491848154255360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, а я розумію. Купка йобаних егоїстів!",
+              "maleVariant": "",
+              "stringId": "2218492120062595072"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

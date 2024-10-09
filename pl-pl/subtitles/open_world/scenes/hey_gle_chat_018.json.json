@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówię ci, zmiażdżył mu pół twarzy. Dobrze, że koleś miał płytę szczękową, bo inaczej ten zjeb przebiłby mu się do gardła.",
+              "maleVariant": "",
+              "stringId": "2161756884465430528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Złapaliście go?",
+              "maleVariant": "",
+              "stringId": "2176659187822215168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powiedzmy. Wyjaśniliśmy mu, że oszuści z nielegalnymi wszczepami bokserskimi mogą sobie wypierdalać na Marsa.",
+              "maleVariant": "",
+              "stringId": "2176659314758631424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I co on na to?",
+              "maleVariant": "",
+              "stringId": "2176659469377454080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No nic, wypierdolił. I dobrze, bo nie mieliśmy ochoty się z nim tłuc.",
+              "maleVariant": "",
+              "stringId": "2176659666157420544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie rozumiem tych gości. Bijesz się, żeby sprawdzić siebie, swoją siłę, kurde... a nie moc wszczepu.",
+              "maleVariant": "",
+              "stringId": "2176659887096578048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co zrobić? Ciężko dziś o sensownego przeciwnika.",
+              "maleVariant": "",
+              "stringId": "2176660080068116480"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

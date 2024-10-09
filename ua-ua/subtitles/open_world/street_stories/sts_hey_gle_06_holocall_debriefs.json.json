@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Відмінно. Машина дісталася до власника, а тепер до тебе дістануться гроші.",
+              "maleVariant": "",
+              "stringId": "2328773298531094528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, я вірив тобі, а ти мене підвела.",
+              "maleVariant": "Ві, я вірив тобі, а ти мене підвів.",
+              "stringId": "2328773312087085060"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добрі вчинки завжди винагороджуються. Закриваю контракт. До зустрічі.",
+              "maleVariant": "",
+              "stringId": "2334381805605208064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаю, це урок для нас обох. Іди з Богом.",
+              "maleVariant": "",
+              "stringId": "2338938500978937856"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niektórzy ludzie po prostu chcą być szcześliwi. Dlaczego nie potrafisz tego zrozumieć?",
+              "maleVariant": "",
+              "stringId": "2161782791709421568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To nie jest miejsce na tę rozmowę.",
+              "maleVariant": "",
+              "stringId": "2218889969057239040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dlaczego nie? Zawsze robisz uniki, nigdy potrafisz odpowiedź wprost.",
+              "maleVariant": "",
+              "stringId": "2218934077985492992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"Zawsze\", \"nigdy\". Daj spokój.",
+              "maleVariant": "",
+              "stringId": "2218934519276605440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę się związać. Chcę być w związku.",
+              "maleVariant": "",
+              "stringId": "2218934895606337536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ja nie wierzę w związki, wiesz o tym. Nie możemy się bawić? No, rozejrzyj się.",
+              "maleVariant": "",
+              "stringId": "2218935243767123968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie psujmy tego wieczoru. Proszę cię. Po prostu się bawmy.",
+              "maleVariant": "",
+              "stringId": "2218935718948212736"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

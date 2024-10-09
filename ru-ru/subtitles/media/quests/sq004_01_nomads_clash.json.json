@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это Пятьдесят четвёртый канал. Время местных новостей. Кровопролитие в Пустошах до сих пор продолжается.",
+              "maleVariant": "",
+              "stringId": "1745844929275944960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Перестрелки произошли на трассах — 1-й, 166-й и 101-й.",
+              "maleVariant": "",
+              "stringId": "1745845552264306688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Свидетели считают причиной межклановые конфликты. Число нападений на непричастных к столкновениям людей не увеличилось.",
+              "maleVariant": "",
+              "stringId": "1745845801103974400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тем не менее, в целях безопасности полиция решила повысить уровень угрозы в регионе до второго. Старайтесь избегать второстепенных дорог.",
+              "maleVariant": "",
+              "stringId": "1745846559148924928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы будем и дальше держать вас в курсе развития ситуации.",
+              "maleVariant": "",
+              "stringId": "1745847155578953728"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powiedz tej swojej kurwie, żeby się tak nie darła w nocy.",
+              "maleVariant": "",
+              "stringId": "1973553625052520448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, to nie wiem. Może lubią posłuchać. Ja lubię spać.",
+              "maleVariant": "",
+              "stringId": "1977697097271234560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nikt w obozie nie może spać, bo ty chcesz se poruchać.",
+              "maleVariant": "",
+              "stringId": "1977697171191648256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jakoś nikt poza tobą się nie przypierdalał.",
+              "maleVariant": "",
+              "stringId": "1977697208906829824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Myślę, że ty co innego lubisz. Chcesz sobie ją wziąć na jedną noc?",
+              "maleVariant": "",
+              "stringId": "1977824991616192512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No.",
+              "maleVariant": "",
+              "stringId": "1977828942449233920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I wtedy się odpierdolisz ode mnie?",
+              "maleVariant": "",
+              "stringId": "1977829337468784640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No.",
+              "maleVariant": "",
+              "stringId": "1977829946397839360"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Обязательно было его лупить? Он помочь хотел, думал, что я заблудилась.",
+              "maleVariant": "",
+              "stringId": "1963259988687233024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Обычное дело. А потом какой-нибудь шкет находит тебя в помойке. Голова отдельно, ноги отдельно.",
+              "maleVariant": "",
+              "stringId": "1966219490676686848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если ты этого хотела — ну, тогда извиняй.",
+              "maleVariant": "",
+              "stringId": "1966220363444240384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не все, с кем я говорю, хотят меня убить или трахнуть!",
+              "maleVariant": "",
+              "stringId": "1966220689610096640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У тебя из-за этих твоих патрулей уже паранойя.",
+              "maleVariant": "",
+              "stringId": "1966220969722494976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Закрой рот, сука, или я сам его тебе закрою!",
+              "maleVariant": "",
+              "stringId": "1966221701443993600"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

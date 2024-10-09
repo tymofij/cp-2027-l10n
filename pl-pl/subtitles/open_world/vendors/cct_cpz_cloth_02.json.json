@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znajdzie się coś na moją kieszeń?",
+              "maleVariant": "",
+              "stringId": "1976370120235712512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Miewacie czasem klientów spoza kręgu bogaczy?",
+              "maleVariant": "",
+              "stringId": "1976371012565499904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przychodzi tu ktoś poza bogaczami?",
+              "maleVariant": "",
+              "stringId": "1976373637914591232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znajdzie się coś na moją kieszeń?",
+              "maleVariant": "",
+              "stringId": "1976374049140932608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Owszem. Ludzie potrzebują sobie udowadniać, że nie są gorsi od elit... prawda?",
+              "maleVariant": "",
+              "stringId": "1976374286186217472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeśli wiesz, co znaczy określenie \"haute couture\", to zapewne tak.",
+              "maleVariant": "",
+              "stringId": "1979416294901661696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę zmienić swój image.",
+              "maleVariant": "",
+              "stringId": "3775233360763154432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Potrzebuję nowych ciuchów.",
+              "maleVariant": "",
+              "stringId": "3836291529614159924"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"rus\" m=\"kisa\" b=\"Bounce that ass, \" a=\". That's what it's for.\"/>",
+              "maleVariant": "",
+              "stringId": "1242802899126820864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Any gonk can slice out a kidney.",
+              "maleVariant": "",
+              "stringId": "1266395901891944448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, but not an eye?",
+              "maleVariant": "",
+              "stringId": "1266398370172739584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oooh, you like that?",
+              "maleVariant": "",
+              "stringId": "1272138729993510912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"rus\" m=\"Govno\" b=\"Eyes need an artist's touch. Besides, kidneys? Phew… \" a=\". This one guy had stones--\"/>",
+              "maleVariant": "",
+              "stringId": "1595423599094112256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK, OK, fuck... I don't care. I don't want to hear it.",
+              "maleVariant": "",
+              "stringId": "1659129903010336768"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

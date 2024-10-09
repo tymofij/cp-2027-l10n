@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mała, mała... S-słuchaj... Dla ciebie, normalnie, wszystko... Rzućmy to życie w cholerę... I na Kajmany, kurwa...",
+              "maleVariant": "",
+              "stringId": "2159534937545416704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha. A co twoja żona na to?",
+              "maleVariant": "",
+              "stringId": "2167899423378821120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rybko, ty się nią nie przejmuj... Rozwód się załapie raz, dwa... A jak będzie robić problemy, to są inne sposoby... Rozumiesz?",
+              "maleVariant": "",
+              "stringId": "2167900172062085120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm. Rozumiem doskonale. Wiesz co, nie chcę pośpieszać ani nic, ale twoja godzina się właśnie skończyła.",
+              "maleVariant": "",
+              "stringId": "2167901599081746432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie ma problemu, zapłacę za następną... A jak ty się właściwie nazywasz? Candy, Mandy? Zresztą, chuj z tym...",
+              "maleVariant": "",
+              "stringId": "2167902374608556032"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

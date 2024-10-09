@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У моєї подруги є бабуся, яка постійно носить із собою фіолетовий камінець. Вона кожен раз потирає його, коли щось заболить.",
+              "maleVariant": "",
+              "stringId": "1806811334204579840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І що, допомагає?",
+              "maleVariant": "",
+              "stringId": "1806813826409684992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Допомагає? Та вже не раз рятував їй життя! Одного разу навіть на інтерв’ю в студію. От не знаю чому воно в етер не потрапило…",
+              "maleVariant": "",
+              "stringId": "1806815241752403968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Авжеж, вони це в етер не пустять. Усі корпорації бояться правди. Але результати кажуть самі за себе.",
+              "maleVariant": "",
+              "stringId": "1806815365702475776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Саме так! І от коли вони самі захворіють, то защебечуть геть по-іншому.",
+              "maleVariant": "",
+              "stringId": "1806815628467232768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу. Коли всі так женуться за тими технологіями, то не дивно, що стільки різних хвороб розвелося.",
+              "maleVariant": "",
+              "stringId": "1806815923796566016"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

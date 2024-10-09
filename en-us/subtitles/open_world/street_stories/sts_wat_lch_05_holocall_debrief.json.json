@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jacob got his eye back, so I'm closing this gig, but V... we both know that wasn't top-quality work.",
+              "maleVariant": "",
+              "stringId": "2329228966729129984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Done and dusted. Jacob sends you his heartfelt thanks.",
+              "maleVariant": "",
+              "stringId": "2329229293381525504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Also says he'll, uh, keep a closer eye on his implants from now on, hehe. Closing the gig.",
+              "maleVariant": "",
+              "stringId": "2334832993867501568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Maybe try a little harder next time, OK? Gig closed. And thanks.",
+              "maleVariant": "",
+              "stringId": "2334834634175909888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слушай, пора мне, работа… Ага, пока.",
+              "maleVariant": "",
+              "stringId": "1384880022980997120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А нахрена такая большая яхта? Ни разу не видал, чтобы она из порта выходила.",
+              "maleVariant": "",
+              "stringId": "1384894183270068224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да уж известно, нахрена… Чтоб оргии устраивать.",
+              "maleVariant": "",
+              "stringId": "1672020428858667008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ой. А с каких пор для этого нужна яхта? На суше ощущения не те? С жиру бесятся, не знают, куда деньги деть.",
+              "maleVariant": "",
+              "stringId": "1924372661702807552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну давай, скажи мне, что сам бы отдал все деньги сироткам.",
+              "maleVariant": "",
+              "stringId": "1924373341599485952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, блядь! А вот может и отдал бы! Может, я детишек люблю!",
+              "maleVariant": "",
+              "stringId": "1924374985733099520"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

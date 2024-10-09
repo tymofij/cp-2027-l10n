@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тільки без довбоїбізму. Танцюристів не чіпати, і проблем не шукати. Гаразд?",
+              "maleVariant": "",
+              "stringId": "2172237022637043712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чумбо, ти за кого мене маєш? Глянь на мене. Я спокійний, наче монах. Нічого я не зроблю.",
+              "maleVariant": "",
+              "stringId": "2179453292302286848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, та’, знаю я тебе. Після четвертого бокала ти вже б’єш комусь морду на підлозі.",
+              "maleVariant": "",
+              "stringId": "2179453598587142144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але це тобі не якийсь там гадючник. Там мордовороти зі «Звірів», доганяєш?",
+              "maleVariant": "",
+              "stringId": "2179453980856008704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На перший раз вони ґречно зроблять тобі зауваження.",
+              "maleVariant": "",
+              "stringId": "2179454250616864768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А на другий ти прокинися в канаві зі зламаною щелепою. І це в кращому випадку.",
+              "maleVariant": "",
+              "stringId": "2179455234718023680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Pinche\" b=\"\" a=\"… Та не треба оце так драматизувати.\"/>",
+              "maleVariant": "",
+              "stringId": "2179455391199117312"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

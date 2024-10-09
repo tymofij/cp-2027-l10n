@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Переходим к главной теме этой недели — убийству директора мегакорпорации «Арасака» господина Сабуро Арасаки.",
+              "maleVariant": "",
+              "stringId": "1743065729017892864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бессменный руководитель японской мегакорпорации, по последним данным, был убит на территории отеля «Компэки плаза», куда он прибыл для встречи со своей семьёй.",
+              "maleVariant": "",
+              "stringId": "1743067415698526208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сын покойного Сабуро Арасаки, Ёринобу Арасака, во всём обвиняет конкурентов корпорации. Тем не менее, доказательств их причастности к убийству отца пока не предоставил.",
+              "maleVariant": "",
+              "stringId": "1743068079254196224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Некоторые аналитики считают, что убийство директора может быть отчаянной попыткой отвлечь внимание публики от бесконечных внутренних проблем компании.",
+              "maleVariant": "",
+              "stringId": "1743068428371283968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "После паузы обсудим с экспертами, каким образом «Арасака» может выбраться из кризиса.",
+              "maleVariant": "",
+              "stringId": "1743068898670202880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

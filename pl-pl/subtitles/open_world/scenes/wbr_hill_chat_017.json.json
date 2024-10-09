@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"rus\" o=\"Короче, план такой: заходишь в клуб и толкаешь там обычный порошок.\" t=\"Robisz tak: idziesz do klubu i opychasz im zwykły flocon.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2159269659896934400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"rus\" o=\"Только всем говоришь, что это «чёрный снег» и умножаешь цену на два.\" t=\"Tylko mówisz, że to Czarny Śnieg i kasujesz ich podwójnie.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2209890900342554624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No ale to chyba działa raz, nie? Potem się zorientują...",
+              "maleVariant": "",
+              "stringId": "2209891412517404672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"rus\" o=\"Да ни хера. Через два дня зайдёшь и скажешь, что продаёшь «неоновый сфинкс».\" t=\"Chuj tam raz. Za dwa dni mówisz im, że masz Neonowego Sfinksa.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2209891777203748864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"rus\" o=\"Ни один корпорат не признается, что о таком не слышал.\" t=\"Żaden korp ci się nie przyzna, że nawet nie słyszał o czymś takim.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2209892193832353792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"rus\" o=\"Все молча возьмут и заплатят сколько скажешь.\" t=\"Będą to od ciebie brać, za każdą cenę jaką sobie wymyślisz.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2209892651816796160"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

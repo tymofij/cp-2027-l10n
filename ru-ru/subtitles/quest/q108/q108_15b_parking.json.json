@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скорей!",
+              "maleVariant": "",
+              "stringId": "1199971290389061632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Валим отсюда!",
+              "maleVariant": "",
+              "stringId": "1682367134259126272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Твою мать! Как ты умудряешься всё время попадать под раздачу?",
+              "maleVariant": "",
+              "stringId": "1777772399728435200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Наши байки вон там.",
+              "maleVariant": "",
+              "stringId": "1777773429799165956"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты идёшь?",
+              "maleVariant": "",
+              "stringId": "1789444547370983424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сегодня они первые начали.",
+              "maleVariant": "",
+              "stringId": "1790952841502068736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Какой уверенный у тебя сегодня водитель.",
+              "maleVariant": "",
+              "stringId": "2233138843337965568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дави на газ! Чего ты там застрял?",
+              "maleVariant": "",
+              "stringId": "2233148418548121600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вертолёт может вернуться, и он вернётся!",
+              "maleVariant": "",
+              "stringId": "2233148812024168452"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

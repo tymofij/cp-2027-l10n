@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Только не кипятись. Мы договоримся.",
+              "maleVariant": "",
+              "stringId": "1895157721348997124"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, как оно?",
+              "maleVariant": "",
+              "stringId": "1895157721365774340"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну ладно, как знаешь.",
+              "maleVariant": "",
+              "stringId": "1895157721483214852"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты спешишь куда-то?",
+              "maleVariant": "",
+              "stringId": "1895157721499992068"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы с тобой не договорили.",
+              "maleVariant": "",
+              "stringId": "1895157721567100928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну что, готова?",
+              "maleVariant": "Ну что, готов?",
+              "stringId": "1895157721583878148"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не хочу торопить, но… ты ж понимаешь.",
+              "maleVariant": "",
+              "stringId": "1895157721617432580"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Время работает против нас.",
+              "maleVariant": "",
+              "stringId": "1895157721634209796"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На этот раз прощаю.",
+              "maleVariant": "",
+              "stringId": "1895157721852313604"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я что, прозрачный?!",
+              "maleVariant": "",
+              "stringId": "1895157721869090820"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

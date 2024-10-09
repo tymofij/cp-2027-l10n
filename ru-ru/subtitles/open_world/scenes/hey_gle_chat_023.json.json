@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне кажется, или здесь раньше было спокойней?",
+              "maleVariant": "",
+              "stringId": "2161788985688535040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да не кажется. И стреляли не так часто, и киберпсихов было меньше.",
+              "maleVariant": "",
+              "stringId": "2177914670113603584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "По-моему, мэру самое время раздавать нам всем оружие.",
+              "maleVariant": "",
+              "stringId": "2177914831527198720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот вломится такой псих в магазин, а все сразу бам! — выпустят по нему полную обойму!",
+              "maleVariant": "",
+              "stringId": "2177915026881101824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, вот так и надо. Бам, и нет проблемы.",
+              "maleVariant": "",
+              "stringId": "2177915218510462976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У людей слишком мало оружия. Это большая трагедия Найт-Сити.",
+              "maleVariant": "",
+              "stringId": "2177915710569431040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что, если… Ну, если какой-нибудь идиот застрелит кого-нибудь по ошибке?",
+              "maleVariant": "",
+              "stringId": "2177915833512869888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, как говорится, жаль. Лучше ошибиться, чем получить пулю в лоб.",
+              "maleVariant": "",
+              "stringId": "2177916100320935936"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

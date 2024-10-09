@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А мальчик из седьмой вообще безнадёжен. По нему видно. Скоро выдернет систему и пойдёт людей убивать.",
+              "maleVariant": "",
+              "stringId": "2156386299033186304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Перестань…",
+              "maleVariant": "",
+              "stringId": "2169292897936265216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ты что, не слышал про Сиэтл? У киборга в голове что-то замкнуло, и он всех на этаже перебил. Никто не выжил.",
+              "maleVariant": "",
+              "stringId": "2169293528373710848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если у человека есть импланты, рано или поздно жди беды.",
+              "maleVariant": "",
+              "stringId": "2169295121924018176"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

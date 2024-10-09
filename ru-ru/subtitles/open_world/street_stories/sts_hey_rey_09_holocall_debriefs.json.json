@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отличная работа, дорогуша. Как говорится, остаёмся на связи. Заказ закрыт.",
+              "maleVariant": "",
+              "stringId": "2328779755594993668"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты не спасла её, Ви. Я знаю, всякое случается, теперь уже ничего не изменишь. Но знаешь, в чём на самом деле проблема?",
+              "maleVariant": "Ты не спас её, Ви. Я знаю, всякое случается, теперь уже ничего не изменишь. Но знаешь, в чём на самом деле проблема?",
+              "stringId": "2328779755628548100"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты поступила безответственно. Ты меня разочаровала, прямо как мои мужья. Все они ушли в мир иной. Подумай об этом.",
+              "maleVariant": "Ты поступил безответственно. Ты меня разочаровал, прямо как мои мужья. Все они ушли в мир иной. Подумай об этом.",
+              "stringId": "2340929764586786816"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

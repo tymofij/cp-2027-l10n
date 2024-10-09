@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На искусственном мясе.",
+              "maleVariant": "",
+              "stringId": "2172161397591093248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что-что, прости?",
+              "maleVariant": "",
+              "stringId": "2181066060627021824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он сделал состояние на производстве искусственного мяса.",
+              "maleVariant": "",
+              "stringId": "2181066143288365056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И его приняли?",
+              "maleVariant": "",
+              "stringId": "2181066224355872768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу.",
+              "maleVariant": "",
+              "stringId": "2181066477557616640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это уже совсем ни в какие рамки. Раньше был элитарный клуб, а теперь?",
+              "maleVariant": "",
+              "stringId": "2181066539784310784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Принимают любого, у кого больше денег, чем у дворника.",
+              "maleVariant": "",
+              "stringId": "2181066649607966720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

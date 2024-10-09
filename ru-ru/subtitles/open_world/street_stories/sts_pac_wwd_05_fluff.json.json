@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ищу Логана.",
+              "maleVariant": "",
+              "stringId": "1654945466095738884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я к Логану. Мне назначено.",
+              "maleVariant": "",
+              "stringId": "1654946518245285888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да что ты? Романтический ужин или сразу в койку?",
+              "maleVariant": "",
+              "stringId": "1654946808273018880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не лезь не в своё дело, шутник. Где он?",
+              "maleVariant": "Не лезь не в своё дело, шутник. Ну, где он?",
+              "stringId": "1654947294258634752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Наверху, наверно… Но он велел его не беспокоить. Так что лучше внизу подожди.",
+              "maleVariant": "",
+              "stringId": "1654948561039106048"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

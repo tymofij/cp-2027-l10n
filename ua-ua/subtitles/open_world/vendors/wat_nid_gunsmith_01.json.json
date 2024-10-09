@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мені потрібна стрілецька зброя.",
+              "maleVariant": "",
+              "stringId": "1979351707821776900"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ти не дуже схожий на продавця.",
+              "maleVariant": "",
+              "stringId": "1979352287189377024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу якогось заліза придбати.",
+              "maleVariant": "",
+              "stringId": "1979352912929202176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То купуй.",
+              "maleVariant": "",
+              "stringId": "1979354932671127552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дивлюсь я на тебе і не можу не сказати, що торгівля ані твоє хобі, ані твоє покликання.",
+              "maleVariant": "",
+              "stringId": "1979357082017046528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочеш купувати, то купуй. Хочеш базікати, то пиздуй.",
+              "maleVariant": "",
+              "stringId": "1979357626454482944"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

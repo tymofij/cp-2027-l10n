@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Witam. Czas na wiadomości lokalne. Trwa obława na handlarzy organicznym mięsem. W glen wybuchła epidemia malarii.",
+              "maleVariant": "",
+              "stringId": "1744334830032183296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przez kilkanaście godzin cała dzielnica była odcięta od świata. Nie można było połączyć się z internetem, nie działały sieci lokalne ani telefony.",
+              "maleVariant": "",
+              "stringId": "1744341886478901248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Policja uspokaja mieszkańców: był to efekt uboczny standardowych prac konserwacyjnych.",
+              "maleVariant": "",
+              "stringId": "1744350285975314432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ciąg dalszy informacji lokalnych – po krótkiej przerwie.",
+              "maleVariant": "",
+              "stringId": "1744350608886390784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale najpierw przyjrzyjmy się tajemniczej awarii łączności elektronicznej w Pacifice.",
+              "maleVariant": "",
+              "stringId": "1744352399770312704"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

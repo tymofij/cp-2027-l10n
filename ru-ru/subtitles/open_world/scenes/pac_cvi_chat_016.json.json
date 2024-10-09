@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Странный запах, да? Вроде как металл, но не совсем.",
+              "maleVariant": "",
+              "stringId": "2179400359030845440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Наверное, никогда не привыкну. У «Олл фудс» мясо даже пахнет по-другому.",
+              "maleVariant": "",
+              "stringId": "2189717020662808576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, перейдёшь на «Просто мясо»? Или эту их пасту? А то ещё подцепишь что-нибудь…",
+              "maleVariant": "",
+              "stringId": "2189717470292197376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Моя бабушка говорит, что у настоящей птицы вкус вообще не такой, как из пробирки.",
+              "maleVariant": "",
+              "stringId": "2189717702757302272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Один раз-то уж можно попробовать.",
+              "maleVariant": "",
+              "stringId": "2189717903010152448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты больная? Готова сдохнуть ради этого?",
+              "maleVariant": "",
+              "stringId": "2189718083130343424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не знаю… Есть в этом что-то такое. Вот ты бы не хотела попробовать то же, что ела твоя прабабушка?",
+              "maleVariant": "",
+              "stringId": "2189718206610653184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет, конечно. Я готова есть только то, что я сама вынимаю из трижды стерилизованной вакуумной упаковки.",
+              "maleVariant": "",
+              "stringId": "2218614984076410880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, stary, patrzę na tę twoją ślicznotkę i tu będzie jeszcze dużo roboty.",
+              "maleVariant": "",
+              "stringId": "1548862505315491840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Twoja stara jest w lepszym stanie, he he.",
+              "maleVariant": "",
+              "stringId": "1548890933368479744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówiłem ci, że w końcu się nam opłaci dawanie dupy Militechowi.",
+              "maleVariant": "",
+              "stringId": "1551429605473148928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, ty to jesteś bardziej naiwny niż te barany, co chcą głosować na Holta.",
+              "maleVariant": "",
+              "stringId": "1551433806420926464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wał jest zjebany. No. Panewki nowe będą, szlif, wiadomo. Czekam na nowy kompresor jeszcze. Będzie cacy.",
+              "maleVariant": "",
+              "stringId": "1925395836710809600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nigdzie takiego sprzętu nie dorwiesz.",
+              "maleVariant": "",
+              "stringId": "1925409758645972992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Po prostu nam rzucili ochłap, bo wiedzą, że jak się w niej coś spierdoli, to już na amen.",
+              "maleVariant": "",
+              "stringId": "1925414102636294144"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

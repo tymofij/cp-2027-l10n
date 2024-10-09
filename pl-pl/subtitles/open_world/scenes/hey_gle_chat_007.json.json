@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak Peralez przegra to co? Będzie koniec świata?",
+              "maleVariant": "",
+              "stringId": "1832735430050177024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie, ale jeśli wygra, to coś się w końcu zmieni.",
+              "maleVariant": "",
+              "stringId": "1832741124455391232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pewnie. Dla tych przechodniów, nie?",
+              "maleVariant": "",
+              "stringId": "1832741464294678528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dla ciebie też.",
+              "maleVariant": "",
+              "stringId": "1832741687901413376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie pierdol. Myślisz, że Peralez naprawdę się nimi przejmuje?",
+              "maleVariant": "",
+              "stringId": "1832742476849995776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie musi. Wystarczy, że będzie mu się opłacało przejmować.",
+              "maleVariant": "",
+              "stringId": "1832742714146938880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty naprawdę nie rozumiesz jak to działa.",
+              "maleVariant": "",
+              "stringId": "1832742889670172672"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

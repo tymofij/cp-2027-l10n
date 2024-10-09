@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcą, żebyś wrócił.",
+              "maleVariant": "",
+              "stringId": "2172048047669370880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zwolnili mnie.",
+              "maleVariant": "",
+              "stringId": "2192538871354724352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A teraz chcą, żebyś wrócił. Zapłacą ci.",
+              "maleVariant": "",
+              "stringId": "2192550061204148224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sypiasz?",
+              "maleVariant": "",
+              "stringId": "2192550702764888064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co?",
+              "maleVariant": "",
+              "stringId": "2192551152142618624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czy sypiasz w nocy? Czy dajesz radę spać?",
+              "maleVariant": "",
+              "stringId": "2192551251178524672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Różnie. Sporo stresu... zresztą wiesz jak jest. Słuchaj, nie uwierzę, że nie brakuje ci tego napięcia. Tej adrenaliny. Wróć.",
+              "maleVariant": "",
+              "stringId": "2192551529831305216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hmmm... widzisz, a już sypiam. Spokojnie. Mam nawet hobby.",
+              "maleVariant": "",
+              "stringId": "2192552829360902144"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

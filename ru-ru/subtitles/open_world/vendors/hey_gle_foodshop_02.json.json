@@ -1,0 +1,109 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что посоветуешь?",
+              "maleVariant": "",
+              "stringId": "1563353594227560452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чей это бар?",
+              "maleVariant": "",
+              "stringId": "1563354641998254080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Альварадо здесь бывает?",
+              "maleVariant": "",
+              "stringId": "1563354741638139904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Есть у вас тут нормальная выпивка?",
+              "maleVariant": "Есть у вас нормальная выпивка?",
+              "stringId": "1567899730927439872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чей это бар?",
+              "maleVariant": "",
+              "stringId": "1567899978039054336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хавьер Альварадо. Часто здесь бывает?",
+              "maleVariant": "",
+              "stringId": "1567900029108899840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всегда.",
+              "maleVariant": "",
+              "stringId": "1567902269085339648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что, хочешь пожаловаться на ассортимент? На чистоту? Или, может, на бармена?",
+              "maleVariant": "",
+              "stringId": "1567903222433861632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что, раз у меня мексиканский бар, значит, я должен знать каждого Хавьера во всем грёбаном городе?!",
+              "maleVariant": "",
+              "stringId": "1567904140701224960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет, но этого Хавьера ты знать можешь.",
+              "maleVariant": "",
+              "stringId": "1984898259925725184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Проработаешь с моё — уяснишь, что фамилии лучше лишний раз не запоминать. И лица тоже.",
+              "maleVariant": "",
+              "stringId": "1984899080482582528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Просто интересуюсь.",
+              "maleVariant": "Да просто интересуюсь.",
+              "stringId": "1984908922215591936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты явно не из тех, кто подыскивает зал для дочкиного дня рожденья.",
+              "maleVariant": "",
+              "stringId": "1984909421287436288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"patrón.\" b=\"Поверь, тебе не нужен наш \" a=\" Для твоего же блага. По многим причинам.\"/>",
+              "maleVariant": "",
+              "stringId": "1984910843441704960"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

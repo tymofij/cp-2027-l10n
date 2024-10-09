@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы, может, и бедные, но порядок должен быть везде и во всём.",
+              "maleVariant": "",
+              "stringId": "2160375145841074176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Без порядка человек — зверь! Понимаешь?",
+              "maleVariant": "",
+              "stringId": "2179780880398389248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Морти, ты извини… но мне пиздец как жрать хочется.",
+              "maleVariant": "",
+              "stringId": "2179782300136738816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Без иерархии никак! Каждый должен знать своё место. Всё лучшее уходит Слепой Кэнди, потом я своё получаю, а потом и тебе достаётся.",
+              "maleVariant": "",
+              "stringId": "2179782425227661312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так нечестно. Нас же бесплатно кормят. Мы должны поровну получать.",
+              "maleVariant": "",
+              "stringId": "2179783210686582784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не, ну если тебя что-то не устраивает, тебя никто не держит. Хочешь — проваливай, сам себе еду ищи.",
+              "maleVariant": "",
+              "stringId": "2179788644071870464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну всё, всё, молчу.",
+              "maleVariant": "",
+              "stringId": "2179788770521747456"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej V. Trzeba pilnie wywieźć z miasta jednego typa, bo inaczej kaplica.",
+              "maleVariant": "",
+              "stringId": "2328626675241627648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Potrzebuję kogoś, kto daje radę za kółkiem i nie zesra się w gacie, jak będzie gorąco.",
+              "maleVariant": "",
+              "stringId": "2342026128087420928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co ty na to? Szczegóły w załączniku.",
+              "maleVariant": "",
+              "stringId": "2342030900014190592"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

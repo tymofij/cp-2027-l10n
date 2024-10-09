@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А откуда у нас столько запчастей? Вы же их не заказываете.",
+              "maleVariant": "",
+              "stringId": "2178295681293737984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ну? А как же машины, которые сюда приезжают?",
+              "maleVariant": "",
+              "stringId": "2188115914954358784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Э-э-э… Я думал, вы их чините.",
+              "maleVariant": "",
+              "stringId": "2188116085897412608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "М-да, глазки у тебя так себе, сынок. Ты не заметил, что они отсюда так и не уезжают?",
+              "maleVariant": "",
+              "stringId": "2188116233285255168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Значит, машины, которые пропадают в Найт-Сити…",
+              "maleVariant": "",
+              "stringId": "2188116512206471168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Появляются в Пустошах. В природе ничего бесследно не исчезает.",
+              "maleVariant": "",
+              "stringId": "2188116753815158784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Серьёзно? И полиция ничего не делает?",
+              "maleVariant": "",
+              "stringId": "2188116959671599104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что они могут сделать? Их власть кончается на границе.",
+              "maleVariant": "",
+              "stringId": "2188117107025887232"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

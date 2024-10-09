@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mogę coś u ciebie kupić?",
+              "maleVariant": "",
+              "stringId": "1935665706222137344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wraiths często ci robią problemy?",
+              "maleVariant": "",
+              "stringId": "1935665706222137360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mogę coś u ciebie kupić?",
+              "maleVariant": "",
+              "stringId": "1935665706255691776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pewnie. I to ze zniżką.",
+              "maleVariant": "",
+              "stringId": "1935665706255691784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wraithsi często ci robią problemy?",
+              "maleVariant": "",
+              "stringId": "1935665706289246212"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kręcą się tu od jakiegoś czasu. Do tej pory wystarczyło, że wyciągnąłem obrzyna spod lady i odjeżdżali. A teraz... Teraz nie wiem, co będzie.",
+              "maleVariant": "",
+              "stringId": "1935665706306023424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja pierdolę... Dzięki. Mało brakowało.",
+              "maleVariant": "",
+              "stringId": "1975137452373102592"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

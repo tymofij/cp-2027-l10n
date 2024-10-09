@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ужас какой-то, одни бездельники.",
+              "maleVariant": "",
+              "stringId": "2167583306455732224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не говорите. Совсем себя не уважают.",
+              "maleVariant": "",
+              "stringId": "2214544611510423552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Особенно те, которые надо мной живут. Рокеры какие-то. Только и знают, что наркотики нюхают и музыку слушают всю ночь. Спать невозможно.",
+              "maleVariant": "",
+              "stringId": "2228790780600094720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А замечание таким сделать просто страшно.",
+              "maleVariant": "",
+              "stringId": "2228826334876241920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Раньше всё по-другому было.",
+              "maleVariant": "",
+              "stringId": "2228826932262572032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это в те времена, когда в мегабашнях всякие бродяги не селились?",
+              "maleVariant": "",
+              "stringId": "2228827845245112320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Точно.",
+              "maleVariant": "",
+              "stringId": "2228829954459930624"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

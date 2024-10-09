@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, ale kochasz ją?",
+              "maleVariant": "",
+              "stringId": "2182436363483582464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kocham... chcę, żeby było jej dobrze.",
+              "maleVariant": "",
+              "stringId": "2182438099187240960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"Chcesz, żeby było jej dobrze\"? To równie dobrze, ja ci mogę powiedzieć, że cię kocham.",
+              "maleVariant": "",
+              "stringId": "2182438386966827008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz, jak jest.",
+              "maleVariant": "",
+              "stringId": "2182439129996169216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Taa, niestety wiem.",
+              "maleVariant": "",
+              "stringId": "2182439809674743808"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

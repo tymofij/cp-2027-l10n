@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Какие-то вещи никогда не меняется. Они думают, от их крестика в бюллетене что-то зависит.",
+              "maleVariant": "",
+              "stringId": "1918454050186092544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В этом городе ты хоть куда свой крест можешь ставить, будет корупция.",
+              "maleVariant": "",
+              "stringId": "1925673149260230656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Голосуют за одну и то же сволочь. И каждый раз, сука, верят, что уж теперь-то всё точно будет иначе. Что тут скажешь… так им и надо.",
+              "maleVariant": "",
+              "stringId": "1925673762652024832"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

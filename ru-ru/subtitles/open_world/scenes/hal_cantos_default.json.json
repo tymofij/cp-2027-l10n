@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[en_us][db_db]how things are going.",
+              "maleVariant": "",
+              "stringId": "1895193552314990596"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что слышно, Хэл?",
+              "maleVariant": "",
+              "stringId": "1895196570569703424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я тебе лучше скажу, чего не слышно. Ни одного звонка!",
+              "maleVariant": "",
+              "stringId": "1895196786375032832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Шельмы» меня игнорят. Ни одного заказа. Ноль без палки! И всё небось из-за той девки их!",
+              "maleVariant": "",
+              "stringId": "1953332743595749376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ещё один такой голодный месяц, и придётся идти клянчить милости в Кабуки! Везёт как утопленнику!",
+              "maleVariant": "",
+              "stringId": "1953334778621718528"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

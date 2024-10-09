@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я так скажу: забей, и всё будет нормально.",
+              "maleVariant": "",
+              "stringId": "2172137024292249600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А если кто-то узнает? Чьи головы тогда полетят? Точно не их.",
+              "maleVariant": "",
+              "stringId": "2208353720441606144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Надо сделать так, чтоб никто не узнал.",
+              "maleVariant": "",
+              "stringId": "2208363762360356864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Там же целых десять контейнеров. И все по левым бумагам. А внутри знаешь что? Корпоративное снаряжение. Боевое.",
+              "maleVariant": "",
+              "stringId": "2208364599878979584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не аукнется. Возьми деньги и забудь. И начни изображать, что ты с рождения тупой.",
+              "maleVariant": "",
+              "stringId": "2208366026630205440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты вообще видел, куда его отправили? Говорю тебе, нам это ещё аукнется.",
+              "maleVariant": "",
+              "stringId": "2208372639286005760"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

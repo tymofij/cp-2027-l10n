@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bardzo ładnie. Naprawdę bardzo ładnie.",
+              "maleVariant": "",
+              "stringId": "2328748925698985984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, praca na pół gwizdka to nie ze mną, ok?",
+              "maleVariant": "",
+              "stringId": "2328749752379527168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Moi ludzie już rozpracowują ten radar. Militech czeka przykra niespodzianka.",
+              "maleVariant": "",
+              "stringId": "2332975831786962944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kontrakt uważam za zamknięty, kasa już do ciebie leci.",
+              "maleVariant": "",
+              "stringId": "2332976147232178176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Następnym razem bardziej się przyłóż. Kontrakt zamknięty.",
+              "maleVariant": "",
+              "stringId": "2332977796751278080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ten radar to ważna posprawa dla mnie i dla całych Badlandów.",
+              "maleVariant": "",
+              "stringId": "2332978007775100928"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

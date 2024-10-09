@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I podobnie jak pięćdziesiąt lat temu, Arasaka Corporation wychodzi z tego doświadczenia silniejsza niż kiedykolwiek, a Night City jest tego naocznym świadkiem.",
+              "maleVariant": "",
+              "stringId": "1993675234355761152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To dzieje się tu i teraz.",
+              "maleVariant": "",
+              "stringId": "1993676216728866816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słuchajcie, bo nikt z nas nie będzie milczeć.",
+              "maleVariant": "",
+              "stringId": "1993676724625526784"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

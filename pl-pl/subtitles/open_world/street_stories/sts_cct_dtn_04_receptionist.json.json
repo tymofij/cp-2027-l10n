@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jestem umówiona z panią Koch.",
+              "maleVariant": "Jestem umówiony z panią Koch.",
+              "stringId": "1408088290545135616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mam umówione spotkanie z panią Koch.",
+              "maleVariant": "",
+              "stringId": "1408091328093646848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobrze, niech tylko spojrzę...",
+              "maleVariant": "",
+              "stringId": "1408092557276377088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę wynająć pokój.",
+              "maleVariant": "",
+              "stringId": "1419935019515015168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak? W czym mogę pomóc?",
+              "maleVariant": "",
+              "stringId": "1935891931595067392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę wynająć pokój. Coś małego, na jedną noc.",
+              "maleVariant": "",
+              "stringId": "1935892937053622272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Najwyraźniej tak.",
+              "maleVariant": "",
+              "stringId": "1935899340698865664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Obawiam się, że to niemożliwe. Jesteśmy hotelem korporacyjnym, z naszych usług mogą korzystać jedynie pracownicy Biotechniki.",
+              "maleVariant": "",
+              "stringId": "1935899944544423936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm. Rozumiem. No nic, trudno.",
+              "maleVariant": "",
+              "stringId": "1946250435674607616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie, nic takiego nie widzę. Chyba doszło do jakiegoś nieporozumienia.",
+              "maleVariant": "",
+              "stringId": "2523106879086055424"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

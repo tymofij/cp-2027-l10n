@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zamknęli go w jakimś domku i katowali przez kilka godzin.",
+              "maleVariant": "",
+              "stringId": "2167875610674122752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A co innego mieli zrobić? To policjanci.",
+              "maleVariant": "",
+              "stringId": "2214413480169410560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja wiem, ale mimo wszystko. I nie, że ja tam żałuję jakiegoś 6th Streeta, tylko... ehh szkoda gadać.",
+              "maleVariant": "",
+              "stringId": "2221567679705485312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No ale zastanów się, NCPD ma gorsze wyposażenie niż 6th Streeci. Ludzi na ulicach też mniej.",
+              "maleVariant": "",
+              "stringId": "2221567779513143296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Poza tym, jakby tego gościa aresztowali, to za chwilę i tak by go musieli wypuści, a tak?",
+              "maleVariant": "",
+              "stringId": "2221568006877974528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może chociaż coś z niego wyciągnęli.",
+              "maleVariant": "",
+              "stringId": "2221568120996597760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie mówię, że nie.",
+              "maleVariant": "",
+              "stringId": "2221573257240612864"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

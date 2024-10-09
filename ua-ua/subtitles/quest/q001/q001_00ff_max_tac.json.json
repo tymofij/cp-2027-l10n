@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Joder\" t=\"… Ти тільки глянь, Ві.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2302765878827323392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну що ж, їм срака.",
+              "maleVariant": "",
+              "stringId": "2304051954604752900"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не схоже на звичайну облаву…",
+              "maleVariant": "",
+              "stringId": "2304051970056568832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усе, вистава скінчилася. Шкода виродків, але вони цього заслужили.",
+              "maleVariant": "",
+              "stringId": "2304051973110022144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так це не просто поліцаї. Це «Макс-Так», хижаки найвищого рівня поліції Найт-Сіті.",
+              "maleVariant": "",
+              "stringId": "2304055012436918272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вони з’являються лише коли щось виходить з-під контролю. Хоча ось ці чувачки їм на один зуб.",
+              "maleVariant": "",
+              "stringId": "2304055484128346112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Виходь з машини! Бігом!",
+              "maleVariant": "",
+              "stringId": "2304151246296236032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Швидше давай!",
+              "maleVariant": "",
+              "stringId": "2304152437445017600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бля, вони вже тут!",
+              "maleVariant": "",
+              "stringId": "2304152714034200576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та стріляй давай!",
+              "maleVariant": "",
+              "stringId": "2304153266910576640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

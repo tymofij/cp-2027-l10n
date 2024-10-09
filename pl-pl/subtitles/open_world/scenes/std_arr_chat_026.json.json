@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No i co? Znowu nici z widzenia. Znowu nas wychujali.",
+              "maleVariant": "",
+              "stringId": "2168020971862544384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"そんな汚い言葉どこで覚えたの！？\" t=\"Jak ty się odzywasz?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2211115407160074240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak jak mnie nauczył mój niedojebany ojciec. Nawet widzenia z własną rodziną nie potrafi załatwić.",
+              "maleVariant": "",
+              "stringId": "2212920687040618496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"な… 何言ってるの？\" t=\"Dziecko! Co ty mówisz?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2212921360427737088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Więcej mi tu nie każ przyjeżdżać. To strata czasu.",
+              "maleVariant": "",
+              "stringId": "2212923417566076928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"あなたのお父さんなのよ…\" t=\"Przecież to twój ojciec...\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2212925494769967104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ojciec-srojciec. Jakby mu na mnie zależało, to by się nie dał zamknąć. Albo przynajmniej by posmarował łapę strażnikowi.",
+              "maleVariant": "",
+              "stringId": "2212925712185909248"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

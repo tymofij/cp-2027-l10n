@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No i go złapali na granicy z jakimiś prochami. A mówiłem: Kostek, niczego z tego Leningradu nie wywoź.",
+              "maleVariant": "",
+              "stringId": "2276535761930199056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz, jak to jest z dzieciakami. Dwadzieścia lat ojca nie widział. Pewnie chciał ci zaimponować.",
+              "maleVariant": "",
+              "stringId": "2276535761930199068"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No to, kurwa, zaimponował. Głupotą. Teraz musimy szukać kogoś nowego do roboty.",
+              "maleVariant": "",
+              "stringId": "2276535761930199080"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

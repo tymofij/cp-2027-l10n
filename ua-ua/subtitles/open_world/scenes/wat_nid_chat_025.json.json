@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Фу, чуєш цей запах? Їбать, як же в’но смердить…",
+              "maleVariant": "",
+              "stringId": "2156430155730903040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І чим цього разу?",
+              "maleVariant": "",
+              "stringId": "2172014120025178112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "М’ясом. Живою, смердючою плоттю. Нафіга весь цей хром, якшо тут сті’ки кишок, шо в них плавати можна?",
+              "maleVariant": "",
+              "stringId": "2172014344705654784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, по-перше, в’ни їх тут перестали виробляти цілу вічність тому. По-друге, це лабораторні кишки.",
+              "maleVariant": "",
+              "stringId": "2172014616110678016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "По-третє, не тре свої переконання змішувати з роботою.",
+              "maleVariant": "",
+              "stringId": "2172014776098209792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І по-четверте, їсти ж треба щось.",
+              "maleVariant": "",
+              "stringId": "2172014986534830080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, ось це мне й найбільше дратує…",
+              "maleVariant": "",
+              "stringId": "2172015140113465344"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spierdoliłeś mi rękę! Dwa palce nie działają! Oddawaj kasę!",
+              "maleVariant": "",
+              "stringId": "1827157645227319296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czy jak pan wychodził, to działały?",
+              "maleVariant": "",
+              "stringId": "1827164555410268160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Obsługiwałeś mnie piętnaście minut temu!",
+              "maleVariant": "",
+              "stringId": "1827164765310017536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I palce działały?",
+              "maleVariant": "",
+              "stringId": "1827165068088434688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No tak, ale nie o to chodzi!",
+              "maleVariant": "",
+              "stringId": "1827165280437657600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czy klient ci się naprzykrza?",
+              "maleVariant": "",
+              "stringId": "1827173335883702272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie, nie. Pan dziękował za obsługę, prawda?",
+              "maleVariant": "",
+              "stringId": "1827175064876474368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "… jebani oszuści!",
+              "maleVariant": "",
+              "stringId": "1827176550666723328"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

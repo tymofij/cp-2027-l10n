@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Холобайтс» или «Карлссонс»…",
+              "maleVariant": "",
+              "stringId": "2179621399120437248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй.",
+              "maleVariant": "",
+              "stringId": "2211185798939369472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А?",
+              "maleVariant": "",
+              "stringId": "2217210366544011264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты когда-нибудь думал, кто эти машины наполняет? И зачем?",
+              "maleVariant": "",
+              "stringId": "2217210439692673024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну как зачем. Чтобы нам было что жрать.",
+              "maleVariant": "",
+              "stringId": "2217210855985733632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но кому это выгодно, чтобы я сюда раз в день бросал монетки, которые на дороге подобрать можно?",
+              "maleVariant": "",
+              "stringId": "2217212734782267392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пока бросаешь, кому-то выгодно. Окупается, значит.",
+              "maleVariant": "",
+              "stringId": "2217213387617296384"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Допустим, Хэл в безопасности, но так дела не делают. Я рассчитывала, что ты будешь вести себя профессиональней, Ви.",
+              "maleVariant": "",
+              "stringId": "2329256372747673600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Неплохо, неплохо. Хэл в полном восторге, только о тебе и говорит. Ты его прямо очаровала.",
+              "maleVariant": "Неплохо, неплохо. Хэл в полном восторге, только о тебе и говорит. Ты его прямо покорил.",
+              "stringId": "2329256889989242880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пожалуйста, постарайся так больше не делать. Заказ закрываю.",
+              "maleVariant": "",
+              "stringId": "2339445848403185664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Такие дела незамеченными не проходят, Ви. Заказ закрываю.",
+              "maleVariant": "",
+              "stringId": "2339447006702178304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хэла больше нет, Ви. Он пытался выбраться сам, но эта девочка с киберпсихозом его нашла.",
+              "maleVariant": "",
+              "stringId": "2358917713850572800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Было очевидно, что так случится, если ты его бросишь. Я тебе этого не забуду.",
+              "maleVariant": "",
+              "stringId": "2362391609075929088"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

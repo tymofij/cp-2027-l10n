@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "М-да. Не нравятся мне это. Нам платят за час, а не за всю работу.",
+              "maleVariant": "",
+              "stringId": "2161828539552313344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И что такого? Эта стройка будет тянуться месяцами. Контракт всей жизни!",
+              "maleVariant": "",
+              "stringId": "2211336622489051136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаешь, кто строит это здание? «Асукага и Финч». Они финансисты.",
+              "maleVariant": "",
+              "stringId": "2211337528441937920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А если финансисты начинают лезть в строительство, значит, тут какая-то подстава.",
+              "maleVariant": "",
+              "stringId": "2211337954600001536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Даже если и так? Работа у тебя есть? Есть.",
+              "maleVariant": "",
+              "stringId": "2211338584500576256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хотел бы я знать, не отмываю ли я своими руками чьи-то грязные эдди.",
+              "maleVariant": "",
+              "stringId": "2211338801127989248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ещё и страховку дали… Инвестиционный проект, сука, высшего уровня. Ага, щас.",
+              "maleVariant": "",
+              "stringId": "2211339086357438464"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "FM-2030. Poczytaj sobie o nim. Przekozak. Do dzisiaj go trzymają w kriokomorze, w kolekcji jakiegoś miliardera z Bahrajnu.",
+              "maleVariant": "",
+              "stringId": "2276536222213120016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"rus\" o=\"Ты про Фёдорова слышал? Это с него всё началось, он всё предсказал. Остальные уже потом присоединились.\" t=\"A o Fiodorowie słyszałeś? Od niego wszystko się zaczęło, wszystko przewidział. Reszta to marni naśladowcy.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2276536222229897216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No ale jakoś tego twojego nie zamrozili dla potomności. Lepiej przestań się wymądrzać i bierz się do roboty.",
+              "maleVariant": "",
+              "stringId": "2276536222229897228"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

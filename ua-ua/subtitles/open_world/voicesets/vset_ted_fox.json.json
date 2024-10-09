@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну давай, звичайно. Ігноруй мене.",
+              "maleVariant": "",
+              "stringId": "1895271845206241284"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дослухай-но до кінця.",
+              "maleVariant": "",
+              "stringId": "1895271845223018500"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не можеш справитися з допитливістю, га?",
+              "maleVariant": "",
+              "stringId": "1895271845306904576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знав, що ти повернешся.",
+              "maleVariant": "",
+              "stringId": "1895271845323681796"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Годинник цокає.",
+              "maleVariant": "",
+              "stringId": "1895271845357236228"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Може в тебе є час байдики бити, а в мене ні.",
+              "maleVariant": "",
+              "stringId": "1895271845390790656"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

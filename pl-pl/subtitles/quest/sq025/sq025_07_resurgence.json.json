@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Patrz, twój kumpel rozkraczył się na drodze. Chyba znowu coś mu dolega.",
+              "maleVariant": "",
+              "stringId": "1730070130741911552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wi- wirus w rdzeniu... Uszkodzony...",
+              "maleVariant": "",
+              "stringId": "1730089518459166720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przy- Przyjedź. O- ochroń. Rdzeń.",
+              "maleVariant": "",
+              "stringId": "1730090022916497408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Faktycznie. Może zadzwonię do niego i zapytam, czy wszystko w porządku.",
+              "maleVariant": "",
+              "stringId": "1730290755796377600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Delamain?",
+              "maleVariant": "",
+              "stringId": "1934387835406147584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przy- przy- przyjedź.",
+              "maleVariant": "",
+              "stringId": "1934388112465092608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Delamain? Twój samochód znów stoi na środku drogi. Wszystko w porządku?",
+              "maleVariant": "",
+              "stringId": "2004076145601060888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

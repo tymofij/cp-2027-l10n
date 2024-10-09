@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słyszałem, że masz jechać za miasto? Z jakimś konwojem?",
+              "maleVariant": "",
+              "stringId": "1963251243613724672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Taaa... na północ, do Seattle.",
+              "maleVariant": "",
+              "stringId": "1967870398913892352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, współczuję. Ilu chłopaków wróciło z poprzedniego przejazdu?",
+              "maleVariant": "",
+              "stringId": "1967870459613859840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszyscy. Tyle, że połowa w czarnych workach.",
+              "maleVariant": "",
+              "stringId": "1967874854657249280"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

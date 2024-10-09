@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, Господи, чуваче… Ти ж казав, що зав’язав!",
+              "maleVariant": "",
+              "stringId": "1963581427928514560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усе нормас… У мене все під контролем. У-усе га… разд.",
+              "maleVariant": "",
+              "stringId": "1963613232798875648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти певен, що це безпечно? Точно все добре?",
+              "maleVariant": "",
+              "stringId": "1963613605202739200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не для того став пара… параме… п’рамедиком… щоби не влучити собі у вену…",
+              "maleVariant": "",
+              "stringId": "1963613786044350464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я, мабуть, таки наберу твоїх… Решта ж має бути нині на чергуванні.",
+              "maleVariant": "",
+              "stringId": "1963614112109543424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти сказилася? Я-я не можу собі таке дозволити! Воно ж к-к-коштуватиме… місячну матню… платню.",
+              "maleVariant": "",
+              "stringId": "1963614311406092288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И тут Чёрный Дух увидел яркую зелёную вспышку на горизонте.",
+              "maleVariant": "",
+              "stringId": "1973565475202834432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А мне понравилось!",
+              "maleVariant": "",
+              "stringId": "1974912584829878272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ладно тебе. В жизни так не бывает.",
+              "maleVariant": "",
+              "stringId": "1974912689049944064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ура-а-а!",
+              "maleVariant": "",
+              "stringId": "1974912720037462016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Его предательство было прощено. Он понял, что ему дали второй шанс.",
+              "maleVariant": "",
+              "stringId": "1974912741545852928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Фигура потянулась к нему и… Бум! Чёрный Дух проснулся у себя в лагере в окружении родных.",
+              "maleVariant": "",
+              "stringId": "1974912762349600768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он подумал, что это упало ави… Но, подъехав ближе, он увидел странную фигуру, парящую над землёй.",
+              "maleVariant": "",
+              "stringId": "1974912782482259968"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

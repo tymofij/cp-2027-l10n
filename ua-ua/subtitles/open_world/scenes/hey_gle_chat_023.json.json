@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це мені здається, чи раніше тут було спокійніше?",
+              "maleVariant": "",
+              "stringId": "2161788985688535040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні, не здається. І перестрілок було менше… І кіберпсихи сюди рідше пхалися.",
+              "maleVariant": "",
+              "stringId": "2177914670113603584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як на мене, то меру час озброювати місто.",
+              "maleVariant": "",
+              "stringId": "2177914831527198720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Типу, от прилізе якийсь псих у крамницю, і БАМ! Кожен із присутніх випустить у нього по обоймі!",
+              "maleVariant": "",
+              "stringId": "2177915026881101824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, так і має бути. БАМ! І по справі.",
+              "maleVariant": "",
+              "stringId": "2177915218510462976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У людей має бути більше зброї, розумієш? У цьому й уся проблема Найт-Сіті.",
+              "maleVariant": "",
+              "stringId": "2177915710569431040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але шо, якшо, ну… Якшо якийсь дибіл випадково застрелить когось?",
+              "maleVariant": "",
+              "stringId": "2177915833512869888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тоді це дуже погано. Але знаєш, краще помилитися, ніж самому хапнути свинцю.",
+              "maleVariant": "",
+              "stringId": "2177916100320935936"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

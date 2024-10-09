@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co masz do żarcia?",
+              "maleVariant": "",
+              "stringId": "1977642913912881156"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wyglądasz na zmęczonego. To nie odstrasza klientów?",
+              "maleVariant": "",
+              "stringId": "1977643492005412864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wyglądasz na zmęczonego.",
+              "maleVariant": "",
+              "stringId": "1977644022920413184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co tam masz do żarcia?",
+              "maleVariant": "",
+              "stringId": "1977644889329401856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jest pani trzydziestą siódmą osobą, która mi to dzisiaj mówi.",
+              "maleVariant": "Jest pan trzydziestą siódmą osobą, która mi to dzisiaj mówi.",
+              "stringId": "1977645223078559744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co tylko pani sobie życzy. Zapraszam.",
+              "maleVariant": "Co tylko pan sobie życzy. Zapraszam.",
+              "stringId": "1979471441208000512"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

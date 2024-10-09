@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, przyznaję: trochę mi zaimponowałaś.",
+              "maleVariant": "V, przyznaję: trochę mi zaimponowałeś.",
+              "stringId": "2328624723381006336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, pod sam koniec mocno się wszystko skomplikowało, nie?",
+              "maleVariant": "",
+              "stringId": "2328625024095825920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na finiszu zrobiło się gorąco, wszystko mogło się popisowo spierdolić, ale proszę: klient żyje, ty żyjesz.",
+              "maleVariant": "",
+              "stringId": "2334651689186607104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Załatwię Karlowi jakąś metę na przeczekanie, pewnie z przyjemnością za to dodatkowo zapłaci. Dobra robota!",
+              "maleVariant": "",
+              "stringId": "2334651723596677120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spokojnie, tym razem nie mam pretensji. Może nie byłaś w stanie tego przewidzieć. Zdarza się. Kontrakt zamknięty.",
+              "maleVariant": "Spokojnie, tym razem nie mam pretensji. Może nie byłeś w stanie tego przewidzieć. Zdarza się. Kontrakt zamknięty.",
+              "stringId": "2334652900166057984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

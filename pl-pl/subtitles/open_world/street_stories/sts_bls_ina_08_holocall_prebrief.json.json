@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, mam dla ciebie niecodzienne zadanie. Musisz sprowadzić ciało Trevora Brassa pod adres, który dostaniesz w załączniku.",
+              "maleVariant": "",
+              "stringId": "2328838516469886976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chłopak zginął od kul Wraithsów. Rodzice nie mogą go pochować, bo zwłoki ich syna nadal nie wróciły do domu. Ty możesz to zmienić.",
+              "maleVariant": "",
+              "stringId": "2333099392610582528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szczegóły w załączniku.",
+              "maleVariant": "",
+              "stringId": "2333099777026932736"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

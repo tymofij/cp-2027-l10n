@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nice work on that antenna. The tricky part of having a head is knowing how to use it – but not for you, V.",
+              "maleVariant": "",
+              "stringId": "2328813252985712640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mosquito's routes are safe and secure again. The contract is closed and closed well.",
+              "maleVariant": "",
+              "stringId": "2332959587667001344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "My, my, you certainly sorted that out cleanly. Why work hard when you can work smart, right?",
+              "maleVariant": "",
+              "stringId": "2332960825439666176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mosquito's drone routes are safe, you're spry and well-rested, and the contract is closed.",
+              "maleVariant": "",
+              "stringId": "2332964669972267008"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

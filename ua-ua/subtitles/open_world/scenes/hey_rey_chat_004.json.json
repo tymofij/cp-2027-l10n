@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаєш, я визначаю кордони, а потім сам же їх зсуваю.",
+              "maleVariant": "",
+              "stringId": "1833097056163061760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та це нормально, чумбо. А як інакше? Якшо ти троха не прогнешся, то ризикуєш зламатися.",
+              "maleVariant": "",
+              "stringId": "1833099182960402432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тож так, так, я знаю. Але чим я тоді кращий за цих офісних здохликів із Ґлена чи Середмістя?",
+              "maleVariant": "",
+              "stringId": "1833099317312348160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти кращий. Повір мені.",
+              "maleVariant": "",
+              "stringId": "1833099644837158912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Mierda\" b=\"\" a=\", але ж чим?\"/>",
+              "maleVariant": "",
+              "stringId": "1833099827205496832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не знаєш? У тебе є своя сім’я. Брати, сестри.",
+              "maleVariant": "",
+              "stringId": "1833099984978436096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"hijos de puta\" b=\"А ці піджаки? А в цих \" a=\", окрім себе, немає бі’ше нікого. І нахуя їм тоді гроші?\"/>",
+              "maleVariant": "",
+              "stringId": "1833100136174706688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не знаю, чумбо. Тупо не знаю.",
+              "maleVariant": "",
+              "stringId": "1833100312855568384"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

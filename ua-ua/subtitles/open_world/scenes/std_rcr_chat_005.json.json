@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як же мене башка розколюється останнім часом… Та ше й прищі ці, блядь…",
+              "maleVariant": "",
+              "stringId": "1963293068592455680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну то так і має бути. Ти ж риєшся в смітті «Нафтохіма». Радіація.",
+              "maleVariant": "",
+              "stringId": "1969270904281874432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я шарю, шо в’ни там викидають нормальну поїбню, але в’но того не варте, якшо ти не відкладаєш на новий кістковий мозок.",
+              "maleVariant": "",
+              "stringId": "1969271067775844352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ой, та всьо. То ті’ки на словах так. М’не, радше, грип доб’є, ніж та твоя радіація.",
+              "maleVariant": "",
+              "stringId": "1969271885262471168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але якшо т’бі трапився «нафтохімський» трасформатор за п’ять євдиків, то нема чо’ носом крутити!",
+              "maleVariant": "",
+              "stringId": "1969272211663208448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak sobie myślę... czemu w jednych montujemy używane części, a w innych nowe?",
+              "maleVariant": "",
+              "stringId": "2178248733847003136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A, bo widzisz moja droga... są dwa rodzaje ludzi: laicy i nomadzi.",
+              "maleVariant": "",
+              "stringId": "2180996341142634496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niech ci przez myśl nie przejdzie, żeby montować nomadzie amortyzator z drugiej ręki.",
+              "maleVariant": "",
+              "stringId": "2180997704777973760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Połapie się, zanim zdążysz powiedzieć \"błagam, tylko nie w zęby!\"",
+              "maleVariant": "",
+              "stringId": "2180997914711277568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Laicy to co innego. Nie szkodzi wcisnąć im do czasu do czasu trochę starych części.",
+              "maleVariant": "",
+              "stringId": "2180998057502162944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sama nie wiem... Nie chciałabym, żeby się przeze mnie rozbili, czy coś takiego.",
+              "maleVariant": "",
+              "stringId": "2180998225291100160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystko trzeba robić z głową. Z hamulcami lepiej nie kombinować, ale już na przykład takie sprzęgło...",
+              "maleVariant": "",
+              "stringId": "2180998457454215168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aaa, no chyba że tak.",
+              "maleVariant": "",
+              "stringId": "2180998590631755776"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

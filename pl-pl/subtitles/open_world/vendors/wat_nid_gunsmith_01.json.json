@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę kupić broń.",
+              "maleVariant": "",
+              "stringId": "1979351707821776900"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wyglądasz na handlarza.",
+              "maleVariant": "",
+              "stringId": "1979352287189377024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę kupić broń.",
+              "maleVariant": "",
+              "stringId": "1979352912929202176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To kupuj.",
+              "maleVariant": "",
+              "stringId": "1979354932671127552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak tak na ciebie patrzę, to coś mi mówi, że handel nie jest twoim powołaniem.",
+              "maleVariant": "",
+              "stringId": "1979357082017046528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcesz coś kupić? Kupuj. Chcesz pogadać? Wypierdalaj.",
+              "maleVariant": "",
+              "stringId": "1979357626454482944"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

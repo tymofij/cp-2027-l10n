@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty, Wyatt to się umie ustawić, co?",
+              "maleVariant": "",
+              "stringId": "1318377528401293312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No. Podobno załatwił wszystko legitnie. Ma na ten parking papiery w i ogóle.",
+              "maleVariant": "",
+              "stringId": "1318383482752692224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Serio? Łeb jak sklep, kurwa. Łeb jak sklep.",
+              "maleVariant": "",
+              "stringId": "1624225864327065600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zajebista ta fura. Klasa.",
+              "maleVariant": "",
+              "stringId": "1760773975902023680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Się gra, się ma.",
+              "maleVariant": "",
+              "stringId": "1760778456844759040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz już kupca?",
+              "maleVariant": "",
+              "stringId": "1760778658825662464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie, sam będę jeździł. Tylko przemaluję i nowe felgi wstawię.",
+              "maleVariant": "",
+              "stringId": "1760778842250964992"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

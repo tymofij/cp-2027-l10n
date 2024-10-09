@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Значит, это ты вчера брала камеры?",
+              "maleVariant": "",
+              "stringId": "2159290644905816064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чего? Какие камеры? Всё на месте.",
+              "maleVariant": "",
+              "stringId": "2221770839928946688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Уже на месте, да. Я даже знаю, что ты записывала.",
+              "maleVariant": "",
+              "stringId": "2221771252682014720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Когда вынимаешь щепку, всё автоматически копируется во внутреннюю память. Ненадолго.",
+              "maleVariant": "",
+              "stringId": "2221772302952513536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слушай, давай разрулим это как-нибудь без…",
+              "maleVariant": "",
+              "stringId": "2221804746464378880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Без чего? Ты ребёнка живьём изрубила.",
+              "maleVariant": "",
+              "stringId": "2221805351014580224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подожди, подожди. Я уже нашла покупателя.",
+              "maleVariant": "",
+              "stringId": "2221806137161367552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он мне заплатит, я отдам тебе половину. Хорошо?",
+              "maleVariant": "",
+              "stringId": "2221806609205116928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм… Нет. Отдавай сейчас. А то, может, и нет никакого покупателя.",
+              "maleVariant": "",
+              "stringId": "2221807121396744192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сколько смотрела чёрных виртов, но такой херовый первый раз вижу. Вообще ничего не чувствуется.",
+              "maleVariant": "",
+              "stringId": "2221807862698033152"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

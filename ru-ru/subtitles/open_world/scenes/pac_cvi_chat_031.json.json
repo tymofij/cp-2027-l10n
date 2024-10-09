@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Одна большая помойка. Гнойная канава. Вот что такое Пасифика.",
+              "maleVariant": "",
+              "stringId": "2179548064633876480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Вудуисты» делают что могут.",
+              "maleVariant": "",
+              "stringId": "2188366581593784320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, сидят в этой своей норе, играют с «Дозором» в догонялки. Это называется «что могут»?",
+              "maleVariant": "",
+              "stringId": "2188366900478328832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочешь, чтобы корпоратская полиция у нас тут ездила? Нет, спасибо.",
+              "maleVariant": "",
+              "stringId": "2188367026391334912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Полиция хотя бы изображала, что поддерживает порядок.",
+              "maleVariant": "",
+              "stringId": "2188367147975819264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А сейчас у нас что? Боевая зона! Ебучий апокалипсис в миниатюре!",
+              "maleVariant": "",
+              "stringId": "2188367360325042176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что есть, то есть. Я слышал, на границе района иногда находят трупы без глаз.",
+              "maleVariant": "",
+              "stringId": "2188367496941912064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот честно. В пизду этот район.",
+              "maleVariant": "",
+              "stringId": "2188367858256035840"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Моя сестра так переживает, что наши соседи уезжают. Ей нравится этот чувак, как его… Барт.",
+              "maleVariant": "",
+              "stringId": "2161749616877449216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И что ты ей говоришь?",
+              "maleVariant": "",
+              "stringId": "2176632322600452096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что для них так будет лучше. А то «Валентино» их достанут.",
+              "maleVariant": "",
+              "stringId": "2176632676633264128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты знаешь, за такие деньги, которые мы им платим, они могли бы быть как-то подружелюбнее.",
+              "maleVariant": "",
+              "stringId": "2176632899988340736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаешь, что им сделала семья Барта?",
+              "maleVariant": "",
+              "stringId": "2176633055966117888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, малая сказала, что старшая сестра Барта «типа пошла на Шестую улицу».",
+              "maleVariant": "",
+              "stringId": "2176633258903322624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А потом спрашивает меня: «А где эта Шестая улица? Нам что, на неё нельзя ходить?» Я серьёзно.",
+              "maleVariant": "",
+              "stringId": "2176633846760194048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "М-да.",
+              "maleVariant": "",
+              "stringId": "2218431679167184896"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

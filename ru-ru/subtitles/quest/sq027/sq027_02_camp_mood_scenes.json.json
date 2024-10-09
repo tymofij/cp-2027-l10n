@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну допустим, мы соберёмся и поедем, а что потом?",
+              "maleVariant": "",
+              "stringId": "1789933410630520832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Контракт разорван. Нам тут больше делать нечего.",
+              "maleVariant": "",
+              "stringId": "1789934164112068608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лагерь хотите свернуть только вы.",
+              "maleVariant": "",
+              "stringId": "1789934669123047424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Потому что Сол не может вовремя остановиться.",
+              "maleVariant": "",
+              "stringId": "1789934808088727552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он упрямый как осёл, а все его слушают, потому что…",
+              "maleVariant": "",
+              "stringId": "1789935382473494528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Потому что он глава семьи?",
+              "maleVariant": "",
+              "stringId": "1791046620754022400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Потому что Альдекальдо держатся вместе?",
+              "maleVariant": "",
+              "stringId": "1791047326739271680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Твою мать. Ладно, хорошо.",
+              "maleVariant": "",
+              "stringId": "1791054532184444928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы остаёмся.",
+              "maleVariant": "",
+              "stringId": "1791055039678451712"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

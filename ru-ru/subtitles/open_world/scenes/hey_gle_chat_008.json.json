@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У тебя есть харизма, чумба, это дорогого стоит. Она нам нужна. И мы тебе заплатим.",
+              "maleVariant": "",
+              "stringId": "1832753109528076304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Надеешься уломать меня грубой лестью?",
+              "maleVariant": "",
+              "stringId": "1832755699074588672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Надеюсь на твой здравый смысл.",
+              "maleVariant": "",
+              "stringId": "1832755849683656704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет.",
+              "maleVariant": "",
+              "stringId": "1832756025760538624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Почему?",
+              "maleVariant": "",
+              "stringId": "1832756224956424192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Потому что я не предатель. В нашем деле это самое важное.",
+              "maleVariant": "",
+              "stringId": "1832756370163228672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Какие красивые слова. А почему тогда ты со мной говоришь? Почему ещё не ушёл?",
+              "maleVariant": "",
+              "stringId": "1832756758069239808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сам подумай.",
+              "maleVariant": "",
+              "stringId": "1832756954849206272"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Udawał, że chce wrócić do rodziny.",
+              "maleVariant": "",
+              "stringId": "1973554026900398080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, podobno ze łzami w oczach go witali.",
+              "maleVariant": "",
+              "stringId": "1977838801026568192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dajcie mi drugą szansę, zmieniłem się, pierdu pierdu.",
+              "maleVariant": "",
+              "stringId": "1977838876876361728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I oni to kupili?",
+              "maleVariant": "",
+              "stringId": "1977838964788973568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No to w nocy wpuścił naszych do obozu.",
+              "maleVariant": "",
+              "stringId": "1977840864104042496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powrót w wielkim stylu.",
+              "maleVariant": "",
+              "stringId": "1977841937577431040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nikt skurwiela nawet nie pilnował.",
+              "maleVariant": "",
+              "stringId": "1977844885049069568"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

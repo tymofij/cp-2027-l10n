@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pomyślałeś sobie, przyjdę do mojego kumpla i mu o tym powiem, tak?",
+              "maleVariant": "",
+              "stringId": "2161898330591096832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No tak...",
+              "maleVariant": "",
+              "stringId": "2227286226075226112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pomyślałeś, to nie mój problem, nie moje pieniądze, tak?",
+              "maleVariant": "",
+              "stringId": "2227286550882127872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie, nie, szefie tak to nie...",
+              "maleVariant": "",
+              "stringId": "2227286941187280896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak my mamy wskoczyć do wyższej ligi, co?! Jak my, kurwa, mamy wejść Afterlife'u, co?!",
+              "maleVariant": "",
+              "stringId": "2227287064550150144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spierdoliłeś tę akcję! Na moje konto, kurwa! Na moje nazwisko! Jak ja się teraz pokażę. Kurwa!",
+              "maleVariant": "",
+              "stringId": "2227287168837324800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przepraszam...",
+              "maleVariant": "",
+              "stringId": "2227287662355910656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szefie, ja już chyba nie chcę do Afterlife, to nie dla mnie, j-ja się nie nadaję.",
+              "maleVariant": "",
+              "stringId": "2227301010577395712"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

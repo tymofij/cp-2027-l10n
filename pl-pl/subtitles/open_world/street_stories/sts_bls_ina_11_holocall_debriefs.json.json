@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wszystko poszło tak, jak chciałam... Ale Red Joe ma na czym trenować, a to najważniejsze. Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2328861274777497600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pięknie. Red Joe od jutra zaczyna trening. Jeszcze kiedyś o nim usłyszysz, czuję to. Chłopak ma potencjał.",
+              "maleVariant": "",
+              "stringId": "2328862173650399232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kontrakt zamknięty. Do następnego.",
+              "maleVariant": "",
+              "stringId": "2333124050303041536"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

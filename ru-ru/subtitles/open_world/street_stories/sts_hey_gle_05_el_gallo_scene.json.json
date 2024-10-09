@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лифт, ты охуел?! Ты хули творишь, лифт? Лифт ты ебучий!",
+              "maleVariant": "",
+              "stringId": "1461865012359356416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кто сломал мой лифт, а?! Вы, блядь, гондоны рваные!",
+              "maleVariant": "",
+              "stringId": "1461868502724927488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вверх, вниз, вверх, вниз. Чё застрял, ебаный ты лифт! А ну поехал!",
+              "maleVariant": "",
+              "stringId": "1610001933085466624"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

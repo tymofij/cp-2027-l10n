@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Какие люди! Я думал, ты на Луне в командировке!",
+              "maleVariant": "",
+              "stringId": "2160328164468891648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А, ну да, всё отменилось. Визу не дали.",
+              "maleVariant": "",
+              "stringId": "2169440464288403456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ладно? Почему?",
+              "maleVariant": "",
+              "stringId": "2169440639845191680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На интервью узнали, что у меня есть собака. У них там с этим строго, они ж кучу болезней переносят. Начнёт что-нибудь расти в вентиляции, и всё… Тебе конец.",
+              "maleVariant": "",
+              "stringId": "2169440734602907648"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

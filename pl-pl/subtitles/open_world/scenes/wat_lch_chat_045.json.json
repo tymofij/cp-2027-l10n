@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcesz pogadać o wczoraj?",
+              "maleVariant": "",
+              "stringId": "2157402539566592000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystko jest w raporcie.",
+              "maleVariant": "",
+              "stringId": "2182614415428894720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ta, czytałem. Tylko jakoś nie ma tam słowa o tym, że kazałem ci stamtąd spierdalać.",
+              "maleVariant": "",
+              "stringId": "2209863748935041024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ty nic. Kurwa, ten psychol był jak chodzący czołg.",
+              "maleVariant": "",
+              "stringId": "2209864292919492608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czemu tak głupio ryzykowałaś? W takich przypadkach wyzywamy Max-Tac!",
+              "maleVariant": "",
+              "stringId": "2209866742829236224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cywile byli zagrożeni. Miałam stać i patrzyć, jak ich rozwala?",
+              "maleVariant": "",
+              "stringId": "2209867449049366528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W porównaniu z Max-Takiem wszyscy jesteśmy cywilami!",
+              "maleVariant": "",
+              "stringId": "2209868517019828224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak tam dadzą takie wyposażenie jak im - proszę bardzo, zgrywaj bohaterkę.",
+              "maleVariant": "",
+              "stringId": "2209868928413941760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A na razie słuchaj, co mówię i się nie wychylaj, jasne?",
+              "maleVariant": "",
+              "stringId": "2209872198377226240"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mam sygnał, że Roh jest już bezpieczny. No, ładnie, ładnie, nie powiem.",
+              "maleVariant": "",
+              "stringId": "2328716792749436928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hm, no okej, Roh jest bezpieczny, ale oczekiwałam po tobie trochę więcej dyskrecji.",
+              "maleVariant": "",
+              "stringId": "2328717304454524928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Następnym razem bardziej się postaraj, okej? Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2334798849447923712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Solidna z ciebie zawodniczka. Zamykam kontrakt i przesyłam kasę.",
+              "maleVariant": "Solidny z ciebie zawodnik. Zamykam kontrakt i przesyłam kasę.",
+              "stringId": "2334801610977677312"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

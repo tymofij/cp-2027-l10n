@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шукаю якийсь пристойний одяг.",
+              "maleVariant": "",
+              "stringId": "1935645915449044992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви продаєте новий одяг чи вживаний?",
+              "maleVariant": "",
+              "stringId": "1935645915449045008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шукаю якусь пристойну одежину.",
+              "maleVariant": "",
+              "stringId": "1935645915751034884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тобі пощастило, ти її тут знайдеш. І за розумною ціною.",
+              "maleVariant": "",
+              "stringId": "1935645915751034892"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У вас одяг новий чи уживаний?",
+              "maleVariant": "",
+              "stringId": "1935645915784589316"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вживані. Ніхто не хоче вести новий товар аж сюди.",
+              "maleVariant": "",
+              "stringId": "1935645915784589324"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але я не скаржуся. Гуляю іноді по шосе, заглядаю в уламки. Пильне око завжди помітить, щось цікаве.",
+              "maleVariant": "",
+              "stringId": "1975127889678749696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу обновити гардероб.",
+              "maleVariant": "",
+              "stringId": "3775249438369247232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу обновити гардероб.",
+              "maleVariant": "",
+              "stringId": "3836279465638227976"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

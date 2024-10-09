@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dziś przyjdzie twój tata.",
+              "maleVariant": "",
+              "stringId": "2189789085601992704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No i?",
+              "maleVariant": "",
+              "stringId": "2189789192690962432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeśli się z nim nie spotkamy, to na kolejny wspólny obiad będziesz czekać tydzień.",
+              "maleVariant": "",
+              "stringId": "2189789616047230976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej.",
+              "maleVariant": "",
+              "stringId": "2189790346158116864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Twój tata ciężko dla ciebie pracuje. Wiesz, że nie łatwo mu znaleźć wolną chwilę. Nie powinnaś sprawiać mu przykrości.",
+              "maleVariant": "",
+              "stringId": "2189790852158951424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej, jeśli pójdziesz ze mną na obiad, to kupię ci ten braindance, który chciałaś.",
+              "maleVariant": "",
+              "stringId": "2189792105232437248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha.",
+              "maleVariant": "",
+              "stringId": "2189804819627479040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No dobra. Ale najpierw braindance, potem obiad.",
+              "maleVariant": "",
+              "stringId": "2189839191713878016"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

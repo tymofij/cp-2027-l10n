@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"rus\" o=\"Этот хуй ещё мне угрожает! Какие-то имена называет! А если он правда знает их всех?\" t=\"Chuj zaczyna mi grozić! Rzuca dużymi nazwiskami. A co, jeśli on rzeczywiście ich zna?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2276537882486415364"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"rus\" o=\"Может, блефует просто?\" t=\"Może blefuje?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2276537882486415376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"rus\" o=\"«Мозет, он бьифуит?» Может, ты начнёшь уже что-то делать, чтобы его проверить?\" t=\"Blefuje? Weź ty się, kurwa, lepiej do roboty i sprawdź go!\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2276537882486415388"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

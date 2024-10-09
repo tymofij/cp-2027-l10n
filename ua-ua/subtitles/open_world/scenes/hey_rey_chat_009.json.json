@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А це, пані та панове, знамениті нетрі Віста-дель-Рей. Будь ласка, не відставайте від групи.",
+              "maleVariant": "",
+              "stringId": "1833121940549263360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А знімати ж можна, так? У мене преміум пакет.",
+              "maleVariant": "",
+              "stringId": "1833124183361052672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можна? Ха-ха, треба! Тільки обережно з тутешніми дітьми — вони мають схильність до крадіжок!",
+              "maleVariant": "",
+              "stringId": "1833124353767235584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Клас! А то Кейт мені би не повірила, що я був тут!",
+              "maleVariant": "",
+              "stringId": "1833124593043890176"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

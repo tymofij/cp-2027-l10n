@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй, чумба… Слушай… Мне кажется, здание проседает. Я отвес приложил, и…",
+              "maleVariant": "",
+              "stringId": "2167942717724446720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Заткнись! Ты что, хочешь, чтоб нас уволили?",
+              "maleVariant": "",
+              "stringId": "2182349920621875200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знаю, что проседает. И все знают, кроме инвестора. Если ему скажут… Пиздец. Стройку закроют, а нас всех попрут.",
+              "maleVariant": "",
+              "stringId": "2182351918419202048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочешь ещё год работу искать? Нет? Тогда закрой рот и делай, что сказано.",
+              "maleVariant": "",
+              "stringId": "2182353305139990528"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

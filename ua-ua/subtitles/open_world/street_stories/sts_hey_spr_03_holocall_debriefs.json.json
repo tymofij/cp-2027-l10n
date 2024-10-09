@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я плачу за усунення проблем, а не за створення. Пам’ятай про це, Ві.",
+              "maleVariant": "",
+              "stringId": "2328576895046610944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Грандіозна робота, Ві. Я знав, що можу покластися на тебе.",
+              "maleVariant": "",
+              "stringId": "2328585353129062404"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, завдання полягало в поверненні авто в справному стані. Кочівники впораються, але було б непогано, щоб авто було в кращому стані.",
+              "maleVariant": "",
+              "stringId": "2328585606163034116"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Позаяк, закриваю контракт.",
+              "maleVariant": "",
+              "stringId": "2334572903648706560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кочівники вдячні за твою допомогу. Контракт закрито.",
+              "maleVariant": "",
+              "stringId": "2334574155614896128"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

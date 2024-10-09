@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Неплохо вышло с антенной. Многим наёмникам голова нужна, чтобы в неё есть, но ты меня радуешь.",
+              "maleVariant": "",
+              "stringId": "2328813252985712640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Маршруты Москито снова в безопасности. Заказ выполнен — и выполнен на совесть.",
+              "maleVariant": "",
+              "stringId": "2332959587667001344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нравится, как ты работаешь. Не прилагаешь силу там, где можно приложить ум.",
+              "maleVariant": "",
+              "stringId": "2332960825439666176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Москито снова может пускать дроны, ты выглядишь бодро, а я закрываю заказ.",
+              "maleVariant": "",
+              "stringId": "2332964669972267008"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Очень хорошо, Ви. Не знаю, как Педро, но я от твоей работы в восторге.",
+              "maleVariant": "",
+              "stringId": "2328798711231827972"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ёб твою мать, Ви, ну это пиздец! Тебе вообще на всё теперь насрать? На заказ, на клиента, на деньги? Про грузовик я даже говорить не хочу! Просто… Р-р-р!",
+              "maleVariant": "",
+              "stringId": "2328798711265382404"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Офигеть! Я смотрю, кое-кто у нас любит ходить по краю. Вот ты сумасшедшая, Ви. Представляю, как корпораты там охреневают. Ха! Люблю такое.",
+              "maleVariant": "Офигеть! Я смотрю, кое-кто у нас любит ходить по краю. Вот ты сумасшедший, Ви. Представляю, как корпораты там охреневают. Ха! Люблю такое.",
+              "stringId": "2328804771380350980"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мораль проста: расставляй приоритеты правильно, и всегда будешь в выигрыше. Закрываю заказ.",
+              "maleVariant": "",
+              "stringId": "2341962679290531840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно, подведём итоги. Педро счастлив, так что мы в шоколаде. Гонорар я тебе сейчас перешлю. Заказ закрыт.",
+              "maleVariant": "",
+              "stringId": "2342004181542735872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

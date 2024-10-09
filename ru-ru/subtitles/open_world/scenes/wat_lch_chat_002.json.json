@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха-ха, во у тебя сегодня зенки красные! Ха!",
+              "maleVariant": "",
+              "stringId": "1802381095185539072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тяжёлая ночка.",
+              "maleVariant": "",
+              "stringId": "1802385500781797376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это Маленький Китай, чумба. Если слишком громко, просто сунь в уши затычки — и баиньки.",
+              "maleVariant": "",
+              "stringId": "1802385856492331008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не в том дело…",
+              "maleVariant": "",
+              "stringId": "1802386191466225664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что тогда, запах? Ну да, у вас там, конечно, народу битком, но минут за пятнадцать нос привыкает и…",
+              "maleVariant": "",
+              "stringId": "1802386465924702208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да у нас там хрен один… помер, короче.",
+              "maleVariant": "",
+              "stringId": "1802386694111617024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чего? Это который?",
+              "maleVariant": "",
+              "stringId": "1802386956171730944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну этот, седой. Спал всё под дерюгой. Мы думали, он больной или слабый просто… А потом дерюгу-то подняли, а там… буэ…",
+              "maleVariant": "",
+              "stringId": "1802387100891996160"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

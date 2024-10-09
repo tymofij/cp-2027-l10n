@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаєш, узагалі я вірю, що насилля — не найліпший спосіб досягти мети. І все ж, іноді іншого вибору просто нема.",
+              "maleVariant": "",
+              "stringId": "2328596370291085312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Є одна дика свинота, яку треба… приборкати. Це садистське корпарське очко всьому Найт-Сіті життя не дає.",
+              "maleVariant": "",
+              "stringId": "2342006299783696384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зроби нам послугу, візьмися за це завдання. Надсилаю подробиці.",
+              "maleVariant": "",
+              "stringId": "2342006345149288448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

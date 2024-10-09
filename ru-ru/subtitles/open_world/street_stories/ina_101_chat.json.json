@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что я могу сказать? Не завидую я теперь Фиггсу.",
+              "maleVariant": "",
+              "stringId": "1915773186514120704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А чё Фиггс-то? Его тут даже не было, когда малый сбежал.",
+              "maleVariant": "",
+              "stringId": "1915775212279066624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так тем хуже для Фиггса. Начальник смены должен смотреть за сменой. А не по бабам бегать.",
+              "maleVariant": "",
+              "stringId": "1915775580253745152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бля… Мне моя на плечах пригодится…",
+              "maleVariant": "",
+              "stringId": "1915778470951284736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты сам подумай, на кого «Милитех» это повесит. Одного Джоша маловато будет. Ещё головы полетят.",
+              "maleVariant": "",
+              "stringId": "1915778814565445632"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dyskretnie i  z klasą - czego nie można powiedzieć o rozwodzie pana Gutierreza. Doskonała robota V, zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2328653895436414976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pan Gutierrez nalegał na dyskretność.",
+              "maleVariant": "",
+              "stringId": "2342903326335930368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A tej ci zabrakło. Najpierw zawiodła go żona, teraz ty. Nasz klient najwyraźniej nie ma szczęścia do kobiet. Zamykam kontrakt.",
+              "maleVariant": "Nie wiem czy wiesz, ale wywołanie alarmu i dyskretność to nie to samo. To tak na przyszłość. Może sobie zanotuj. Zamykam kontrakt.",
+              "stringId": "2342904435460902912"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привіт. Чула, що в таборі безхатьків сталася справжня різанина.",
+              "maleVariant": "",
+              "stringId": "2360743743485337600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зараз пришлю тобі всю інфу, яку маю, але там її небагато. Як ти вже здогадалася, це справа рук кіберпсиха.",
+              "maleVariant": "Зараз пришлю тобі всю інфу, яку маю, але там її небагато. Як ти вже здогадався, це справа рук кіберпсиха.",
+              "stringId": "2360745435954110464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А, і не вбивай його, будь ласка.",
+              "maleVariant": "",
+              "stringId": "2360745766633037824"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

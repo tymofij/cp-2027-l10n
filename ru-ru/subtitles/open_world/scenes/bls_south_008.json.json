@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы не можем вечно оставаться в семье! Всё интересное происходит в Найт-Сити!",
+              "maleVariant": "",
+              "stringId": "1973556957208944640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что, например? Спорим, тебя даже водителем мусоровоза не возьмут?",
+              "maleVariant": "",
+              "stringId": "1973769946880876544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да? А если бы взяли, я бы переехал и тебя, и твоего батю и трейлер ваш убогий!",
+              "maleVariant": "",
+              "stringId": "1973771004097142784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочешь получить?",
+              "maleVariant": "",
+              "stringId": "1973774418545811456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Только не деритесь!",
+              "maleVariant": "",
+              "stringId": "1973774623043297280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Найт-Сити — это будущее, понятно вам?",
+              "maleVariant": "",
+              "stringId": "1973776349905362944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Найт-Сити в другой стороне.",
+              "maleVariant": "",
+              "stringId": "1973777631584002048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Какая разница! Всё лучше, чем здесь, ясно?!",
+              "maleVariant": "",
+              "stringId": "1973777823062368256"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

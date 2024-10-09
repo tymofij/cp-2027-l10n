@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Żołnierz właśnie otworzył ogień do przechodniów na molo.",
+              "maleVariant": "",
+              "stringId": "2352060765460144128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeżeli ci się uda nie zabijaj go, tylko obezwładnij, a ja przyślę po niego ludzi.",
+              "maleVariant": "",
+              "stringId": "2352064951727857664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zaraz dostaniesz więcej szczegółów.",
+              "maleVariant": "",
+              "stringId": "2352065370453614592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I... powodzenia, V.",
+              "maleVariant": "",
+              "stringId": "2360805887367143424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oszalał!",
+              "maleVariant": "",
+              "stringId": "2537420031229337600"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, в мене тут простеньке замовлення. Треба, щоби ти кокнула одного дядьку, який видоює останнє в чесних роботяг.",
+              "maleVariant": "Ві, в мене тут простеньке замовлення. Треба, щоби ти кокнув одного дядьку, який видоює останнє в чесних роботяг.",
+              "stringId": "2328454114678910976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нашого спільного ворога звати Блейк, і він — те ще мудило. Більше інфи про нього та його гріхи — в листі.",
+              "maleVariant": "",
+              "stringId": "2331807345871785984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отличная работа, Ви.",
+              "maleVariant": "",
+              "stringId": "2328676396803006464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Надеюсь, теперь найдут мудака, который снимал весь этот кошмар. Заказ закрыт.",
+              "maleVariant": "",
+              "stringId": "2339578434832142336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты ничего не забыла, Ви? Например, запись? Теперь мы её уже вообще никак не отследим.",
+              "maleVariant": "Ты ничего не забыл, Ви? Например, запись? Теперь мы её уже вообще никак не отследим.",
+              "stringId": "2362401648142553088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви, мне… Мне за тебя стыдно. Я привыкла работать с профессионалами.",
+              "maleVariant": "",
+              "stringId": "2362404366370312192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты просрала единственную зацепку. Это был важный заказ, его надо было выполнить.",
+              "maleVariant": "Ты просрал единственную зацепку. Это был важный заказ, его надо было выполнить.",
+              "stringId": "2362408027460833280"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

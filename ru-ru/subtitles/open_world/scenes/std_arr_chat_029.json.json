@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давно надо границы позакрывать. Слишком много сюда всякой швали съезжается из таких дыр, про какие ты даже не слышала!",
+              "maleVariant": "",
+              "stringId": "2168045994895659008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так столько же людей и уезжает. Наверное, устают слушать таких, как ты.",
+              "maleVariant": "",
+              "stringId": "2211137010426142720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так что народа больше не становится.",
+              "maleVariant": "",
+              "stringId": "2212906131312566272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, может, если бы границы закрыли, то никто бы и не пытался уехать.",
+              "maleVariant": "",
+              "stringId": "2212906778007134208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подкопы делали бы, лишь бы от тебя подальше.",
+              "maleVariant": "",
+              "stringId": "2212907477281497088"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

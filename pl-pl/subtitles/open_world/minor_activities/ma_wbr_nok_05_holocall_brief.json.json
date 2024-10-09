@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do wszystkich jednostek wspierających działania NCPD. Podejrzenie przestępczości zorganizowanej w pobliżu Sycamore Street.",
+              "maleVariant": "",
+              "stringId": "2328827125123489792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z powodu zaległości w opłatach miasto Night City wypowiedziało umowę najmu przestrzeni logistyczno-przemysłowych firmie Impala Automatics.",
+              "maleVariant": "",
+              "stringId": "2358369312207900672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Za przeprowadzenie eksmisji firmy Impala Automatics władze Night City wypłacą nagrodę.",
+              "maleVariant": "",
+              "stringId": "2358369442986299392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Impala Automatics nie dostosowała się do tej decyzji i bezprawnie zajmuje przestrzeń, która była objęta umową.",
+              "maleVariant": "",
+              "stringId": "2363322155968860160"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

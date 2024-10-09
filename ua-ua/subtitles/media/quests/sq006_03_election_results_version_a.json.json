@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вітаю, Найт-Сіті. Це Ґіліан Джордан з оновленими новинами про вибори на «Каналі 54». Нарешті підраховано екзит-поли для виборів мера у Найт-Сіті.",
+              "maleVariant": "",
+              "stringId": "1744646259704651776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Теперішній мер — Велдон Голт з партії деволюціонерів отримав 47,8% голосів, попри звинувачення в причетності до вбивства Люціуса Райна, колишнього мера Найт-Сіті.",
+              "maleVariant": "",
+              "stringId": "1744677367045484544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але в запеклій боротьбі кандидат від федералістів — Джефферсон Пералез зміг перемогти, набравши 49,3% голосів.",
+              "maleVariant": "",
+              "stringId": "1744677625985036288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У своїй останній промові як мер — Голт привітав суперника з перемогою.",
+              "maleVariant": "",
+              "stringId": "1744678119251963904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тепер ми побачимо чи зможе виконати Пералез свої амбітні передвиборчі обіцянки.",
+              "maleVariant": "",
+              "stringId": "1744678493669093376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Після перерви — коли «Корсари» перестануть програвати?",
+              "maleVariant": "",
+              "stringId": "1744678782824411136"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

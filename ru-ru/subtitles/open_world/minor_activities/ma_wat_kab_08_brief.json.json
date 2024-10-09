@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет, у нас подтверждённый случай киберпсихоза. О нём даже «Макс-так» знает. Только они не приедут, потому что «Милитех» замял дело.",
+              "maleVariant": "",
+              "stringId": "2354818377999990784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эту даму надо как можно скорее направить на терапию.",
+              "maleVariant": "",
+              "stringId": "2354821749582872576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так что я тебя очень прошу, постарайся её не убить.",
+              "maleVariant": "",
+              "stringId": "2354822019175956480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сто процентов это кто-то из их людей. Я бы поставила на лейтенанта Моуэр.",
+              "maleVariant": "",
+              "stringId": "2354822802151849984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаєш що? Мені здається, що ці клопи заводять тебе більше ніж я.",
+              "maleVariant": "",
+              "stringId": "2189664249187098624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "М-м-м, певен, у чистеньких і дорогих апартаментах ти бачила значно гірші речі.",
+              "maleVariant": "",
+              "stringId": "2189665512125587456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не розумію, чому ми не могли залишитися в машині?",
+              "maleVariant": "",
+              "stringId": "2189667913565954048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "М-м-м, бо це місце нагадує мені старі побачення з колишньою. І твоє скиглення теж, до речі.",
+              "maleVariant": "",
+              "stringId": "2189668509610106880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

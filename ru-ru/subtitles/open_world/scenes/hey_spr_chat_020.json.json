@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочешь, чтоб она в тебя влюбилась? Свози её туда, где опасно.",
+              "maleVariant": "",
+              "stringId": "2162120453613400064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это куда? А то я даже не знаю, что её больше понравится, перестрелка в Кабуки или ограбление в Виста-дель-Рей.",
+              "maleVariant": "",
+              "stringId": "2213035903114645504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слушай, я читал про это. Главное, вызвать сильные эмоции, понятно? У неё от стресса адреналин подскочит, а её мозг свяжет это с тобой. И всё, она твоя.",
+              "maleVariant": "",
+              "stringId": "2218727353139695616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, своди её на верхний этаж. Ночью оттуда видно всю Пасифику, иногда даже выстрелы слышно. Вроде страшно, но на самом деле безопасно. И романтично.",
+              "maleVariant": "",
+              "stringId": "2218734175393255424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я тебе говорю. Это гормоны. Природа. Её не обманешь.",
+              "maleVariant": "",
+              "stringId": "2218734365160345600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. А у тебя-то девушка есть?",
+              "maleVariant": "",
+              "stringId": "2218740819791548416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У меня? Не-е-е. Пока ищу.",
+              "maleVariant": "",
+              "stringId": "2218740956408418304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну-ну.",
+              "maleVariant": "",
+              "stringId": "2218743124544819200"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

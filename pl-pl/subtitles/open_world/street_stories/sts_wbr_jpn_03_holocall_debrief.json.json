@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Byłaś jak duch. Nikt się nawet nie zorientował, że w hondenie był ktoś, kogo być tam nie powinno.",
+              "maleVariant": "Byłeś jak duch. Nikt się nawet nie zorientował, że w hondenie był ktoś, kogo być tam nie powinno.",
+              "stringId": "2328866891067273216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Miało być po cichu. Nie było po cichu. Całe miasto słyszało, że w światyni była afera.",
+              "maleVariant": "",
+              "stringId": "2328867270702116864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Twoje wynagrodzenie to odzwierciedli. Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2343078450154541056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra robota. Zamykam kontrakt i robię przelew.",
+              "maleVariant": "",
+              "stringId": "2343080627468079104"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Виявилося, що це частина порту, яку контролює «Вихор».",
+              "maleVariant": "",
+              "stringId": "1566661465850208256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві? Я дізналася, що таке «Ебуніке».",
+              "maleVariant": "",
+              "stringId": "1728851306850508800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То ти таки знайшла Ґрейсона. Він справді зв’язаний зі Смешером?",
+              "maleVariant": "",
+              "stringId": "1728854736096681984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Приходь у «Потойбіччя», там поговоримо.",
+              "maleVariant": "",
+              "stringId": "1728854923212972032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гаразд.",
+              "maleVariant": "",
+              "stringId": "1796625088074027008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То чого цей порт називається «Ебуніке»? Щось мені підказує що це не має нічого спільного з покійним мером.",
+              "maleVariant": "",
+              "stringId": "1912908436864782336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усе не так, як ти думаєш. На його честь назвали не порт, а старий контейнеровоз.",
+              "maleVariant": "",
+              "stringId": "1912908436864782348"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Розпитала кілька своїх контактів. Виявляється, один із моїх старих друзів знайомий із Ґрейсоном. Він дещо про нього знайшов.",
+              "maleVariant": "",
+              "stringId": "2238797561786351616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Звідки така назва — «Ебуніке»?",
+              "maleVariant": "",
+              "stringId": "2238804504399659012"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То ти знайшла Ґрейсона. А щось чутно про Смешера?",
+              "maleVariant": "",
+              "stringId": "2238816356512907264"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

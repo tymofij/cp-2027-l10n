@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To jest nowy towar zupełnie. Kumpel dał mi cynk, że krąży na ulicy od tygodnia.",
+              "maleVariant": "",
+              "stringId": "2179649948556582912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słyszałam. Podobno to są jakieś tabsy z labów Biotechniki. Kontrolowany wyciek.",
+              "maleVariant": "",
+              "stringId": "2211509490577240064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm, a my żyjemy w symulacji.",
+              "maleVariant": "",
+              "stringId": "2212647982137012224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówię serio. To jakiś lek, który zwiększa tolerancję organizmu na wszczepy. Hamowanie cyberpsycho i te sprawy.",
+              "maleVariant": "",
+              "stringId": "2212648243341488128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I że niby wypuścili partię leku na ulicę, żeby co? Sprawdzić efekty uboczne?",
+              "maleVariant": "",
+              "stringId": "2212651062702305280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spoko. No to nie możemy rozczarować korposów. Weźmiemy wieczorkiem i spiszemy dokładny raport z tripa.",
+              "maleVariant": "",
+              "stringId": "2212651785078894592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He, he, he.",
+              "maleVariant": "",
+              "stringId": "2212656220706369536"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

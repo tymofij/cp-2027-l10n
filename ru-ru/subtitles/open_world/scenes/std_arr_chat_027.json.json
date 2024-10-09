@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А парень, который вчера орал весь день — он надорвался, что ли?",
+              "maleVariant": "",
+              "stringId": "2168024955226607616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "К нему адвокат заходил, сказал дадут десятку минимум.",
+              "maleVariant": "",
+              "stringId": "2211118142550925312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Десять лет? За драку?",
+              "maleVariant": "",
+              "stringId": "2212855350437830656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так он же корпоратского сынка побил. На него там навесили всё, что в кодексе нашли. Выйдет он точно нескоро.",
+              "maleVariant": "",
+              "stringId": "2212855557066022912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм, надо за ним смотреть. А то ему кто-нибудь поможет наложить на себя руки.",
+              "maleVariant": "",
+              "stringId": "2212856433155465216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не, лежит на полу, даже есть не стал.",
+              "maleVariant": "",
+              "stringId": "2212857128621400064"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

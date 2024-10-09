@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, загалом мені сподобалося.",
+              "maleVariant": "",
+              "stringId": "1807004728293974016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От тільки чому головний герой такий наївний?",
+              "maleVariant": "",
+              "stringId": "1807007364917354496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А що, мрії роблять тебе відразу наївною чи що?",
+              "maleVariant": "",
+              "stringId": "1807008229128527872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти це зараз серйозно? Які ще мрії, будучи в мегакорпорації, алло.",
+              "maleVariant": "",
+              "stringId": "1807008395642396672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А що ж ти тоді робиш у «Кіроші»?",
+              "maleVariant": "",
+              "stringId": "1807008582238593024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Реалізовую свої амбіції.",
+              "maleVariant": "",
+              "stringId": "1807008737947934720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

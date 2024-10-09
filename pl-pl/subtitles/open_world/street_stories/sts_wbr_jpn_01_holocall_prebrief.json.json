@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zajrzyj do załącznika i jedź pod wskazany adres. Przejmiesz tam auto od Sergeia Karasinsky’ego.",
+              "maleVariant": "",
+              "stringId": "2328928542273228800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz go zawieźć do Tyger Clawsów. Wóz, nie Sergeia.",
+              "maleVariant": "",
+              "stringId": "2334877484779409408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystko zrozumiałaś? Mam nadzieję.",
+              "maleVariant": "Wszystko zrozumiałeś? Mam nadzieję.",
+              "stringId": "2334877881778671616"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

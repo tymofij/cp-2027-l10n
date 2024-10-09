@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Карочє, план такой: заходіш в клуб і толкаєш там обичний парашок.",
+              "maleVariant": "",
+              "stringId": "2159269659896934400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Только всєм ґавариш, что ето «чьорний снєг» і умножаєш цену на два.",
+              "maleVariant": "",
+              "stringId": "2209890900342554624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так це ж спрацює лише один раз, нє? Потім до всіх дійде…",
+              "maleVariant": "",
+              "stringId": "2209891412517404672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ні хєра. Чєрєз два дня зайдьош і скажеш, что продайош «нєоновий сфінкс».",
+              "maleVariant": "",
+              "stringId": "2209891777203748864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні одін карпар нє прізнаєтся, что о таком нє слишал.",
+              "maleVariant": "",
+              "stringId": "2209892193832353792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всє молча вазьмут і заплатят сколька скажеш.",
+              "maleVariant": "",
+              "stringId": "2209892651816796160"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

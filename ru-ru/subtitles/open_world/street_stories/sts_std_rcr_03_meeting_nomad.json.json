@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отвезём тебя к риперу. Тут рядом, несколько минут. Выдержишь?",
+              "maleVariant": "",
+              "stringId": "1724016503437045760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На заднем сиденье.",
+              "maleVariant": "",
+              "stringId": "1724018074925314052"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сзади кровью истекает.",
+              "maleVariant": "",
+              "stringId": "1724018870685446144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй! Эй! Сюда!",
+              "maleVariant": "",
+              "stringId": "1724019187070185472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А клиент где?",
+              "maleVariant": "",
+              "stringId": "1724020370719551488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Плохо. Если помрёт, мне не заплатят.",
+              "maleVariant": "",
+              "stringId": "1724021120476557312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О-о… А есть варианты? Ой… Ммм…",
+              "maleVariant": "",
+              "stringId": "1724022098420477952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вылезай из машины. Ну, скорей!",
+              "maleVariant": "",
+              "stringId": "1724025692754456576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не мои проблемы. Я своё дело сделала.",
+              "maleVariant": "Не мои проблемы. Я своё дело сделал.",
+              "stringId": "1943108840254132224"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

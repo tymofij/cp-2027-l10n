@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нужно оружие.",
+              "maleVariant": "",
+              "stringId": "1979351707821776900"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кажется, деловой хватки у тебя нет.",
+              "maleVariant": "",
+              "stringId": "1979352287189377024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу прикупить пушку.",
+              "maleVariant": "",
+              "stringId": "1979352912929202176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну прикупи.",
+              "maleVariant": "",
+              "stringId": "1979354932671127552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаешь, вот смотрю я на тебя и думаю, что с торговлей, видимо, у тебя не сложилось.",
+              "maleVariant": "",
+              "stringId": "1979357082017046528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочешь что-то купить — покупай. Хочешь болтать — пиздуй отсюда.",
+              "maleVariant": "",
+              "stringId": "1979357626454482944"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, вот здесь топчик! Давай, рисуем тег и сваливаем!",
+              "maleVariant": "",
+              "stringId": "2160393552460292096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У всех на виду? Ты ёбнулся, что ли?",
+              "maleVariant": "",
+              "stringId": "2196958980709130240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так в этом-то и суть. Надо, чтобы тег было видно.",
+              "maleVariant": "",
+              "stringId": "2196989899557937152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это смотря кто видит. Этот район «когти» держат.",
+              "maleVariant": "",
+              "stringId": "2196992136816467968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, и чего?",
+              "maleVariant": "",
+              "stringId": "2197022855345315840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тощая Синди тоже думала, что она тут самая умная. «Когти» переломали ей руки и нарисовали свой тег у неё на лбу. Заточкой.",
+              "maleVariant": "",
+              "stringId": "2197025141274550272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно, хер с ним. Но ты ёбаное ссыкло.",
+              "maleVariant": "",
+              "stringId": "2197025634289819648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лучше сейчас зассать, чем потом без яиц остаться.",
+              "maleVariant": "",
+              "stringId": "2197025747821240320"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

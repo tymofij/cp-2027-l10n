@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чем торгуешь?",
+              "maleVariant": "",
+              "stringId": "1783754628636889088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Продаёшь или клянчишь?",
+              "maleVariant": "",
+              "stringId": "1783754628653666308"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чем торгуешь?",
+              "maleVariant": "",
+              "stringId": "1783754628670443524"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всем, что видишь.",
+              "maleVariant": "",
+              "stringId": "1783754628670443532"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты эти шмотки продаёшь… или просишь? Так сразу и не понять.",
+              "maleVariant": "",
+              "stringId": "1783754628703997956"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Побираешься — говорят найти работу. Работаешь — издеваются. Вы там сами разберитесь сначала!",
+              "maleVariant": "",
+              "stringId": "1783754628703997964"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу что-нибудь обновить.",
+              "maleVariant": "",
+              "stringId": "3775245001835802624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу что-нибудь обновить.",
+              "maleVariant": "",
+              "stringId": "3836297774832152644"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

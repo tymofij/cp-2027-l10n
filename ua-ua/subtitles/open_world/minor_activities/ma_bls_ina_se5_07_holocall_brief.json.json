@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Увага всім підрядникам поліції. Надійшло повідомлення про потенційну злочинну діяльність біля Сейдж-Ґалч-роуд.",
+              "maleVariant": "",
+              "stringId": "2328989029368246272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Видано ордер на арешт Руфуса МакБрайда. Підозрюваний веде патратську практику без ліцензії. У справі фігурують три випадки заподіяння інвалідності пацієнтів і один випадок сприяння імітації самогубства пацієнта.",
+              "maleVariant": "",
+              "stringId": "2358876231829917696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Злочинець переховується серед членів так званої банди «Примари». Владою міста Найт-Сіті оголошено винагороду за нейтралізацію загрози з боку МакБрайда та його спільників.",
+              "maleVariant": "",
+              "stringId": "2358876272615329792"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

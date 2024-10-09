@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну що, бета-кислота в мене, але я так і не дізнався, що там із Букером. Я очікував від тебе більшого, Ві. Роботу виконано, але із сильною натяжкою.",
+              "maleVariant": "",
+              "stringId": "2328604563744043008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Padrísimo.\" b=\"Ну що, Ві, з бета-кислотою все в нормі? \" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2328606991809851396"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Плюс, додаю бонусні бали за розгадку, що ж це сталося з Букером. Чудова робота, Ві. Контракт закриваю, чекай на оплату.",
+              "maleVariant": "",
+              "stringId": "2369272698218319872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

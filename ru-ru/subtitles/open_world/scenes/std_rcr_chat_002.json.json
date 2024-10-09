@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я буду самым крутым кочевником в мире!",
+              "maleVariant": "",
+              "stringId": "1963291900445237248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ну? А каким? Обычным кочевником? А может, разведчиком?",
+              "maleVariant": "",
+              "stringId": "1969142892513181696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, разведчиком! У меня будет мотоцикл «Яиба», и я буду самым быстрым в конвое!",
+              "maleVariant": "",
+              "stringId": "1969143248206938112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И я буду стрелять себе за спину, чтобы ехать ещё быстрее. Пиу! Пиу!",
+              "maleVariant": "",
+              "stringId": "1969143666966249472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не будешь ты никаким кочевником. Ты будешь работать на «Петрохем», как твой дед и…",
+              "maleVariant": "",
+              "stringId": "1969143905605369856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ладно тебе. Дай ребёнку помечтать, пока ещё может.",
+              "maleVariant": "",
+              "stringId": "1969144417780219904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

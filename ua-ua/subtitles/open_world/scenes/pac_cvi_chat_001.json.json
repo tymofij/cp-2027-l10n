@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Контрак є котракт. Ти не можеш просто так відмовитися.",
+              "maleVariant": "",
+              "stringId": "1963266441087066112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але обставини змінилися.",
+              "maleVariant": "",
+              "stringId": "1965008069749133312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми все ще в Пацифіці, чи не так?",
+              "maleVariant": "",
+              "stringId": "1965009406339600384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То тут, по-перше, за своїх стоять, а, по-друге, своїх не кидають.",
+              "maleVariant": "",
+              "stringId": "1965010786047512576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Простіше вже нікуди.",
+              "maleVariant": "",
+              "stringId": "1965012079788969984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

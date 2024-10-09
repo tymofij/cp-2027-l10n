@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Схоже, ми все ж знайшли останнього чесного копа в цьому місті.",
+              "maleVariant": "",
+              "stringId": "2328584425749061632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слухай, я знаю, як це звучить, але… хтось це завдання все одно має взяти, вірно?",
+              "maleVariant": "",
+              "stringId": "2331865293050449920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Її звати Анна Геміл і вона роздрочила цілу купу народу своїм новим розслідуванням. Краще б їй уже облишити його, якщо ти мене розумієш.",
+              "maleVariant": "",
+              "stringId": "2344884702861955072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не знаю, може, спробуєш якось її переконати? Коротше, вся інфа в листі.",
+              "maleVariant": "",
+              "stringId": "2344884876975902720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

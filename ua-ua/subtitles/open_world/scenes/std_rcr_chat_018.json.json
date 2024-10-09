@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Por dios\" b=\"\" a=\", ці дітиська ше ніхуя не шарять…\"/>",
+              "maleVariant": "",
+              "stringId": "2167613373089075200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"chavos de la calle\" b=\"Ага, не те шо \" a=\". Нема кращої школи, аніж вулиця.\"/>",
+              "maleVariant": "",
+              "stringId": "2214561007262863360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Pinches chavos…\" b=\"\" a=\" Підходять такі до мене — найкрутішого <Rich color=\\\"MainColors.ActiveBlue\\\">cabrón</> на район — і просять в мене спробувати безплатну дозу! Безплатну! Хто їм таку хрінь позапихав у голови, га?\"/>",
+              "maleVariant": "",
+              "stringId": "2229115825604104192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мабуть, з фільмів.",
+              "maleVariant": "",
+              "stringId": "2229117406940598272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Sí\" b=\"\" a=\", або з інтернету.\"/>",
+              "maleVariant": "",
+              "stringId": "2229117820901625856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та, коротше, хуй й’го знає.",
+              "maleVariant": "",
+              "stringId": "2229118006222753792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У цьому житті взагалі немає такого поняття, як «безплатно».",
+              "maleVariant": "",
+              "stringId": "2229119472836644864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слухай, чуваче, ніби я не знаю…",
+              "maleVariant": "",
+              "stringId": "2229119634971660288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

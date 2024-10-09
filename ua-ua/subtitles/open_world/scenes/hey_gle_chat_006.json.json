@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Завантажила в кеш його імпланта. Він сам запустить його в підмережу мерії, щойно під’єднається до неї.",
+              "maleVariant": "",
+              "stringId": "1832729350742073344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Аго, крутяк! Це просто бомба! Ти, блядь, геній!",
+              "maleVariant": "",
+              "stringId": "1832731357196443648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І в тій шнязі є ж розваги з тваринками? Як я й просив, так?",
+              "maleVariant": "",
+              "stringId": "1832731517955727360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага.",
+              "maleVariant": "",
+              "stringId": "1832731681734909952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Заїбасто! Новини о восьмій тепер повністю мої! Ось так робляться справи, сучки!",
+              "maleVariant": "",
+              "stringId": "1832732054306545664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Звертайся.",
+              "maleVariant": "",
+              "stringId": "1832732228537933824"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

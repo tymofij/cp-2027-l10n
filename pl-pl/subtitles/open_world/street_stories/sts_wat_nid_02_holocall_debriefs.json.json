@@ -1,0 +1,37 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mamy furgonetkę. Doskonała robota, V. Podręcznikowo wykonana. Masz u mnie duży plus. Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2328688713813536768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spieprzyłaś. Na kasę nie licz. Ciesz się, że nie musisz dopłacać. Na razie.",
+              "maleVariant": "Spieprzyłeś. Na kasę nie licz. Ciesz się, że nie musisz dopłacać. Na razie.",
+              "stringId": "2328692737963012096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

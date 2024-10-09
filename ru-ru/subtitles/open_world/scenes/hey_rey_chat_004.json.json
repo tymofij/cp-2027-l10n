@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот я сначала провожу границы, а потом сам же их сдвигаю…",
+              "maleVariant": "",
+              "stringId": "1833097056163061760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это нормально, чумба. А как ещё-то? Если чуток не прогнёшься — сломаешься.",
+              "maleVariant": "",
+              "stringId": "1833099182960402432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да знаю, знаю. Но чем я тогда лучше этих офисных жополизов из Глена или из центра?",
+              "maleVariant": "",
+              "stringId": "1833099317312348160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты лучше. Уж поверь мне.",
+              "maleVariant": "",
+              "stringId": "1833099644837158912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Mierda\" b=\"\" a=\", ну вот чем?\"/>",
+              "maleVariant": "",
+              "stringId": "1833099827205496832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да всем. У тебя большая семья. Братья, сёстры.",
+              "maleVariant": "",
+              "stringId": "1833099984978436096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"hijos de puta\" b=\"А эти \" a=\", крысы пиджачные… Никого у них нет, кроме себя. Нахуй тогда деньги?\"/>",
+              "maleVariant": "",
+              "stringId": "1833100136174706688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не знаю, чумба. Ох, не знаю.",
+              "maleVariant": "",
+              "stringId": "1833100312855568384"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

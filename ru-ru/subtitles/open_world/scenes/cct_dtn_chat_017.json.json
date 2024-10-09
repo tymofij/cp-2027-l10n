@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Здесь в перестрелке с тварями из полиции погиб один из «Валентино», стервец из стервецов.",
+              "maleVariant": "",
+              "stringId": "2172176714216222720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ублюдок из ублюдков.",
+              "maleVariant": "",
+              "stringId": "2181164745956364288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В жизни он боялся лишь своей матери. После её смерти он боялся уже только собственной силы…",
+              "maleVariant": "",
+              "stringId": "2181165297591226368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Потому что если он бил врагов, то они уже не вставали.",
+              "maleVariant": "",
+              "stringId": "2181165909624066048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это правда.",
+              "maleVariant": "",
+              "stringId": "2181166275770028032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сегодня мы прощаемся с Энрике Хуаном де Паулем. С нашим другом.",
+              "maleVariant": "",
+              "stringId": "2181166501507469312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Наш друг, который пулям не кланялся.",
+              "maleVariant": "",
+              "stringId": "2181168085041778688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пусть будет ему земля пухом, а Санта Муэрте примет его милостиво.",
+              "maleVariant": "",
+              "stringId": "2181170007844950016"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, got a client... Well, actually it's just Nancy's son who's lookin' to get back somethin' that was stolen. And, yeah, that Nancy – the one who punched keys in Samurai.",
+              "maleVariant": "",
+              "stringId": "2328748527592960000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, one more thing – if you could recover this gonk's wheels too, that'd be real nice.",
+              "maleVariant": "",
+              "stringId": "2342910040040902656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So, you in? If so, find the details attached.",
+              "maleVariant": "",
+              "stringId": "2342945016778166272"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

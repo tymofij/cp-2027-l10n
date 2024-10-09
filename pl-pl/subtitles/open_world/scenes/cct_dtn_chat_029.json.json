@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przyznaję, że ten nowy garnitur kusi. Jest trochę ekscentryczny, ale w subtelny sposób.",
+              "maleVariant": "",
+              "stringId": "2172242991567843328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Łuski węża i blask srebra? Zgrabne połączenie. Byłoby ci do twarzy.",
+              "maleVariant": "",
+              "stringId": "2179485031657619456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zane uważa, że nie powinienem wybierać krzykliwych materiałów.",
+              "maleVariant": "",
+              "stringId": "2179485319688863744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Och, też coś...! Kupuj, nie szczyp się. Najwyżej komuś oddasz. Albo wyrzucisz.",
+              "maleVariant": "",
+              "stringId": "2179485469190635520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Za chwilę skończy się moda na seminaturalne motywy i będziesz żałował, że nie zdążyłeś tego ponosić.",
+              "maleVariant": "",
+              "stringId": "2179485873169219584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jest to jakiś argument.",
+              "maleVariant": "",
+              "stringId": "2179486143500500992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ech...! Dylematy, dylematy...",
+              "maleVariant": "",
+              "stringId": "2179486327915659264"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

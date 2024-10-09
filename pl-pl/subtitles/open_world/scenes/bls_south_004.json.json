@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I co? Masz te lekarstwa? Z moją córką... Z nią jest coraz gorzej.",
+              "maleVariant": "",
+              "stringId": "1973555053196255232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przykro mi. Karawana nie przejechała. Na wysokości Cayucos wjechali na minę.",
+              "maleVariant": "",
+              "stringId": "1978991564630052864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cholera... I nic... Nic nie udało się uratować?",
+              "maleVariant": "",
+              "stringId": "1978998992775991296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nic. Furgonetka spłonęła w całości. Jedyne, co udało mi się zdobyć, to aspiryna i suplementy witaminowe.",
+              "maleVariant": "",
+              "stringId": "1978999893678936064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na febrę raczej nie pomoże.",
+              "maleVariant": "",
+              "stringId": "1979001050182766592"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

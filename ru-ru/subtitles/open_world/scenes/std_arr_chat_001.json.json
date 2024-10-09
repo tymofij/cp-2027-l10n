@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слушай, я прошу по-хорошему. Мы ж друзья. Не заставляй меня звать охрану.",
+              "maleVariant": "",
+              "stringId": "1963259367192043520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ладно тебе, с них не убудет. Это всё равно никому не нужно. А мне пригодится!",
+              "maleVariant": "",
+              "stringId": "1966208582348947456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Петрохем» воров не любит.",
+              "maleVariant": "",
+              "stringId": "1966209531687714816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да это ж мусор! На хера он им нужен? Ты сам-то подумай!",
+              "maleVariant": "",
+              "stringId": "1966209868473548800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне платят не за то, чтобы я думал.",
+              "maleVariant": "",
+              "stringId": "1966210127094333440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да уж я вижу!",
+              "maleVariant": "",
+              "stringId": "1966210277401411584"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

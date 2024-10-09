@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как так можно вообще? Отправлять копа в такой район за год до отставки! Это какой-то прикол?",
+              "maleVariant": "",
+              "stringId": "2161791634458619904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скорее смертный приговор. Лена просто сойдёт с ума.",
+              "maleVariant": "",
+              "stringId": "2178018288229662720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пара месяцев в Нортсайде, и пустит себе пулю в лоб.",
+              "maleVariant": "",
+              "stringId": "2178018458082197504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Такая хорошая женщина. Добрая. За что с ней так?",
+              "maleVariant": "",
+              "stringId": "2178018587149320192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Экономят, чумба. Уж лучше перевести туда того, кому и так уже скоро на выход.",
+              "maleVariant": "",
+              "stringId": "2178018743177428992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Какой же надо быть сволочью, чтоб так относиться к Лене… Да к кому угодно.",
+              "maleVariant": "",
+              "stringId": "2178018888417787904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, но это система. Другой у нас нет.",
+              "maleVariant": "",
+              "stringId": "2178019049495838720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

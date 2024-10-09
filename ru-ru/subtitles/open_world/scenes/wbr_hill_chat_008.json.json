@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слыхала? Брат Джеймса бросил работу.",
+              "maleVariant": "",
+              "stringId": "1806803052031238144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что так? На акциях денег поднял?",
+              "maleVariant": "",
+              "stringId": "1806806565431926784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не. В казино выиграл, в Джапан-тауне. Говорят, нетраннер помог, но кто знает, может, врут.",
+              "maleVariant": "",
+              "stringId": "1806806700555624448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Блин, во повезло! И куда он теперь пустит деньжищи?",
+              "maleVariant": "",
+              "stringId": "1806806869116313600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да уедет, по ходу… Куда-то на Сицилию. Какая-то Модика, или как-то так.",
+              "maleVariant": "",
+              "stringId": "1806807055209193472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это, типа, деревня?",
+              "maleVariant": "",
+              "stringId": "1806807222025052160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха-ха! Я-то почём знаю? Он что-то там молол про прабабку-прадедку, фамильные корни, зов предков, вот это вот всё.",
+              "maleVariant": "",
+              "stringId": "1806807622010658816"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

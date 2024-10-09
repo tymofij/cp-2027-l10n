@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чумба, я вообще-то за тебя поручился.",
+              "maleVariant": "",
+              "stringId": "2159441886505836544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, ты мне каждый день об этом напоминаешь.",
+              "maleVariant": "",
+              "stringId": "2199655982555131904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да просто я вижу, что ты творишь. Нет бы делом заняться, а ты на тотализаторе играешь. Хочешь, подскажу? Машины кочевников всегда побеждают.",
+              "maleVariant": "",
+              "stringId": "2199656182556323840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спасибо, обойдусь без подсказок. Я знаю, как выигрывать по-крупному. Чем тут ещё заниматься?",
+              "maleVariant": "",
+              "stringId": "2199657070255599616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё просто, чумба. Если кто-нибудь заглянет в твою историю, тебя выкинут за дверь.",
+              "maleVariant": "",
+              "stringId": "2199657293342240768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И меня заодно. А почему? Потому что я за тебя…",
+              "maleVariant": "",
+              "stringId": "2199658410922930176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поручился, ага. Ты отстанешь или как? Я и так уже закрывать всё собирался.",
+              "maleVariant": "",
+              "stringId": "2199658728918282240"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

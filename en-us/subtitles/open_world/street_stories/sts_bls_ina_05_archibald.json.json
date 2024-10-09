@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Brucie-baby! Was starting to think we'd never get ya outta that dump.",
+              "maleVariant": "",
+              "stringId": "1986559245031862300"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Archie, you piece o' shit...",
+              "maleVariant": "",
+              "stringId": "1986559245031862312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What?!",
+              "maleVariant": "",
+              "stringId": "1986559245031862324"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It's 'cause of people like you that camp even exists! I saw you 'hind the wheel... How much they payin' you, huh?!",
+              "maleVariant": "",
+              "stringId": "1986559245048639496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Enough for me to buy for your ticket outta here! You can thank me later. Right now we gotta get moving.",
+              "maleVariant": "",
+              "stringId": "1986559245048639508"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, and V! If you ever plan on quittin' Night City... careful 'round the borders. Accidents have a way of turnin' fatal.",
+              "maleVariant": "",
+              "stringId": "1986559245048639520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Wait]",
+              "maleVariant": "",
+              "stringId": "2402375522593452036"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

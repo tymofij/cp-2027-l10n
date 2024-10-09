@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kupiłem wczoraj gazetę.",
+              "maleVariant": "",
+              "stringId": "2179597821612253184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Po chuj?",
+              "maleVariant": "",
+              "stringId": "2211173382591569920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tania była. Przeceniona, bo sprzed dwóch tygodni.",
+              "maleVariant": "",
+              "stringId": "2217145366961938432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Równie dobrze mógłbyś się podetrzeć tymi edkami.",
+              "maleVariant": "",
+              "stringId": "2217145792029483008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W Pacifice nic nigdy nie jest na czasie. Gazety sprzed miesiąca, zeszłoroczne \"nowe\" braindansy.",
+              "maleVariant": "",
+              "stringId": "2217146973967572992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Miasto nas próbuje pochować za życia.",
+              "maleVariant": "",
+              "stringId": "2217147667873226752"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

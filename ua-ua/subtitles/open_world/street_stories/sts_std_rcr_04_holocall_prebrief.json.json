@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Йоу, Ві. Коротше: є в мережі один сайт, де засирають мера, Велдона Голта. Ну, точніше, виконувача обов’язків мера, бо йому ще треба на виборах перемогти.",
+              "maleVariant": "",
+              "stringId": "2328627941136060416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, політика є політика, еге ж? Вони тільки раді одне одного лайном полити.",
+              "maleVariant": "",
+              "stringId": "2342039394134102016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Коротше, мій клієнт хоче, щоби цей сайт наїбнувся і назавжди розсмоктався в кіберпросторі. Глянь лист, якщо треба ще інфа.",
+              "maleVariant": "",
+              "stringId": "2342040251131072512"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

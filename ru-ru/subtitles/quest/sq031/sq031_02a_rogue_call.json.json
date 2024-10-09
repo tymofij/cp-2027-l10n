@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Выяснил интересную вещь. Это часть порта — территория «Мальстрёма».",
+              "maleVariant": "",
+              "stringId": "1566661465850208256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви? Я узнала, что значит «Эбунике».",
+              "maleVariant": "",
+              "stringId": "1728851306850508800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В смысле, ты нашла Грейсона? Он правда связан со Смэшером?",
+              "maleVariant": "",
+              "stringId": "1728854736096681984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зайди ко мне, в «Посмертие», обсудим.",
+              "maleVariant": "",
+              "stringId": "1728854923212972032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей.",
+              "maleVariant": "",
+              "stringId": "1796625088074027008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так почему часть порта зовут «Эбунике»? Вряд ли в честь покойного мэра.",
+              "maleVariant": "",
+              "stringId": "1912908436864782336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, разумеется, нет. В его честь назвали не порт, а старый контейнеровоз.",
+              "maleVariant": "",
+              "stringId": "1912908436864782348"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Забросила удочку нескольким старым друзьям. Один них был знаком с Грейсоном. Он поспрашивал своих.",
+              "maleVariant": "",
+              "stringId": "2238797561786351616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А откуда название «Эбунике»?",
+              "maleVariant": "",
+              "stringId": "2238804504399659012"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То есть ты нашла Грейсона? Он знает, где Смэшер?",
+              "maleVariant": "",
+              "stringId": "2238816356512907264"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

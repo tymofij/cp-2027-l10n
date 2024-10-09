@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, co za elegancja! Szacun, V. Zamykam kontrakt. Kaska już leci.",
+              "maleVariant": "",
+              "stringId": "2328507582008029184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przekonałaś Maussera? V, kurwa, jakbym wiedział, że masz takie gadane, to bym cię zatrudnił na barze do opychania drinków. Marnujesz sie bijąc chamów na mieście.",
+              "maleVariant": "",
+              "stringId": "2328508003418140672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, V.",
+              "maleVariant": "",
+              "stringId": "2328509104993366016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Doszły mnie słuchy, że Mausser żre już piach. Doskonale.",
+              "maleVariant": "",
+              "stringId": "2333215229942153216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zamykam kontrakt i idę zrobić sobie drinka. Do następnego.",
+              "maleVariant": "",
+              "stringId": "2333215644574269440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ok, Mausser znika, znika problem, ty dostajesz kasę, a ja zamykam kontrakt. Jest dobrze? No jest.",
+              "maleVariant": "",
+              "stringId": "2333218072287756288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Miałaś wyeliminować Maussera, a nie przyprawić go o ból głowy. Nie uznaję roboty.",
+              "maleVariant": "",
+              "stringId": "2333218875731853312"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

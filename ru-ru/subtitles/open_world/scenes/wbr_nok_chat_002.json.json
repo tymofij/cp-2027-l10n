@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Продал акции «Арасаки»… Всего за две недели до анонса этого биочипа.",
+              "maleVariant": "",
+              "stringId": "1963353980103950336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так себе деловое решение. Бывают и получше.",
+              "maleVariant": "",
+              "stringId": "1978243692713316352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Типа твоих?",
+              "maleVariant": "",
+              "stringId": "1978243823995031552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Типа моих.",
+              "maleVariant": "",
+              "stringId": "1978243987740659712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Типа брака с моей сестрой?",
+              "maleVariant": "",
+              "stringId": "1978244080870985728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С финансовой точки зрения? Уж получше решение, чем эта твоя продажа акций.",
+              "maleVariant": "",
+              "stringId": "1978244254297067520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Уел. Что думаешь, кстати? Будешь брать себе, когда выпустят?",
+              "maleVariant": "",
+              "stringId": "1978244661211664384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что? А, ты про биочип… Не-ет. Норт-Оук вполне меня устраивает.",
+              "maleVariant": "",
+              "stringId": "1978245217963577344"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

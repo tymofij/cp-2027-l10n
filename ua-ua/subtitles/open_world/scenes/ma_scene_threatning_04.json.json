@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти думаєш, що зможеш викрутитися? Ні, тобі хана. Кінець гри!",
+              "maleVariant": "",
+              "stringId": "2007158310334234624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я бачу, що ти хочеш померти. Що ж, зараз я тобі допоможу.",
+              "maleVariant": "",
+              "stringId": "2007158374272204800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти пошкодуєш про скоєне. Ти благатимеш, щоб я тебе вбила.",
+              "maleVariant": "",
+              "stringId": "2007158438159843328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тепер ти по вуха у лайні. І скоро потонеш у ньому. А я спостерігатиму.",
+              "maleVariant": "",
+              "stringId": "2007158535719354368"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

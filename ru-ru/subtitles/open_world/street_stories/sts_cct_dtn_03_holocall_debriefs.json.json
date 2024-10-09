@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха-ха! Вот это, блядь, совсем другое дело!",
+              "maleVariant": "",
+              "stringId": "2328731950680498176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я думал, тебе не надо говорить, чтобы ты не устраивала кровавый расколбас на моих заказах.",
+              "maleVariant": "Я думал, тебе не надо говорить, чтобы ты не устраивал кровавый расколбас на моих заказах.",
+              "stringId": "2328802268707151872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зашла, поставила, что надо, и вышла, как ни в чём не бывало. Заказ выполнен!",
+              "maleVariant": "Зашёл, поставил, что надо, и вышел, как ни в чём не бывало. Заказ выполнен!",
+              "stringId": "2333232222174953472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ларри хотел вернуть себе клуб, а не сидеть на развалинах в озере крови. Ну ладно. Заказ выполнен.",
+              "maleVariant": "",
+              "stringId": "2333233815876255744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

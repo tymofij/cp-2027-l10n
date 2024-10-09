@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха, а если не найдём?",
+              "maleVariant": "",
+              "stringId": "1973570501220540416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ничего. Найдём новый колодец.",
+              "maleVariant": "",
+              "stringId": "1975096026674741248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чёрт… Если снова будет жара, ручей тоже пересохнет… Что скажем семье?",
+              "maleVariant": "",
+              "stringId": "1975096042512433152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И старые отходы. Бочка с циановодородом лопнула — из тех, что закопали в двадцатых.",
+              "maleVariant": "",
+              "stringId": "1975096058081689600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ладно! Новая скважина?!",
+              "maleVariant": "",
+              "stringId": "1975096071117586432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ещё один колодец отравлен.",
+              "maleVariant": "",
+              "stringId": "1975096082257657856"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

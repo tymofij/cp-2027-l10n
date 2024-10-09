@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бля, чумба… Ты же говорил, что завязал!",
+              "maleVariant": "",
+              "stringId": "1963581427928514560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё нормально… У меня всё под контролем… Всё пуч… ком.",
+              "maleVariant": "",
+              "stringId": "1963613232798875648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты уверен, что это не опасно? Как ты?",
+              "maleVariant": "",
+              "stringId": "1963613605202739200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не для того работал пара… параме… парамедиком… чтобы мимо вены промахнуться…",
+              "maleVariant": "",
+              "stringId": "1963613786044350464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, давай я твоих вызову? Они должны сегодня дежурить.",
+              "maleVariant": "",
+              "stringId": "1963614112109543424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты долбанулась?! Мне нельзя! Это ж месячная заплата… зарплата. Или две… Или… или пять.",
+              "maleVariant": "",
+              "stringId": "1963614311406092288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

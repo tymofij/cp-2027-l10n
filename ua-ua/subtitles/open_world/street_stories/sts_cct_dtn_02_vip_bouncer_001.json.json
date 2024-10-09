@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це тільки для ВІПів.",
+              "maleVariant": "",
+              "stringId": "1712566134284513280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти що, глуха? З’їбалася звідси!",
+              "maleVariant": "Ти що, глухий? З’їбався звідси!",
+              "stringId": "1712566134318067712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу поговорити з твоїм босом.",
+              "maleVariant": "",
+              "stringId": "1712566134334844928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бос тут?",
+              "maleVariant": "",
+              "stringId": "1712566134586503168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, а я хочу винюхати доріжку з буферів Ліззі Віззі, і нічо.",
+              "maleVariant": "",
+              "stringId": "1712566134586503176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, а що?",
+              "maleVariant": "",
+              "stringId": "1925706191955349504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поговорити хочу.",
+              "maleVariant": "",
+              "stringId": "1925706438479761408"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

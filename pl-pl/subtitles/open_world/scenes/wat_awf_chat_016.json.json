@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Potwierdzam. Żadnych świadków.",
+              "maleVariant": "",
+              "stringId": "2156480143515754496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie mam pojęcia, co to było.",
+              "maleVariant": "",
+              "stringId": "2177948230854307840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak, pobraliśmy próbki, wczoraj je przekazaliśmy do biolabu.",
+              "maleVariant": "",
+              "stringId": "2177948541987778560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha. Aha. W porządku. O zdarzeniu wiem tylko ja, pani, no i biolab.",
+              "maleVariant": "",
+              "stringId": "2177951371297484800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak jest. Mhm, użyliśmy miotacza, nie ma żadnych śladów.",
+              "maleVariant": "",
+              "stringId": "2177952256614395904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

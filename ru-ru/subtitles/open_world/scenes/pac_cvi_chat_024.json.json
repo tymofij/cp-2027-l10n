@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй, может, пойдём уже? Скоро темно станет.",
+              "maleVariant": "",
+              "stringId": "2179512439692095488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Иди, если хочешь. Мне и тут хорошо.",
+              "maleVariant": "",
+              "stringId": "2189485360813948928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давай, давай. Пацаны говорили, тут «мусорщиков» много. Поймают тебя, что будешь делать?",
+              "maleVariant": "",
+              "stringId": "2189485552225206272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лучше сдохнуть у «мусорщиков», чем слушать, как моя мать орёт.",
+              "maleVariant": "",
+              "stringId": "2189485776066822144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Перестань, я серьёзно.",
+              "maleVariant": "",
+              "stringId": "2189485957260754944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И я серьёзно. Дай хоть на море посмотреть.",
+              "maleVariant": "",
+              "stringId": "2189486046649761792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Посиди со мной ещё минутку, а потом вместе пойдём, окей?",
+              "maleVariant": "",
+              "stringId": "2189486146524528640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я… Эх, окей.",
+              "maleVariant": "",
+              "stringId": "2189486487689216000"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

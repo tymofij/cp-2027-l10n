@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I have a meeting with Koch.",
+              "maleVariant": "",
+              "stringId": "1408088290545135616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hi, I have an appointment with Mrs. Koch.",
+              "maleVariant": "",
+              "stringId": "1408091328093646848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Very well. Just give me moment to check...",
+              "maleVariant": "",
+              "stringId": "1408092557276377088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I'd like to rent a room.",
+              "maleVariant": "",
+              "stringId": "1419935019515015168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hello. How can I help you?",
+              "maleVariant": "",
+              "stringId": "1935891931595067392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I'd like to rent a room for the night. Single bed's fine.",
+              "maleVariant": "",
+              "stringId": "1935892937053622272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You don't say.",
+              "maleVariant": "",
+              "stringId": "1935899340698865664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I'm afraid that won't be possible. We are a corporate hotel available only to Biotechnica personnel.",
+              "maleVariant": "",
+              "stringId": "1935899944544423936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ah, that's a shame. Nice place.",
+              "maleVariant": "Oh, that's a shame. Nice place.",
+              "stringId": "1946250435674607616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, I'm afraid not. There must be a misunderstanding.",
+              "maleVariant": "",
+              "stringId": "2523106879086055424"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

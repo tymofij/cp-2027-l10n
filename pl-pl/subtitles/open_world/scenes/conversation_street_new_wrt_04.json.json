@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No to mówię jej, że jak chce dostać wywiad, to bez nazwisk, za to z kolacją. I śniadaniem.",
+              "maleVariant": "",
+              "stringId": "2276543334628630544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nieźle. I co, było bzykanko?",
+              "maleVariant": "",
+              "stringId": "2276543334628630556"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No nie było. Dała mi jakieś bony zniżkowe do Caliente. Wyobrażasz sobie takie skurwysyństwo?",
+              "maleVariant": "",
+              "stringId": "2276543334628630568"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

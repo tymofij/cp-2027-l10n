@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Маєш якісь премні хаки на продаж?",
+              "maleVariant": "",
+              "stringId": "1885166047339102208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якісь інші \"послуги\" доступні?",
+              "maleVariant": "",
+              "stringId": "1885166047339102224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Торгуєш чимось цікавим?",
+              "maleVariant": "",
+              "stringId": "1885166047389433860"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якісь інші послуги надаєш?",
+              "maleVariant": "",
+              "stringId": "1885166047456542724"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Іноді. Після роботи. Проте зараз в мене, так би мовити, ребрендинг.",
+              "maleVariant": "",
+              "stringId": "1885166047473319936"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

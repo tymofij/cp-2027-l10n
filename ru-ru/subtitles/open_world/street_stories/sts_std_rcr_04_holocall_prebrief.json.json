@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Йоу, Ви. Я сразу к делу: в Сети есть сайт, где поливают говном мэра Уэлдона Холта. Вернее, исполняющего обязанности мэра, ему ещё выборы надо выиграть.",
+              "maleVariant": "",
+              "stringId": "2328627941136060416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Короче, политика. Они все там рады друг друга в грязи искупать.",
+              "maleVariant": "",
+              "stringId": "2342039394134102016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В общем, мой клиент хочет, чтоб этот сайт наебнулся и больше не поднялся никогда. Просканируй моё письмо, если нужны подробности.",
+              "maleVariant": "",
+              "stringId": "2342040251131072512"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

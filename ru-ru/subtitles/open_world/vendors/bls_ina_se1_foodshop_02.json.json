@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу перекусить.",
+              "maleVariant": "",
+              "stringId": "1935651488722759680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как называется твоё заведение?",
+              "maleVariant": "",
+              "stringId": "1935651488739536908"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я проголодалась.",
+              "maleVariant": "Я проголодался.",
+              "stringId": "1935651488756314116"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ясно.",
+              "maleVariant": "",
+              "stringId": "1935651488773091328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как называется твой кабак? А то вывески нет…",
+              "maleVariant": "",
+              "stringId": "1935651488806645764"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Сальмонелла».",
+              "maleVariant": "",
+              "stringId": "1935651488806645772"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что? «Сальмонелла»?",
+              "maleVariant": "Чё, правда? «Сальмонелла»?",
+              "stringId": "1986389809794699264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Круто, да? Это мой свояк придумал. Типа это «лосось» по-итальянски.",
+              "maleVariant": "",
+              "stringId": "1986390591898177536"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

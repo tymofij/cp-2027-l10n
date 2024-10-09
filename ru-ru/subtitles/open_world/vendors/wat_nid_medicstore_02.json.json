@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу закупиться.",
+              "maleVariant": "",
+              "stringId": "1893796934479020036"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Покажи, что у тебя есть на продажу.",
+              "maleVariant": "",
+              "stringId": "1893797127115014144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А медицинской лицензии у тебя случаем нет?",
+              "maleVariant": "",
+              "stringId": "1893797285626150912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У тебя есть медицинская лицензия?",
+              "maleVariant": "",
+              "stringId": "1893799869032202240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Много чего.",
+              "maleVariant": "",
+              "stringId": "1893802464299745280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лицензии?.. Да, конечно.",
+              "maleVariant": "",
+              "stringId": "1893802648161255424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет! Нужно что-нибудь?",
+              "maleVariant": "",
+              "stringId": "1893889354792058884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я раньше это… в «Травме» работал, ага. Младшим фельдшером, полгода. Такого там насмотрелся, ты не поверишь.",
+              "maleVariant": "",
+              "stringId": "1984969165457256448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

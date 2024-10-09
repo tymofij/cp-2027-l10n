@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jaki pobór! Co tyle ciągnie? Przecież nie te restauracje.",
+              "maleVariant": "",
+              "stringId": "2160371417893347328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słyszysz, co mówię? O co tu chodzi?",
+              "maleVariant": "",
+              "stringId": "2180890586751799296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O nic.",
+              "maleVariant": "",
+              "stringId": "2180890735481819136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie no, stary. Niemożliwe, żeby kilka restauracji ciągnęło tyle prądu.",
+              "maleVariant": "",
+              "stringId": "2180890813864972288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powiedziałem, że wszystko jest w porządku.",
+              "maleVariant": "",
+              "stringId": "2180890895737786368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przecież wiesz, że nie – ktoś musiał podpiąć się do instalacji. Na lewo.",
+              "maleVariant": "",
+              "stringId": "2180891312601272320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słuchaj durniu, skup się się na tym, co masz do zrobienia i nie szukaj problemu. Rozumiesz?",
+              "maleVariant": "",
+              "stringId": "2180891467522084864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "... rozumiem.",
+              "maleVariant": "",
+              "stringId": "2180891856451506176"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

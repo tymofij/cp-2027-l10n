@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No ale co, delikatniej? Jak delikatniej? Z tymi nierobami trzeba ostro i już.",
+              "maleVariant": "",
+              "stringId": "1924017415411228672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha. Centrala tak mówi? Że problemy? Mhm. No, niby można. Połamie się nogi, ale puści żywego.",
+              "maleVariant": "",
+              "stringId": "1935990854405902336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co, nóg też nie? Bo prasa... No dobra. Rozumiem.",
+              "maleVariant": "",
+              "stringId": "1935992031747035136"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

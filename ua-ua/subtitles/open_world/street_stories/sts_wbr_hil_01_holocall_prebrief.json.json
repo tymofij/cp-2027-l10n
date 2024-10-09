@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В Найт-Сіті справжнє кохання вмирає. Чоловіки зраджують жінок, жінки — чоловіків. Потім вони розлучаються та обсирають одне одного позаочі.",
+              "maleVariant": "",
+              "stringId": "2328644303566483456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Уявляєш, Ві? Якщо чесно, я шокована. Але не сумуй.",
+              "maleVariant": "",
+              "stringId": "2342082010125012992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сьогодні я даю тобі можливість допомогти одному такому розлученому. Його звати пан Гутьєррес, і він на нас дуже розраховує, Ві.",
+              "maleVariant": "",
+              "stringId": "2342084356284452864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шлюб ми, звичайно, уже не врятуємо. Але, можливо, вдасться повернути чеки, які забрала його дружина. Подробиці додаю.",
+              "maleVariant": "",
+              "stringId": "2342084499461214208"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

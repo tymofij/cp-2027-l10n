@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У меня есть классная курточка на продажу.",
+              "maleVariant": "",
+              "stringId": "2189788081919057920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм, а откуда?",
+              "maleVariant": "",
+              "stringId": "2189788572803620864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С рынка. На мой старый плащ уже смотреть невозможно, вот махнула на курточку. А она оказалась маловата.",
+              "maleVariant": "",
+              "stringId": "2189788764936298496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В Пустошах такая одежда — это как мишень на спине. Потеряй её, если не хочешь, чтоб тебя подстрелили.",
+              "maleVariant": "",
+              "stringId": "2189789918302789632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да у тебя по лицу видно, что ты отсюда. Так что успокойся, тебя никто не тронет.",
+              "maleVariant": "",
+              "stringId": "2189790658647777280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А твоё лицо скоро мать родная не узнает.",
+              "maleVariant": "",
+              "stringId": "2189791078581493760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Расслабься, я про то, что у тебя кожа ветром разглажена. Эти корпораты из города вечно бледные и с красными глазами.",
+              "maleVariant": "",
+              "stringId": "2189792209147748352"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

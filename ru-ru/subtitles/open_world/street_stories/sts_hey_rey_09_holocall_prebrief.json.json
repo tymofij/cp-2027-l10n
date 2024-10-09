@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Деточка, у меня для тебя убийственное задание. В прямом смысле. Заказчица пока в мире живых, но покинет его очень скоро, если ты её не спасёшь.",
+              "maleVariant": "",
+              "stringId": "2328787616878317572"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "8ug8ear заперта в Сети. Если она оттуда выйдет, «Тигриные когти» тут же разорвут её на клочки.",
+              "maleVariant": "",
+              "stringId": "2334551533569163264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если она там останется, у неё рано или поздно сгорят синапсы. Вся надежда на тебя, Ви. Все подробности я указала в письме.",
+              "maleVariant": "",
+              "stringId": "2334551703203594240"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

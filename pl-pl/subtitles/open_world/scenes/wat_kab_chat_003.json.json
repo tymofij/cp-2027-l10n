@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słyszałaś, co się wydarzyło pod piątką?",
+              "maleVariant": "",
+              "stringId": "1802455374480662528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znów ją pobił?",
+              "maleVariant": "",
+              "stringId": "1802455951197462528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nieee, zabiła go. Zastrzeliła!",
+              "maleVariant": "",
+              "stringId": "1802456146383593472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co ty gadasz? Jesteś pewna?",
+              "maleVariant": "",
+              "stringId": "1802456317897072640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ai, ta spod szóstki, wszystko mi opowiedziała!",
+              "maleVariant": "",
+              "stringId": "1802456509576765440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ai? Ta plotkara? Daj spokój.",
+              "maleVariant": "",
+              "stringId": "1802457849992437760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówię serio! Kula zrobiła dziurę w ścianie. Ai zajrzała i zobaczyła trupa. Na własne oczy!",
+              "maleVariant": "",
+              "stringId": "1802458864158367744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

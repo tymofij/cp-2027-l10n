@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мала, ти собі такі цицьки зробила?",
+              "maleVariant": "",
+              "stringId": "2179601603733610496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ов, та є один різар у Японському кварталі. Працює за гарні оченята.",
+              "maleVariant": "",
+              "stringId": "2211176826685579264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ой, та перестань. Безплатного сиру не буває, і за гарні оченята теж ніхто нічого не робитиме.",
+              "maleVariant": "",
+              "stringId": "2217158932750360576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха-ха! А ти справді подумала, що лише за оченята?",
+              "maleVariant": "",
+              "stringId": "2217159468463644672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, твій хлопець цьому не зрадіє.",
+              "maleVariant": "",
+              "stringId": "2217159837461733376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та він і так не дуже радий.",
+              "maleVariant": "",
+              "stringId": "2217160068232339456"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гвозди бы делать из таких, как ты. Никакой жалости.",
+              "maleVariant": "",
+              "stringId": "2328649714117292032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Честно говоря, Ви, не ожидала, что твой подход будет таким… гибким.",
+              "maleVariant": "",
+              "stringId": "2328655696083988480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что ж, будем считать работу сделанной. Заказ я закрываю.",
+              "maleVariant": "",
+              "stringId": "2332950048745963520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Этот заказ выполнен. Не опускай планку.",
+              "maleVariant": "",
+              "stringId": "2332952998599966720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Coś mnie ostatnio głowa napieprza. I jakieś takie czerwone krosty mi wyskoczyły.",
+              "maleVariant": "",
+              "stringId": "1963293068592455680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak się grzebie w śmieciach Petrochemu, to normalka. Toż tam wszystko radioaktywne.",
+              "maleVariant": "",
+              "stringId": "1969270904281874432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja wiem, że oni niezłe kąski wyrzucają, ale nie warto. No, chyba że stać cię na nowy szpik.",
+              "maleVariant": "",
+              "stringId": "1969271067775844352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "E, tam. Gadanie. I tak zejdę na grypę, zanim mi to promieniowanie zdąży coś zrobić.",
+              "maleVariant": "",
+              "stringId": "1969271885262471168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A pięć eurodolarków za petrochemowy transformator piechotą nie chodzi.",
+              "maleVariant": "",
+              "stringId": "1969272211663208448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

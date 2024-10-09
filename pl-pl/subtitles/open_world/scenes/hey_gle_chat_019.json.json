@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co za kutas pieprzony...! Moją córkę zwolnić! Moją córkę!",
+              "maleVariant": "",
+              "stringId": "2161763308260110336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ciszej, bo jeszcze usłyszą... Są przecież zasady...",
+              "maleVariant": "",
+              "stringId": "2177785666794668032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W dupie mam te ich zasady, wojenki...! Nie da się trzymać tych zasranych reguł! Nie da!",
+              "maleVariant": "",
+              "stringId": "2177786824556789760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Człowiek musi jeść, pracować, do pracy potrzeba wszczepów!",
+              "maleVariant": "",
+              "stringId": "2177786937031245824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I co, dziewczyna ma wybrzydzać, jeśli jakiś 6th Street pomaga jej dorobić?",
+              "maleVariant": "",
+              "stringId": "2177787200097992704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mogła poprosić Valentinosów. To ich teren, mieli prawo się na nią wkurzyć.",
+              "maleVariant": "",
+              "stringId": "2177787597936115712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ciesz się, że po prostu wyrzucili ją z tego baru. Mogli... no, wiesz. Mogło być gorzej.",
+              "maleVariant": "",
+              "stringId": "2177787972940447744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A, pieprzyć to wszystko...!",
+              "maleVariant": "",
+              "stringId": "2177788119489429504"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

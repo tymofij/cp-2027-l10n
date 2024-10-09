@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну что? Будешь себе ставить?",
+              "maleVariant": "",
+              "stringId": "2156382363349970944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что, есть выбор? Тут или ставишь импланты, или тебя увольняют.",
+              "maleVariant": "",
+              "stringId": "2167862567324930048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты хоть знаешь, что такое отслеживание мозговых импульсов? Начальство будет знать, что у тебя в голове.",
+              "maleVariant": "",
+              "stringId": "2167862923152904192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну и что? Мне скрывать нечего.",
+              "maleVariant": "",
+              "stringId": "2167865599857053696"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

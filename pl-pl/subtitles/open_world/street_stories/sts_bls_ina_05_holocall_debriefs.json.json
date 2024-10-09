@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzięki za załatwienie sprawy - wszystko dokładnie tak, jak ustaliłyśmy.",
+              "maleVariant": "Dzięki za załatwienie sprawy - wszystko dokładnie tak, jak ustaliliśmy.",
+              "stringId": "2328696270354821120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzięki za załatwienie sprawy. Szkoda, że Bruce musiał dostać się do Archibalda samemu.",
+              "maleVariant": "",
+              "stringId": "2328697285728710656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bruce uwolniony i odeskortowany do Archibalda. Doceniam, że udało ci się go odbić bez niepotrzebnego rozlewu krwi.",
+              "maleVariant": "",
+              "stringId": "2332995324261154816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wypłata powinna już być na twoim koncie. Kontrakt zamknięty.",
+              "maleVariant": "",
+              "stringId": "2332999702443442176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na szczęście skończyło się tylko na niepotrzebnym stresie. Militech może teraz, co najwyżej, szukać wiatru w polu.",
+              "maleVariant": "",
+              "stringId": "2333010505980690432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zapłata powinna już wpłynąć na twoje konto. Kontrakt zamknięty.",
+              "maleVariant": "",
+              "stringId": "2333010574666612736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Miało być bez rozlewu krwi, zapomniałaś?",
+              "maleVariant": "Miało być bez rozlewu krwi, zapomniałeś?",
+              "stringId": "2333013215853395968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kontrakt wykonany, ale sposób wykonania pozostawia wiele do życzenia. Następnym razem trzymaj się wytycznych, OK?",
+              "maleVariant": "",
+              "stringId": "2333021198419214336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uznaję kontrakt za zamknięty, bo uratowałaś Bruce'a, ale niepotrzebnie przyciągnęłaś uwagę. Do usłyszenia.",
+              "maleVariant": "Uznaję kontrakt za zamknięty, bo uratowałeś Bruce'a, ale niepotrzebnie przyciągnąłęś uwagę. Do usłyszenia.",
+              "stringId": "2333023907251732480"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

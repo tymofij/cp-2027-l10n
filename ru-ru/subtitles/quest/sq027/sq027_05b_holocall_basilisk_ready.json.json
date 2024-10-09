@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви, мы закончили с «Василиском».",
+              "maleVariant": "",
+              "stringId": "1787031423702290432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Само собой.",
+              "maleVariant": "",
+              "stringId": "1787031612479524868"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сейчас не могу.",
+              "maleVariant": "",
+              "stringId": "1787032303818264576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Конечно! Скоро буду у вас.",
+              "maleVariant": "Конечно! Скоро буду.",
+              "stringId": "1787032929474203652"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сейчас не могу, Панам. Заеду, как только разгребусь.",
+              "maleVariant": "",
+              "stringId": "1787033082180423684"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Блядь, Ви, он потрясный.",
+              "maleVariant": "",
+              "stringId": "1787034871353069568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно, ждём тебя.",
+              "maleVariant": "",
+              "stringId": "1787036031011016704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочешь на нём проехаться?",
+              "maleVariant": "",
+              "stringId": "1806985522639605760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я уж поняла.",
+              "maleVariant": "Я уж понял.",
+              "stringId": "1806987150063112192"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

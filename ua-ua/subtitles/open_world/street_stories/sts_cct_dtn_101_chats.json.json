@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що?! Сюди хтось вломився, щоби наїбнути один той сервер?",
+              "maleVariant": "",
+              "stringId": "1924036327595073536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, це ж наче як попередження, розумієш? Як відрізаний палець біля дверей.",
+              "maleVariant": "",
+              "stringId": "1924039603732373504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кажуть, Діно повинен купу грошей якимось важливим дядькам. Такі зазвичай довго терпіти не вміють.",
+              "maleVariant": "",
+              "stringId": "1935856110292750336"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

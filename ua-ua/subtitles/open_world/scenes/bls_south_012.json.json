@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Агов, ти куди вчора пропав?",
+              "maleVariant": "",
+              "stringId": "2181071947346698240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Повіз малу на співбесіду до «Хмар».",
+              "maleVariant": "",
+              "stringId": "2181072200363892736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ого, високо бере. І шо, як пройшло?",
+              "maleVariant": "",
+              "stringId": "2181074730435174400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та той чмошник цілий, курва, день допитував її, шоби в кінці сказати, шо в неї тупо закороткі ноги.",
+              "maleVariant": "",
+              "stringId": "2181075387565170688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От же ж їбаклак! То це ж скі’ки треба часу, шоби подивитися на ноги перед собою?",
+              "maleVariant": "",
+              "stringId": "2181075744936648704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І не кажи. А вона-он те’р засмучена яка. Х’тіла вибратися звідси нарешті… Каже, шо там нічим принаймні не пахне та «Примар» немає.",
+              "maleVariant": "",
+              "stringId": "2181076186747854848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та всюди є свої «Примари».",
+              "maleVariant": "",
+              "stringId": "2181076527929319424"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

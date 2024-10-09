@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чумбо, у тебе, схоже, навігатор глючить?",
+              "maleVariant": "",
+              "stringId": "2156470782566625280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шо? Якісь проблеми?",
+              "maleVariant": "",
+              "stringId": "2169341362129129472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Агов, спокійно. Просто я тебе тут жодного разу не бачив. А ми перебірливі у відвідувачах.",
+              "maleVariant": "",
+              "stringId": "2169341579779952640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У-у мене там є знайомі чумби.",
+              "maleVariant": "",
+              "stringId": "2169342614883848192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То брякни їм, нехай зустрінуть тебе. А доки побудеш тут. І без тупих витівок — я за тобою стежу.",
+              "maleVariant": "",
+              "stringId": "2169343314443423744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

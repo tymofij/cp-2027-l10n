@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мені потрібне нове спорядження.",
+              "maleVariant": "",
+              "stringId": "1740390339816431616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зброя, порекомендуєш якусь?",
+              "maleVariant": "",
+              "stringId": "1740390339816431632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мені потрібне нове спорядження.",
+              "maleVariant": "",
+              "stringId": "1740390339833208832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Маю широкий вибір, але завжди раджу класику Мілітеху.",
+              "maleVariant": "",
+              "stringId": "1740390339833208840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Порадиш щось конкретне?",
+              "maleVariant": "",
+              "stringId": "2253658183595036672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Короткоствол. А саме пістолети. Витончена, елегантна краса. А також компактні, і ти не виглядаєш з ними ніби якийсь бандос, що так компенсує свій мікропіструн.",
+              "maleVariant": "",
+              "stringId": "2253721328657207296"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

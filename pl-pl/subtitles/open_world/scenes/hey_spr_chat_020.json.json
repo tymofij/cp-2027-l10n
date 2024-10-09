@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcesz, żeby się w tobie zakochała, to zabierz ją w niebezpieczne miejsce.",
+              "maleVariant": "",
+              "stringId": "2162120453613400064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jakieś konkrety? Bo nie wiem co bardziej do niej przemówi: napaść z bronią w Kabuki czy porwanie w Vista Del Ray?",
+              "maleVariant": "",
+              "stringId": "2213035903114645504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stary, czytałem o tym, to jest tak. Zabierasz ją, w miejsce wywołujące silne emocje, ty będziesz obok. Ona skojarzy te emocje z tobą i pyk. Zakocha się w tobie.",
+              "maleVariant": "",
+              "stringId": "2218727353139695616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O! Wiem! Zabierz je na górne piętra. W nocy widać stamtąd łunę nad Pacifiką. Słychać strzały. Jest niby niebezpiecznie, a bezpieczenie, a na dodatek romatycznie.",
+              "maleVariant": "",
+              "stringId": "2218734175393255424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówię ci. To natura. Chemia. Tego nie oszukasz.",
+              "maleVariant": "",
+              "stringId": "2218734365160345600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha. A ty masz dziewczynę?",
+              "maleVariant": "",
+              "stringId": "2218740819791548416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja? Nieee. Jakoś teraz nie.",
+              "maleVariant": "",
+              "stringId": "2218740956408418304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jasne, jasne...",
+              "maleVariant": "",
+              "stringId": "2218743124544819200"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

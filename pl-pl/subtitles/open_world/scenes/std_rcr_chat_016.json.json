@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cześć mała, dziś nie dam rady się ustawić... Ha, ha, ha, tak, no to byla miła noc.",
+              "maleVariant": "",
+              "stringId": "2167591200337186816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A mam różne korporacyjne sprawy, zebrania i takie tam, wiesz jak to jest... Gdzie? Yyy... w Corpo Plaza jestem... Nie, nie, nie przyjeżdzaj do mnie... Potem się zobaczymy...",
+              "maleVariant": "",
+              "stringId": "2228882546149920768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słucham...? No wiesz... mam na sobie ekskluzywny garnitur. A ty? Co masz na sobie...? Yhm... I co jeszcze...? Niegrzeczna z ciebie dziewczynka... Ha, ha, ha...",
+              "maleVariant": "",
+              "stringId": "2228923230043082752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pewnie, załatwię ci robotę w Arasace. Kim chcesz być...? Sekretarką?! Kochana, przy mnie możesz mierzyć wyżej, zrobię z ciebie dyrektorkę...",
+              "maleVariant": "",
+              "stringId": "2228925246664445952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pewnie, że tak. Trzymaj się mnie, a nie zginiesz. Nikt nie ma w Night City takich układów, jak ja.",
+              "maleVariant": "",
+              "stringId": "2228928024669425664"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

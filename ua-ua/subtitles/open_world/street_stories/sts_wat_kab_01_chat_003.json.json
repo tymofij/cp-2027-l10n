@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Цей район підпадає під юрисдикцію «Мілітеху». У тебе тридцять секунд!",
+              "maleVariant": "",
+              "stringId": "1400980228251557888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але п-п-пане, м-мені треба покласти креветки д-до холодильника!",
+              "maleVariant": "",
+              "stringId": "1400982113725423616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та мені до сраки! Шуруй звідси!",
+              "maleVariant": "",
+              "stringId": "1400982388603330560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У м-мене така робота, з-з-зрозумійте ж!",
+              "maleVariant": "",
+              "stringId": "1440260886090846208"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

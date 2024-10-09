@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Йоу, Ві. У нас новий клієнт, Ларрі Фанґорн. Каже, його партнер Адам викинув його з бізнесу.",
+              "maleVariant": "",
+              "stringId": "2328701353954238464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У них був клуб «Емпатія». Ларрі хоче повернутися, і ми йому з цим допоможемо. Так?",
+              "maleVariant": "",
+              "stringId": "2333228337897127936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну що сказати, у клубній справі без підлоти не вижити. Пересилаю тобі всю інфу.",
+              "maleVariant": "",
+              "stringId": "2333228757193310208"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

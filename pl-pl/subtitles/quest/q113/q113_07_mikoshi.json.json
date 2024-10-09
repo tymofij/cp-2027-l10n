@@ -1,0 +1,763 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale wcześniej, zaraz po tym jak mnie porwaliście...",
+              "maleVariant": "",
+              "stringId": "1715518415144230912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To wszystko. Możemy iść.",
+              "maleVariant": "",
+              "stringId": "1760692181418393600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja... Kurwa, Johnny... Nie teraz!",
+              "maleVariant": "",
+              "stringId": "1760734771220070400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"お父様\" t=\"Ojcze.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1761764088704155648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pierdol się. Pozdrowienia od Silverhanda.",
+              "maleVariant": "",
+              "stringId": "1761764752712810496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co ja tu robię?",
+              "maleVariant": "",
+              "stringId": "1761765033244639232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie będę z tobą rozmawiać.",
+              "maleVariant": "",
+              "stringId": "1761765192963735552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To zaszczyt.",
+              "maleVariant": "",
+              "stringId": "1761769029325832192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co ja tu robię?",
+              "maleVariant": "",
+              "stringId": "1761770557881204736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zgadza się, skurwysynu!",
+              "maleVariant": "",
+              "stringId": "1761771222292512768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"ハッ\" t=\"Ha.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1761771565218807808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie będę z tobą rozmawiać.",
+              "maleVariant": "",
+              "stringId": "1761772564369129472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To dla mnie zaszczyt... poznać byłego szefa.",
+              "maleVariant": "",
+              "stringId": "1761773175395336192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pracowałam dla wywiadu Arasaki w Night City, zanim...",
+              "maleVariant": "Pracowałem dla wywiadu Arasaki w Night City, zanim...",
+              "stringId": "1761773726761762816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pozdrowienia od Silverhanda!",
+              "maleVariant": "",
+              "stringId": "1761783469928628224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"お前は我が社から盗みを働いた\" t=\"Okradłaś moją firmę.\" b=\"\" a=\"\"/>",
+              "maleVariant": "<kiroshi l=\"jpn\" o=\"お前は我が社から盗みを働いた\" t=\"Okradłeś moją firmę.\" b=\"\" a=\"\"/>",
+              "stringId": "1824104557170266112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"さらには娘の誘拐に加担し――\" t=\"Pomogłaś porwać moją córkę.\" b=\"\" a=\"\"/>",
+              "maleVariant": "<kiroshi l=\"jpn\" o=\"さらには娘の誘拐に加担し――\" t=\"Pomogłeś porwać moją córkę.\" b=\"\" a=\"\"/>",
+              "stringId": "1824105142477000704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"今度は息子を葬り去ろうとしている\" t=\"A teraz doprowadzisz do upadku mojego syna.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1824105491141103616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"確かにただ者ではない\" t=\"Ma charakter.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1824117826253623296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"私のテクノロジーと己の愚行によって身を滅ぼす前のことか\" t=\"Zanim padłaś ofiarą mojej technologii i własnej głupoty.\" b=\"\" a=\"\"/>",
+              "maleVariant": "<kiroshi l=\"jpn\" o=\"私のテクノロジーと己の愚行によって身を滅ぼす前のことか\" t=\"Zanim padłeś ofiarą mojej technologii i własnej głupoty.\" b=\"\" a=\"\"/>",
+              "stringId": "1824123159579594752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"生と死…\" t=\"Życie, śmierć...\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1824172674714046464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"私たちの使命は――\" t=\"To właśnie robimy.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1824176913259565056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"その境界を限りなく薄くすることだ\" t=\"Sprawiamy, że granica staje się coraz cieńsza.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1824177960426278912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"お前はそのプロセスの一部となった。感謝しなくてはな\" t=\"A ty stałaś się częścią tego procesu. Chyba należą ci się podziękowania.\" b=\"\" a=\"\"/>",
+              "maleVariant": "<kiroshi l=\"jpn\" o=\"お前はそのプロセスの一部となった。感謝しなくてはな\" t=\"A ty stałeś się częścią tego procesu. Chyba należą ci się podziękowania.\" b=\"\" a=\"\"/>",
+              "stringId": "1824178288722841600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"ハナコの言うとおりだな\" t=\"Miałaś rację, Hanako.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1824212573248950272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"この人よ\" t=\"To ona.\" b=\"\" a=\"\"/>",
+              "maleVariant": "<kiroshi l=\"jpn\" o=\"この人よ\" t=\"To on.\" b=\"\" a=\"\"/>",
+              "stringId": "1824218436953051136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie na to się umawiałam!",
+              "maleVariant": "Nie na to się umawiałem!",
+              "stringId": "1824245662985621504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mogłaś mnie uprzedzić.",
+              "maleVariant": "",
+              "stringId": "1824246559107059712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie na to się umawiałam!",
+              "maleVariant": "Nie na to się umawiałem!",
+              "stringId": "1824249633246679040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mogłaś mnie uprzedzić.",
+              "maleVariant": "",
+              "stringId": "1824249670257217536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Piętra dyrektorskie znajdują się wyżej.",
+              "maleVariant": "",
+              "stringId": "1825862985198735360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jedziemy w dół?",
+              "maleVariant": "",
+              "stringId": "1825863062692696064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówiłam ci, że punkt dostępu do Mikoshi znajduje się pod Arasaka Tower.",
+              "maleVariant": "",
+              "stringId": "1825865485138137088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zanim przerwiemy spotkanie zarządu, musimy zrobić coś jeszcze.",
+              "maleVariant": "",
+              "stringId": "1825865869789368320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co?",
+              "maleVariant": "",
+              "stringId": "1825866592149180416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No to dlaczego jedziemy w dół?",
+              "maleVariant": "",
+              "stringId": "1825867694076727296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To prawda.",
+              "maleVariant": "",
+              "stringId": "1825867824788017152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czemu wciąż mam to cholerne wrażenie, że nie powiedziałaś mi całej prawdy?",
+              "maleVariant": "",
+              "stringId": "1825868995686699008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Teraz sobie ufamy. I dlatego tu jesteś.",
+              "maleVariant": "",
+              "stringId": "1825870677183172608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ponieważ nie powiedziałam ci całej prawdy.",
+              "maleVariant": "",
+              "stringId": "1825874072505815040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jestem ostrożna.",
+              "maleVariant": "",
+              "stringId": "1825874324063391744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Myślałam, że sobie ufamy.",
+              "maleVariant": "Myślałem, że sobie ufamy.",
+              "stringId": "1825877092404695040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tworzył repliki nie tylko swojego biura.",
+              "maleVariant": "",
+              "stringId": "1825899115017277440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co?!",
+              "maleVariant": "",
+              "stringId": "1825901745399533568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Musiałam się z nim skonsultować.",
+              "maleVariant": "",
+              "stringId": "1825906453237338112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V!",
+              "maleVariant": "",
+              "stringId": "1825925022780100608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"行きましょう… 彼女がバカなことをしでかす前に\" t=\"Powinniśmy iść... Zanim znów zrobi coś głupiego.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1825927783135449088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"アラサカにずいぶんと恨みがあるようだな\" t=\"Ktoś mógłby pomyśleć, że to jakaś awersja do Arasaki.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1841697679718879232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"そのはざまに…\" t=\"A między nimi...\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1841703054048366592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"ガラスがある\" t=\"Szkło.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1841705595041615872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Robię to tylko dla siebie.",
+              "maleVariant": "",
+              "stringId": "1841711470842089476"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podziękowania nie wystarczą.",
+              "maleVariant": "",
+              "stringId": "1841711580330201088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Robię to tylko dla siebie.",
+              "maleVariant": "",
+              "stringId": "1841712794312773632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podziękowania nie wystarczą.",
+              "maleVariant": "",
+              "stringId": "1841712875212509184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wybieram się za tę szybę.",
+              "maleVariant": "",
+              "stringId": "1841713039008468992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"さて、時間を無駄にするのはよそう\" t=\"Nie marnujmy swojego czasu.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1841723310456311808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"準備はいいぞ、ハナコ\" t=\"Jestem gotowy, Hanako.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1841749823373316096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"お父様\" t=\"Ojcze.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1841752511217537024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"心配するな。しかるべき代償は払う\" t=\"Wiem. Zostaniesz wynagrodzona w stosowny sposób.\" b=\"\" a=\"\"/>",
+              "maleVariant": "<kiroshi l=\"jpn\" o=\"心配するな。しかるべき代償は払う\" t=\"Wiem. Zostaniesz wynagrodzony w stosowny sposób.\" b=\"\" a=\"\"/>",
+              "stringId": "1841755617804292096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bez jaj...",
+              "maleVariant": "",
+              "stringId": "1841769802772647936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z kim?",
+              "maleVariant": "",
+              "stringId": "1841781785127424000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z moim ojcem.",
+              "maleVariant": "",
+              "stringId": "1841781826332266496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"大胆さと傲慢さの境界もまた薄いものだ\" t=\"Pomiędzy odwagą a bezczelnością też przebiega cienka granica.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1843279128821633024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"始めろ\" t=\"Zaczynajmy.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1844422167308931072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie mogłam powiedzieć ci wcześniej.",
+              "maleVariant": "",
+              "stringId": "1844439463662325760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie mogłam.",
+              "maleVariant": "",
+              "stringId": "1844440694170456064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dlaczego?",
+              "maleVariant": "",
+              "stringId": "1844450271377100800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"私が口外を禁じたからだ\" t=\"Ponieważ jej zabroniłem.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1844450332328726528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gówno prawda.",
+              "maleVariant": "",
+              "stringId": "1844451479621865472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V... Okazujesz mu brak szacunku.",
+              "maleVariant": "",
+              "stringId": "1844452084172066816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"お前を自らの目で見てみたかった\" t=\"Chciałem cię zobaczyć.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1844485967118733312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"お前の意見は関係ない\" t=\"To, czego chcesz, ma najmniejsze znaczenie.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1844489113719148544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zawarłam układ z Hanako, nie z tobą.",
+              "maleVariant": "Zawarłem układ z Hanako, nie z tobą.",
+              "stringId": "1844498747179798528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"ほう。それはどうかな\" t=\"Tak myślisz?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1844499144732708864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dlaczego?",
+              "maleVariant": "",
+              "stringId": "1844499507103797248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Właśnie próbuję naprawić ten błąd.",
+              "maleVariant": "",
+              "stringId": "1844513504922308608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"ごくありふれた人間が、時に重要な役割を担う――運命のいたずらとでも言うべきか\" t=\"Bo wciąż zaskakuje mnie, jak wiele może zależeć od zwykłej jednostki.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1844516918330789888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"ならば道は誤っていない\" t=\"Jesteś na dobrej drodze.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1846017255449432064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[usiądź]",
+              "maleVariant": "",
+              "stringId": "1896453856763658244"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[wstań] Chodźmy.",
+              "maleVariant": "",
+              "stringId": "1896458874057211908"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę rozmawiać z Jackiem Wellesem.",
+              "maleVariant": "",
+              "stringId": "1912733334420418560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z kim?",
+              "maleVariant": "",
+              "stringId": "1912733705096228864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Arasaka zabrała jego ciało. Takemura mówił, że potraficie przesłuchiwać nawet zmarłych. Teraz chyba rozumiem, w jaki sposób.",
+              "maleVariant": "",
+              "stringId": "1912733891256217600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Obawiam się, że to zupełnie dwie różne rzeczy. Ale zobaczmy...",
+              "maleVariant": "",
+              "stringId": "1912734187122421760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jackie Welles.",
+              "maleVariant": "",
+              "stringId": "1912734340751388672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wszystko. Chcę rozmawiać z Jackiem Wellesem.",
+              "maleVariant": "",
+              "stringId": "1951816865171709952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chodźmy.",
+              "maleVariant": "",
+              "stringId": "2008157582990843904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chodźmy stąd.",
+              "maleVariant": "",
+              "stringId": "2008158247939022848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Chica!\" b=\"\" a=\" No, wreszcie!\"/>",
+              "maleVariant": "<mothertongue l=\"mex\" m=\"Mano!\" b=\"\" a=\" No, wreszcie!\"/>",
+              "stringId": "2008322358689853440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słuchaj... Chciałam ci podziękować.",
+              "maleVariant": "Słuchaj... Chciałem ci podziękować.",
+              "stringId": "2008322397562662912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jackie! Jak się czujesz?",
+              "maleVariant": "",
+              "stringId": "2008322403585683456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Misty bardzo za tobą tęskni.",
+              "maleVariant": "",
+              "stringId": "2008322408534962176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do zobaczenia, przyjacielu.",
+              "maleVariant": "",
+              "stringId": "2008322412796375040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie.",
+              "maleVariant": "",
+              "stringId": "2008322552768688132"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobrze wiesz, że nie.",
+              "maleVariant": "",
+              "stringId": "2008322581474504704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pierdol się, Hanako.",
+              "maleVariant": "",
+              "stringId": "2008322587933732864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pierdol się.",
+              "maleVariant": "",
+              "stringId": "2008322777835040768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę ci podziękować.",
+              "maleVariant": "",
+              "stringId": "2008323120207687680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Misty za tobą tęskni.",
+              "maleVariant": "",
+              "stringId": "2008323201392635904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do zobaczenia, przyjacielu.",
+              "maleVariant": "",
+              "stringId": "2008323233252569088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widzimy się w Afterlife.",
+              "maleVariant": "",
+              "stringId": "2008325810165837824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ach, Misty.",
+              "maleVariant": "",
+              "stringId": "2008326252916568064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"Słuchaj, \" a=\", sprawę mam do ciebie. Chciałbym pożyczyć twoją furę.\"/>",
+              "maleVariant": "<mothertongue l=\"mex\" m=\"mano\" b=\"Słuchaj, \" a=\", sprawę mam do ciebie. Chciałbym pożyczyć twoją furę.\"/>",
+              "stringId": "2008326330108538880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na randkę z Misty. Przecież nie pojedziemy metrem. Jak ja będę wyglądał?",
+              "maleVariant": "",
+              "stringId": "2008329878103846912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz, większość Wellesów skończyła na śmietniku.",
+              "maleVariant": "",
+              "stringId": "2008332149470457856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Całe życie matka powtarzała mi, że cierpliwość popłaca.",
+              "maleVariant": "",
+              "stringId": "2008342351712284672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ten... biochip... Przypilnuj go dla mnie.",
+              "maleVariant": "",
+              "stringId": "2008349190340407296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zawsze mogłam na ciebie liczyć.",
+              "maleVariant": "Zawsze mogłem na ciebie liczyć.",
+              "stringId": "2008351852079280128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Setka wódki na lodzie, sok z limonki, piwo imbirowe i najważniejsze... Miłość.",
+              "maleVariant": "",
+              "stringId": "2008352407992332288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Im dłużej zapewniam, że wszystko gra, tym bardziej czuję się, jakbym kłamał.",
+              "maleVariant": "",
+              "stringId": "2008369670422196224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dostałaś to, czego oczekiwałaś?",
+              "maleVariant": "Dostałeś to, czego oczekiwałeś?",
+              "stringId": "2008377331100348416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ostrzegałam, że to coś zupełnie innego.",
+              "maleVariant": "",
+              "stringId": "2008378069683728384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To naprawdę ty...",
+              "maleVariant": "",
+              "stringId": "2012906519069007872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jackie! Jak się czujesz?",
+              "maleVariant": "",
+              "stringId": "2012906519069007888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pamiętasz... co się stało?",
+              "maleVariant": "",
+              "stringId": "2012910597224341504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"Pracujemy dla Dexa, \" a=\". Pierwsza liga Night City. Czarny Chrystus Afterlife. Sto pięćdziesiąt kilogramów fixera. Słabo?\"/>",
+              "maleVariant": "<mothertongue l=\"mex\" m=\"mano\" b=\"Pracujemy dla Dexa, \" a=\". Pierwsza liga Night City. Czarny Chrystus Afterlife. Sto pięćdziesiąt kilogramów fixera. Słabo?\"/>",
+              "stringId": "2012911267876773888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To naprawdę ty!",
+              "maleVariant": "",
+              "stringId": "2012913148921454608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Coś. Dobrze powiedziane.",
+              "maleVariant": "",
+              "stringId": "2012915225840132096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A teraz idziemy.",
+              "maleVariant": "",
+              "stringId": "2012916045272915968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To nie jest on. Dość.",
+              "maleVariant": "",
+              "stringId": "2012918795679375360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nooo, nieźle jest być synem cesarza.",
+              "maleVariant": "",
+              "stringId": "2012927704783724544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To nie jest Jackie. Dość.",
+              "maleVariant": "",
+              "stringId": "2066592079971172352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Usiądź, proszę. To zajmie tylko chwilę.",
+              "maleVariant": "",
+              "stringId": "2252097794813042688"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

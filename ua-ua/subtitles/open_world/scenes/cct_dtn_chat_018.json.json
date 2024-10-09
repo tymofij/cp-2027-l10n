@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А якщо знайдуть?",
+              "maleVariant": "",
+              "stringId": "2172181539393875968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не знайдуть.",
+              "maleVariant": "",
+              "stringId": "2182615270883168256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти впевнений?",
+              "maleVariant": "",
+              "stringId": "2182632890701287424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чумбо, практично кожен сюди приходить зі стимуляторами, кожен ними закидується. І всі про це знають.",
+              "maleVariant": "",
+              "stringId": "2182632959437541376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну гаразд, але якщо охорона щось знайде, то мене ж не пропустять.",
+              "maleVariant": "",
+              "stringId": "2182633391366967296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О-о-ох, добре, зробімо так: ховай їх у труси чи в шкарпетки — там ніколи не перевіряють.",
+              "maleVariant": "",
+              "stringId": "2182633523202330624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вони вдають, що нічого не знають, якщо раптом знайдуть щось, і ти вдавай… Ну, що в тебе нічого немає.",
+              "maleVariant": "",
+              "stringId": "2182634255175487488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Типу, технічно вони заборонені, але всі знають, що це не так. Ти думаєш, сюди ходили б, якби їх справді заборонили?",
+              "maleVariant": "",
+              "stringId": "2182635449730043904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

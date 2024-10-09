@@ -1,0 +1,37 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cześć. Bruce Welby to przemytnik, który trafił do aresztu Militechu przy granicy. Jego kumpel chce go stamtąd wyciągnąć.",
+              "maleVariant": "",
+              "stringId": "2328991384771932160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, ale wiesz, goście potrzebują kogoś, kto odwali brudną robotę i uwolni Bruce’a. Info w załączniku.",
+              "maleVariant": "",
+              "stringId": "2333026362395967488"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

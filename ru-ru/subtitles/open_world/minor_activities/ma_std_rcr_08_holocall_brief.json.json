@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всем вспомогательным группам полиции. Поступило сообщение о преступной активности на Карнитас-стрит.",
+              "maleVariant": "",
+              "stringId": "2328872824717725700"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Во главе группы из членов банды «Шестая улица» замечена Ольга Элизабет Лонгмид, которая разыскивается за похищение и два убийства первой степени.",
+              "maleVariant": "",
+              "stringId": "2358434485652262912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Властями города назначена награда за устранение группы и её лидера.",
+              "maleVariant": "",
+              "stringId": "2358434515314380800"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

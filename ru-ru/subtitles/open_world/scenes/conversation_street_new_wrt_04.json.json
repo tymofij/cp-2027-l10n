@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну я и говорю ей, типа, если хочешь интервью, тогда никаких имён. И чтоб мы поужинали. И позавтракали, если нормально пойдёт. Ха-ха.",
+              "maleVariant": "",
+              "stringId": "2276543334628630544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прикол. И что, получилось?",
+              "maleVariant": "",
+              "stringId": "2276543334628630556"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, конечно. Дала мне только какие-то купоны в «Кальенте». Охуеть вообще.",
+              "maleVariant": "",
+              "stringId": "2276543334628630568"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Piękna sprawa, tak pruć do celu. Od razu czujesz, że masz w ręku moc.",
+              "maleVariant": "",
+              "stringId": "2172225876458713088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak. Może... Nie wiem. Jakoś tego nie czuję.",
+              "maleVariant": "",
+              "stringId": "2178193727191498752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podoba mi się, nie mówię, że nie. Ale zabrakło tego dreszczyku na plecach.",
+              "maleVariant": "",
+              "stringId": "2178193909173960704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znam to. Potrzebujesz realnych wrażeń, a nie tej atrapy.",
+              "maleVariant": "",
+              "stringId": "2178194167962517504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeden gość organizuje wypady do dzielnicy przemysłowej. Polowanie na bezdomnych.",
+              "maleVariant": "",
+              "stringId": "2178194513690607616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Umówię was. Gwarantuję, że tym razem będzie dreszczyk na plecach.",
+              "maleVariant": "",
+              "stringId": "2178194696243494912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hmmm... A co z policją?",
+              "maleVariant": "",
+              "stringId": "2178194845762043904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Proszę cię. Mają za dużo na głowie, żeby przejmować się paroma zapomnianymi trupami.",
+              "maleVariant": "",
+              "stringId": "2178195058346147840"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

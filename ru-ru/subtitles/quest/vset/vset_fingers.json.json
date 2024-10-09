@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да? Что такое?",
+              "maleVariant": "",
+              "stringId": "1796860334069235716"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Минуточку!",
+              "maleVariant": "",
+              "stringId": "1796860334086012932"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Алё, ты меня слушаешь?!",
+              "maleVariant": "",
+              "stringId": "1796860334169899012"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Куда это ты собралась?!",
+              "maleVariant": "Куда это ты собрался?!",
+              "stringId": "1796860334203453444"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тебе нужно что-то ещё?",
+              "maleVariant": "",
+              "stringId": "1796860334253785092"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что-то забыла?",
+              "maleVariant": "Что-то забыл?",
+              "stringId": "1796860334270562308"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что-то не так?",
+              "maleVariant": "",
+              "stringId": "1796860334304116740"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, что молчим-то?",
+              "maleVariant": "",
+              "stringId": "1796860334320893956"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прошу прощения!",
+              "maleVariant": "",
+              "stringId": "1796860334538997764"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Где твои манеры?",
+              "maleVariant": "",
+              "stringId": "1796860334555774980"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

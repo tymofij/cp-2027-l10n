@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гов, а ти чула, що Матей наче зв’язався з «Валентинос»?",
+              "maleVariant": "",
+              "stringId": "1496418432411201536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що, реально? Хто сказав?",
+              "maleVariant": "",
+              "stringId": "1496428408865255424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Фріґ.",
+              "maleVariant": "",
+              "stringId": "1496430140190060544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, от йому тільки й вірити. Це ж повний довбойоб, я серйозно.",
+              "maleVariant": "",
+              "stringId": "1496431111523758080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Агов! Вам тут не за теревені платять!",
+              "maleVariant": "",
+              "stringId": "1496431564542144512"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

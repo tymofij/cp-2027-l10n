@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I'll never understand why all these gonks wanna come here.",
+              "maleVariant": "",
+              "stringId": "2178285980640337920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, Night City's not so bad.",
+              "maleVariant": "",
+              "stringId": "2182456240052592640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It's shit.",
+              "maleVariant": "",
+              "stringId": "2182457442727321600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What's with you today?",
+              "maleVariant": "",
+              "stringId": "2182457546746060800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "My uncle. Hanged himself. Thought he had cyberpsychosis, was afraid he'd go whacko and hurt someone.",
+              "maleVariant": "",
+              "stringId": "2182457743878348800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh fuck. Well, um... Guess he did the right thing. I mean... Real selfless of him.",
+              "maleVariant": "",
+              "stringId": "2182459290519560192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I dunno... He didn't even have any implants.",
+              "maleVariant": "",
+              "stringId": "2182459754761904128"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

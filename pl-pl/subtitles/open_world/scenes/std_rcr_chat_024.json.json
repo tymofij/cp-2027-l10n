@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Potrzebuję samochód zastępczy. Mój wóz nie jedzie. NIE-JE-DZIE.",
+              "maleVariant": "",
+              "stringId": "2167652664053878784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uszkodzenie, kurwa, całkowite. Siadła elektryka.",
+              "maleVariant": "",
+              "stringId": "2217271112934055936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie będę sprawdzał poziomu paliwa, ty durne pudło! Samochód jest bezużyteczny, bo nie da się nawet uruchomić!",
+              "maleVariant": "",
+              "stringId": "2217271553335975936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Elektryka!!!",
+              "maleVariant": "",
+              "stringId": "2217272247677837312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dajcie mi rozmawiać z jakimś człowiekiem! Może nawet być idiota!",
+              "maleVariant": "",
+              "stringId": "2217272734099660800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystko, tylko nie tępy głos z puszki!",
+              "maleVariant": "",
+              "stringId": "2217273352105189376"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

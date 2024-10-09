@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Ou pa ka aksepte kaka konsa lè ou sou nèt la.\" t=\"Nie możesz brać tego syfu, kiedy wchodzisz do Sieci.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1963269004930883584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Tout bagay, telman, yon jan…sèk.....\" t=\"Ale wtedy wszystko jest takie... wyraźne.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1966367326134358016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Bon, fwa sa a, sa w wè?\" t=\"No to co tym razem widziałeś?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1966368247169961984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Se tanp Elamou a. Li gen fòm yon zigourat.\" t=\"Świątynie Elamu. Zigguraty.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1966370160443674624"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

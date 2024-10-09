@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej, co słychać? Witajcie z powrotem. Ej, słyszeliście już pewnie, że do Night City zawinął lotniskowiec Arasaki? Nazywa się Kujira, czyli wieloryb.",
+              "maleVariant": "",
+              "stringId": "1669211932228231168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podobno korporacja zdecydowała się wywieźć go z Japonii, bo obawiała się, że ktoś może zechcieć go zatopić w celach naukowych.",
+              "maleVariant": "",
+              "stringId": "1670578045695873024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak czy siak pijarowcy z ekipy  Hanako ostrzegali ją, że ta cała akcja z wielorybem może wzbudzić dosyć oczywiste skojarzenia z Pearl Harbor. Przepraszam, powiedziałam “ostrzegali”? Miałam na myśli, że \"podpowiadali\".",
+              "maleVariant": "",
+              "stringId": "1670579827788533760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A tak szczerze, to niezły power move. Ciekawe, jaka będzie odpowiedź Militechu. Myślicie, że Myers przeleci się bombowcem B-52 nad siedzibą główną Arasaki?",
+              "maleVariant": "",
+              "stringId": "1670580479935696896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O, kurczę. Nie no, przepraszam. Teraz już przegięłam. Chciałam oczywiście powiedzieć: pani prezydent Myers. Tak, pani prezydent. Ma się przecież ten szacunek dla urzędu.",
+              "maleVariant": "",
+              "stringId": "1670582785242615808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, a z innej beczki…",
+              "maleVariant": "",
+              "stringId": "1670583295102210048"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przepraszam pana najmocniej, czy możemy zająć chwilę?",
+              "maleVariant": "",
+              "stringId": "1806839159435419648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dziękujemy!",
+              "maleVariant": "",
+              "stringId": "1806846761443647488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dziękujemy!",
+              "maleVariant": "",
+              "stringId": "1806846888933711872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No? Co tam się znowu stało?",
+              "maleVariant": "",
+              "stringId": "1806850354787770368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ta rura, co pękła w bloku...",
+              "maleVariant": "",
+              "stringId": "1806850473704677376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Te skurwysyny z ratusza nadal nikogo nie wysłały do naprawy!",
+              "maleVariant": "",
+              "stringId": "1806850593980538880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie odzywaj się tak! Nie widzisz, kto przed tobą stoi?!",
+              "maleVariant": "",
+              "stringId": "1806851069849493504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spokojnie, czego dokładnie potrzebujecie?",
+              "maleVariant": "",
+              "stringId": "1806851225760161792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, żeby naprawić tę rurę, bo wody nie mamy.  Jakieś materiały do remontu mieszkań też by się przydały, bo pozalewało...",
+              "maleVariant": "",
+              "stringId": "1806851433344655360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra. Załatwię to.",
+              "maleVariant": "",
+              "stringId": "1806851570397732864"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

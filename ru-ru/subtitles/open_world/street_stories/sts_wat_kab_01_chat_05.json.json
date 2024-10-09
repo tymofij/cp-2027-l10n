@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Попробуй ещё раз, слышишь меня?!",
+              "maleVariant": "",
+              "stringId": "1410871175026286592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Корпораты никого не пропускают, сколько раз мне повторять?!",
+              "maleVariant": "",
+              "stringId": "1410876397438083072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А как же мои дети?!",
+              "maleVariant": "",
+              "stringId": "1486691292000129024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я имею право на свою жизнь! Могут у меня быть дела?!",
+              "maleVariant": "",
+              "stringId": "1486693183211802624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И что же у тебя за дела?! На очередном хую поскакать, пока я тут въёбываю?",
+              "maleVariant": "",
+              "stringId": "1486693683810373632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Они не остались бы там одни, если бы их мамаша не шлялась неизвестно где!",
+              "maleVariant": "",
+              "stringId": "1488162315916644352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, то-то ты сегодня уже набрался, работничек!",
+              "maleVariant": "",
+              "stringId": "1934494580713295872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Молодец, сынок. Будешь дальше так работать — станешь начальником смены.",
+              "maleVariant": "",
+              "stringId": "2167918149588766720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не, это не для меня. Я работаю, чтобы отложить денег на колледж.",
+              "maleVariant": "",
+              "stringId": "2182257696601067520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Колледж? Зачем тебе колледж? Ничего ты с него не получишь, только кучу долгов.",
+              "maleVariant": "",
+              "stringId": "2182258314002616320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. И хорошую работу в корпорации.",
+              "maleVariant": "",
+              "stringId": "2182258729792360448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пф-ф-ф. Думаешь, защитишь диплом, и на тебя прольётся дождь эдди? Мир не так устроен, сынок.",
+              "maleVariant": "",
+              "stringId": "2182258897447079936"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

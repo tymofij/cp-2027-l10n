@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я шестой год по полной выкладываюсь, и ни хрена. А эту суку уже дважды повысили.",
+              "maleVariant": "",
+              "stringId": "2156523842609377280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тут два варианта — или смириться, или устранить конкурентов.",
+              "maleVariant": "",
+              "stringId": "2172343915632115712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В смысле… убить её?",
+              "maleVariant": "",
+              "stringId": "2172344289814364160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тоже вариант. Так ты покажешь начальству, что готов на всё.",
+              "maleVariant": "",
+              "stringId": "2172344537865502720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты тоже так делал?",
+              "maleVariant": "",
+              "stringId": "2172344688961110016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не, страшно. Я давно забил. Зато все знают, что я никого не трону.",
+              "maleVariant": "",
+              "stringId": "2172344917936553984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эх… Даже не знаю.",
+              "maleVariant": "",
+              "stringId": "2172345079014604800"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

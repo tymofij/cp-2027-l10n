@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The street says we quit. After our work with NetWatch, it says we are finished...",
+              "maleVariant": "",
+              "stringId": "1895083069263654912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I know that pretty little face... Here for round two?!",
+              "maleVariant": "",
+              "stringId": "1895084581176029188"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh yeah? \"The street\"?! You got names?!",
+              "maleVariant": "",
+              "stringId": "1895088898054369280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No fuckin' NetWatch in the way! Just you and me, cockroach!",
+              "maleVariant": "",
+              "stringId": "1933150926448435200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "In general... people.",
+              "maleVariant": "",
+              "stringId": "1934560652860137472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Then we'll send 'em a clear fuckin' message. Agh, let me think...",
+              "maleVariant": "",
+              "stringId": "1934568062500806656"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

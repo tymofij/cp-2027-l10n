@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Т-ти дістав його?",
+              "maleVariant": "",
+              "stringId": "1802533093037957120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага.",
+              "maleVariant": "",
+              "stringId": "1802533723022417920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Без вірусів? Усе гаразд?",
+              "maleVariant": "",
+              "stringId": "1802533866517946368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так.",
+              "maleVariant": "",
+              "stringId": "1802534031421202432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Т-ти п-певен? Це для моєї дівчини.",
+              "maleVariant": "",
+              "stringId": "1802534165706039296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, я ж сказав.",
+              "maleVariant": "",
+              "stringId": "1802534310661185536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Просто цікавлюся. Типу, ціна якась дуже занизька, як для такого хрому.",
+              "maleVariant": "",
+              "stringId": "1802534463233187840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я від «пожертв» не відмовлятимуся.",
+              "maleVariant": "",
+              "stringId": "1802534660348698624"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co zrobimy jak już dotrzemy do miasta?",
+              "maleVariant": "",
+              "stringId": "2189630218970030080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja idę od razu na koncert Lizzy Wizzy. Podobno ma niesamowitą energię na scenie. Muszę to zobaczyć.",
+              "maleVariant": "",
+              "stringId": "2189643038306557952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobrze, że jej jeszcze trochę energii zostaje po tym rozpierdolu, który pewnie urządza z anarchistami.",
+              "maleVariant": "",
+              "stringId": "2189648064290709504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z Moxami? Oni nie mają z nią nic wspólnego.",
+              "maleVariant": "",
+              "stringId": "2189651387756535808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ta, jasne. Nazwali klub jej imieniem. Byłem tam kiedyś.",
+              "maleVariant": "",
+              "stringId": "2189651692900540416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak byłeś to powinienieś wiedzieć, że klub się nazywa od takiej laski, którą zabiły gangusy.",
+              "maleVariant": "",
+              "stringId": "2189652102566600704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gadasz jak typowy burak ze wsi. Nikt nie uwierzy, że jesteś z Night City!",
+              "maleVariant": "",
+              "stringId": "2189654205036978176"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

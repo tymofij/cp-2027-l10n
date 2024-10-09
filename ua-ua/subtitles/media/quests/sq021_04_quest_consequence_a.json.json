@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У нас моторошне продовження сюжету — трагічно завершилися пошуки підлітків, викрадених Ентоні Гаррісом, також відомим як «Пітер Пен».",
+              "maleVariant": "",
+              "stringId": "1792302175591768064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поліція Найт-Сіті не змогла знайти викрадених хлопчиків до того, як вони загинули.",
+              "maleVariant": "",
+              "stringId": "1802331654488571904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дітей, померлих від зневоднення та голоду, знайшли на покинутій фермі.",
+              "maleVariant": "",
+              "stringId": "1802331898848722944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Справа «Пітера Пена» вчергове підтверджує моральний розпад Найт-Сіті.",
+              "maleVariant": "",
+              "stringId": "1802332202197565440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Рівень злочинності у Найт-Сіті вдвічі вищий ніж у Нових Сполучених Штатах. Якщо так поглянути, то схоже, що чим тісніше зв’язки з НСША, тим більша ймовірність навести лад у місті.",
+              "maleVariant": "",
+              "stringId": "1802332446742265856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не перемикайтеся. Після перерви буде більше подробиць.",
+              "maleVariant": "",
+              "stringId": "1802332636643573760"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

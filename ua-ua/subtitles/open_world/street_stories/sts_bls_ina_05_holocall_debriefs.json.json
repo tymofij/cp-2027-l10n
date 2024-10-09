@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, дякую, що так акуратно все виконала. Ти зробила все так, як ми домовлялися.",
+              "maleVariant": "Ві, дякую, що так акуратно все виконав. Ти зробив усе так, як ми домовлялися.",
+              "stringId": "2328696270354821120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привіт. Дякую, що врятувала Брюса. Тільки шкода, що йому довелося самому діставатися до Арчібальда.",
+              "maleVariant": "Привіт. Дякую, що врятував Брюса. Тільки шкода, що йому довелося самому діставатися до Арчібальда.",
+              "stringId": "2328697285728710656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Брюса звільнено та доставлено до Арчібальда. Я ціную, що все обійшлося без зайвого кровопролиття.",
+              "maleVariant": "",
+              "stringId": "2332995324261154816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Оплата скоро прилетить на твій рахунок. Контракт закрито.",
+              "maleVariant": "",
+              "stringId": "2332999702443442176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На щастя, постраждали лише його нерви. Тепер «Мілітех» шукатиме вітер у полі.",
+              "maleVariant": "",
+              "stringId": "2333010505980690432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Перевір рахунок. Оплата вже мала б прийти.",
+              "maleVariant": "",
+              "stringId": "2333010574666612736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти що, забула, що я просила без зайвого кровопролиття?",
+              "maleVariant": "Ти що, забув, що я просила без зайвого кровопролиття?",
+              "stringId": "2333013215853395968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Робота виконана, але мені не подобається твій стиль виконання. Наступного разу зроби все як слід, гаразд?",
+              "maleVariant": "",
+              "stringId": "2333021198419214336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти врятувала Брюса, тому робота виконана. Але ж можна було це зробити тихіше. До зустрічі.",
+              "maleVariant": "Ти врятував Брюса, тому робота виконана. Але ж можна було це зробити тихіше. До зустрічі.",
+              "stringId": "2333023907251732480"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

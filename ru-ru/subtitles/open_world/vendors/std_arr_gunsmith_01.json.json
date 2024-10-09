@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что у тебя есть?",
+              "maleVariant": "",
+              "stringId": "1783753455506837504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Есть пушки, которые не стоит брать?",
+              "maleVariant": "",
+              "stringId": "1783753455506837520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что у тебя есть?",
+              "maleVariant": "",
+              "stringId": "1783753455523614724"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может что-то не советуешь брать?",
+              "maleVariant": "",
+              "stringId": "1783753455557169156"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Стволы любого калибра — полюбуйся.",
+              "maleVariant": "",
+              "stringId": "1975008556579344384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм, дай подумать… Прежде всего, конечно, «Баджет Армс» — пластик дешёвый, отдача сильная, дальность низкая, и прочее.",
+              "maleVariant": "",
+              "stringId": "1975017098413658112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На твоём месте я бы поостерёгся товаров «Ростовича». По огневой мощи им нет равных, но они то и дело заедают, когда не надо.",
+              "maleVariant": "",
+              "stringId": "1975020237816647680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, не знаю… По-моему, «Сатара» — вещь надёжная.",
+              "maleVariant": "",
+              "stringId": "1975022239304962048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ого, у нас тут эксперт! Признаю, хоть что-то сербы смогли сделать как следует.",
+              "maleVariant": "",
+              "stringId": "1975023739641057280"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

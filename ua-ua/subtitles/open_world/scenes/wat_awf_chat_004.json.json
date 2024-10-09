@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти думаєш, мені повилазило чи шо?!",
+              "maleVariant": "",
+              "stringId": "1963248533556469760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та я просто кажу, шо китів вопше вже нема. Вони всі вимерли.",
+              "maleVariant": "",
+              "stringId": "1967820568015458304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я бачила його, як-от тебе зара’. Прям’ біля берега. Він був сірий і лискучий.",
+              "maleVariant": "",
+              "stringId": "1967821178135695360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Упевнена, що то не підводний човен був?",
+              "maleVariant": "",
+              "stringId": "1967821840651177984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якщо не хочеш вірити, то й пофіг. Але я знаю, що бачила! Знаю!",
+              "maleVariant": "",
+              "stringId": "1967822948350087168"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

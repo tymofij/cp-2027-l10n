@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет, с вами «Быстрые новости»! Ну что, все слышали, что у «Арасаки» новый босс? Ёринобу Арасака.",
+              "maleVariant": "",
+              "stringId": "1792189662581661696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот же удивительное совпадение. Из четырёх миллиардов человек лучшим кандидатом в шефы стал наследник рода. Ну надо же…",
+              "maleVariant": "",
+              "stringId": "1795434432190726144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А теперь серьёзно, этот Ёринобу — очень любопытный тип. В детстве он убежал из дома, вступил в банду, где занимался грабежом, рэкетом…",
+              "maleVariant": "",
+              "stringId": "1795434813805281280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй! Да он правда лучший кандидат на эту должность!",
+              "maleVariant": "",
+              "stringId": "1795435214025768960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В общем, пары лет такой жизни хватило, чтобы блудный сын вернулся в семью. Сабуро заявил, что не держит зла на сердце. Ещё бы, ведь держать-то не на чем.",
+              "maleVariant": "",
+              "stringId": "1795435800959893504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вернувшись в клан, Ёринобу стал вице-президентом по оптимизации процессов. Думаю, папочка так его наказал, типа, поставил в угол.",
+              "maleVariant": "",
+              "stringId": "1795436672049725440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И вот, теперь он генеральный. А ведь год назад ему нечем было платить налоги. Не знаю почему, но топы «Арасаки» совершенно нищие! В общем, если встретите его на улице — не пожалейте монетку.",
+              "maleVariant": "",
+              "stringId": "1795437269603827712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спасибо, что вы с нами, Найт-Сити! До связи!",
+              "maleVariant": "",
+              "stringId": "1795437842294095872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

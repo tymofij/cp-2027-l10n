@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Присмотрись к ним. Что скажешь?",
+              "maleVariant": "",
+              "stringId": "1806724152559263744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тупые корпораты. Лёгкая добыча.",
+              "maleVariant": "",
+              "stringId": "1806724802374393856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Э, нет. Я вот вижу, что у них у каждого скелет в шкафу. Каждому есть что скрывать.",
+              "maleVariant": "",
+              "stringId": "1806725024487956480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нароешь, чего они прячут, — и они у тебя в кармане. Сможешь ими распоряжаться так же, как их боссы из корпорации.",
+              "maleVariant": "",
+              "stringId": "1806725490693234688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Даже просить не придётся, сами всё принесут. Данные, записи, всю подноготную.",
+              "maleVariant": "",
+              "stringId": "1806725772651126784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И вот тогда-то, друг мой, вот тогда эдди потекут рекой.",
+              "maleVariant": "",
+              "stringId": "1806726174381563904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

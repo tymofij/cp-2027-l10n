@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wyobrażasz sobie...? Ponad siedemdziesiąt pięter... i to wszystko runęło...",
+              "maleVariant": "",
+              "stringId": "2172083067071094784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Daj spokój. Mój dziadek brał udział w akcji ratunkowej... dzień i noc wykopywali ciała spod gruzów...",
+              "maleVariant": "",
+              "stringId": "2205866264681091072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Historie, które opowiadał, to co zobaczył, co usłyszał... te krzyki spod ziemi...",
+              "maleVariant": "",
+              "stringId": "2205869672720863232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nawet nie chcę sobie tego wyobrażać.",
+              "maleVariant": "",
+              "stringId": "2205869946004934656"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

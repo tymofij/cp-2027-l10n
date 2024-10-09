@@ -1,0 +1,973 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ох. Тут усе таке живе. Таке справжнє.",
+              "maleVariant": "",
+              "stringId": "1695167131789840384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кіберпростір невпинно рухається й дихає.",
+              "maleVariant": "",
+              "stringId": "1698455700167266304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Інтерфейс підлаштовуватиме припливи та відпливи даних під можливості твого мозку.",
+              "maleVariant": "",
+              "stringId": "1698456372195430400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але ти… Ти щось виняткове.",
+              "maleVariant": "",
+              "stringId": "1698458056896352256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То що далі?",
+              "maleVariant": "",
+              "stringId": "1698461584406679552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можемо починати. Усе готово.",
+              "maleVariant": "",
+              "stringId": "1698463147875438592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми тимчасово посилили твій зв’язок із нейромережею Сільвергенда. Аби витягти частину.",
+              "maleVariant": "",
+              "stringId": "1698465897224933376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Потрібно знайти дані про Альт. І тільки про Альт.",
+              "maleVariant": "",
+              "stringId": "1698468660935725056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усе відбудеться лише за…",
+              "maleVariant": "",
+              "stringId": "1698476514971291648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так. Ми витягли потрібну частину енграми Сільвергенда.",
+              "maleVariant": "",
+              "stringId": "1698498645444595712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тепер ми готові зв’язатися з Альт.",
+              "maleVariant": "",
+              "stringId": "1698500107344089088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тобто насправді ти не знаєш, що там по той бік.",
+              "maleVariant": "",
+              "stringId": "1698504043446734848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я виконала свою частину угоди. Твій хід.",
+              "maleVariant": "Я виконав свою частину угоди. Твій хід.",
+              "stringId": "1698521865128316928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Може прибереш енграму Джонні, перш ніж проходити крізь стіну?",
+              "maleVariant": "",
+              "stringId": "1698524569649090560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми не пройдемо.",
+              "maleVariant": "",
+              "stringId": "1698526104495919104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми перенесемо тебе в кіберпростір. Це найліпше місце для взаємодії з конструктом.",
+              "maleVariant": "",
+              "stringId": "1710203183566229504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скажи спочатку, навіщо тобі Джонні.",
+              "maleVariant": "",
+              "stringId": "1710204274185932800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Які гарантії, що я повернусь?",
+              "maleVariant": "",
+              "stringId": "1710205290918776832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як ти плануєш зв’язатися з Альт?",
+              "maleVariant": "",
+              "stringId": "1710207009811664896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Звідки мені знати, що я повернуся? Є якісь гарантії?",
+              "maleVariant": "",
+              "stringId": "1710208961991741440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти будеш у нашій фортеці даних, під наглядом.",
+              "maleVariant": "",
+              "stringId": "1710217524378144768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якби ти знала, що є в кіберпросторі, ти б не була такою прискіпливою.",
+              "maleVariant": "Якби ти знав, що є в кіберпросторі, ти б не був таким прискіпливим.",
+              "stringId": "1710221128845561856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Під ТВОЇМ наглядом.",
+              "maleVariant": "",
+              "stringId": "1710222880621793280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чим це відрізняється від звичайного мережництва?",
+              "maleVariant": "",
+              "stringId": "1710228160076124160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну і чим це відрізняється від старого доброго мережництва?",
+              "maleVariant": "",
+              "stringId": "1710230618508693504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Інтерфейс показує тобі шари даних просто з мережі. Звичайно, у придатному до читання вигляді.",
+              "maleVariant": "",
+              "stringId": "1710230618508693516"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А звичайні мережники бачать лише мапу. Вони не можуть дивитися під поверхнею. Їх обладнання заслабке.",
+              "maleVariant": "",
+              "stringId": "1710230618525470728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми спробуємо витягти унікальну частину енграми Сільвергенда з біочипа.",
+              "maleVariant": "",
+              "stringId": "1710232243432394752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Альт її впізнає. Якщо за роки, проведені за чорномуром, у неї залишилося щось людське, вона відповість.",
+              "maleVariant": "",
+              "stringId": "1710236211378196480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джонні? Ти будеш нашою принадою. Згоден?",
+              "maleVariant": "",
+              "stringId": "1710237982498557952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, най буде. Роби як кажуть.",
+              "maleVariant": "",
+              "stringId": "1710239780093366272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що тобі треба від Альт?",
+              "maleVariant": "",
+              "stringId": "1710241058919878656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що насправді вам потрібно від Альт?",
+              "maleVariant": "",
+              "stringId": "1710258908199981056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Коли побудували чорномур, усі вважали, що ЛІДу вистачить, аби втримати дикі ШІ зовні.",
+              "maleVariant": "",
+              "stringId": "1710260073914503168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це наша СДО. Фортеця даних.",
+              "maleVariant": "",
+              "stringId": "1710262772647137280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Місток у глибинну мережу.",
+              "maleVariant": "",
+              "stringId": "1710263956044845056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Далі, де вже немає меж.",
+              "maleVariant": "",
+              "stringId": "1710265920874942464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "За чорномур.",
+              "maleVariant": "",
+              "stringId": "1710266412363485184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що таке насправді цей чорномур?",
+              "maleVariant": "",
+              "stringId": "1710272156311818240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що таке чорномур насправді? Я знаю, що…",
+              "maleVariant": "",
+              "stringId": "1710272501117161472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти знаєш лише те, що каже «Мережева Варта».",
+              "maleVariant": "",
+              "stringId": "1710272501117161484"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Останній бастіон проти післявоєнних ШІ. Велична перемога людства над хаосом.",
+              "maleVariant": "",
+              "stringId": "1710272501117161496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але чорномур сам по собі і є ШІ. З граничною умовою не дозволяти нічому проходити крізь себе — в обох напрямках.",
+              "maleVariant": "",
+              "stringId": "1710272501133938712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якби ШІ думали як люди, вони б вважали його зрадником.",
+              "maleVariant": "",
+              "stringId": "1710298337761366016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Звучить як звична ранкова пропаганда «Мережевої Варти».",
+              "maleVariant": "",
+              "stringId": "1710299612158693376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але як би ми не намагалися, зупинити технологічний поступ неможливо. Катастрофічні події відбудуться знову. Обов’язково. І дуже скоро.",
+              "maleVariant": "",
+              "stringId": "1710302965689290752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Альт — єдина, хто може поділитися безпечним шляхом крізь чорномур.",
+              "maleVariant": "",
+              "stringId": "1710308714486239232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зміни?",
+              "maleVariant": "",
+              "stringId": "1710309208692690944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Коли настануть зміни, ми хотіли би бути на стороні переможців.",
+              "maleVariant": "",
+              "stringId": "1710312539423051776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І досі жоден не повернувся.",
+              "maleVariant": "",
+              "stringId": "1710318153465401344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мало кому вдавалося перейти на інший бік.",
+              "maleVariant": "",
+              "stringId": "1710319172849045504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вона буде першою.",
+              "maleVariant": "",
+              "stringId": "1710319765554532352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Корпорації не усвідомлюють усієї небезпеки. А ми… Ми будемо підготовлені.",
+              "maleVariant": "",
+              "stringId": "1711432609935200256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тільки не кажи, що маю туди залізти.",
+              "maleVariant": "",
+              "stringId": "1711450250540290052"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, ні. Тільки не ванна.",
+              "maleVariant": "",
+              "stringId": "1711453696647565312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми маємо підготувати тебе до занурення в кіберпростір.",
+              "maleVariant": "",
+              "stringId": "1711457799851282432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти не готова до таких нервових перевантажень.",
+              "maleVariant": "Ти не готовий до таких нервових перевантажень.",
+              "stringId": "1711465607598510080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не панікуй, Ві. Роби як вона каже. Не хотів би, аби ми з тобою підсмажились.",
+              "maleVariant": "",
+              "stringId": "1711466435956772864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ух…",
+              "maleVariant": "",
+              "stringId": "1711482561461817344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Vire kouran.\" t=\"Увімкни живлення.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1712793838918373376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прибери конструкт, перш ніж перетинати чорномур.",
+              "maleVariant": "",
+              "stringId": "1712929946431983616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Tout bagay pare. Nou ka kòmanse.\" t=\"Усе готово. Можемо починати.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1744394999535276032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Схоже, ти будеш принадою.",
+              "maleVariant": "",
+              "stringId": "1744601818568364036"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сюди.",
+              "maleVariant": "",
+              "stringId": "1744726950779588608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Bon.\" t=\"Добре.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1745841678133301248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Li pare.\" t=\"Вона готова.\" b=\"\" a=\"\"/>",
+              "maleVariant": "<kiroshi l=\"creo\" o=\"Li pare.\" t=\"Він готовий.\" b=\"\" a=\"\"/>",
+              "stringId": "1745849880077996032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Залізти] Я готова.",
+              "maleVariant": "[Залізти] Я готовий.",
+              "stringId": "1751949491834261504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Уф. Що буде, те й буде.",
+              "maleVariant": "",
+              "stringId": "1751952783792476160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Де це ми?",
+              "maleVariant": "",
+              "stringId": "1754712582155177988"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гаразд, що далі?",
+              "maleVariant": "",
+              "stringId": "1761880934798659584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гаразд, що далі?",
+              "maleVariant": "",
+              "stringId": "1761887312422440964"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джонні?",
+              "maleVariant": "",
+              "stringId": "1761895032894590980"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джонні?",
+              "maleVariant": "",
+              "stringId": "1761895789412814848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І це все?",
+              "maleVariant": "",
+              "stringId": "1766150373731799040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І це все? Серйозно?",
+              "maleVariant": "",
+              "stringId": "1766150894630801408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Де ми?",
+              "maleVariant": "",
+              "stringId": "1766151244821630976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Pare plonje.\" t=\"Готовий до занурення.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1770694349373640704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Ki moun ki pral pwoteje li?\" t=\"Хто її захищатиме?\" b=\"\" a=\"\"/>",
+              "maleVariant": "<kiroshi l=\"creo\" o=\"Ki moun ki pral pwoteje li?\" t=\"Хто його захищатиме?\" b=\"\" a=\"\"/>",
+              "stringId": "1770696815926382592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Leon avec Jean-ki-ri.\" t=\"Леон та Жан-кі-рі.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1770707973932650496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Direksyon konekte.\" t=\"З’єдную потоки.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1770712812934729728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Koneksyon estab.\" t=\"З’єднання стабільне.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1770718902963474432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Схоже, у вас є власна версія синтехівського інтерфейсу.",
+              "maleVariant": "",
+              "stringId": "1792268198003150848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гаразд, зажди. Спершу розкажи, навіщо тобі Сільвергенд.",
+              "maleVariant": "",
+              "stringId": "1947384246858174464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми хочемо зв’язатися з Альт Каннінгем. Ми знаємо, що вони зі Сільвергендом були близькими.",
+              "maleVariant": "",
+              "stringId": "1947388088622534656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Альт?",
+              "maleVariant": "",
+              "stringId": "1947388315484049408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Реліквія, яку зберігала «Арасака» — це наш єдиний шлях до цього.",
+              "maleVariant": "",
+              "stringId": "1947389177849729024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Альт Каннінгем… Чула про неї.",
+              "maleVariant": "Альт Канінгем… Чув про неї.",
+              "stringId": "1947390385842835456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О? Де? Від кого?",
+              "maleVariant": "",
+              "stringId": "1947390613627097088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як ми зконтактуємо з Альт?",
+              "maleVariant": "",
+              "stringId": "1947392754903175172"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джонні розповідав мені про неї.",
+              "maleVariant": "",
+              "stringId": "1947396937211465728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Від Джонні. Однак зовсім трохи.",
+              "maleVariant": "",
+              "stringId": "1947403995973439488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джонні?",
+              "maleVariant": "",
+              "stringId": "1947404777103839232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гаразд, Ві. Думаю, ліпше їй розповісти.",
+              "maleVariant": "",
+              "stringId": "1947406234456707084"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що розповісти?",
+              "maleVariant": "",
+              "stringId": "1947406234456707100"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Про нас.",
+              "maleVariant": "",
+              "stringId": "1947406234473484288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Яким чином ми зв’яжемося з Альт?",
+              "maleVariant": "",
+              "stringId": "1947406900193415172"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Конструкт Джонні активний.",
+              "maleVariant": "",
+              "stringId": "1947407260115030016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Конструкт активний. Тому ми можемо час від часу базікати.",
+              "maleVariant": "",
+              "stringId": "1947407790761594880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що, перепрошую? Ти нічого не казала про прорив крізь чорномур.",
+              "maleVariant": "",
+              "stringId": "1947409036872536064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От щойно і сказала.",
+              "maleVariant": "",
+              "stringId": "1947409476016164864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що? Гадаєш, у мене глюки? Знайшла собі вигаданого друга?",
+              "maleVariant": "Що? Гадаєш, у мене глюки? Знайшов собі вигаданого друга?",
+              "stringId": "1947487816991395840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу. На це ми теж поглянемо.",
+              "maleVariant": "",
+              "stringId": "1947491792621162496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми дуже мало знаємо про те, як енграма може існувати всередині нейромережі людини.",
+              "maleVariant": "",
+              "stringId": "1947494987271524352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А я трохи знаю: людині з цим доволі кепсько.",
+              "maleVariant": "",
+              "stringId": "1947496159713710080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Звучить так, ніби у вас є власна версія синтехівського інтерфейсу.",
+              "maleVariant": "",
+              "stringId": "1948740867425325056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У нас є власні версії всього. Нічого не використовуємо з Найт-Сіті.",
+              "maleVariant": "",
+              "stringId": "1948742621315485696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що, бляха, відбувається?!",
+              "maleVariant": "",
+              "stringId": "1954797615491862528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вони проломили наші СДО. Ми не маємо до цього жодного стосунку!",
+              "maleVariant": "",
+              "stringId": "1954797615575748608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Жоріз, треба забиратися звідси!",
+              "maleVariant": "",
+              "stringId": "1954797615726743552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Забезпеч!",
+              "maleVariant": "",
+              "stringId": "1954797615911292928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Конструкт. В якому він стані?",
+              "maleVariant": "",
+              "stringId": "1955045356872683520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Непошкоджених даних достатньо, аби переконати Альт, що він автентичний.",
+              "maleVariant": "",
+              "stringId": "1955046255426818048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що це, бляха, значить?",
+              "maleVariant": "",
+              "stringId": "1955048562663116800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Альт? Що відбувається?",
+              "maleVariant": "",
+              "stringId": "1967659568530739200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чого чекаєш? ЛІД розтане, поки ти вирішуєш.",
+              "maleVariant": "",
+              "stringId": "1973499905258049536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Секунду…",
+              "maleVariant": "",
+              "stringId": "2009650982999052288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вийшло?",
+              "maleVariant": "",
+              "stringId": "2009652183140421632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Здається, пройшло значно більше секунди.",
+              "maleVariant": "",
+              "stringId": "2009653045237665792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пройшло значно більше секунди.",
+              "maleVariant": "",
+              "stringId": "2009653692972421120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То… вийшло?",
+              "maleVariant": "",
+              "stringId": "2009656985299734528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я бачила значний шмат життя Джонні… і Альт.",
+              "maleVariant": "Я бачив значний шмат життя Джонні… і Альт.",
+              "stringId": "2009667208429195264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можливо. Дані щодо Альт пов’язані з відбитком яскравих спогадів конструкта. Дуже яскравих.",
+              "maleVariant": "",
+              "stringId": "2009670276612902912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ці спогади, вірогідно, викликали потужну емоційну відповідь та відбилися у твоїй свідомості.",
+              "maleVariant": "",
+              "stringId": "2009674972119453696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Емоції, так, багато емоцій…",
+              "maleVariant": "",
+              "stringId": "2009682154932162560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І що тепер?",
+              "maleVariant": "",
+              "stringId": "2009706083100938244"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усе має такий… живий вигляд.",
+              "maleVariant": "",
+              "stringId": "2009706832958607360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бачиш щось, чого я не бачу?",
+              "maleVariant": "",
+              "stringId": "2009712094075441152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"creo\" m=\"twò bèl\" b=\"Так. Кіберпростір, він завжди… \" a=\".\"/>",
+              "maleVariant": "",
+              "stringId": "2009712572427423744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спочатку ми маємо спуститися ще глибше.",
+              "maleVariant": "",
+              "stringId": "2009729601771425792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В якому стані конструкт?",
+              "maleVariant": "",
+              "stringId": "2009740179369906176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гаразд. Усе одно немає іншого вибору.",
+              "maleVariant": "",
+              "stringId": "2009831679554506756"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Схоже, варіантів у мене небагато.",
+              "maleVariant": "",
+              "stringId": "2009831885293506560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Могла сама здогадатися.",
+              "maleVariant": "Сам міг здогадатися.",
+              "stringId": "2009833316390031360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отже, насправді,… Ви не маєте жодного уявлення, що за муром.",
+              "maleVariant": "",
+              "stringId": "2009834419575869440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але незабаром дізнаємося.",
+              "maleVariant": "",
+              "stringId": "2009838944256806912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ті фігури, що я бачу…",
+              "maleVariant": "",
+              "stringId": "2009839230576775168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дикий, необмежений ШІ. Намагається знайти прохід.",
+              "maleVariant": "",
+              "stringId": "2009839981357191168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти віднесеш код на ту сторону.",
+              "maleVariant": "",
+              "stringId": "2009856183332786176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бля! Як я не здогадалася.",
+              "maleVariant": "Бля! Як я не здогадався.",
+              "stringId": "2009866461323743232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ніколи не мала навіть думки допомагати мені, чи не так?",
+              "maleVariant": "",
+              "stringId": "2009875972713369600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Ale.\" t=\"Іди.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2009877713232089088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Торкнутися] Як мені перетнути його?",
+              "maleVariant": "",
+              "stringId": "2009878739947376644"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як мені дістатися на ту сторону?",
+              "maleVariant": "",
+              "stringId": "2009878928825274368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бріджит?",
+              "maleVariant": "",
+              "stringId": "2009880038688444416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це вже не має жодного значення.",
+              "maleVariant": "",
+              "stringId": "2009893432426516480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти завершиш справу.",
+              "maleVariant": "",
+              "stringId": "2009897390524092416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Альт?",
+              "maleVariant": "",
+              "stringId": "2009913448517619716"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Альт?",
+              "maleVariant": "",
+              "stringId": "2009914135779495936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джонні.",
+              "maleVariant": "",
+              "stringId": "2009921092686991360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тобі не можна тут залишатися.",
+              "maleVariant": "",
+              "stringId": "2009924662928887808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Альт Каннінгем.",
+              "maleVariant": "",
+              "stringId": "2009927938562871296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Joris! Rezo a gen plis chaj …\" t=\"Жоріз! Мережа перевантажена…\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2009934254798819328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Мережева Варта».",
+              "maleVariant": "",
+              "stringId": "2009937601920520192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що?..",
+              "maleVariant": "",
+              "stringId": "2009945821481291776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що? Що це?",
+              "maleVariant": "",
+              "stringId": "2014282225464135684"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що відбувається?",
+              "maleVariant": "",
+              "stringId": "2014283135510663168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бріджит?",
+              "maleVariant": "",
+              "stringId": "2014283795677335552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Схопити]",
+              "maleVariant": "",
+              "stringId": "2170806730348548096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

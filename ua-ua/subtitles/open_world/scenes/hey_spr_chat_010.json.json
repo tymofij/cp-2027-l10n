@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"bastardo\" b=\"Чуваче, який же той Хуліо \" a=\".\"/>",
+              "maleVariant": "",
+              "stringId": "1963298421765873664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можливо, Санта Муерті слід до нього зазирнути? Хе-хе-хе.",
+              "maleVariant": "",
+              "stringId": "1966203539990233088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Агов, стеж за своїм язиком!",
+              "maleVariant": "",
+              "stringId": "1966315462878543872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шо?.. Шо таке, чумбо?",
+              "maleVariant": "",
+              "stringId": "1966315844207886336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"mamá\" b=\"Хіба твоя \" a=\" тебе ніц не навчила? Санта Муерте — це не жарти!\"/>",
+              "maleVariant": "",
+              "stringId": "1966316107006197760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В’на все чує. На кого вкаже фалангою, тому й грець.",
+              "maleVariant": "",
+              "stringId": "1966317552313024512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якшо в’на тебе почує, то кров Хуліо буде на твоїх руках!",
+              "maleVariant": "",
+              "stringId": "1966317763320070144"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

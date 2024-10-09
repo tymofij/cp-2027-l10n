@@ -1,0 +1,37 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Musisz przeprowadzić dla mnie deratyzację. Przy moim lokum w Kabuki zalęgły się szczury. Problem w tym, że wyglądają jak członkowie Tyger Claws.",
+              "maleVariant": "",
+              "stringId": "2328678792102129664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szczególnie zależy mi na pozbyciu się niejakiej Taki Kenmochi. Zneutralizuj ją, a będę zadowolona. Szczegóły w załączniku.",
+              "maleVariant": "",
+              "stringId": "2332013943277850624"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

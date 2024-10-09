@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И они заказали тартар из лосося. С настоящей рыбной фермы. Представляешь, сколько он стоил?",
+              "maleVariant": "",
+              "stringId": "2159261559435010048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В следующий раз возьми меня с собой. Сто лет не была в Токио.",
+              "maleVariant": "",
+              "stringId": "2199801429072474112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ещё ездила на остров Хасима. Там в заброшенной шахте построили очень красивый колумбарий.",
+              "maleVariant": "",
+              "stringId": "2199802107979296768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У меня аж дух захватило. Жаль, все ячейки уже зарезервированы.",
+              "maleVariant": "",
+              "stringId": "2199803581387960320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаешь о родителях?",
+              "maleVariant": "",
+              "stringId": "2199804502155128832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Они всё время говорят, что хотят вернуться на Окинаву. Неизвестно, сколько им ещё осталось.",
+              "maleVariant": "",
+              "stringId": "2199804818153992192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В Найт-Сити колумбарий тоже ничего. Да и поближе.",
+              "maleVariant": "",
+              "stringId": "2199807281334513664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да… Надеюсь, мне ещё долго не придётся об этом думать.",
+              "maleVariant": "",
+              "stringId": "2199807697711460352"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

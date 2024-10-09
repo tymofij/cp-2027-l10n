@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What do you trade in?",
+              "maleVariant": "",
+              "stringId": "1715598496904040452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Looking to buy something.",
+              "maleVariant": "",
+              "stringId": "1715598744804184064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What do you trade in, exactly?",
+              "maleVariant": "",
+              "stringId": "1715599999320510464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What's on the menu today?",
+              "maleVariant": "",
+              "stringId": "1715616633292640256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Times're tough. Gotta pinch ennies, every last one. Trade in anything I can get my hands on.",
+              "maleVariant": "",
+              "stringId": "1715627135091658752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Don't ever trade in nothin' exactly. Whatever lands in my lap, honey.",
+              "maleVariant": "",
+              "stringId": "1715641366985887744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lemme show you, hon. Doubt you'll be disappointed.",
+              "maleVariant": "",
+              "stringId": "1715642130751868928"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

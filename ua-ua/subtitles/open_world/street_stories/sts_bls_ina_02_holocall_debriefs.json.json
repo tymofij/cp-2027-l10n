@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, ти міцна як кремінь. Справжня безжалісна воїтелька.",
+              "maleVariant": "Ві, ти міцний як кремінь. Справжній безжалісний воїн.",
+              "stringId": "2328649714117292032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що ж, Ві. Я не очікувала, що ти будеш такою… поступливою.",
+              "maleVariant": "Що ж, Ві. Я не очікувала, що ти будеш таким… поступливим.",
+              "stringId": "2328655696083988480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але ти розв’язала проблему, тому я закриваю це замовлення.",
+              "maleVariant": "Але ти розв’язав проблему, тому я закриваю це замовлення.",
+              "stringId": "2332950048745963520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я закриваю це замовлення. Молодець.",
+              "maleVariant": "",
+              "stringId": "2332952998599966720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Блин, жара. Света нет, даже вентилятор не включишь.",
+              "maleVariant": "",
+              "stringId": "2189456006657564672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"はあ、本当困るわよね。水も出ないし。でも仕方ないから。ところで新しい仕事はどう？\" t=\"И не говори. И воды опять нет. Да и хрен с ней. Расскажи лучше, как у тебя на новой работе?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2189472625848967168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да кошмар, по сто заказов в день. Зато можно забирать домой, что останется.",
+              "maleVariant": "",
+              "stringId": "2189475760571113472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"へえ、何かいいのがあったら分けてよ。食べ物はいつでも大歓迎よ\" t=\"О-о-о. Если попадётся что-нибудь крутое, зови, поесть я всегда готова.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2189482292226514944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не, органику я не трогаю. Порции маленькие, выглядят тошнотно. Один раз домой взяла, все отравились.",
+              "maleVariant": "",
+              "stringId": "2189482860722479104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"コックが中に唾入れてたりして\" t=\"Наверное, кто свежее заказывает, тому повара в еду плюют.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2189495729048477696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я бы и сама таким наплевала, но меня потом найдут по ДНК. Или по камерам.",
+              "maleVariant": "",
+              "stringId": "2189496390104342528"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znowu będą obcinać pensje seniorom.",
+              "maleVariant": "",
+              "stringId": "1963292230738288640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie ma się co dziwić. Mniejsza wydajność, mniej kasy.",
+              "maleVariant": "",
+              "stringId": "1969200411050754048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cieszcie się, że nie zwalniają. Ja na ich miejscu wypieprzyłabym nas na zbity pysk.",
+              "maleVariant": "",
+              "stringId": "1969200816488955904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trzeba było wziąć kredyt i zainstalować sobie wzmocnione sploty mięśniowe, póki był czas.",
+              "maleVariant": "",
+              "stringId": "1969201035414847488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z takim sprzętem spokojnie można by zachrzaniać w fabryce do siedemdziesiątki.",
+              "maleVariant": "",
+              "stringId": "1969201293213548544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Marzenie.",
+              "maleVariant": "",
+              "stringId": "1969201485446889472"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

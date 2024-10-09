@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Маєш щось цікавеньке?",
+              "maleVariant": "",
+              "stringId": "1885089914044170240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Який в тебе зараз найкращий товар?",
+              "maleVariant": "",
+              "stringId": "1885089914060947464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що ти продаєш?",
+              "maleVariant": "",
+              "stringId": "1885089914161610756"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Все чого може забажати хтиве створіннячко.",
+              "maleVariant": "",
+              "stringId": "1885089914178387968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Який у тебе найпопулярніший товар?",
+              "maleVariant": "",
+              "stringId": "1885089914279051264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вібратори. З моторчиком для більшого задоволення. Краще за будь-яку мозкограйну ілюзію. Тобі сподобається, гарантую.",
+              "maleVariant": "",
+              "stringId": "1885089914279051272"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

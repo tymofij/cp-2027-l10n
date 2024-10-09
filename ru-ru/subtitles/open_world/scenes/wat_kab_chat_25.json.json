@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй! Ты это видел?",
+              "maleVariant": "",
+              "stringId": "2156545368278933504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вон оно! Вон там!",
+              "maleVariant": "",
+              "stringId": "2236349588569432064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты чем обкурился? Нет там ничего.",
+              "maleVariant": "",
+              "stringId": "2236350442345177088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да само собой. Но я-то это видел! Это был как глюк какой-то!",
+              "maleVariant": "",
+              "stringId": "2236352437609144320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вроде красиво, но жутко. Одновременно светло и темно, как будто я на солнце слишком долго смотрел.",
+              "maleVariant": "",
+              "stringId": "2236353175722762240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, тебе пора оптику сменить?",
+              "maleVariant": "",
+              "stringId": "2236355197444399104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне мой рипер то же самое сказал. Но это и так уже третья оптика за год.",
+              "maleVariant": "",
+              "stringId": "2236355400952029184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё равно надо что-то делать. А то за тобой скоро макс-таковцы приедут.",
+              "maleVariant": "",
+              "stringId": "2236359812973961216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да иди ты! Нормально всё со мной! Просто надо отдохнуть.",
+              "maleVariant": "",
+              "stringId": "2236361447913660416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кстати, да. Иди домой, выспись. И насчёт заказа не переживай, мы сами всё сделаем.",
+              "maleVariant": "",
+              "stringId": "2236374073171353600"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

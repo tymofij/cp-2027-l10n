@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Когда будет следующий удар?",
+              "maleVariant": "",
+              "stringId": "1832672751780487168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Трудно сказать. После того раза он усилил охрану.",
+              "maleVariant": "",
+              "stringId": "1832675900058624000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Закрывает нас в комнате, телефонов нет, сети нет. Только тогда получаем данные.",
+              "maleVariant": "",
+              "stringId": "1832676068636090368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сидим под замком какое-то время, иногда всю ночь. Так и работаем.",
+              "maleVariant": "",
+              "stringId": "1832676235602944000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Понятно.",
+              "maleVariant": "",
+              "stringId": "1832676545629118464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну? Так чё, мне его убрать?",
+              "maleVariant": "",
+              "stringId": "1832676695432880128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пока нет.",
+              "maleVariant": "",
+              "stringId": "1832676858104766464"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

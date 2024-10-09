@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kochana, musisz grać na spadkach. Bez ryzyka nie ma dobrych zarobków.",
+              "maleVariant": "",
+              "stringId": "1806742988473884672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak, wiem. Posłuchaj, moglibyśmy jutro pojechać do mojej siostry?",
+              "maleVariant": "",
+              "stringId": "1806743579317100544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja na przykład, grałem dziś na krótko i jestem 17% do przodu!",
+              "maleVariant": "",
+              "stringId": "1806743791163006976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yhm. To ja pojadę sama.",
+              "maleVariant": "",
+              "stringId": "1806744038056517632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co...? Zresztą jedź, ja i tak mam sporo do zrobienia. Smakuje ci?",
+              "maleVariant": "",
+              "stringId": "1806744357058502656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha.",
+              "maleVariant": "",
+              "stringId": "1806744877689069568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Coś się stało?",
+              "maleVariant": "",
+              "stringId": "1806745086649294848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie.",
+              "maleVariant": "",
+              "stringId": "1806745318090989568"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

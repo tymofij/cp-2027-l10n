@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej, V. Słuchaj, Larry Fangorn ma problem. Jego wspólnik Adam wychujał go ze wspólnego interesu.",
+              "maleVariant": "",
+              "stringId": "2328701353954238464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ten interes to klub “Empathy”. Larry chce odzyskać swoje wpływy i trzeba mu w tym pomóc.",
+              "maleVariant": "",
+              "stringId": "2333228337897127936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No cóż, z własnego doświadczenia mogę powiedzieć, że branża klubowa, to zawsze był syf. Szczegóły w załączniku.",
+              "maleVariant": "",
+              "stringId": "2333228757193310208"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

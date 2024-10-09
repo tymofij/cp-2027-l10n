@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I like your style. Think I'll buy something.",
+              "maleVariant": "",
+              "stringId": "1740348629291868164"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You could lose some weight.",
+              "maleVariant": "",
+              "stringId": "1740348757520130048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Like your style. Think I'll buy something.",
+              "maleVariant": "I like your style. I think I'll buy somethin'.",
+              "stringId": "1740370914904088576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Whadda you mean you \"think\"?! Sweetheart, don't think, just put somethin' on and shine!",
+              "maleVariant": "",
+              "stringId": "1740371606846808064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pants'd suit you a lot better if ya lost a bit of weight.",
+              "maleVariant": "",
+              "stringId": "1740371878822256640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That's where you wrong, girl. The more sweet body you got, the more threads you can put on it.",
+              "maleVariant": "That's where you wrong, boy. The more sweet body you got, the more threads you can put on it.",
+              "stringId": "1740373423802523648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Here to change up my look.",
+              "maleVariant": "",
+              "stringId": "3775234946210066432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Need to change up my style.",
+              "maleVariant": "I need to change my style.",
+              "stringId": "3836287888589189132"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

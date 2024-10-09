@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Учора ледве вернулася з вантажем.",
+              "maleVariant": "",
+              "stringId": "2178186366543011840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хех, тішся, шо вопше не з порожніми руками доїхала. На мене вже двічі нападали. Усе, шо я тоді привіз, то це порожну фуру.",
+              "maleVariant": "",
+              "stringId": "2188329559561822208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та, це жорстко. А мені, прикинь, так було покрутило вихлопну, що я дивом досі не вдушилася.",
+              "maleVariant": "",
+              "stringId": "2188349236451172352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сраний механік знову підсунув якусь стару альдекальдівську дрисню. А бабла взяв, як за нову.",
+              "maleVariant": "",
+              "stringId": "2188353532374769664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та-а, механіки… Вони завжди тебе по два рази намахають: спершу на бляхах, а потім на тягачі.",
+              "maleVariant": "",
+              "stringId": "2188354571740078080"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

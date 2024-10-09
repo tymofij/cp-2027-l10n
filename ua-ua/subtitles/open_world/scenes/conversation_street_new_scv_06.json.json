@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я досі думаю про той будинок. Про той коридор. Там було так темно, стільки дивних звуків й такий мерзенний холод…",
+              "maleVariant": "",
+              "stringId": "2276536542439841808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всьо в етой странє нє слава Богу. Даже архітєктура.",
+              "maleVariant": "",
+              "stringId": "2276536542439841820"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та не мало там бути того коридору! Я бачила креслення! А що… а що, якщо це все привиди?",
+              "maleVariant": "",
+              "stringId": "2276536542439841832"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

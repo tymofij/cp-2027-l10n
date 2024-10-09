@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do wszystkich jednostek wspierających działania NCPD. Podejrzenie przestępczości zorganizowanej przy Skyline South.",
+              "maleVariant": "",
+              "stringId": "2328559804983881728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na miejscu przebywa Zoe Alonzo, kierująca częścią gangu Valentinos. Jej grupa znana jest z rozbojów, wymuszeń, uprowadzeń, a także brutalnych morderstw.",
+              "maleVariant": "",
+              "stringId": "2358398281930084352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Za zneutralizowanie siatki przestępczej, której przewodzi Zoe Alonzo, władze Night City wypłacą nagrodę.",
+              "maleVariant": "",
+              "stringId": "2358398341002661888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

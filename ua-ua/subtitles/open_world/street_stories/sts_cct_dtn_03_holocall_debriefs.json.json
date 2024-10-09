@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха-ха! Ось це вже зовсім інша, блядь, справа!",
+              "maleVariant": "",
+              "stringId": "2328731950680498176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я думав, тобі не треба казати, що нам не потрібні криваві м’ясорубки на замовленнях.",
+              "maleVariant": "",
+              "stringId": "2328802268707151872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зайшла, встановила, що хотіла, і пішла собі тихенько. Замовлення виконано!",
+              "maleVariant": "Зайшов, встановив, що хотів, і пішов собі тихенько. Замовлення виконано!",
+              "stringId": "2333232222174953472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ларрі хотів повернути собі клуб, а не відмивати його від крові до кінця життя. Окей. Замовлення виконано.",
+              "maleVariant": "",
+              "stringId": "2333233815876255744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

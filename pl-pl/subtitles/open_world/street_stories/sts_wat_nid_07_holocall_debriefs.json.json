@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V... Rozumiem twoją decyzję, ale mogłyśmy rozwiązać tę sprawę nieco inaczej. To był skurwysyn, ale wpływowy - a ty miałaś na niego haka.",
+              "maleVariant": "V... Rozumiem twoją decyzję, ale mogliśmy rozwiązać tę sprawę nieco inaczej. To był skurwysyn, ale wpływowy - a ty miałeś na niego haka.",
+              "stringId": "2328730960470188032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aaa... Czyli to grubsza historia. V, dzięki za dobrze wykonaną robotę. Aaronem się nie przejmuj. Niech się chwilę prześpi.",
+              "maleVariant": "",
+              "stringId": "2328732192823812096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aaron jest zadowolony. Ja również - zawsze lepiej być z glinami w dobrych relacjach. Kontrakt zamknięty, a kasa już płynie.",
+              "maleVariant": "",
+              "stringId": "2328734139417075712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trudno. Stało się to, co musiało się stać. Klient nie żyje, więc sama rozumiesz – nie ma kasy z tej roboty. Kontrakt zamknięty.",
+              "maleVariant": "Trudno. Stało się to, co musiało się stać. Klient nie żyje, więc sam rozumiesz – nie ma kasy z tej roboty. Kontrakt zamknięty.",
+              "stringId": "2340192984807870464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak się obudzi, to przypomni sobie, że mamy nagranie. A wtedy... Co tu dużo mówić - właśnie zyskaliśmy wtykę w szeregach NCPD. Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2369388616399294464"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

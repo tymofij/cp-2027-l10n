@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Признаюсь, этот костюм выглядит заманчиво. Он немного эксцентричен, но в мягкой манере.",
+              "maleVariant": "",
+              "stringId": "2172242991567843328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Змеиная чешуя и серебро? Изящное сочетание. Тебе бы пошло.",
+              "maleVariant": "",
+              "stringId": "2179485031657619456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм, Зейн говорит, мне лучше остерегаться кричащих цветов.",
+              "maleVariant": "",
+              "stringId": "2179485319688863744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Боже мой… Покупай, не сомневайся. В худшем случае отдашь кому-нибудь. Или выбросишь.",
+              "maleVariant": "",
+              "stringId": "2179485469190635520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мода на полунатуральность скоро пройдёт, и ты будешь жалеть, что не успел поносить.",
+              "maleVariant": "",
+              "stringId": "2179485873169219584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм, это аргумент.",
+              "maleVariant": "",
+              "stringId": "2179486143500500992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эх, муки выбора…",
+              "maleVariant": "",
+              "stringId": "2179486327915659264"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

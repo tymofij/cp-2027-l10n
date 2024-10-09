@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dostanę coś do jedzenia?",
+              "maleVariant": "",
+              "stringId": "1935695189159358464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ładnie pachnie. Aż ślinka cieknie.",
+              "maleVariant": "",
+              "stringId": "1935695189159358480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dostanę coś do jedzenia?",
+              "maleVariant": "",
+              "stringId": "1935695189209690116"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm, coś na pewno.",
+              "maleVariant": "",
+              "stringId": "1935695189209690124"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ładnie tu pachnie. Aż ślinka cieknie.",
+              "maleVariant": "",
+              "stringId": "1935695189243244548"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czosnek na rozgrzanym maśle. Nic tak nie przyciąga klientów!",
+              "maleVariant": "",
+              "stringId": "1935695189243244556"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

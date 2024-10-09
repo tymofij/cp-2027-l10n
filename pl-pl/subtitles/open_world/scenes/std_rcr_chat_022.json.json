@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Będzie wojna. Zobaczysz.",
+              "maleVariant": "",
+              "stringId": "2167643396420423680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zawsze to powtarzasz.",
+              "maleVariant": "",
+              "stringId": "2196993252096958464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Teraz będzie. Słyszałem w telewizji.",
+              "maleVariant": "",
+              "stringId": "2197005577126371328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A skąd ty, kurwa, masz telewizję?",
+              "maleVariant": "",
+              "stringId": "2197005845561827328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W barze wczoraj otworzyli okno i słyszałem. Będzie wojna. Arasaka z Militechem się nie dogadają.",
+              "maleVariant": "",
+              "stringId": "2197006086449094656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I myślisz, że co? Przyślą po ciebie AV-kę i zabiorą cię prosto na front?",
+              "maleVariant": "",
+              "stringId": "2197008299430993920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, tak.",
+              "maleVariant": "",
+              "stringId": "2197019720889884672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hahaha. Popatrz na siebie. Jesteś starą szmatą i tyle. Śmierdzą ci nogi. Nikt cię nie weźmie na żołnierza.",
+              "maleVariant": "",
+              "stringId": "2197019815781818368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A tobie śmierdzi z gęby. Raz wzięli to i drugi raz wezmą.",
+              "maleVariant": "",
+              "stringId": "2197046364484624384"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

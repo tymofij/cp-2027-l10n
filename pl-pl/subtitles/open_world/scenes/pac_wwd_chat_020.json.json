@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gdzie wczoraj byłaś, jak cię nie było?",
+              "maleVariant": "",
+              "stringId": "2179608373071831040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Poszłam do GIM. Sprawdzałam, co się da tam skombinować.",
+              "maleVariant": "",
+              "stringId": "2211183046184099840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No i?",
+              "maleVariant": "",
+              "stringId": "2217180710868574208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No i gówno. To Pacifica. Tutaj już dawno wszystko rozkradzione.",
+              "maleVariant": "",
+              "stringId": "2217180794452664320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Taaa... Trzeba się przenieść bliżej korpów. Oni wszystko wyrzucają.",
+              "maleVariant": "",
+              "stringId": "2217181315133562880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To idź. Ja się nigdzie stąd nie ruszę.",
+              "maleVariant": "",
+              "stringId": "2217181704012652544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bo?",
+              "maleVariant": "",
+              "stringId": "2217182019894075392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To mój dom.",
+              "maleVariant": "",
+              "stringId": "2217182082221432832"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

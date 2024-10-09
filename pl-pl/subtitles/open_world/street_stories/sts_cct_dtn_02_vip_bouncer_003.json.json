@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "E! Ty gdzie? Dalej jest strefa VIP.",
+              "maleVariant": "",
+              "stringId": "1712569812403908608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W tył zwrot. Bo się pogniewamy.",
+              "maleVariant": "",
+              "stringId": "1712569812454240256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znam się z szefem.",
+              "maleVariant": "",
+              "stringId": "1712569812538126336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znam się z twoim szefem.",
+              "maleVariant": "",
+              "stringId": "1712569812856893440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szef zna wielu ludzi. W tym takich, których nie chce oglądać.",
+              "maleVariant": "",
+              "stringId": "1712569812856893448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej, ale...",
+              "maleVariant": "",
+              "stringId": "1925708864649744384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Żadne, kurwa, okej. Szef mówił, żeby nikogo nie wpuszczać, bo chce być sam.",
+              "maleVariant": "",
+              "stringId": "1925709299917836288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спробуй ще раз, чуєш мене?!",
+              "maleVariant": "",
+              "stringId": "1410871175026286592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти глуха чи що?! Я вже сто разів сказав: корпарі нікого не пропускають!",
+              "maleVariant": "",
+              "stringId": "1410876397438083072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А як же мої діти?!",
+              "maleVariant": "",
+              "stringId": "1486691292000129024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це моє діло! У мене є законне право робити те, що я сама хочу!",
+              "maleVariant": "",
+              "stringId": "1486693183211802624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І що ж це — на черговому хую гарцювати, поки я тут спину гну?",
+              "maleVariant": "",
+              "stringId": "1486693683810373632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "За них не треба було би переживати, якби їхня маманя не вешталася бозна-де!",
+              "maleVariant": "",
+              "stringId": "1488162315916644352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, особливо коли блюєш після випивачок!",
+              "maleVariant": "",
+              "stringId": "1934494580713295872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привіт, мене звати Аріф Ікбал і це новини від ВСН.",
+              "maleVariant": "",
+              "stringId": "1792240161548836864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми повертаємося до найгучнішої історії цього тижня — напад кіберпсиха на мера Найт-Сіті Люціуса Райна.",
+              "maleVariant": "",
+              "stringId": "1796858381269188608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Очманілий нападник кинувся на мера під час пресконференції та, на щастя, його зупинив Рівер Ворд, детектив поліції Найт-Сіті, й завадив найгіршому.",
+              "maleVariant": "",
+              "stringId": "1796859723714904064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "ЗМІ одразу дали йому прізвисько «суперкоп», а сьогодні Ворд отримав від мера медаль «За заслуги».",
+              "maleVariant": "",
+              "stringId": "1796860063570968576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Те, що могло бути страшною трагедією, може піти на користь меру, який бажає піти на наступний термін.",
+              "maleVariant": "",
+              "stringId": "1796865065446260736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Відповідно до останніх опитувань після нападу — перевага Райна над опонентом, Джефферсоном Перелезом, стрибнула з 12 до 19 відсотків.",
+              "maleVariant": "",
+              "stringId": "1796865310376837120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми зараз повернемося з додатковою порцією місцевих новин.",
+              "maleVariant": "",
+              "stringId": "1796865549821263872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

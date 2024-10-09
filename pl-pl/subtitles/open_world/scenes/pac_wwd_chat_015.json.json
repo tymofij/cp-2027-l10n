@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stara powiedziała, że mam nie wracać do domu.",
+              "maleVariant": "",
+              "stringId": "2179592311370539008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Możesz spać u mnie.",
+              "maleVariant": "",
+              "stringId": "2211158006390546432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A co, nadal wierzy, że kiedyś cię wezmą do korpo?",
+              "maleVariant": "",
+              "stringId": "2211158112875536384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O co poszło tym razem?",
+              "maleVariant": "",
+              "stringId": "2217117730525110272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dowiedziała się, że chcę się dostać do Voodoo Boys.",
+              "maleVariant": "",
+              "stringId": "2217118067612934144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie. Ale uważa, że powinnam iść do Valentinosów, bo Voodoo Boysi nie biorą takich debili.",
+              "maleVariant": "",
+              "stringId": "2217119557547155456"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

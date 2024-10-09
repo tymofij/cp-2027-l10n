@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Потребую твоїх послуг.",
+              "maleVariant": "",
+              "stringId": "1979367548869124096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти ліками торгуєш… тут?",
+              "maleVariant": "",
+              "stringId": "1979368038478618624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Потрібен твій медичний досвід.",
+              "maleVariant": "",
+              "stringId": "1979368703812673536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То… Чого саме?",
+              "maleVariant": "",
+              "stringId": "1979370498035261440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти справді торгуєш ліками… в такому місці?",
+              "maleVariant": "",
+              "stringId": "1979381452450013184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, можна сказати віднедавна так. Працював в електроніці, вийшло недуже, довелось змінити напрямок.",
+              "maleVariant": "",
+              "stringId": "1979382140768854016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але все легально. Я пройшов курс першої допомоги в Мережі, придбав скіпку на базову фармацевтику. Все буде добре, чумба. Тільки скажи мені чого потребуєш.",
+              "maleVariant": "",
+              "stringId": "1979470839527297024"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

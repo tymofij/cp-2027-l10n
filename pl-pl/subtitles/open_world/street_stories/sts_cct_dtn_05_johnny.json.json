@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Popatrz, V. W mieście ludzie żrą gówno z tubki, śpią na ulicy, a tu... złote sedesy.",
+              "maleVariant": "",
+              "stringId": "1918542684152213504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak im nie wstyd? Kurwa, jak im nie wstyd?",
+              "maleVariant": "",
+              "stringId": "1924377343921803264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wiem, Johnny. Jak będę następnym razem rozmawiać z jakimś multimilionerem, to się zapytam.",
+              "maleVariant": "",
+              "stringId": "1924383785785544704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O nic nie pytaj. Po prostu napluj kolesiowi w twarz.",
+              "maleVariant": "",
+              "stringId": "1924385458138435584"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

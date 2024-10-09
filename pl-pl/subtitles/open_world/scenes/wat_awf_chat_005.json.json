@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No i znowu słabe wyniki, Luis. Poniżej normy. Niedobrze.",
+              "maleVariant": "",
+              "stringId": "1963248964126941184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przecież kierownik widzi, że się staram. Robię dwadzieścia godzin dziennie, cały tydzień...",
+              "maleVariant": "",
+              "stringId": "1967829186353876992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zamiast się starać, załatw sobie porządne wszczepy. Hausstocki, na przykład.",
+              "maleVariant": "",
+              "stringId": "1967830844194476032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale... To kredyt na pięćdziesiąt lat...",
+              "maleVariant": "",
+              "stringId": "1967831397825826816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Firma też chce zarobić, Luis. Taki świat.",
+              "maleVariant": "",
+              "stringId": "1967831856196145152"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

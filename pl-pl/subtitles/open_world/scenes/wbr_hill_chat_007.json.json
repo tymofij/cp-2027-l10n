@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cześć.",
+              "maleVariant": "",
+              "stringId": "1806799252209917952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No cześć. Co jest?",
+              "maleVariant": "",
+              "stringId": "1806799752271618048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tolerancja ma swoje granice. Dzielnice też mają swoje granice.",
+              "maleVariant": "",
+              "stringId": "1806799878151069696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To haiku?",
+              "maleVariant": "",
+              "stringId": "1806800128299360256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hmm… jakby to powiedzieć, żebyście zrozumieli…",
+              "maleVariant": "",
+              "stringId": "1806800496089489408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Duzi gracze szykują się do wojny. To naprawdę nie jest dobry moment na walkę o resztki z ich stołu.",
+              "maleVariant": "",
+              "stringId": "1806800684111749120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To Stany Zjednoczone. Tu wszyscy chcą głównego dania. A my grzebiemy  już w nim palcem.",
+              "maleVariant": "",
+              "stringId": "1806801140787568640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zjednoczone? No dobrze.",
+              "maleVariant": "",
+              "stringId": "1806801291061092352"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

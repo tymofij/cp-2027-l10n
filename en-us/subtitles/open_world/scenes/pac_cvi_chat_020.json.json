@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dear Lord, please protect my son Antoine.",
+              "maleVariant": "",
+              "stringId": "2179432460069400576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Help him find the path of light in the darkness. Give him the strength to overcome any obstacles in his way.",
+              "maleVariant": "",
+              "stringId": "2182403161657233408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Please, Lord, give him a chance at a better life, out of Pacifica. Far away from the drugs, the gangs, the firefights. Lord, have mercy.",
+              "maleVariant": "",
+              "stringId": "2182403825397452800"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

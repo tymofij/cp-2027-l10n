@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слыхал? Майк обнулился. У него были такие же болячки, как у этих «вылеченных» на фото.",
+              "maleVariant": "",
+              "stringId": "1945942052525072384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну дадут медаль за вклад в научное развитие «Биотехники». Посмертно.",
+              "maleVariant": "",
+              "stringId": "1947417355488694272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В гробу я видала такой вклад. А то поселение, где они пробы брали…",
+              "maleVariant": "",
+              "stringId": "1947417675195322368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, там таких бедняг немало было…",
+              "maleVariant": "",
+              "stringId": "1947422216083050496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Немало»… Больше семидесяти человек.",
+              "maleVariant": "",
+              "stringId": "1947422430059663360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Подопытных».",
+              "maleVariant": "",
+              "stringId": "1963321823447060480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да.",
+              "maleVariant": "",
+              "stringId": "1963322452928204800"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

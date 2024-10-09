@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czy ja cię, kurwo, obrażam, jak z tobą rozmawiam?",
+              "maleVariant": "",
+              "stringId": "2276533902930780176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty, ale o co chodzi? Normalnie się zapytałem, czy wiedziałeś.",
+              "maleVariant": "",
+              "stringId": "2276533902947557376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty, kurwa, chuja nie potrafisz normalnie złapać, a co dopiero o coś zapytać.",
+              "maleVariant": "",
+              "stringId": "2276533902947557388"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"Ві… перевір цю \" a=\".\"/>",
+              "maleVariant": "",
+              "stringId": "1141750414696976400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сандра Дорсет має другий рівень корпоративного імунітету. Наша мадам із вищого сорту…",
+              "maleVariant": "",
+              "stringId": "1141752040660865040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не тупи, Ві. Перевір, чи це вона!",
+              "maleVariant": "",
+              "stringId": "1141794090370404352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не наша щасливиця. Шукаймо далі.",
+              "maleVariant": "",
+              "stringId": "1173663261609627648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бляха, невже ми спізнилися? Це вона? Це наша ціль?",
+              "maleVariant": "",
+              "stringId": "1193657062757011456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ця має підроблені «Зетатех», куплені на чорному ринку. Таке всюди можна дістати.",
+              "maleVariant": "",
+              "stringId": "1630194113232957440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прекрасно. Тепер вони осліпли.",
+              "maleVariant": "",
+              "stringId": "1690989747161427968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вас засікли! М’ясарі вже йдуть за вами!",
+              "maleVariant": "",
+              "stringId": "1690992765969788928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кібервироби надто дешеві…",
+              "maleVariant": "",
+              "stringId": "2177968277633142788"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

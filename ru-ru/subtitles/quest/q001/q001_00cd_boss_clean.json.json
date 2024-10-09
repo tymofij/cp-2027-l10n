@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лови его!",
+              "maleVariant": "",
+              "stringId": "1650497555567460352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нам больше некуда идти! Баг, что у тебя по плану здания?",
+              "maleVariant": "",
+              "stringId": "1653073643615272960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В его комнате есть выход на балкон.",
+              "maleVariant": "",
+              "stringId": "1653073643615272976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви, просто отвлеки его. Дальше я справлюсь.",
+              "maleVariant": "",
+              "stringId": "1653073643632050176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окно слева от вас. Через секунду открою.",
+              "maleVariant": "",
+              "stringId": "1653076167042777088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На датчиках движения нет. Вы его обнулили. Можно идти.",
+              "maleVariant": "",
+              "stringId": "1653096651570528256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чёрт, где эта девица?",
+              "maleVariant": "",
+              "stringId": "1653098456983519232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ищите. Должна быть где-то там.",
+              "maleVariant": "",
+              "stringId": "1653098618749435904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дверь в комнату тоже открыта, будьте внимательны.",
+              "maleVariant": "",
+              "stringId": "1703910314692734976"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powiem ci to, bo cię lubię i długo się znamy: nie trać czasu na naukę, zajmij się czymś na swoim poziomie.",
+              "maleVariant": "",
+              "stringId": "2162084750020030464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ha, ha, ha, te twoje żarty. Skończę tylko ten kurs i zaraz będziemy siedzieć biurko w biurko w Militechu.",
+              "maleVariant": "",
+              "stringId": "2209951033022844928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie będziemy. Nigdy nie wezmą cię do korporacji. Nie jesteś taki, jak ja. Zresztą kim są twoi rodzice?",
+              "maleVariant": "",
+              "stringId": "2217609008499757056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "P-przecież wiesz.",
+              "maleVariant": "",
+              "stringId": "2217609914251317248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Odpowiedz.",
+              "maleVariant": "",
+              "stringId": "2217610067225972736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tata pracuje w dokach, a mama jest kelnerką, ale to nic nie znaczy, wystarczy, że zdam egzaminy.",
+              "maleVariant": "",
+              "stringId": "2217610135677014016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nieprawda. Pochodzisz z dużo gorszej rodziny niż ja. To słychać po tym jak mówisz, a nawet po tym... pfff, sorry, ale wyglądasz jak przebieraniec.",
+              "maleVariant": "",
+              "stringId": "2217612365301911552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówię to dla twojego dobra, jako twój przyjaciel. Im wcześniej zrozumiesz, gdzie twoje miejsce, tym lepiej.",
+              "maleVariant": "",
+              "stringId": "2217613456492040192"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

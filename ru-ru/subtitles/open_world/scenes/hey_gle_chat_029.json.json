@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Заставлю папашу дать нам денег на бустеры, а потом загоню их бандам в обмен на оружие…",
+              "maleVariant": "",
+              "stringId": "2161812406312972288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ещё найду логово ёбаных «мусорщиков» и зачищу его к хуям!",
+              "maleVariant": "",
+              "stringId": "2211251664009404416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Классно придумал, чумба. Только зачем тебе всё это?",
+              "maleVariant": "",
+              "stringId": "2211251784687919104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чтоб обо мне говорили, чумба.",
+              "maleVariant": "",
+              "stringId": "2211252653764485120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Найду дочку главного копа Найт-Сити, трахну её прямо у него на столе и сниму брейнданс…",
+              "maleVariant": "",
+              "stringId": "2228628751934398464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Заменю всю эту веганскую хуйню крысиным мясом…",
+              "maleVariant": "",
+              "stringId": "2228650484015931392"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

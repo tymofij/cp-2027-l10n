@@ -1,0 +1,109 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Disculpa.\" b=\"\" a=\" Я не в настроении.\"/>",
+              "maleVariant": "",
+              "stringId": "1922903187683549188"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не сейчас, ладно?",
+              "maleVariant": "",
+              "stringId": "1922903187700326404"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Осторожнее, ладно?",
+              "maleVariant": "",
+              "stringId": "1922903187767435268"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Охренела?!",
+              "maleVariant": "Охренел?!",
+              "stringId": "1922903187784212484"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Hola.\" b=\"\" a=\" Это я.\"/>",
+              "maleVariant": "",
+              "stringId": "1922903187851321348"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пог… Погоди, чувак… Н-нет… Я… Я не могу… Сегодня похороны… Да если бы я!.. Но это мой брат.",
+              "maleVariant": "",
+              "stringId": "1922903187901652996"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Gracias…\" b=\"Блядь… Ну не могу я! Не могу, и всё…\" a=\" Нет… Необязательно.\"/>",
+              "maleVariant": "",
+              "stringId": "1922903187935207428"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "До связи.",
+              "maleVariant": "",
+              "stringId": "1922903187968761860"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А-а! Сколько можно?!",
+              "maleVariant": "",
+              "stringId": "1922903188153311236"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да за что мне всё это?!",
+              "maleVariant": "",
+              "stringId": "1922903188170088452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нельзя умирать!",
+              "maleVariant": "",
+              "stringId": "1922903188287528964"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нужно заботиться о моей сестре!",
+              "maleVariant": "",
+              "stringId": "1922903188304306180"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Оставь меня в покое.",
+              "maleVariant": "",
+              "stringId": "1922903188438523908"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не трогай меня.",
+              "maleVariant": "",
+              "stringId": "1922903188455301124"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

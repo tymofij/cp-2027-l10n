@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добротная работа, Ви. Жасмин уже едет к своему супругу, а он уже отправляет мне мой гонорар. В смысле, наш гонорар, конечно.",
+              "maleVariant": "",
+              "stringId": "2328856469063720960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви, тебе надо было довести Жасмин до машины. Она в таком шоке, что верх от низа не отличает! А если бы она повернула не туда или?.. Короче, радуйся, что всё обошлось.",
+              "maleVariant": "",
+              "stringId": "2328856556858892288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Заруби себе на носу, Ви: задание выполнено, только когда клиент в безопасности. Это не так уж сложно понять. Включи мозг хоть раз в жизни. Заказ закрыт.",
+              "maleVariant": "",
+              "stringId": "2342023314615406592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спасибо тебе, Ви. Закрываю заказ.",
+              "maleVariant": "",
+              "stringId": "2342024929523109888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

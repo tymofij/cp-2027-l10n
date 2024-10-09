@@ -1,0 +1,949 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это не самая новая модель, но Митч и Боб сделали, что могли.",
+              "maleVariant": "",
+              "stringId": "1357560447766646784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет, Ви. Ещё не всё.",
+              "maleVariant": "",
+              "stringId": "1760222280052133888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Милитех» мог оставить в системах лёд, Кэрол проверяет.",
+              "maleVariant": "",
+              "stringId": "1760244381416968192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пиджаки ещё не обращались к вам насчёт потери?",
+              "maleVariant": "",
+              "stringId": "1760244996570370048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всегда мечтала погонять на такой махине.",
+              "maleVariant": "Всегда мечтал погонять на такой махине.",
+              "stringId": "1760295676345602048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Было бы у меня больше времени…",
+              "maleVariant": "",
+              "stringId": "1788403527928532992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё готово?",
+              "maleVariant": "",
+              "stringId": "1788403743800971268"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всегда хотела проехаться на таком монстре.",
+              "maleVariant": "Всегда хотел проехаться на таком монстре.",
+              "stringId": "1788409814401699844"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что там Сол?",
+              "maleVariant": "",
+              "stringId": "1788410723106050048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А, кстати, что тебе сказал Сол?",
+              "maleVariant": "",
+              "stringId": "1788411418890752000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну тогда запрыгивай. Всё готово.",
+              "maleVariant": "",
+              "stringId": "1788413365752451072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, да, ты бы сделал из него грёбаный ракетоносец, я знаю.",
+              "maleVariant": "",
+              "stringId": "1788416622797279232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну как, всё готово?",
+              "maleVariant": "",
+              "stringId": "1788417289423179776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пока ничего. Мы стараемся обходить друг друга стороной.",
+              "maleVariant": "",
+              "stringId": "1788420763128975360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Подключиться.] Начинаем.",
+              "maleVariant": "",
+              "stringId": "1788432486275764228"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей, вот так нормально.",
+              "maleVariant": "",
+              "stringId": "1788436591928954880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ого. Начинаю понимать, что ты имела в виду.",
+              "maleVariant": "О-о-о. Начинаю понимать, что ты имела в виду.",
+              "stringId": "1788452734731309056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Осваивайся. Да не бойся, я не смотрю.",
+              "maleVariant": "",
+              "stringId": "1788453154631471104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Просто сделай пару кругов.",
+              "maleVariant": "",
+              "stringId": "1788473337404215296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А теперь давай постреляем. Притормози, я активирую систему.",
+              "maleVariant": "",
+              "stringId": "1788473650332848132"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Плавно идёт. Прямо как лодка.",
+              "maleVariant": "Плавно идёт. Прям как лодка.",
+              "stringId": "1788475276212850688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чуда не жди. «Василиск» — это прежде всего грузовой транспорт.",
+              "maleVariant": "",
+              "stringId": "1788476704792793088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но всё равно должно быть весело.",
+              "maleVariant": "",
+              "stringId": "1788477132897013760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что у нас в меню?",
+              "maleVariant": "",
+              "stringId": "1788478267590463488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей, что-то я гляжу, тебе скучно.",
+              "maleVariant": "",
+              "stringId": "1788479138126647296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тогда направь его вдоль ветряков.",
+              "maleVariant": "",
+              "stringId": "1788479741468889088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Езжай к тем обломкам.",
+              "maleVariant": "",
+              "stringId": "1788497844638601216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Налево!",
+              "maleVariant": "",
+              "stringId": "1788525218780434432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Очень хорошо.",
+              "maleVariant": "",
+              "stringId": "1788525745786343424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну ладно.",
+              "maleVariant": "",
+              "stringId": "1788525976506617860"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Когда скажу, повернёшь перед последним вправо или влево.",
+              "maleVariant": "",
+              "stringId": "1788529183672782848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не останавливайся!",
+              "maleVariant": "",
+              "stringId": "1788530454798553088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давай ещё раз.",
+              "maleVariant": "",
+              "stringId": "1788530577255452672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Направо!",
+              "maleVariant": "",
+              "stringId": "1788530836647989252"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Направо!",
+              "maleVariant": "",
+              "stringId": "1788533249178095620"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отлично.",
+              "maleVariant": "",
+              "stringId": "1788549720981655552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Круто!",
+              "maleVariant": "",
+              "stringId": "1788552724153651204"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Машины теперь мертвее мёртвых.",
+              "maleVariant": "",
+              "stringId": "1788552818089283588"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей, тренировка закончена.",
+              "maleVariant": "",
+              "stringId": "1788553145815420928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты молодец.",
+              "maleVariant": "",
+              "stringId": "1791369425043869700"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, тебе есть куда расти.",
+              "maleVariant": "",
+              "stringId": "1791369425094201348"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да. Когда летишь, про бугры и ямы можно не думать.",
+              "maleVariant": "",
+              "stringId": "1791371031848177664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Выглядит так, как будто его только что пригнали с корпоративной войны.",
+              "maleVariant": "",
+              "stringId": "1804444579789557764"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет. Думаю, нам удалось сбить их со следа.",
+              "maleVariant": "",
+              "stringId": "1810915570740432896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Грузовики с большими логотипами мы оставили у лагеря «стилетов».",
+              "maleVariant": "",
+              "stringId": "1810916770663698432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я закончила. В системах чисто.",
+              "maleVariant": "",
+              "stringId": "1810920808453050368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это почти так же смешно, как насрать кому-нибудь под дверь, позвонить и смыться.",
+              "maleVariant": "",
+              "stringId": "1810925938573381632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То есть он не будет собирать совет?",
+              "maleVariant": "То есть он что, не будет собирать совет?",
+              "stringId": "1810929473750896640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ясно, что будет. Просто хочет подольше подержать меня в неведении.",
+              "maleVariant": "",
+              "stringId": "1810929892392767488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Неплохо.",
+              "maleVariant": "",
+              "stringId": "1810935990927560704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот именно так всякие наивные сопляки и попадали на фронт. Их даже вербовать не приходилось.",
+              "maleVariant": "",
+              "stringId": "1810938341147086848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тебе просто показывали технику.",
+              "maleVariant": "",
+              "stringId": "1810939732162842624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как тебе тут?",
+              "maleVariant": "",
+              "stringId": "1810950487230713856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Теперь понимаю, почему эти штуки называют гробами.",
+              "maleVariant": "",
+              "stringId": "1810950778365743104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я представляла всё по-другому.",
+              "maleVariant": "Я представлял всё по-другому.",
+              "stringId": "1810953862320033792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Очень уютно, по-моему.",
+              "maleVariant": "",
+              "stringId": "1810954115605663744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Теперь я понимаю, почему эти штуки зовут гробами.",
+              "maleVariant": "",
+              "stringId": "1810957733679403008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я как-то по-другому представляла себе панцеры.",
+              "maleVariant": "Я как-то по-другому представлял себе панцеры.",
+              "stringId": "1810958741654540288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "По крайней мере, с тех пор как забросила брейндансовые аниме.",
+              "maleVariant": "По крайней мере, с тех пор как забросил брейндансовые аниме.",
+              "stringId": "1810963119266402304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Очень уютно, по-моему.",
+              "maleVariant": "",
+              "stringId": "1810967661412421632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Управляют им прямо с места. Нужно только подключиться, и всё.",
+              "maleVariant": "",
+              "stringId": "1810995488169988096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Никаких. Импульс поступает прямо в кору головного мозга. «Василиск» как бы становится продолжением твоего тела.",
+              "maleVariant": "",
+              "stringId": "1811000242564567040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Никаких рычажков, кнопочек и мигающих лампочек?",
+              "maleVariant": "",
+              "stringId": "1811020903051759616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тогда зачем второй пилот? Как поддержка?",
+              "maleVariant": "",
+              "stringId": "1811023938670891012"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты когда-нибудь летала на таких?",
+              "maleVariant": "",
+              "stringId": "1811025598910631936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Такое вот мистическое единство.",
+              "maleVariant": "",
+              "stringId": "1811029197321474048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Раз тут всё такое мистическое, зачем второй пилот? Для поддержки?",
+              "maleVariant": "",
+              "stringId": "1811030874204213248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Панам, ты когда-нибудь управляла таким?",
+              "maleVariant": "",
+              "stringId": "1811039261654585344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет, а что? Не доверяешь мне?",
+              "maleVariant": "",
+              "stringId": "1811040988415987712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ещё могу выйти?",
+              "maleVariant": "",
+              "stringId": "1811041262857687040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет.",
+              "maleVariant": "",
+              "stringId": "1811043757042503680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тогда доверяю.",
+              "maleVariant": "",
+              "stringId": "1811043815393660928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Смотри. Чтобы контролировать панцер при сенсорной перегрузке во время контакта с врагом, нужны двое.",
+              "maleVariant": "",
+              "stringId": "1811044683480371200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Один ведёт, а другой управляет пушкой.",
+              "maleVariant": "",
+              "stringId": "1811048338648535040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сначала проведём пробный запуск, без меня.",
+              "maleVariant": "",
+              "stringId": "1811064927993270272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Начинаем?",
+              "maleVariant": "",
+              "stringId": "1811065899293413376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нужно же два пилота.",
+              "maleVariant": "",
+              "stringId": "1811080480103403520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты же не будешь сразу вести и стрелять.",
+              "maleVariant": "",
+              "stringId": "1811080713659027456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно.",
+              "maleVariant": "",
+              "stringId": "1811090796262526976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так. Подорви вон те машины.",
+              "maleVariant": "",
+              "stringId": "1812387472474443776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хорошо. Теперь я подключусь. Может стать немного странно.",
+              "maleVariant": "",
+              "stringId": "1812400623295205376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как это?",
+              "maleVariant": "",
+              "stringId": "1812401348674916352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пилоты должны быть синхронизированы. Для этого придётся соединить наши нервные системы.",
+              "maleVariant": "",
+              "stringId": "1812403625947107328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это как заказать номер с двумя кроватями, а получить одну двуспальную и детское одеяло.",
+              "maleVariant": "",
+              "stringId": "1812590716165361664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно, давай попробуем.",
+              "maleVariant": "",
+              "stringId": "1812592710540136452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прекрасно понимаю, о чём ты.",
+              "maleVariant": "",
+              "stringId": "1812593063113330688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прекрасно понимаю, о чём ты.",
+              "maleVariant": "",
+              "stringId": "1812593566245261312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм?",
+              "maleVariant": "",
+              "stringId": "1812594495686250496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Потом расскажу.",
+              "maleVariant": "",
+              "stringId": "1812595360350408704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, что ж поделаешь. Познакомлюсь с тобой чуть ближе, чем планировала.",
+              "maleVariant": "Ну, что ж поделаешь. Познакомлюсь с тобой чуть ближе, чем планировал.",
+              "stringId": "1812597559491104768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. Только сразу говорю, сначала будет трудно.",
+              "maleVariant": "",
+              "stringId": "1812616681037828096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты будешь получать ослабленные сенсорные отклики от меня, а я от тебя.",
+              "maleVariant": "",
+              "stringId": "1812617215895474176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Наверное, в бою быстро привыкаешь.",
+              "maleVariant": "",
+              "stringId": "1812620902588026880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу. Ну всё, начинаем…",
+              "maleVariant": "",
+              "stringId": "1812622424734502912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это «стилеты»!",
+              "maleVariant": "",
+              "stringId": "1812622858710749188"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Разберись с ними и сюда. Поможешь остальным.",
+              "maleVariant": "",
+              "stringId": "1812622871914418176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну что, поехали.",
+              "maleVariant": "",
+              "stringId": "1812631457889587200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хорошо. Теперь я подключусь. Может стать немного странно.",
+              "maleVariant": "",
+              "stringId": "1812631855526383616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты готова?",
+              "maleVariant": "Ты готов?",
+              "stringId": "1812638169195417600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что происходит?",
+              "maleVariant": "",
+              "stringId": "1812638893719490560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё это классно, но с меня хватит.",
+              "maleVariant": "",
+              "stringId": "1812641158224220160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё это круто, но с меня хватит.",
+              "maleVariant": "Э-э, всё это круто, но с меня хватит.",
+              "stringId": "1812642783198253056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я подключилась, Ви. Наши нервные системы теперь соединены.",
+              "maleVariant": "",
+              "stringId": "1812645365698334720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А, ты же говорила про синхронизацию.",
+              "maleVariant": "",
+              "stringId": "1812649193185284096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я из-за этого чувствую всё в два раза сильнее?",
+              "maleVariant": "",
+              "stringId": "1812651995114573824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это сенсорный отклик. Наши ощущения переплелись. Хочешь тоже попробовать?",
+              "maleVariant": "",
+              "stringId": "1812654482940825600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хорошо. Я понимаю. Я не хотела, чтобы ты…",
+              "maleVariant": "",
+              "stringId": "1812696415125966848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пилоты «Василиска» должны быть синхронизированы. Нужно соединить наши нервные системы.",
+              "maleVariant": "",
+              "stringId": "1812775199137140736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В смысле?",
+              "maleVariant": "",
+              "stringId": "1812781984631820288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм, звучит знакомо.",
+              "maleVariant": "",
+              "stringId": "1812782687110631424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ух. Ничего себе. Очень… э-э-э… интимно.",
+              "maleVariant": "Ух. Ничего себе. Очень… Э-э-э… Интимно.",
+              "stringId": "1812783459802091520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скорее всего, в бою всё проще, там меньше думаешь и больше полагаешься на инстинкты.",
+              "maleVariant": "",
+              "stringId": "1812793105526886400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кто-нибудь занимался сексом в «Василиске»?",
+              "maleVariant": "",
+              "stringId": "1812810286402703360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пора возвращаться в лагерь.",
+              "maleVariant": "",
+              "stringId": "1812813666810400768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А кто-нибудь пробовал развлекаться в «Василиске»?",
+              "maleVariant": "",
+              "stringId": "1812825373045755904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пора возвращаться в лагерь.",
+              "maleVariant": "",
+              "stringId": "1812827078533648384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скорее всего. Спроси Кэрол или Кэссиди.",
+              "maleVariant": "",
+              "stringId": "1812831171872362496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно, сейчас только надо проверить…",
+              "maleVariant": "",
+              "stringId": "1812833686609268736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давай вернёмся в лагерь. Я ещё хотела…",
+              "maleVariant": "",
+              "stringId": "1812852561413476352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "М-м-м. Окей.",
+              "maleVariant": "М-м. Окей.",
+              "stringId": "1812856450388922368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты будешь получать ослабленные сенсорные отклики от меня, а я от тебя.",
+              "maleVariant": "",
+              "stringId": "1812860043766599680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ай, блядь…",
+              "maleVariant": "",
+              "stringId": "1814477562995036160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нас нашли. Надо проверить, что с лагерем.",
+              "maleVariant": "",
+              "stringId": "1814482989535219712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Едем сразу в лагерь. Надо помочь семье.",
+              "maleVariant": "",
+              "stringId": "1814487946145583104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей…",
+              "maleVariant": "",
+              "stringId": "1823018900568477696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Позволить Панам до себя дотронуться.] Да. Было бы неплохо.",
+              "maleVariant": "[Позволить Панам до себя дотронуться.] Конечно, хочу.",
+              "stringId": "1874797157625384960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей. Давай опробуем эту систему.",
+              "maleVariant": "",
+              "stringId": "1874799173407887360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот так чувствуешь?",
+              "maleVariant": "",
+              "stringId": "1874816065111609344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "М-м-м. Как люди вообще с этим сосредотачиваются в бою?",
+              "maleVariant": "",
+              "stringId": "1874817042870980608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаю, ощущения не всегда такие яркие. А вот так?",
+              "maleVariant": "",
+              "stringId": "1874821239758671872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Они здесь тоже, Сол! Их много!",
+              "maleVariant": "",
+              "stringId": "1874843383234318336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви, помнишь, что я говорила про импульсы?",
+              "maleVariant": "",
+              "stringId": "1883865335886270464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу.",
+              "maleVariant": "А-а, да.",
+              "stringId": "1883866389193445376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тогда приготовься.",
+              "maleVariant": "",
+              "stringId": "1883866768744402944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я расскажу, когда отъедем от лагеря. Заодно и потренируемся.",
+              "maleVariant": "",
+              "stringId": "1886501929822736384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Целая стая приехала разбираться. Перегру…",
+              "maleVariant": "",
+              "stringId": "2003721616179720192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я жду, Ви. Может, подрубишься?",
+              "maleVariant": "",
+              "stringId": "2227474362553417728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Смотри, какой красавец! Давай покажу, что тут как.",
+              "maleVariant": "",
+              "stringId": "2227483708301590528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй, давай залезай!",
+              "maleVariant": "",
+              "stringId": "2227483873540390912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, как тебе «Василиск»? Крутой, да?",
+              "maleVariant": "",
+              "stringId": "2227484015307866112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тебе понравится, я уверена.",
+              "maleVariant": "",
+              "stringId": "2227538001167728640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну что, давай его заводить, что ли! Голову береги!",
+              "maleVariant": "",
+              "stringId": "2228970144355926016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот чёрт…",
+              "maleVariant": "",
+              "stringId": "2229265183929876480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Его никто до нас не проверял?",
+              "maleVariant": "",
+              "stringId": "2229268519072645124"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне кажется, это небезопасно…",
+              "maleVariant": "",
+              "stringId": "2229269287922122752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А до нас никто не делал пробный заезд? Может, нам лучше…",
+              "maleVariant": "",
+              "stringId": "2229271754021879808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне кажется, это небезопасно…",
+              "maleVariant": "",
+              "stringId": "2229272179324305408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё нормально. Я сейчас разберусь.",
+              "maleVariant": "",
+              "stringId": "2229276664612339712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О-о-о да!",
+              "maleVariant": "",
+              "stringId": "2229278451016744960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Панам?.. А это всё… так и задумано?",
+              "maleVariant": "",
+              "stringId": "2229290614615785472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нейронная синхронизация всегда занимает какое-то время. Скоро всё будет нормально. Вот, видишь?",
+              "maleVariant": "",
+              "stringId": "2229295102403624960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Сесть.]",
+              "maleVariant": "",
+              "stringId": "2235203834722668548"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да! Вот это было хорошо!",
+              "maleVariant": "",
+              "stringId": "2237246627956473856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так себе, если честно. Но поэтому мы с тобой и тренируемся.",
+              "maleVariant": "",
+              "stringId": "2237248048164585472"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

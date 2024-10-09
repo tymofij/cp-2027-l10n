@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тепер під’єднайте її.",
+              "maleVariant": "Тепер під’єднайте його.",
+              "stringId": "1651833571497889792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Особистий роз’єм пошкоджено.",
+              "maleVariant": "",
+              "stringId": "1651835426001014784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Будь ласка, вставте штекер під мочкою вуха, але не дуже глибоко.",
+              "maleVariant": "",
+              "stringId": "1651835543290531840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якщо я зачеплю вену, вона помре.",
+              "maleVariant": "Якщо я зачеплю вену, він помре.",
+              "stringId": "1651976446402940928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Те ж саме станеться, якщо ви не допоможете.",
+              "maleVariant": "",
+              "stringId": "1651977667314503680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Здається, я знайшов роз’єми.",
+              "maleVariant": "",
+              "stringId": "1651994664748240896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Над вами є кабель, під’єднайте його.",
+              "maleVariant": "",
+              "stringId": "1651996370387128320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А далі?",
+              "maleVariant": "",
+              "stringId": "1652000628125782016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Далі я зроблю все сам.",
+              "maleVariant": "",
+              "stringId": "1652001223616286720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Між лімфовузлами на шиї повинні бути додаткові нейророз’єми.",
+              "maleVariant": "",
+              "stringId": "1764721937822015488"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

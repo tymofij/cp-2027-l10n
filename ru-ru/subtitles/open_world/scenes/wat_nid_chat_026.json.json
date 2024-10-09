@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Me cae que se tuvo que haber filtrado algún virus del biolaboratorio y clausuraron el lugar.\" t=\"Думаю, это всё вирус. Создали что-то не то в своей лаборатории, вот и закрылись.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2156435943719428096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Qué virus? ¿Dónde? Si hubiera llegado a la comida de la gente, alguien ya se habría enfermado.\" t=\"Чего? Какой ещё вирус? Если бы он попал в еду, кто-нибудь давно бы уже заразился.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2172061775908552704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Órale, ¿ahora eres científica o qué? ¿Realizas estudios? ¿Analizas la velocidad de transmisión, eh?\" t=\"Ты чего, самая умная, что ли? Исследования проводишь? Скорость распространения анализируешь?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2172062112493060096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Nomás piénsalo, el continente entero se atiborra con comida de All Foods. Si hubiera una nueva epidemia, nos habríamos enterado.\" t=\"Ну ты сам подумай. «Олл фудс» жрут на всём континенте. Если бы началась новая эпидемия, мы бы узнали.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2172062316000690176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Entonces, ¿por qué abandonaron la fábrica?\" t=\"Тогда почему они с завода свалили?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2172062509240664064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Cómo voy a saberlo? Igual y construyeron otra.\" t=\"Ты нашёл кого спросить. Может, новый построили.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2172062783028051968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Nel, es un virus. Apostaría lo que sea.\" t=\"Не. Точно вирус. Зуб даю.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2172062988918046720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

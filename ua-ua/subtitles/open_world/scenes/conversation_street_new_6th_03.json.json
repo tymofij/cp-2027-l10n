@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У нього «нервовий зрив»? «Важкі часи», так? Хіба я просив тебе ставити психологічний діагноз?",
+              "maleVariant": "",
+              "stringId": "2276529692587761680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, в нього проблеми, але він заслуговує на другий шанс. Ми можемо йому допомогти.",
+              "maleVariant": "",
+              "stringId": "2276529692587761692"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Проблеми? Це він, блядь, одна величезна проблема!",
+              "maleVariant": "",
+              "stringId": "2276529692604538880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

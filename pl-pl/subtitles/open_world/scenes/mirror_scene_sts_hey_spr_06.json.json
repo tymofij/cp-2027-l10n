@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[przejrzyj się w lustrze]",
+              "maleVariant": "",
+              "stringId": "2413972943627247616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[przestań się przeglądać]",
+              "maleVariant": "",
+              "stringId": "2413972943828574208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[zmień wyraz twarzy: radość]",
+              "maleVariant": "",
+              "stringId": "2520266317002334208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[zmień wyraz twarzy: złość]",
+              "maleVariant": "",
+              "stringId": "2520266317002334220"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[zmień wyraz twarzy: smutek]",
+              "maleVariant": "",
+              "stringId": "2520266317019111424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[zmień wyraz twarzy: zaskoczenie]",
+              "maleVariant": "",
+              "stringId": "2520266317019111436"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[zmień wyraz twarzy: neutralny]",
+              "maleVariant": "",
+              "stringId": "2520266317019111448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

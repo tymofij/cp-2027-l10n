@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Падре говорит, тебе надо уехать из города.",
+              "maleVariant": "",
+              "stringId": "2161802766998335488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Падре говорит»? Я что, его служанка, что ли? Кем он себя возомнил?",
+              "maleVariant": "",
+              "stringId": "2221378812394180608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не истери. Ты сама знаешь, в чём дело.",
+              "maleVariant": "",
+              "stringId": "2221381655545090048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Иди ты. Что мне тогда было делать? У меня не было выбора.",
+              "maleVariant": "",
+              "stringId": "2221381761879085056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Падре считает иначе.",
+              "maleVariant": "",
+              "stringId": "2221382263266185216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ты заебал со своим Падре!",
+              "maleVariant": "",
+              "stringId": "2221382294941569024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Послушай меня. Ты получила второй шанс. Его не каждому дают, особенно после… такого. Просто уезжай.",
+              "maleVariant": "",
+              "stringId": "2221383014902239232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У меня здесь, блядь, вся жизнь!",
+              "maleVariant": "",
+              "stringId": "2221383166568271872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

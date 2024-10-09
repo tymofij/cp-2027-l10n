@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Look who it is...! I thought you were on the moon! You know, your business trip?",
+              "maleVariant": "",
+              "stringId": "2160328164468891648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, yeah, right, I was supposed to go. Visa got denied.",
+              "maleVariant": "",
+              "stringId": "2169440464288403456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Really? Why?",
+              "maleVariant": "",
+              "stringId": "2169440639845191680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "My dog came up in the interview. And boy, they don't joke around with those animal-borne diseases. You know, something starts growing in the ventilation... pssh, you're toast.",
+              "maleVariant": "",
+              "stringId": "2169440734602907648"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

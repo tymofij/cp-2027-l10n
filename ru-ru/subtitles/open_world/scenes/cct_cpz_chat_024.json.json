@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чумба, у тебя зрачки на пол-лица… Возьми, может, линзы какие-нибудь… А то начальник увидит.",
+              "maleVariant": "",
+              "stringId": "2172056382439284736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Начальник? А ты думаешь, у кого я беру товар?",
+              "maleVariant": "",
+              "stringId": "2192573717917569024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне казалось, у нас это запрещено.",
+              "maleVariant": "",
+              "stringId": "2198357636038365184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, из непонятных источников запрещено.",
+              "maleVariant": "",
+              "stringId": "2198357764082077696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А как же почки?",
+              "maleVariant": "",
+              "stringId": "2198357845938114560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "По ночам мне делают диализ, а днём я как машина. Корпомашина. Не остановишь.",
+              "maleVariant": "",
+              "stringId": "2198357939353653248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угробишь ты своё здоровье. Однажды тебе даже импланты не помогут.",
+              "maleVariant": "",
+              "stringId": "2198360104050724864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Однажды тебе даже импланты не помогут». Не каркай. Всё у меня нормально.",
+              "maleVariant": "",
+              "stringId": "2198360370909122560"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

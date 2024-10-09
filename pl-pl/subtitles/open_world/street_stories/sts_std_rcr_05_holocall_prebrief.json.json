@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No jak tam życie w Night City? He, he, he. Śpisz troszkę? Bo ja nie! Bierzmy się do roboty!",
+              "maleVariant": "",
+              "stringId": "2328749159102259200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słuchaj, urwał mi się kontakt z moją małą Juliet. I spoko, problem w tym, że dziewczyna ma dane, na których mi zależy.",
+              "maleVariant": "",
+              "stringId": "2342048242739810304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jedź do niej i je zdobądź. Szczegóły w załączniku.",
+              "maleVariant": "",
+              "stringId": "2342048636920500224"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

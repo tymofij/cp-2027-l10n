@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можна щось попоїсти?",
+              "maleVariant": "",
+              "stringId": "1884976962712518656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Автентичне мʼясо подаєте?",
+              "maleVariant": "",
+              "stringId": "1884976962712518672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що тут маєте з їжі?",
+              "maleVariant": "",
+              "stringId": "1884976962762850308"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сама поглянь.",
+              "maleVariant": "Сам поглянь.",
+              "stringId": "1884976962762850316"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ем, а справжнє мʼясо є?",
+              "maleVariant": "",
+              "stringId": "1884976962846736388"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У сенсі? З тварин? Не мели дурниць!",
+              "maleVariant": "",
+              "stringId": "1884976962846736396"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

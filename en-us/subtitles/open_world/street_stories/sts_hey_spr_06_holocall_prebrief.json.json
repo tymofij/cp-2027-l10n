@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Balance. Keeps Night City alive. Without it, we'd all be at each other's throats – corps, gangs, mercs, everyone.",
+              "maleVariant": "",
+              "stringId": "2334576991216058368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And where do fixers fit in? If one side starts to get too much power, a fixer can help tip the scales toward the other – discreetly.",
+              "maleVariant": "",
+              "stringId": "2334577127312834560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Think about it – balance keeps biz from running dry. Anyway, why the lecture, right?",
+              "maleVariant": "",
+              "stringId": "2334577258309337088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Because it's time for a little intervention. Check the attachment.",
+              "maleVariant": "",
+              "stringId": "2334577449989029888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

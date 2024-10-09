@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej, V! Dzięki za wsparcie. Doceniam.",
+              "maleVariant": "",
+              "stringId": "1905554978530811904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie ma za co.",
+              "maleVariant": "",
+              "stringId": "1905559785907838980"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ratowanie ludziom dupy to moja specjalność.",
+              "maleVariant": "",
+              "stringId": "1905560205036249088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie ma za co. Byłam w okolicy, to pomogłam. Zwykła przyzwoitość.",
+              "maleVariant": "Nie ma za co. Byłem w okolicy, to pomogłem. Zwykła przyzwoitość.",
+              "stringId": "1905560663339458560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wcale nie taka zwykła. Trzymaj się. Szerokiej drogi.",
+              "maleVariant": "",
+              "stringId": "1905561254249783296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co mogę powiedzieć. Ratowanie ludziom dupy to moja specjalność.",
+              "maleVariant": "",
+              "stringId": "1905561938391097344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I to było widać. Szerokiej drogi, V.",
+              "maleVariant": "",
+              "stringId": "1905561938391097352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie ma za co.",
+              "maleVariant": "",
+              "stringId": "1905563002536353792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ratowanie ludziom dupy to moja specjalność.",
+              "maleVariant": "",
+              "stringId": "1905563002553131020"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

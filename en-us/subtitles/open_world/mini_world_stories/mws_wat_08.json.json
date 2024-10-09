@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[db_db][DEBUG ONLY] Teleport me to my apartment",
+              "maleVariant": "",
+              "stringId": "3963818500598415364"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[db_db][DEBUG ONLY] Don't teleport",
+              "maleVariant": "",
+              "stringId": "3963819538738987008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[db_db][DEBUG ONLY] Skip playing Trauma Drama game",
+              "maleVariant": "",
+              "stringId": "3963831223163961356"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[db_db][DEBUG ONLY] Don't skip Trauma Drama game",
+              "maleVariant": "",
+              "stringId": "3963831231770673160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Scan hand]",
+              "maleVariant": "",
+              "stringId": "3965595181180928004"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[db_db][DEBUG ONLY] Test Toy AV",
+              "maleVariant": "",
+              "stringId": "3978050234118455296"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

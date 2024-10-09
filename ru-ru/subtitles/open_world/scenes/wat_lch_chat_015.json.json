@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У тебя в «Травме» какой статус? Золотой?",
+              "maleVariant": "",
+              "stringId": "2156387886174597120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да.",
+              "maleVariant": "",
+              "stringId": "2169308549417848832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лучше перейди на платиновый. Тогда с собой можно будет забрать до двух человек.",
+              "maleVariant": "",
+              "stringId": "2169308652463509504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У меня так жену с дочкой спасли, когда мне в семьдесят пятом машину подбили. Няню, конечно, пришлось там оставить. Кровью истекла, бедняга.",
+              "maleVariant": "",
+              "stringId": "2169309017149853696"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

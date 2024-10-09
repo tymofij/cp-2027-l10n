@@ -1,0 +1,877 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так что, начинаем?",
+              "maleVariant": "",
+              "stringId": "1660580220269064192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Разумно. Почему бы и не подождать.",
+              "maleVariant": "",
+              "stringId": "1660648652486307840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давайте не будем ссориться.",
+              "maleVariant": "",
+              "stringId": "1660663118875684868"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На улицах ненавидят корпорации.",
+              "maleVariant": "",
+              "stringId": "1660663443900690432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Встать.] Мне становится хуже.",
+              "maleVariant": "",
+              "stringId": "1660706242226384896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я думаю, что нам пора размяться.",
+              "maleVariant": "",
+              "stringId": "1685252933890883584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу убедиться, что мы не упустили ни одной детали.",
+              "maleVariant": "",
+              "stringId": "1712936061744726016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давай немного подождём здесь.",
+              "maleVariant": "",
+              "stringId": "1713036092657123328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кажется, бакэнэко от нас устал.",
+              "maleVariant": "",
+              "stringId": "1766413117334360064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви…",
+              "maleVariant": "",
+              "stringId": "1773573723300696064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что?",
+              "maleVariant": "",
+              "stringId": "1773576740515221504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "М-м. Не делай резких движений.",
+              "maleVariant": "",
+              "stringId": "1773577106929618944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты видишь?",
+              "maleVariant": "",
+              "stringId": "1773610744643719168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кот.",
+              "maleVariant": "",
+              "stringId": "1773611061783433216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я думала, их уже не осталось в городе.",
+              "maleVariant": "Я думал, их уже не осталось в городе.",
+              "stringId": "1773616136740278276"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну и что? Кот как кот.",
+              "maleVariant": "",
+              "stringId": "1773618395104546816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Такая лапушка. Я думала, их уже не осталось в городе.",
+              "maleVariant": "Какой красавец. Я думал, их уже и не осталось в городе.",
+              "stringId": "1773620770053689344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну и что? Обычный кот.",
+              "maleVariant": "",
+              "stringId": "1773620979282350080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вы не помните, что случилось в «Дайнере Тома»? Люди терпеть не могут корпорации.",
+              "maleVariant": "",
+              "stringId": "1781989202595811328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давайте закроем эту тему. Я устала спорить.",
+              "maleVariant": "Давайте закроем эту тему. Я устал спорить.",
+              "stringId": "1781998416022081536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вам не понять, что я чувствую.",
+              "maleVariant": "",
+              "stringId": "1782006745440063488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Наконец-то вы говорите что-то дельное.",
+              "maleVariant": "",
+              "stringId": "1782006745456840704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Иногда мне хочется стать кочевником. Убежать от этого мира, забыть обо всём.",
+              "maleVariant": "",
+              "stringId": "1782126000508637184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Наконец-то я с вами согласна.",
+              "maleVariant": "Наконец-то я с вами согласен.",
+              "stringId": "1782227335463702528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он найдёт свою дорогу.",
+              "maleVariant": "",
+              "stringId": "1783526439892422656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм. Ты так же говорила, когда входила в «Компэки плаза»?",
+              "maleVariant": "Хм. Ты так же говорил, когда входил в «Компэки плаза»?",
+              "stringId": "1834479571673419776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как и мы.",
+              "maleVariant": "",
+              "stringId": "1995380886478856192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если не случится ничего необычного, тогда можно будет начинать.",
+              "maleVariant": "",
+              "stringId": "2004085483342995456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джеки? Что такое?",
+              "maleVariant": "",
+              "stringId": "2011525265438351360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Когда я пошёл по твоему следу, остальные поехали искать Уэллса. Они забрали его тело.",
+              "maleVariant": "",
+              "stringId": "2011526037878153216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Убейте, не понимаю зачем. Чтобы мать не могла его проводить как положено?",
+              "maleVariant": "Хоть убейте, не понимаю зачем. Чтобы мать не могла его проводить как положено?",
+              "stringId": "2011528585481625600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У «Арасаки» есть способ… получать информацию даже от мёртвых.",
+              "maleVariant": "",
+              "stringId": "2011529065544884224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В смысле «получать информацию»?",
+              "maleVariant": "",
+              "stringId": "2011533238558597120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не спрашивай. Я знаю немного, но мне говорили, что для этого используют программу «Душегуб».",
+              "maleVariant": "",
+              "stringId": "2011533889380360192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Они могут извлечь из тела Уэллса энграмму. Повреждённую, неполную, но всё-таки энграмму.",
+              "maleVariant": "",
+              "stringId": "2011535192231845888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я в это не верю.",
+              "maleVariant": "",
+              "stringId": "2011536939394342912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это невозможно. Я вам не верю.",
+              "maleVariant": "",
+              "stringId": "2011537798622683136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты пережила свою смерть. В это ты тоже не веришь?",
+              "maleVariant": "Ты пережил свою смерть. В это ты тоже не веришь?",
+              "stringId": "2011538012012093440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Где они держат эту энграмму?",
+              "maleVariant": "",
+              "stringId": "2011541966066360320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Куда они поместили конструкт Джеки?",
+              "maleVariant": "",
+              "stringId": "2011543650851168268"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Этого я не знаю.",
+              "maleVariant": "",
+              "stringId": "2011543650867945472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не все стремятся прислуживать корпорациям.",
+              "maleVariant": "",
+              "stringId": "2011590749345095684"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Горбатиться на корпорации — не то чтобы мечта любого человека.",
+              "maleVariant": "",
+              "stringId": "2011592214935576576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Почему вы не рассказали раньше?",
+              "maleVariant": "",
+              "stringId": "2011650300626935808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не знал, можно ли тебе верить. Обстоятельства изменились.",
+              "maleVariant": "",
+              "stringId": "2011650478331207680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я вас не осуждаю.",
+              "maleVariant": "",
+              "stringId": "2011659115879538688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не поздно всё поменять.",
+              "maleVariant": "",
+              "stringId": "2012789124660797440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаешь, о чём я думаю?",
+              "maleVariant": "",
+              "stringId": "2012797710417862656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В тот день в «Компэки» мы оба потеряли близких нам людей.",
+              "maleVariant": "",
+              "stringId": "2012798393686761472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не умничайте. Вам не понять, что я чувствую.",
+              "maleVariant": "",
+              "stringId": "2012803108906541056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я вас не осуждаю.",
+              "maleVariant": "",
+              "stringId": "2012842009868181504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И мы с этим не смирились, поэтому мы всё время спорим, ищем ссоры.",
+              "maleVariant": "",
+              "stringId": "2012842998499188736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу рассказать тебе ещё кое-что… Это касается Уэллса…",
+              "maleVariant": "",
+              "stringId": "2012863072589127680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Долг живых — воздавать должное умершим.",
+              "maleVariant": "",
+              "stringId": "2012865370732175360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ханако-сама поможет нам в этом начинании.",
+              "maleVariant": "",
+              "stringId": "2012865911679950848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Или поможет нам тоже отбросить копыта.",
+              "maleVariant": "",
+              "stringId": "2012871354477256704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ещё не поздно.",
+              "maleVariant": "",
+              "stringId": "2014141091161120768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха. У кочевников всё по-другому.",
+              "maleVariant": "",
+              "stringId": "2014141091161120784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зато теперь я больше никому не принадлежу. Свобода — это круто. Можете сами убедиться.",
+              "maleVariant": "",
+              "stringId": "2014151271038918656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кочевники по своей природе не одиночки. Они ставят на первое место клан, а не свои желания.",
+              "maleVariant": "",
+              "stringId": "2014153015047299080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я чувствую, что ты меня осуждаешь. У тебя нет на это права.",
+              "maleVariant": "",
+              "stringId": "2027094611174694912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В отличие от тебя и твоего друга Уэллса, я вёл себя скромно и не пытался получить всё сразу.",
+              "maleVariant": "",
+              "stringId": "2027271725811310592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вы хотите сказать, ваша совесть чиста?",
+              "maleVariant": "",
+              "stringId": "2027328329168527360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вы забыли, что я сама работала на «Арасаку»?",
+              "maleVariant": "Вы забыли, что я сам работал на «Арасаку»?",
+              "stringId": "2027344169242796032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я работала в «Арасаке», вы забыли? Отлично помню, как там было — не то чтобы очень радостно.",
+              "maleVariant": "Я работал в «Арасаке», вы забыли? Отлично помню, как там было — не то чтобы очень радостно.",
+              "stringId": "2027345135761432576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Неправда. Ты бездумно выступаешь против корпораций, их мира, их порядков, но не предлагаешь взамен ничего стоящего.",
+              "maleVariant": "",
+              "stringId": "2028753201010647040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты показываешь мне грязные улицы, как будто ничего другого в мире нет. А как же миллионы работников, которым «Арасака» даёт защиту и средства к существованию?",
+              "maleVariant": "",
+              "stringId": "2028753325598253056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А как же дети из Тибы-11, которые пытаются не сдохнуть с голоду в канаве, а? Корпорации тут ни при чём?",
+              "maleVariant": "",
+              "stringId": "2028753422889328640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Корпорациям нужны деньги и ресурсы, чтобы поддерживать порядок. Иначе кто станет нами править? Коррумпированные политики? Массы, приросшие к визорам?",
+              "maleVariant": "",
+              "stringId": "2028753779824599040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Циники и нигилисты вроде тебя?",
+              "maleVariant": "",
+              "stringId": "2028756566268518400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вы хотите сказать, ваша совесть чиста?",
+              "maleVariant": "",
+              "stringId": "2028829904076611644"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ни у кого нет чистой совести. Важно, ради чего пришлось ей пожертвовать.",
+              "maleVariant": "",
+              "stringId": "2028829904093388804"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Интересно, и ради чего вы ей пожертвовали?",
+              "maleVariant": "",
+              "stringId": "2028829904093388816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Арасака» дала мне то, чего я бы нигде не нашёл, — ценности, ради которых стоит жить. И это самое главное.",
+              "maleVariant": "",
+              "stringId": "2028829904093388832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вы верите в духов?",
+              "maleVariant": "",
+              "stringId": "2037552193874714628"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это первое животное, которое я вижу в Найт-Сити. Кроме тараканов, конечно.",
+              "maleVariant": "",
+              "stringId": "2037552315492753408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может быть, это бакэнэко?",
+              "maleVariant": "",
+              "stringId": "2037553994506199040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это просто кот.",
+              "maleVariant": "",
+              "stringId": "2037556175863046144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вполне может быть.",
+              "maleVariant": "",
+              "stringId": "2037556515953991680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бакэнэко?",
+              "maleVariant": "",
+              "stringId": "2037557230009081856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бакэнэко? Что это?",
+              "maleVariant": "",
+              "stringId": "2037560996309524480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сначала исчезли птицы, потом собаки. Коты сопротивлялись дольше всего.",
+              "maleVariant": "",
+              "stringId": "2037591566460674048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Верите в духов?",
+              "maleVariant": "Вы верите в духов?",
+              "stringId": "2037592256893444096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ладно. Кот как кот.",
+              "maleVariant": "",
+              "stringId": "2037592348111167488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кот-призрак? А что, вполне возможно.",
+              "maleVariant": "",
+              "stringId": "2037592462934433792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кот-призрак. Он приносит несчастья и может возвращать к жизни умерших.",
+              "maleVariant": "",
+              "stringId": "2037592901155315712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Благодаря биочипам вполне можно говорить с умершими. Это уже не вера, это факты.",
+              "maleVariant": "",
+              "stringId": "2037593750485098496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может быть. А может, нет.",
+              "maleVariant": "",
+              "stringId": "2037597760625598464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Моя покойная бабушка знала много разных историй о кицунэ, каппа, и как раз о бакэнэко.",
+              "maleVariant": "",
+              "stringId": "2037598986318667776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скучаете по дому?",
+              "maleVariant": "",
+              "stringId": "2037662730830766084"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Где вы росли?",
+              "maleVariant": "",
+              "stringId": "2037662935026262016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ностальгия?",
+              "maleVariant": "",
+              "stringId": "2037663511004864512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А где вы выросли?",
+              "maleVariant": "",
+              "stringId": "2037663612238585856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Глупый вопрос.",
+              "maleVariant": "",
+              "stringId": "2037664110236688384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я родом из трущоб Тибы-11. Когда-то я твёрдо решил оттуда вырваться и…",
+              "maleVariant": "",
+              "stringId": "2037667150620549120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что ж, со временем всё плохое забывается. Остаётся только тоска по беззаботному детству.",
+              "maleVariant": "",
+              "stringId": "2037668020301094912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я помню своё детство…",
+              "maleVariant": "",
+              "stringId": "2037674193964261380"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И каково это было — расти в Тибе-11?",
+              "maleVariant": "",
+              "stringId": "2037676335475220480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я помню своё детство…",
+              "maleVariant": "",
+              "stringId": "2037678352398573568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я помню своё детство…",
+              "maleVariant": "",
+              "stringId": "2037678438029484032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Каково было расти в Тибе-11?",
+              "maleVariant": "",
+              "stringId": "2037678479905415168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А когда я была маленькой… Я по ночам искала на небе звёзды. Из-за огней их никогда не было видно.",
+              "maleVariant": "А когда я был маленьким… Я по ночам искал на небе звёзды. Из-за огней их никогда не было видно.",
+              "stringId": "2037678690996346880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Раз уж заговорили о детстве… Я помню, как первый раз каталась на боббере по холмам.",
+              "maleVariant": "Раз уж мы говорим о детстве… Я помню, как первый раз катался на боббере по холмам.",
+              "stringId": "2037678826002604032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А когда я была маленькой… Я постоянно бегала по крышам, чтобы копы не поймали.",
+              "maleVariant": "А когда я был маленьким… Ха, я постоянно бегал по крышам, чтобы копы не поймали.",
+              "stringId": "2037678927236325376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вместо них мне светили по ночам неоновые вывески в Чартер-Хилл…",
+              "maleVariant": "Неоновые вывески в Чартер-Хилл пели мне беззвучные колыбельные…",
+              "stringId": "2037681769363824640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я помню химическую вонь от канала, где мы с парнями стирали рубашки.",
+              "maleVariant": "",
+              "stringId": "2037682901708464128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха, и ещё первый поцелуй посреди поля синтетической кукурузы…",
+              "maleVariant": "Хм, и ещё первый поцелуй посреди поля синтетической кукурузы…",
+              "stringId": "2037684037609873408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Коленки вечно были разбиты в кровь…",
+              "maleVariant": "",
+              "stringId": "2037712798942257152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Иногда по трущобам проезжали корпоративные транспортёры. «Арасака» отбирала детей, но только чистых.",
+              "maleVariant": "",
+              "stringId": "2037716317610991616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Для чего им нужны были дети?",
+              "maleVariant": "",
+              "stringId": "2037718816208216068"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вас вербовали в армию?",
+              "maleVariant": "",
+              "stringId": "2037722349389242368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Военные транспортёры? В трущобах?",
+              "maleVariant": "",
+              "stringId": "2037724143595053056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Для чего им нужны были дети?",
+              "maleVariant": "",
+              "stringId": "2037728344375058432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дайте угадаю, они растили из детей корпоративную армию?",
+              "maleVariant": "",
+              "stringId": "2037728462352441344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Транспортёры, говорите.",
+              "maleVariant": "",
+              "stringId": "2037728563552608256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Для корпоративной армии.",
+              "maleVariant": "",
+              "stringId": "2037729001236619264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так точно.",
+              "maleVariant": "",
+              "stringId": "2037732564968955904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да. Тиба-11 занимала первое место по убийствам в Японии. Думаю, и сейчас занимает.",
+              "maleVariant": "",
+              "stringId": "2037734752181051392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Когда выбрали меня, я почувствовал себя счастливчиком.",
+              "maleVariant": "",
+              "stringId": "2037738915312984064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Армия дала мне всё. Я начал соблюдать дисциплину, обедать каждый день, а когда сумел отличиться, ещё и получил образование.",
+              "maleVariant": "",
+              "stringId": "2037739664583450624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Для этого всего-то надо было убивать врагов «Арасаки».",
+              "maleVariant": "",
+              "stringId": "2037752071116578820"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чтобы выбраться из нищеты, любой способ хорош.",
+              "maleVariant": "",
+              "stringId": "2037752510344093696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И всё, что вам приходилось делать, — это убивать врагов Сабуро.",
+              "maleVariant": "",
+              "stringId": "2037760146359738368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если бы не этот шанс, вы так и жили бы в нищете.",
+              "maleVariant": "",
+              "stringId": "2037760284654329856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты совершаешь преступления из-за денег. Я — во имя принципов.",
+              "maleVariant": "",
+              "stringId": "2038667239627448320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Посмотрите вокруг. Вот он, дивный корпоративный мир, который вы защищаете.",
+              "maleVariant": "Поглядите вокруг. Вот он, дивный корпоративный мир, который вы защищаете.",
+              "stringId": "2038761262937563136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Успокойтесь, не каждый стремится изменить мир.",
+              "maleVariant": "",
+              "stringId": "2038850407584260096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "К сожалению, это так.",
+              "maleVariant": "",
+              "stringId": "2038850835201941504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы не в состоянии исправить всё сразу.",
+              "maleVariant": "",
+              "stringId": "2038902374692052992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И я их понимаю. Да, мне есть о чём жалеть, но явно не о том, что я ограбила «Арасаку».",
+              "maleVariant": "Я их понимаю. Мне есть о чём жалеть, но явно не о том, что я ограбил «Арасаку».",
+              "stringId": "2038909518833278976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О чём?",
+              "maleVariant": "",
+              "stringId": "2038955482348544000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ёбаные суки.",
+              "maleVariant": "",
+              "stringId": "2039085712031637504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как вы стали телохранителем Сабуро?",
+              "maleVariant": "",
+              "stringId": "2039190069821595648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А как салага превратился из чистильщика сортиров в телохранителя самого Сабуро Арасаки?",
+              "maleVariant": "А как салага превратился из уборщика сортиров в телохранителя самого Сабуро Арасаки?",
+              "stringId": "2039190468012040192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У меня были самые высокие баллы в академии, потом служба в спецназе, а Арасака-сама умел видеть в людях талант.",
+              "maleVariant": "",
+              "stringId": "2039206057887686656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В смысле, вы прямо с первого взгляда понравились Сабуро?",
+              "maleVariant": "",
+              "stringId": "2039207152282263552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он бы не стал самым влиятельным человеком в мире, если бы чутьё не помогало ему принимать верные решения.",
+              "maleVariant": "",
+              "stringId": "2039207538024013824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Перед ним стояла сотня претендентов… Арасака-сама заглянул в глаза каждому и выбрал из них того, кто будет служить ему лучше всех.",
+              "maleVariant": "",
+              "stringId": "2039213022982463488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ах, значит, воровство — гораздо более благородное занятие…",
+              "maleVariant": "",
+              "stringId": "2039228135160438784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я, по крайней мере, не отбираю ради прибыли у планеты и людей всё ценное.",
+              "maleVariant": "",
+              "stringId": "2039230187064287232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как это у вас говорится… «Старого учить — что мёртвого лечить».",
+              "maleVariant": "",
+              "stringId": "2043488478191706112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хорошо. Давай не будем углубляться в детали.",
+              "maleVariant": "",
+              "stringId": "2043489346311970816"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

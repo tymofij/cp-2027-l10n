@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Система безпеки знову накрилася.",
+              "maleVariant": "",
+              "stringId": "2178301430946324480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дай угадаю, обхідні діоди теж зникли, так?",
+              "maleVariant": "",
+              "stringId": "2188083722547085312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Певна річ. Що тут гадати?..",
+              "maleVariant": "",
+              "stringId": "2188084092669247488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Відчуваю себе якимось Сізіфом: вони крадуть, ми лагодимо, а вони знову крадуть, і ми знову лагодимо…",
+              "maleVariant": "",
+              "stringId": "2188084399725854720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Типові кочові уїбани. Думають, що світ крутиться навколо них і можуть брати все, на що кинуть свої уїбанські очі!",
+              "maleVariant": "",
+              "stringId": "2188084834608070656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сонячна ферма?! Радше шведський стіл! Приходь, бери. Шкода ж панелі дарма пропадуть, так?!",
+              "maleVariant": "",
+              "stringId": "2188085055513673728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага… І можеш не паритися, бо який лох те все полагодить!",
+              "maleVariant": "",
+              "stringId": "2188085530644430848"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

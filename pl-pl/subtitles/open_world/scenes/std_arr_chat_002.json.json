@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No ale czemu od razu musiałeś mu zasunąć w mordę? On tylko zapytał, czy się nie zgubiłam.",
+              "maleVariant": "",
+              "stringId": "1963259988687233024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zawsze tak pytają. A potem jakiś menel znajduje w workach pokrojone ciała.",
+              "maleVariant": "",
+              "stringId": "1966219490676686848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak masz ochotę wylądować w takim worku, to nie było rozmowy.",
+              "maleVariant": "",
+              "stringId": "1966220363444240384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie każdy facet podchodzi do kobiety, żeby ją zajebać.",
+              "maleVariant": "",
+              "stringId": "1966220689610096640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ostatnio trochę przesadzacie z tymi nocnymi patrolami.",
+              "maleVariant": "",
+              "stringId": "1966220969722494976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty! Zamknij się, kurwo, bo w pysk dostaniesz!",
+              "maleVariant": "",
+              "stringId": "1966221701443993600"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wracamy do gorącego tematu ostatnich dni: morderstwa CEO koncernu Arasaka, Saburo Arasaki.",
+              "maleVariant": "",
+              "stringId": "1743065729017892864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Saburo przez wiele lat kierował japońskim gigantem. Wieloletni szef koncernu został zamordowany na terenie korporacyjnego hotelu Konpeki w trakcie spotkania rodzinnego.",
+              "maleVariant": "",
+              "stringId": "1743067415698526208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Należy nadmienić, że syn Saburo, Yorinobu Arasaka, o zabójstwo ojca oskarża konkurencję, która chce zniszczyć firmę. Dotychczas nie przedstawił dowodów na poparcie tej tezy.",
+              "maleVariant": "",
+              "stringId": "1743068079254196224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wedle analityków giełdowych, sprawa morderstwa może stanowić desperacką próbę odwrócenia uwagi od poważnych wewnętrznych problemów korporacji.",
+              "maleVariant": "",
+              "stringId": "1743068428371283968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Już po przerwie zastanowimy się, czy Arasaka podniesie się po śmierci wieloletniego szefa.",
+              "maleVariant": "",
+              "stringId": "1743068898670202880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,817 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak masz na imię?",
+              "maleVariant": "",
+              "stringId": "1673415053142888448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzień dobry, wstawaj.",
+              "maleVariant": "",
+              "stringId": "1680502215467884544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzień dobry.",
+              "maleVariant": "",
+              "stringId": "1680502340407812096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie spodziewałam się ciebie tutaj.",
+              "maleVariant": "Nie spodziewałem się ciebie tutaj.",
+              "stringId": "1680502455298187264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[usiądź na łóżku] Dzień dobry.",
+              "maleVariant": "",
+              "stringId": "1680502559769911300"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[usiądź na łóżku] Anders Hellman, nie spodziewałam się.",
+              "maleVariant": "[usiądź na łóżku] Anders Hellman, nie spodziewałem się.",
+              "stringId": "1680504270441963520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[usiądź na łóżku] Jest dzień?",
+              "maleVariant": "",
+              "stringId": "1680507014959620096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jest dzień?",
+              "maleVariant": "",
+              "stringId": "1680507434171916288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Życie czasami zaskakuje.",
+              "maleVariant": "",
+              "stringId": "1680508892833406976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dwie godziny temu nad Night City wstało słońce.",
+              "maleVariant": "",
+              "stringId": "1680509711293112320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ktoś powinien zająć się tym bałaganem.",
+              "maleVariant": "",
+              "stringId": "1680512680709349376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czego chcesz?",
+              "maleVariant": "",
+              "stringId": "1680513650231107584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Poprosili mnie, żebym z tobą porozmawiał.",
+              "maleVariant": "",
+              "stringId": "1680513909522980864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O czym chciałeś porozmawiać?",
+              "maleVariant": "",
+              "stringId": "1680514399786786816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wróciłeś do korporacji na dobre.",
+              "maleVariant": "",
+              "stringId": "1680514555311579136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widzę, że na dobre wróciłeś do Arasaki.",
+              "maleVariant": "",
+              "stringId": "1680517539256885248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobrze, to co masz mi do powiedzenia?",
+              "maleVariant": "",
+              "stringId": "1680518018196070400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie masz ich już dosyć? Całej tej pojebanej rodziny?",
+              "maleVariant": "",
+              "stringId": "1680520431497928704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Arasaka zawsze dopnie swego, a nowy projekt odpowiada moim ambicjom.",
+              "maleVariant": "",
+              "stringId": "1680520748234989568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dlaczego przysłali akurat ciebie?",
+              "maleVariant": "",
+              "stringId": "1680527260915359744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zastanawiam się, dlaczego przysłali właśnie ciebie.",
+              "maleVariant": "",
+              "stringId": "1680527578273177600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przynoszę złe wieści i powinnaś je usłyszeć od kogoś, kogo znasz.",
+              "maleVariant": "Przynoszę złe wieści i powinieneś je usłyszeć od kogoś, kogo znasz.",
+              "stringId": "1680529463747043328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wychodzi na to, że w promieniu setek kilometrów jestem najbliższą ci osobą.",
+              "maleVariant": "",
+              "stringId": "1680530578274279424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przynoszę złe wieści.",
+              "maleVariant": "",
+              "stringId": "1680531684731674624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jednak spustoszenia dokonane w organiźmie są ogromne - sięgają aż do struktury DNA i przypominają objawy choroby popromiennej.",
+              "maleVariant": "",
+              "stringId": "1680532169777766400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Posłuchaj...",
+              "maleVariant": "",
+              "stringId": "1680557721662283776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niestety, są również letalne.",
+              "maleVariant": "",
+              "stringId": "1680558369749360640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jednak umrę.",
+              "maleVariant": "",
+              "stringId": "1680558764685025284"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wierzę.",
+              "maleVariant": "",
+              "stringId": "1680561833170722816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa.",
+              "maleVariant": "",
+              "stringId": "1680562012116508672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czyli jednak umrę.",
+              "maleVariant": "",
+              "stringId": "1680562450521939968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wierzę w to.",
+              "maleVariant": "",
+              "stringId": "1680562590091599872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa.",
+              "maleVariant": "",
+              "stringId": "1680562800159121408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Operacja się udała, biochip został usunięty.",
+              "maleVariant": "",
+              "stringId": "1680571882219790336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wyniki badań są jednoznaczne.",
+              "maleVariant": "",
+              "stringId": "1680574338890752000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nadal możecie się mylić.",
+              "maleVariant": "",
+              "stringId": "1680575583290417152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nadzieję pokładałbym gdzie indziej.",
+              "maleVariant": "",
+              "stringId": "1680577772566110208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jest fatalnie, ale nie poddaliśmy się.",
+              "maleVariant": "",
+              "stringId": "1680579236445315072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Są jeszcze jakieś możliwości?",
+              "maleVariant": "",
+              "stringId": "1680579692231942144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ile czasu mi zostało?",
+              "maleVariant": "",
+              "stringId": "1680580143404834816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę rozmawiać z Hanako Arasaką.",
+              "maleVariant": "",
+              "stringId": "1680580334178557952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ile czasu mi zostało?",
+              "maleVariant": "",
+              "stringId": "1680580627259744256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę rozmawiać z Hanako Arasaką.",
+              "maleVariant": "",
+              "stringId": "1680580859775180800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Są jakieś inne możliwości? Miałam już jedną operację.",
+              "maleVariant": "Są jakieś... Jakieś inne możliwości? Miałem już jedną operację.",
+              "stringId": "1680581072258621440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Około pół roku, potem nastąpi gwałtowna progresja.",
+              "maleVariant": "",
+              "stringId": "1680593767544414208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tuż przed śmiercią dolegliwości staną się bardzo uciążliwe.",
+              "maleVariant": "",
+              "stringId": "1680593916677087232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To niemożliwe.",
+              "maleVariant": "",
+              "stringId": "1680596951826456576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mieliśmy umowę.",
+              "maleVariant": "",
+              "stringId": "1680597106512388096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Obie strony już się z niej wywiązały. Hanako Arasaka nie jest już zainteresowana twoim przypadkiem.",
+              "maleVariant": "",
+              "stringId": "1680597241099214848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hanako Arasaka obiecała, że uratuje mnie przed śmiercią.",
+              "maleVariant": "",
+              "stringId": "1680599349827493888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dlatego w jej imieniu chcę porozmawiać o innych możliwościach.",
+              "maleVariant": "",
+              "stringId": "1680599667202088960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Arasaka potrafi oszukać śmierć, z twojej strony potrzebna jest tylko odrobina zaufania.",
+              "maleVariant": "",
+              "stringId": "1680602697687392256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Już raz wam zaufałam, nigdzie mnie to nie doprowadziło.",
+              "maleVariant": "Już raz wam zaufałem, nigdzie mnie to nie doprowadziło.",
+              "stringId": "1680665358676549632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Możesz dołączyć do programu \"Secure Your Soul\".",
+              "maleVariant": "",
+              "stringId": "1680667781675638784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wiemy, jak rozwiązać problem kompatybilności.",
+              "maleVariant": "",
+              "stringId": "1680671550895316992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie chcę trafić do więzienia dusz Arasaki.",
+              "maleVariant": "",
+              "stringId": "1680679322756079616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Skąd mam wiedzieć, czy to nie podstęp?",
+              "maleVariant": "",
+              "stringId": "1680679500024143872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Skąd mam wiedzieć, czy to nie podstęp?",
+              "maleVariant": "",
+              "stringId": "1680680165492416512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może to twoja zemsta, co? Dzieło twojego życia zrobiło z Saburo boga, a ty sam pozostałeś śmiertelnikiem.",
+              "maleVariant": "",
+              "stringId": "1680680642636439552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dokończmy rozmowę o ofercie moich pracodawców.",
+              "maleVariant": "",
+              "stringId": "1680681333790629888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czyli mam trafić do więzienia dusz Arasaki, zdana na łaskę korporacji? Nawet nie muszę pytać, gdzie tkwi haczyk.",
+              "maleVariant": "Czyli mam trafić do więzienia dusz Arasaki, zdany na łaskę korporacji? Nawet nie muszę pytać, gdzie tkwi haczyk.",
+              "stringId": "1680682277307703296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I w tym jesteśmy podobni do siebie. Dlaczego miałbym karać towarzyszkę niedoli?",
+              "maleVariant": "I w tym jesteśmy podobni do siebie. Dlaczego miałbym karać towarzysza niedoli?",
+              "stringId": "1680682789432221696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uczciwość układu gwarantuje umowa. Musisz ją tylko podpisać, jeśli chcesz żyć.",
+              "maleVariant": "",
+              "stringId": "1680686627824361472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kolejny dowód na to, że trafiłam do piekła.",
+              "maleVariant": "Kolejny dowód na to, że trafiłem do piekła.",
+              "stringId": "1681156544390520832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hajime.",
+              "maleVariant": "",
+              "stringId": "1682654691327500288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hajime, co byś powiedział człowiekowi, który wszedł prosto do więzienia wroga, żeby ratować swoje życie?",
+              "maleVariant": "",
+              "stringId": "1682654873494511616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powiedziałbym mu: \"Zapamiętaj dobrze drogę do domu\".",
+              "maleVariant": "",
+              "stringId": "1682660766273527808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Saburo Arasaka wrócił.",
+              "maleVariant": "",
+              "stringId": "1683580861397098496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zatem Saburo Arasaka wrócił. W ciele Yorinobu.",
+              "maleVariant": "",
+              "stringId": "1683592745470943232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Żyjemy w ciekawych czasach.",
+              "maleVariant": "",
+              "stringId": "1683597848311521280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie rusza cię to?",
+              "maleVariant": "",
+              "stringId": "1683598185181241344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przez połowę mojego życia pracowałem, by dać Saburo Arasace nieśmiertelność. Przywykłem do myśli o jego zmartwychwstaniu.",
+              "maleVariant": "",
+              "stringId": "1683598328106344448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W głowie mi się to nie mieści.",
+              "maleVariant": "",
+              "stringId": "1683599745445552132"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Saburo Arasaka powinien gryźć piach.",
+              "maleVariant": "",
+              "stringId": "1683600081426079744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szkoda mi Yorinobu.",
+              "maleVariant": "",
+              "stringId": "1683600290319196160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie chodzi tylko o nieśmiertelność. Saburo Arasaka ukradł ciało swojemu synowi.",
+              "maleVariant": "",
+              "stringId": "1683601778156265472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Saburo Arasaka powinien gryźć piach, powinien pozostać martwy.",
+              "maleVariant": "",
+              "stringId": "1683602090095042560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Żałuję Yorinobu. Przegrał w najgorszy możliwy sposób - zabił go jego własny koszmar.",
+              "maleVariant": "",
+              "stringId": "1683602331670175744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jest pierwszym człowiekiem, który sięgnął po boskość. Bogowie stoją poza dobrem i złem.",
+              "maleVariant": "",
+              "stringId": "1683604917777358848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Psy szczekają, karawana jedzie dalej.",
+              "maleVariant": "",
+              "stringId": "1683605859046285312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bez wątpienia tragiczna postać.",
+              "maleVariant": "",
+              "stringId": "1683608278773817344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie lubiłeś go.",
+              "maleVariant": "",
+              "stringId": "1683608485133574144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O zmarłych należy mówić dobrze albo wcale.",
+              "maleVariant": "",
+              "stringId": "1683608618327891968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[wstań] Do zobaczenia.",
+              "maleVariant": "",
+              "stringId": "1715818197974069248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[podpisz umowę] Chcę żyć.",
+              "maleVariant": "",
+              "stringId": "1720143812227313664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[nie podpisuj umowy] Wracam na Ziemię.",
+              "maleVariant": "",
+              "stringId": "1720143812227313680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiem, to nie jest łatwa decyzja, zastanów się dobrze.",
+              "maleVariant": "",
+              "stringId": "1721002059368837120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wyczerpaliśmy jeszcze wszystkich możliwości.",
+              "maleVariant": "",
+              "stringId": "1721037999588061184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[weź kostkę]",
+              "maleVariant": "",
+              "stringId": "1721559632979505152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Umowa nie zawiera żadnych kruczków prawnych, nie ma czego się bać.",
+              "maleVariant": "",
+              "stringId": "1722569427203207168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak każdy.",
+              "maleVariant": "",
+              "stringId": "1722725833151688704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[oddaj się w ręce Arasaki]",
+              "maleVariant": "",
+              "stringId": "1730085601029730304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Alt Cunningham była pierwsza.",
+              "maleVariant": "",
+              "stringId": "1730422819343851520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zaskakujące porównanie, ale trafne pod wieloma względami.",
+              "maleVariant": "",
+              "stringId": "1730424218379116544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Twoje ciało do niczego się już nie nadaje, musisz je porzucić.",
+              "maleVariant": "",
+              "stringId": "1730449312849616896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie ma sensu zwlekać, w zasadzie od razu możemy przystąpić do wykonania transferu.",
+              "maleVariant": "",
+              "stringId": "1730457598378401792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do zobaczenia w przyszłości, mam nadzieję.",
+              "maleVariant": "",
+              "stringId": "1730458234016784384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nasz personel odprowadzi cię na miejsce.",
+              "maleVariant": "",
+              "stringId": "1730458434554847232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę żyć.",
+              "maleVariant": "",
+              "stringId": "1730459257846390784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Już postanowiłam.",
+              "maleVariant": "Już postanowiłem.",
+              "stringId": "1730463623076667392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wracam na Ziemię.",
+              "maleVariant": "",
+              "stringId": "1730465133344874496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Umrzesz tam.",
+              "maleVariant": "",
+              "stringId": "1730465375758868480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Żegnaj, Hellman. Oferta była do dupy, ale dałeś mi coś lepszego.",
+              "maleVariant": "",
+              "stringId": "1730465824029302784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dotąd śmierć była dla mnie koniecznością. Ty sprawiłeś, że mogłam ją przyjąć na własnych zasadach.",
+              "maleVariant": "Dotąd śmierć była dla mnie koniecznością. Ty sprawiłeś, że mogłem ją przyjąć na własnych zasadach.",
+              "stringId": "1730466095182667776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "E... Co takiego?",
+              "maleVariant": "",
+              "stringId": "1730470807835533312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nawiasem mówiąc, jest związany z twoją sytuacją.",
+              "maleVariant": "",
+              "stringId": "1730478544665468928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podstęp?",
+              "maleVariant": "",
+              "stringId": "1732729487985500160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stworzymy engram twojego umysłu i przechowamy go w Mikoshi.",
+              "maleVariant": "",
+              "stringId": "1732965978498162688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dlaczego nie mogę dostać nowego ciała?",
+              "maleVariant": "",
+              "stringId": "1732966308673773568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A przypadek Saburo Arasaki?",
+              "maleVariant": "",
+              "stringId": "1732968765126631424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty nie masz córki i nie dysponujesz prywatną kliniką skupioną tylko na twoim przypadku.",
+              "maleVariant": "Ty nie masz syna i nie dysponujesz prywatną kliniką skupioną tylko na twoim przypadku.",
+              "stringId": "1732968880285442048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Paskudne miejsce, można w nim oszaleć.",
+              "maleVariant": "",
+              "stringId": "1735919949344956416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Arasakowie stali się bogami, jesteś dla nich kimś nieistotnym.",
+              "maleVariant": "",
+              "stringId": "1736037829772337152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może Arasaka chce przykładnie ukarać złodzieja? Może chcą mnie mieć w swojej kolekcji?",
+              "maleVariant": "",
+              "stringId": "1736039672296529920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do zobaczenia.",
+              "maleVariant": "",
+              "stringId": "1736051116790538240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[podnieś się]",
+              "maleVariant": "",
+              "stringId": "1741995088799293444"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[weź dokumenty]",
+              "maleVariant": "",
+              "stringId": "1744472205147463684"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Engram nie ma statusu osoby, zatem dokument jest zrzeczeniem się prawa własności. Tymczasowo, rzecz jasna.",
+              "maleVariant": "",
+              "stringId": "1744473385072287784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie chcę stać się własnością Arasaki.",
+              "maleVariant": "",
+              "stringId": "1744473385072287800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Klienci programu to sami znani i wpływowi ludzie, żaden z nich jeszcze się nie skarżył.",
+              "maleVariant": "",
+              "stringId": "1744473385089064960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A jeśli się nie zgodzę?",
+              "maleVariant": "",
+              "stringId": "1744473385089064976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Twoje rzeczy są już spakowane, prom zabierze cię na Ziemię. Umrzesz tam przed nadejściem zimy.",
+              "maleVariant": "",
+              "stringId": "1744473385089064992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[pokaż środkowy palec]",
+              "maleVariant": "",
+              "stringId": "1760502584401276944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[wróć na Ziemię]",
+              "maleVariant": "",
+              "stringId": "1760519992440598528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[wstań]",
+              "maleVariant": "",
+              "stringId": "1862341356661989376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"A thing of beauty, I know, will never fade away.\"",
+              "maleVariant": "",
+              "stringId": "1865108574663565312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"I see your eyes, I know you see me you're like a ghost how you're everywhere.\"",
+              "maleVariant": "",
+              "stringId": "1865138045219201024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[weź torbę]",
+              "maleVariant": "",
+              "stringId": "2066574925973393412"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wstawaj.",
+              "maleVariant": "",
+              "stringId": "2221730121913823232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V?",
+              "maleVariant": "",
+              "stringId": "2221730236955193344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Weź, obejrzyj.",
+              "maleVariant": "",
+              "stringId": "2221730355335229440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zdecydowałaś się?",
+              "maleVariant": "Zdecydowałeś się?",
+              "stringId": "2221730490693808128"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

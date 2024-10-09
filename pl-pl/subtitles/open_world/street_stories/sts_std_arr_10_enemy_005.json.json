@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No i czemu nie odbierasz?",
+              "maleVariant": "",
+              "stringId": "1854626911660306432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, mówiłem przecież, że zapłacę, jak tylko przeleją mi kasę w robocie.",
+              "maleVariant": "",
+              "stringId": "1854629525298900992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mam dwa tygodnie w plecy przez te pierdolone płuca...",
+              "maleVariant": "",
+              "stringId": "1854668899126374400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kochanie, proszę. Jedno spotkanie. Dopisz do rachunku i dorzuć dziesięć procent.",
+              "maleVariant": "",
+              "stringId": "1854729382097350656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A co, zazdrosna jesteś? Proszę cię, moja żona przestała się nadawać do czegokolwiek wieki temu.",
+              "maleVariant": "",
+              "stringId": "1854730126988963840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zajebiście. To wpadnę do ciebie po pracy. Pa, mała.",
+              "maleVariant": "",
+              "stringId": "1854730787390517248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A tobie by zapłacili, gdybyś złapała jakiegoś syfa i przeleżała dziesięć dni w łóżku?",
+              "maleVariant": "",
+              "stringId": "1923088302834577408"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

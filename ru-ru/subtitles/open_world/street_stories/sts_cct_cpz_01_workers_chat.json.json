@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну?",
+              "maleVariant": "",
+              "stringId": "1537104554696454144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поверни ещё. Сильнее.",
+              "maleVariant": "",
+              "stringId": "1537107185045155840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да чтоб тебя! Гр-р! Ладно, я пошёл.",
+              "maleVariant": "",
+              "stringId": "1537107612360847360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Должно помочь.",
+              "maleVariant": "",
+              "stringId": "1987941981348007936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй, это предохранитель! Попробуй резервную линию, вдруг что получится.",
+              "maleVariant": "",
+              "stringId": "1987942503253643264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Грёбаные нетраннеры.",
+              "maleVariant": "",
+              "stringId": "1987942814135455744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Небось, пацаны какие-нибудь в подсеть пролезть пытаются. Вот делать им нехер…",
+              "maleVariant": "",
+              "stringId": "1987943805719252992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну ничего, сейчас я им найду занятие…",
+              "maleVariant": "",
+              "stringId": "1987944908670210048"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

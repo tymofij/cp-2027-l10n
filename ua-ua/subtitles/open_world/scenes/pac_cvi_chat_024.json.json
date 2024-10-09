@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Агов, може підемо вже? Скоро стемніє.",
+              "maleVariant": "",
+              "stringId": "2179512439692095488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якщо хоч’, то йди. Мені й тут добре.",
+              "maleVariant": "",
+              "stringId": "2189485360813948928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та годі тобі, ходімо. Хлопці казали, що тут «Бляхарі» водяться. Не хочу, щоб із тобою щось сталося.",
+              "maleVariant": "",
+              "stringId": "2189485552225206272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та вже краще «Бляхарі», аніж слухати, як моя мамка верещить.",
+              "maleVariant": "",
+              "stringId": "2189485776066822144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я серйозно, це не смішно!",
+              "maleVariant": "",
+              "stringId": "2189485957260754944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І я серйозно. Хочу на море подивитися.",
+              "maleVariant": "",
+              "stringId": "2189486046649761792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Посидь зі мною хвилинку, а потім ми разом підемо, окей?",
+              "maleVariant": "",
+              "stringId": "2189486146524528640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але… Ех-х, ну гаразд.",
+              "maleVariant": "",
+              "stringId": "2189486487689216000"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

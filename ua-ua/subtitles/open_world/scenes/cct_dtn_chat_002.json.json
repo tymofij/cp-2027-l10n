@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Стривай… Тільки не кажи мені, шо це сукня від «Джінґуджі».",
+              "maleVariant": "",
+              "stringId": "1963293454750171136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Воліла б, щоби я збрехала?",
+              "maleVariant": "",
+              "stringId": "1963294215445921792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як ти… Звідки ти його взяла? Ти шо, нирку продала, чи шо?",
+              "maleVariant": "",
+              "stringId": "1963294862945796096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можливо.",
+              "maleVariant": "",
+              "stringId": "1963295423791349760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Варто визнати, воно прекрасне, але… Скільки євдиків?.. Невже воно було варте того?",
+              "maleVariant": "",
+              "stringId": "1963295761214717952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я геть не шкодую… Жодного сорому в прагненні досконалості.",
+              "maleVariant": "",
+              "stringId": "1963296350296326144"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

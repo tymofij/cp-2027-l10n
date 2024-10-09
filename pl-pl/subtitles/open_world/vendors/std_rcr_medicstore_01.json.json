@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę skorzystać z twoich usług.",
+              "maleVariant": "",
+              "stringId": "1828465360056528896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dostanę u ciebie coś ekstra?",
+              "maleVariant": "",
+              "stringId": "1828465360056528912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę skorzystać z twoich usług.",
+              "maleVariant": "",
+              "stringId": "1828465360090083332"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm. O co dokładnie chodzi?",
+              "maleVariant": "",
+              "stringId": "1828465360090083340"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dostanę u ciebie coś ekstra? Wiesz, tak spod lady?",
+              "maleVariant": "",
+              "stringId": "1828465360123637764"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Większość sprzedawców w Night City ma pod ladą strzelby, nie mówię, że ja mam, ale sama rozumiesz. Nie kombinuj.",
+              "maleVariant": "Większość sprzedawców w Night City ma pod ladą strzelby, nie mówię, że ja mam, ale sam rozumiesz. Nie kombinuj.",
+              "stringId": "1828465360157192196"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

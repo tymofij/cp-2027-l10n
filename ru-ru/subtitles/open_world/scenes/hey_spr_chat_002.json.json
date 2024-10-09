@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что… Что же мне теперь делать?",
+              "maleVariant": "",
+              "stringId": "1831668612518764544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Говорила я, у тебя кишка тонка.",
+              "maleVariant": "",
+              "stringId": "1831671789116841984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прайс на меня так посмотрел… Они меня грохнут!",
+              "maleVariant": "",
+              "stringId": "1831671941286191104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Иди на шоу к Зигги. Как тот мужик, которому они руку отчекрыжили.",
+              "maleVariant": "",
+              "stringId": "1831672094260846592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скажи, что тебя выгнали из «Арасаки».",
+              "maleVariant": "",
+              "stringId": "1831672318706442240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Милитех» сразу прискачет. Они на всё готовы, лишь бы им нагадить.",
+              "maleVariant": "",
+              "stringId": "1831672542212513792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Только не говори, что пыталась отравить Прайса.",
+              "maleVariant": "",
+              "stringId": "1831672980013965312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Карьеристов никто не любит.",
+              "maleVariant": "",
+              "stringId": "1831673362198945792"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

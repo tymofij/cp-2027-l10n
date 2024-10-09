@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zgadza się.",
+              "maleVariant": "",
+              "stringId": "1815753681951170560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zgadza się.",
+              "maleVariant": "",
+              "stringId": "1815753681967947780"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W sprawie księgi?",
+              "maleVariant": "",
+              "stringId": "1815753682018279428"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cena nie podlega negocjacji. Płatne w całości na miejscu.",
+              "maleVariant": "",
+              "stringId": "1815763652801634304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zadzwonię później.",
+              "maleVariant": "",
+              "stringId": "1842959193754357760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zadzwonię później.",
+              "maleVariant": "",
+              "stringId": "1842959381910835200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Doskonale. Wysyłam adres. Przyjdź sama.",
+              "maleVariant": "Doskonale. Wysyłam adres. Przyjdź sam.",
+              "stringId": "1842960760461119488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rozumiem... Niech będzie.",
+              "maleVariant": "",
+              "stringId": "1842961087566499840"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

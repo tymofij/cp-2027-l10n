@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szkoda dziewczyny. Liczyłam, że uda ci się załatwić tę sprawę nieco inaczej. Na przykład bardziej werbalnie... Kontrakt zamknięty.",
+              "maleVariant": "",
+              "stringId": "2328595150718607360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ma się to gadane, co? Dobrze, że tak to się skończyło. Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2328595234906677248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Miałaś ją przekonać do przerwania śledztwa, a nie pobić.",
+              "maleVariant": "Miałeś ją przekonać do przerwania śledztwa, a nie pobić.",
+              "stringId": "2328595363957022720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gdyby chodziło o zwykłe mordobicie, to wysłałabym do niej jakiegoś Animalsa... ech... no trudno. Kontrakt zamknięty.",
+              "maleVariant": "",
+              "stringId": "2331926207950852096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, taka uwaga na przyszłość - kończ to, co zaczęłaś.",
+              "maleVariant": "V, taka uwaga na przyszłość - kończ to, co zaczęłeś.",
+              "stringId": "2362380566429798400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie przekonałaś Anny do przerwania śledztwa, co gorsza, dałaś jej dowód na to, że jest ono komuś nie na rękę.",
+              "maleVariant": "Nie przekonałeś Anny do przerwania śledztwa, co gorsza, dałeś jej dowód na to, że jest ono komuś nie na rękę.",
+              "stringId": "2362381410592198656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Teraz ta uparta dziewczyna się nie podda, a to się nie może skończyć dobrze, rozumiesz?",
+              "maleVariant": "",
+              "stringId": "2362382262254014464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mam nadzieję, że tak, bo to, co się stanie, obciąży twoje sumienie.",
+              "maleVariant": "",
+              "stringId": "2362382907455410176"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Child, I have a grave task for you – the literal kind. The netrunner is still alive, but what happens to her is either a matter of time or your discretion.",
+              "maleVariant": "",
+              "stringId": "2328787616878317572"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "8ug8ear is trapped in the Net. If she jacks out, the Tyger Claws stand ready, waiting like vultures to tear her to shreds.",
+              "maleVariant": "",
+              "stringId": "2334551533569163264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And if she doesn't, her synapses will fry soon enough anyway. I am counting on you, V. See the details attached.",
+              "maleVariant": "",
+              "stringId": "2334551703203594240"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

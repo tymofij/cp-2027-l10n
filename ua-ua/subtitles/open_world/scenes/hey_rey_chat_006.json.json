@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Краще тобі знайти іншу роботу, інакше станеш циніком.",
+              "maleVariant": "",
+              "stringId": "1833104914376155136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як ти?",
+              "maleVariant": "",
+              "stringId": "1833107372691283968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, як я, чорт забирай! Ти ще молодий. Рятуй тварин у Норт-Оук, стань йобаним священником, та що завгодно!",
+              "maleVariant": "",
+              "stringId": "1833107564756852736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Просто вшивайся з вулиць.",
+              "maleVariant": "",
+              "stringId": "1833107694411177984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давно ти дізнався, що вони стежать за Ліллією?",
+              "maleVariant": "",
+              "stringId": "1833107915635548160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сказав їй, щойно дізнався.",
+              "maleVariant": "",
+              "stringId": "1833108077820895232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я, сука, не про це спитав!",
+              "maleVariant": "",
+              "stringId": "1833108228530626560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вона хотіла зробити це сама, щоби не наражати тебе на небезпеку. Вона знала, що це геть не наша ліга!",
+              "maleVariant": "",
+              "stringId": "1833108499080011776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кончене ти, блядь, сцикло!",
+              "maleVariant": "",
+              "stringId": "1833108772582187008"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

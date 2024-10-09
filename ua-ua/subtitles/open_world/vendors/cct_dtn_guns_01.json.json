@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що за зброя в тебе є на продаж?",
+              "maleVariant": "",
+              "stringId": "1979229565159448580"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як у тебе справи йдуть?",
+              "maleVariant": "",
+              "stringId": "1979230029955440640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Яке залізяччя маєш на продаж?",
+              "maleVariant": "",
+              "stringId": "1979230741326176256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я вже боявся ти не спитаєш.",
+              "maleVariant": "",
+              "stringId": "1979231483499880448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як бізнес? Квітне?",
+              "maleVariant": "",
+              "stringId": "1979232293319319552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ще і як буйно. Люди зараз зі зброєю нерозлучні.",
+              "maleVariant": "",
+              "stringId": "1979233534229323776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якщо бажаєш спокійно почуватися на вулицях, не помилишся якщо візьмеш бронежилет та каску.",
+              "maleVariant": "",
+              "stringId": "1979233851369037824"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

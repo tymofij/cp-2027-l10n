@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я тебе один мизинчик отрежу, и ты сразу будешь молить о пощаде.",
+              "maleVariant": "",
+              "stringId": "2007238976497385472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты думаешь, что ещё дышишь? Нет, это твоя душа покидает тело.",
+              "maleVariant": "",
+              "stringId": "2007239033707692032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я с радостью избавляю город от падали вроде тебя.",
+              "maleVariant": "",
+              "stringId": "2007239161600409600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Никчёмному сброду — никчёмная смерть.",
+              "maleVariant": "",
+              "stringId": "2007239235655041024"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

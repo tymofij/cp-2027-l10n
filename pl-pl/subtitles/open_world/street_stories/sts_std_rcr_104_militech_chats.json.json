@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oczy dookoła głowy, palec na spuście.",
+              "maleVariant": "",
+              "stringId": "1924440923547545600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cel jest uzbrojony i niebezpieczny.",
+              "maleVariant": "",
+              "stringId": "1924441736084893696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Myślałem, że McLean miał porządną ochronę?",
+              "maleVariant": "",
+              "stringId": "1924442311476293632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bo miał. A koleś wystrzelał ich jak kaczki.",
+              "maleVariant": "",
+              "stringId": "1924442709415079936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, to zapowiada się ciekawie.",
+              "maleVariant": "",
+              "stringId": "1924443085509931008"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дакоту надо спросить. Вроде у неё были какие-то c ними дела.",
+              "maleVariant": "",
+              "stringId": "1973567944456708096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, может, они киберпсихоз словили, вот их свои же сюда и выкинули?",
+              "maleVariant": "",
+              "stringId": "1975027311442640896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но откуда здесь «Мальстрём»?! У нас, в Пустошах! Это на них не похоже.",
+              "maleVariant": "",
+              "stringId": "1975027329025163264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Духи»? Ты сама-то видала таких «Духов»? Чтоб были как… как киборги на стероидах?!",
+              "maleVariant": "",
+              "stringId": "1975027345517166592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А может, это просто были какие-то «Духи» с кучей имплантов?",
+              "maleVariant": "",
+              "stringId": "1975027359073157120"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты видал, что с моей машиной после вчерашней бури?!",
+              "maleVariant": "",
+              "stringId": "1468919596504756224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сколько мы ещё будем нянчиться с этой тёлкой и её сраной тачкой?",
+              "maleVariant": "",
+              "stringId": "1468921072513888256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты, главное, расслабься. Сделай глубокий вдох, подумай о хорошем. И иди помой свою ласточку.",
+              "maleVariant": "",
+              "stringId": "1468921318870528000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Весь гараж под себя подгребла…",
+              "maleVariant": "",
+              "stringId": "1932950596875997184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спасибо, брат.",
+              "maleVariant": "",
+              "stringId": "1932953601172066304"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

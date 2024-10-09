@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ej, słuchaj... Cholera, wydaje mi się, że budynek osiada, wiesz? Bo jak przyłożyłem poziomicę, to--",
+              "maleVariant": "",
+              "stringId": "2167942717724446720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zamknij się, do cholery. Chcesz, żeby nas zwolnili?",
+              "maleVariant": "",
+              "stringId": "2182349920621875200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiem, że osiada. Wszyscy wiedzą, że osiada. Tylko nie inwestor. Jak to wyjdzie na jaw... Jeb, koniec budowy. I znowu wylądujemy na bezrobociu.",
+              "maleVariant": "",
+              "stringId": "2182351918419202048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcesz tego? Nie? To morda w kubeł i rób swoje.",
+              "maleVariant": "",
+              "stringId": "2182353305139990528"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

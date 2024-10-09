@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шукаю нову зброю.",
+              "maleVariant": "",
+              "stringId": "1828465168108400640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як бізнес?",
+              "maleVariant": "",
+              "stringId": "1828465168108400656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шукаю якесь нове залізяччя.",
+              "maleVariant": "",
+              "stringId": "1828465168125177860"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можеш більше не шукати. Я маю все.",
+              "maleVariant": "",
+              "stringId": "1828465168141955072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як бізнес?",
+              "maleVariant": "",
+              "stringId": "1828465168158732292"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не можу скаржитися. Люди в Найт-Сіті скорше помруть з голоду ніж економитимуть на зброї.",
+              "maleVariant": "",
+              "stringId": "1828465168158732300"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

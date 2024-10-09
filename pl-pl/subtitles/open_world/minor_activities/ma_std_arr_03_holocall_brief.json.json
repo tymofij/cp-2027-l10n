@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do wszystkich jednostek wspierających działania NCPD. Podejrzenie przestępczości zorganizowanej przy Hargreaves Street.",
+              "maleVariant": "",
+              "stringId": "2328972081799548928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na miejscu przebywa Darius Miles skazany za morderstwo. Mężczyzna jest członkiem gangu 6th Street i kieruje grupą zajmującą się przetwarzaniem narkotyków.",
+              "maleVariant": "",
+              "stringId": "2358404649135214592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Za zneutralizowanie siatki przestępczej Dariusa Milesa, władze Night City wypłacą nagrodę.",
+              "maleVariant": "",
+              "stringId": "2358404675290894336"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ма? Всё нормально?",
+              "maleVariant": "",
+              "stringId": "1963263028785881088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я… Не знаю. Я только что от рипера… со стимулятором какие-то проблемы.",
+              "maleVariant": "",
+              "stringId": "1966520334127185920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Долбаная электростанция! Я тебя миллион раз просила найти другую работу.",
+              "maleVariant": "",
+              "stringId": "1966522330615889920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кто меня возьмёт в моём-то возрасте? С такими руками? Им уже пятнадцать лет!",
+              "maleVariant": "",
+              "stringId": "1966522658509799424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да брось, ма. Не нужны руки четвёртого поколения, чтоб туалеты мыть!",
+              "maleVariant": "",
+              "stringId": "1966522891612438528"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

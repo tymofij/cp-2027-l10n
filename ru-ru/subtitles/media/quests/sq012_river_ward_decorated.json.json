@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет, меня зовут Ариф Икбал, и это новости на «Дабл-ю-эн-эс».",
+              "maleVariant": "",
+              "stringId": "1792240161548836864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шокирующая новость этой недели — нападение киберпсихопата на мэра Найт-Сити Люциуса Райна.",
+              "maleVariant": "",
+              "stringId": "1796858381269188608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сумасшедший атаковал мэра во время пресс-конференции, но, к счастью, его вовремя обезвредил детектив полиции Ривер Уорд, не допустив печального исхода.",
+              "maleVariant": "",
+              "stringId": "1796859723714904064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Уорд, которого уже прозвали «суперкопом», сегодня получил от мэра медаль «За заслуги».",
+              "maleVariant": "",
+              "stringId": "1796860063570968576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То, что чуть не стало  трагедией, в итоге может оказаться для мэра настоящим подарком судьбы в преддверии будущих выборов.",
+              "maleVariant": "",
+              "stringId": "1796865065446260736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "По данным опросов, после этого нападения, Райн обходит своего главного соперника, Пералеса, уже не на двенадцать, а на девятнадцать процентных пунктов.",
+              "maleVariant": "",
+              "stringId": "1796865310376837120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Больше местных новостей после паузы.",
+              "maleVariant": "",
+              "stringId": "1796865549821263872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

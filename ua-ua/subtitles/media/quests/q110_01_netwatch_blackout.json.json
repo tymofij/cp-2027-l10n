@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вітаю, час місцевих новин. Рейд на постачальників органічного м’яса та спалах малярії в Ґлені.",
+              "maleVariant": "",
+              "stringId": "1744334830032183296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Майже весь район було відрізано від світу впродовж декількох годин. Мешканці не могли з’єднатися з Мережею, місцевими підмережами та системами зв’язку.",
+              "maleVariant": "",
+              "stringId": "1744341886478901248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поліція Найт-Сіті закликала всіх до спокою, стверджуючи, що вимкнення — результат типового технічного обслуговування.",
+              "maleVariant": "",
+              "stringId": "1744350285975314432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми продовжимо розповідати місцеві новини після перерви.",
+              "maleVariant": "",
+              "stringId": "1744350608886390784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але, спершу ми поговоримо про таємниче зникнення зв’язку в Пацифіці.",
+              "maleVariant": "",
+              "stringId": "1744352399770312704"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

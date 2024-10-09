@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я вижу, ты не задаёшь ненужных вопросов, Ви. Ты просто делаешь то, что велено.",
+              "maleVariant": "",
+              "stringId": "2333111386495176708"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я думала, ты последний человек, кого мог бы подкупить корпорат, засунутый в багажник. Ты не перестаёшь меня удивлять, Ви.",
+              "maleVariant": "",
+              "stringId": "2333111428991864836"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Моя дорогая Ви, ты меня разочаровываешь. Зачем было так делать?",
+              "maleVariant": "Мой дорогой Ви, ты меня разочаровываешь. Зачем было так делать?",
+              "stringId": "2333111461707436032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В следующий раз включай голову, иначе я могу обидеться. А ты не хочешь, чтобы я обиделась. До скорого, Ви.",
+              "maleVariant": "",
+              "stringId": "2343017082554519552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ценю такое отношение и знаю, как его вознаградить. Заказ выполнен.",
+              "maleVariant": "",
+              "stringId": "2344958500550316032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Услуга за услугу, Ви. Услуга за услугу. Заказ закрыт.",
+              "maleVariant": "",
+              "stringId": "2345012894079750144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С другой стороны, выигрывает тот, кто предлагает больше. О, я не о Сергее. Нет, к сожалению, вмешалась другая заинтересованная сторона. Кто знает, что с ним теперь будет…",
+              "maleVariant": "",
+              "stringId": "2345017834718203904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

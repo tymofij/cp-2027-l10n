@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Меня интересуют ваши услуги.",
+              "maleVariant": "",
+              "stringId": "1977789967955951620"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Приятный офис.",
+              "maleVariant": "",
+              "stringId": "1977790450401574912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Меня интересуют ваши услуги.",
+              "maleVariant": "",
+              "stringId": "1977790923116412928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Приятное местечко.",
+              "maleVariant": "",
+              "stringId": "1977791132546400256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, наши клиенты требуют лучшего. Не только качества услуг, но и комфортной обстановки.",
+              "maleVariant": "",
+              "stringId": "1977791481680265216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пожалуйста. Если они вам по средствам.",
+              "maleVariant": "",
+              "stringId": "1979301513075675136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Постарайтесь ничего не разбить.",
+              "maleVariant": "",
+              "stringId": "1979303057233858560"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

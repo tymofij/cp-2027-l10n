@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ех, воно й не дивно, що виробляється менше енергії. Тут уся панель припала пилом.",
+              "maleVariant": "",
+              "stringId": "2178303088333938688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Могли би вже придумати в тих своїх лабораторіях, як розганяти піщані бурі.",
+              "maleVariant": "",
+              "stringId": "2188194950707658752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гаразд, нам тут однаково нічим зайнятися. Треба повідомити про це, нехай пришлють прибиральників.",
+              "maleVariant": "",
+              "stringId": "2188195143947632640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, дуже круте рішення. Зараз їх пришлють, вони зроблять усе абияк, а по шапці отримаємо знову ми.",
+              "maleVariant": "",
+              "stringId": "2188195292644098048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давай просто переконаємося, чи немає більше пошкоджень.",
+              "maleVariant": "",
+              "stringId": "2188195402450976768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добре, добре. Не треба мене квапити.",
+              "maleVariant": "",
+              "stringId": "2188195579601600512"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

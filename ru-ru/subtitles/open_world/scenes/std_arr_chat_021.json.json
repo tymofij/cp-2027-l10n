@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это бред, и ты знаешь, что это бред! Подключать «Кироси» третьего поколения к мышцам первого поколения — это же сразу замыкание!",
+              "maleVariant": "",
+              "stringId": "2167959241924988928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У меня сейчас всё подключено, и я не жалуюсь. Надо просто немного изменить программы.",
+              "maleVariant": "",
+              "stringId": "2221752211264081920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тебе поштучно платят или ты спихиваешь что на складе залежалось?",
+              "maleVariant": "",
+              "stringId": "2221753402026987520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Послушайте, проблема не в импланте, а в программах. «Кироси» ограничивает совместимость, чтоб клиенты раз в два года меняли мышцы.",
+              "maleVariant": "",
+              "stringId": "2221754091084025856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А на самом деле сигнал от «Кироси» идёт нормально, просто его искусственно блокируют. Они же на этом наживаются.",
+              "maleVariant": "",
+              "stringId": "2221756819982094336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм, ну… А как модифицировать программы?",
+              "maleVariant": "",
+              "stringId": "2221760427486187520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, если вам интересно, могу посоветовать хорошего нетраннера и сделаю небольшую скидку на этот имплант.",
+              "maleVariant": "",
+              "stringId": "2221760761419894784"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

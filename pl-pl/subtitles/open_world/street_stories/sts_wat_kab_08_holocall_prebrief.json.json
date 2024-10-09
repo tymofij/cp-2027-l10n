@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mamy zlecenie na ostatnią sprawiedliwą policjantkę w Night City.",
+              "maleVariant": "",
+              "stringId": "2328584425749061632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiem, jak to brzmi, ale nie oszukujmy się - ktoś i tak wziąłby ten kontrakt.",
+              "maleVariant": "",
+              "stringId": "2331865293050449920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dziewczyna nazywa się Anna Hamill i prowadzi dochodzenie, które przysporzyło jej wielu wrogów. Lepiej, żeby je przerwała. Rozumiesz?",
+              "maleVariant": "",
+              "stringId": "2344884702861955072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może ty załatwisz tę sprawę z głową? Sprawdź załącznik, dowiesz się więcej.",
+              "maleVariant": "",
+              "stringId": "2344884876975902720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

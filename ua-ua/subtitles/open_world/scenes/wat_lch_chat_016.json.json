@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Здоров.",
+              "maleVariant": "",
+              "stringId": "2156465580253933568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу…",
+              "maleVariant": "",
+              "stringId": "2169334677264191488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вибач за те. Сама розумієш, клієнт замовляє музику. Нічого особистого.",
+              "maleVariant": "",
+              "stringId": "2169334893203738624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти пів команди моєї викосив.",
+              "maleVariant": "",
+              "stringId": "2169336814681509888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ж сказав, нічого особистого. Ну ж бо, давай я тебе пригощу, га? На знак примирення.",
+              "maleVariant": "",
+              "stringId": "2169337336788471808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не сьогодні.",
+              "maleVariant": "",
+              "stringId": "2169337699293777920"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

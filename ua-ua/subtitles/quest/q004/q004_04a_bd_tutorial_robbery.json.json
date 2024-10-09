@@ -1,0 +1,367 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гроші на бочку! Швидко! Я вас, сука, усіх зараз укладу!",
+              "maleVariant": "",
+              "stringId": "1177805824054931456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Агов! Спокійно! Стривай! Я просто!..",
+              "maleVariant": "",
+              "stringId": "1177810650524430336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну! Ну! Я тобі зараз баняк нахуй відстрелю!",
+              "maleVariant": "",
+              "stringId": "1177812419346313216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Точняк, зрозумів.",
+              "maleVariant": "",
+              "stringId": "1203656761373487104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І не забувай: викладайся на повну. Нам за такі виплески адреналіну доплатять ой-йой.",
+              "maleVariant": "",
+              "stringId": "1203657093595918336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "План простий, можеш не вигадувати нічого нового. Заходиш, вигрібаєш грошву, тікаєш, а потім ми продаємо МГ тим психам зі студії.",
+              "maleVariant": "",
+              "stringId": "1203772998824882176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гаразд. Сьогодні на пакети зі смаком карі або морського коктейлю діє знижка.",
+              "maleVariant": "",
+              "stringId": "1451721074460733440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, а з терміном придатності в них усе нормально?",
+              "maleVariant": "",
+              "stringId": "1466084306943864832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я від’єднаю тебе від сенсорики оператора, щоби ти змогла спокійно там вештатися. Роби, що хочеш.",
+              "maleVariant": "Я від’єднаю тебе від сенсорики оператора, щоби ти зміг спокійно там вештатися. Роби, що хочеш.",
+              "stringId": "1560656617783615488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У режимі аналізу у тебе повний контроль над камерою. Пересувайся, наближай, віддаляй, що там іще можна придумати… Уважай це своєю пісочницею.",
+              "maleVariant": "",
+              "stringId": "1560656617783615512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей, розглянься довкола.",
+              "maleVariant": "",
+              "stringId": "1560656617783615524"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це наче… межі реальності, які встиг записати оператор МГ. Редактор тебе за них не випустить. Зрозуміло?",
+              "maleVariant": "",
+              "stringId": "1560658646098698264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей, повернімося до тих дундуків.",
+              "maleVariant": "",
+              "stringId": "1560658646098698288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У режимі аналізу можна всіляко гратися з відтворенням запису або навіть зупиняти його, коли треба.",
+              "maleVariant": "",
+              "stringId": "1560659640920498176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А продовжити запис можна на консолі. Спробуй.",
+              "maleVariant": "",
+              "stringId": "1560659640937275400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Крутяк, правда ж? Але й це ще не все. У будь-який момент ти можеш пришвидшити або перемотати запис.",
+              "maleVariant": "",
+              "stringId": "1560663989021237248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Уперед, спробуй відмотати аж до самого початку.",
+              "maleVariant": "",
+              "stringId": "1560663989021237260"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, супер. Тепер спробуй трохи промотати вперед.",
+              "maleVariant": "",
+              "stringId": "1560664471567523840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей. Також ти можеш скинути запис. Тобто тебе просто відкине на його початок. Спробуй.",
+              "maleVariant": "Окей. Також ти можеш скинути запис. Тобто, тебе просто відкине на його початок. Спробуй сам.",
+              "stringId": "1560664983490715648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Легко, як із гори котитися, скажи ж? Коли будеш готова, скинь запис і підемо далі.",
+              "maleVariant": "Як із гори котитися, скажи ж? Коли будеш готовий, скинь запис і підемо далі.",
+              "stringId": "1560666163398762496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А тепер — веселощі, заради яких, власне, ти сюди й прийшла.",
+              "maleVariant": "А тепер — веселощі, заради яких, власне, ти сюди й прийшов.",
+              "stringId": "1560671309340008448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У режимі аналізу можна роздивлятися та сканувати всілякі подробиці оточення, яке бачив оператор МГ.",
+              "maleVariant": "",
+              "stringId": "1560671309340008464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сфокусуйся на зброї, яку цей недоумок узяв у свого кореша на самому початку. Зіскануй її.",
+              "maleVariant": "",
+              "stringId": "1560671309356785684"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чудо-ово.",
+              "maleVariant": "",
+              "stringId": "1560671956688887808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поїхали далі.",
+              "maleVariant": "",
+              "stringId": "1560671956688887824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А тепер увага. У режимі аналізу можна прослухати фонові шуми та розмови, які міг перехопити оператор.",
+              "maleVariant": "",
+              "stringId": "1560674757896757248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Цей пристрій записує все, кожну дрібницю. Навіть те, чому оператор не приділив уваги.",
+              "maleVariant": "",
+              "stringId": "1560674757896757260"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Щоби побачити, звідки йдуть записані сенсорні сигнали, треба перемкнутися на звуковий шар у редакторі. Уперед, спробуй.",
+              "maleVariant": "Щоби побачити, звідки йдуть записані сенсорні сигнали, треба перемкнутися на звуковий шар у редакторі. Давай, спробуй сам.",
+              "stringId": "1560674757913534476"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ось так, добре. Тепер ти бачиш у крамниці декілька звукових джерел. Обери якесь одне і зосередься на ньому.",
+              "maleVariant": "",
+              "stringId": "1560675927671365632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, що думаєш?",
+              "maleVariant": "",
+              "stringId": "1560678452055171072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Неймовірно, серйозно! Наче просто поряд із ними стоїш.",
+              "maleVariant": "",
+              "stringId": "1560678452071948296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отож-бо, у цьому й принада записувальних імплантів. Вони вхоплюють кожну деталь, а редактор їх розпізнає та виокремлює.",
+              "maleVariant": "",
+              "stringId": "1560678452071948308"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пограйся ще зі звуком, повивчай його. Коли набридне — рушаймо далі.",
+              "maleVariant": "",
+              "stringId": "1560678452071948320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А тепер почекаємо, поки цей чувак вирубить ту тітку біля прилавка.",
+              "maleVariant": "",
+              "stringId": "1560679289640902656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Людей теж можна сканувати. Он, підійди до пораненої дівиці, спробуй.",
+              "maleVariant": "",
+              "stringId": "1560680178632024064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Супер, тепер далі. Промотай до моменту, де нашому герою засадили кулю.",
+              "maleVariant": "",
+              "stringId": "1560680919698432016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бачиш? Він навіть не знав, що в нього стріляли.",
+              "maleVariant": "",
+              "stringId": "1560681443533447168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ось ти знатимеш. Починається моє улюблене.",
+              "maleVariant": "",
+              "stringId": "1560681443550224388"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бачиш, над дверима щось блимає? То камера спостереження.",
+              "maleVariant": "",
+              "stringId": "1560684169394839552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зображення виводиться на екран біля продавця.",
+              "maleVariant": "",
+              "stringId": "1560684169411616776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гараздоньки, тепер редактор компенсує нестачу даних і ми дізнаємося, хто ж це стріляв. Ну, запускай.",
+              "maleVariant": "",
+              "stringId": "1560685578865532928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Йому кулю засадив його ж чумба. Імовірно, він так від самого початку планував. На чорному ринку за такі МГ величезні гроші платять.",
+              "maleVariant": "",
+              "stringId": "1560697181904232448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мозкограєві фріки що завгодно віддадуть за запис справжньої смерті.",
+              "maleVariant": "",
+              "stringId": "1560697181904232464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ось так. Якщо ти надивилася, можеш виходити.",
+              "maleVariant": "Ось так. Якщо ти надивився, можеш виходити.",
+              "stringId": "1560697181904232476"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Цигарки, ящик «Брозефа» та дві розігрійки.",
+              "maleVariant": "",
+              "stringId": "1660754145775071232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А-а! Їбане ти…",
+              "maleVariant": "",
+              "stringId": "1661875906944053248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Сходь до комори, а я на касу». Та шоб у тебе хуй відсох, падло.",
+              "maleVariant": "",
+              "stringId": "1661884246898126848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Іноді в сирому записі можна аналізувати додаткові шари з інформацією, яку вловили імпланти оператора.",
+              "maleVariant": "",
+              "stringId": "1662182858223923200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Наприклад?",
+              "maleVariant": "",
+              "stringId": "1662189239622578176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В Еви є оптика від «Кіроші», яка вловлює інфрачервоне випромінювання. Себто, в її записах будуть і термічні категорії.",
+              "maleVariant": "",
+              "stringId": "1662189504165720064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хах, прикольно.",
+              "maleVariant": "",
+              "stringId": "1663182014853541888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усі на підлогу! Лежати! Землю-матінку поцілували, швидко, блядь!",
+              "maleVariant": "",
+              "stringId": "1793872359748153344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І хулі ти, лярво, витріщився?",
+              "maleVariant": "",
+              "stringId": "1945715303684632576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вона-то точно засікла стрілка. Зараз побачиш.",
+              "maleVariant": "",
+              "stringId": "1968861151213776896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ось тутоньки.",
+              "maleVariant": "",
+              "stringId": "1970527589012221952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Відмотай до миті, коли екран був у полі зору хлопчини та проскануй його.",
+              "maleVariant": "",
+              "stringId": "1979152407093440512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, давай, пішов.",
+              "maleVariant": "",
+              "stringId": "2231624522677809152"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, я… розумію твоє рішення, але можна було зробити все інакше. Аарон — той іще кретин, але кретин зі зв’язками. І в тебе на руках був неабиякий компромат на нього.",
+              "maleVariant": "",
+              "stringId": "2328730960470188032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От же ж. Ну, ситуація вийшла з-під контролю. Але дякую за гарно виконану роботу, Ві. І не переживай за Аарона. Нехай спить.",
+              "maleVariant": "",
+              "stringId": "2328732192823812096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Аарон щасливий. І я щаслива. Хороші стосунки з копами завжди окупаються, правда? Контракт закрито, євдики полетіли.",
+              "maleVariant": "",
+              "stringId": "2328734139417075712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але що пороблено, того не повернеш. Наш клієнт мертвий, а значить, про гроші теж можна забути. Вважай, що не було ніякого контракту.",
+              "maleVariant": "",
+              "stringId": "2340192984807870464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Коли прокинеться, то згадає, що запис у нас, і… матимемо власного інформатора в поліції. Контракт закрито й запечатано.",
+              "maleVariant": "",
+              "stringId": "2369388616399294464"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

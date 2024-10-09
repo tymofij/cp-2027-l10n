@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, такие умные, а сами даже мусорку найти не могут. И это со своими «Кироси».",
+              "maleVariant": "",
+              "stringId": "2172018080575250432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну а что ты можешь сделать? Просто ходи и собирай.",
+              "maleVariant": "",
+              "stringId": "2189967723140059136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А-а, только глянешь на него не так, так он, сука, ещё и жалобу накатает.",
+              "maleVariant": "",
+              "stringId": "2191283321719590912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И тебя уволят.",
+              "maleVariant": "",
+              "stringId": "2191283445719994368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И тебя уволят.",
+              "maleVariant": "",
+              "stringId": "2191283535914307584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чёрт бы их всех побрал.",
+              "maleVariant": "",
+              "stringId": "2191283746099269632"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

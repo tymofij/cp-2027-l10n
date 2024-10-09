@@ -1,0 +1,799 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz coś fajnego na sprzedaż?",
+              "maleVariant": "",
+              "stringId": "1866072098181238784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Każdy może tu kupować?",
+              "maleVariant": "",
+              "stringId": "1866072098198016012"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz coś fajnego na sprzedaż?",
+              "maleVariant": "",
+              "stringId": "1866072098214793220"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeśli cię stać.",
+              "maleVariant": "",
+              "stringId": "1866072098214793228"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak to jest – każdy może sobie tu wejść z ulicy i kupić nielegalny soft do netrunningu?",
+              "maleVariant": "",
+              "stringId": "1866072098231570436"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale jak przychodzisz z polecenia i wiesz, czego szukasz, zapewne w końcu to znajdziesz.",
+              "maleVariant": "",
+              "stringId": "1866072098231570444"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie, nie każdy. Oficjalnie serwisujemy tutaj cyberdecki.",
+              "maleVariant": "",
+              "stringId": "1983617760139464704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "T-Bug przysyła mnie po program.",
+              "maleVariant": "",
+              "stringId": "2166276792588210176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przychodzę od T-Bug. Mówiła, że masz coś dla mnie.",
+              "maleVariant": "",
+              "stringId": "2166278885462020096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty jesteś V...? Pewnie słyszałaś, co się stało. Szkoda jej.",
+              "maleVariant": "Ty jesteś V...? Pewnie słyszałeś, co się stało. Szkoda jej.",
+              "stringId": "2166279946889367552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty jesteś V, co?",
+              "maleVariant": "",
+              "stringId": "2166280164590522368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zostawiła dla ciebie demona. Prezent zza grobu.",
+              "maleVariant": "",
+              "stringId": "2179523202020995072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pójdzie na każdym decku trzeciej generacji...",
+              "maleVariant": "",
+              "stringId": "2179523450827108352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mam Militech Paraline. Da radę.",
+              "maleVariant": "",
+              "stringId": "2179523949731180544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobry sprzęt, jak na początkującą.",
+              "maleVariant": "Dobry sprzęt, jak na początkującego.",
+              "stringId": "2179524131931746304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kazała dla ciebie odłożyć demona.",
+              "maleVariant": "",
+              "stringId": "2179525021426184192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co wiesz o śmierci T-Bug?",
+              "maleVariant": "",
+              "stringId": "2179525752812138496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co słyszałaś o śmierci T-Bug?",
+              "maleVariant": "",
+              "stringId": "2179526142630752256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Prawdę. Stało się z nią to, co ze wszystkimi, którzy próbują okraść Arasakę.",
+              "maleVariant": "",
+              "stringId": "2179526664771268608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znaleźli ciało w jej mieszkaniu. Umarła przez przeciążenie systemu nerwowego. Wiesz jakie to uczucie?",
+              "maleVariant": "",
+              "stringId": "2179526892219985920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wiem.",
+              "maleVariant": "",
+              "stringId": "2179527153877446656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówi się, że to tak, jakby sto tysięcy osób dźgnęło cię palcem w tym samym momencie. Nie wyobrażam sobie gorszej śmierci.",
+              "maleVariant": "",
+              "stringId": "2179527278481829888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Biedna dziewczyna, lubiłam ją.",
+              "maleVariant": "",
+              "stringId": "2179527579817406464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wezmę tego demona.",
+              "maleVariant": "",
+              "stringId": "2233250815700328452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra. Wezmę demona.",
+              "maleVariant": "",
+              "stringId": "2233255685891252224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mam Militech Paraline.",
+              "maleVariant": "",
+              "stringId": "2233263583212036096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak chcesz, to możesz go od razu wypróbować na moim punkcie dostępu.",
+              "maleVariant": "",
+              "stringId": "2237245843737108480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może uda ci się stamtąd wygrzebać jakiś fajny program albo komponenty. Tak, czy inaczej – opłaci ci się.",
+              "maleVariant": "",
+              "stringId": "2237280864665559040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V! Kopę lat. Co mogę dla ciebie zrobić?",
+              "maleVariant": "",
+              "stringId": "3221530831801413688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej, Yoko. Hands uprzedził cię, że wpadnę? W sprawie zlecenia.",
+              "maleVariant": "",
+              "stringId": "3221530839367938096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ach, to o ciebie chodzi. Ten dzień robi się coraz ciekawszy.",
+              "maleVariant": "",
+              "stringId": "3221530839384715268"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zaraz pogadamy. Ale najpierw muszę potwierdzić, że przysyła cię nasz wspólny znajomy.",
+              "maleVariant": "",
+              "stringId": "3221530839401492480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podłącz się tutaj. Zrobimy skan biometryczny.",
+              "maleVariant": "",
+              "stringId": "3221530839418269696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pogadajmy lepiej o interesach.",
+              "maleVariant": "",
+              "stringId": "3221530844384325632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nieskromnie mówiąc - jest dobrze.",
+              "maleVariant": "",
+              "stringId": "3221530844384325648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Netrunnerką nie zostałam, jak widać.",
+              "maleVariant": "Netrunnerem nie zostałem, jak widać.",
+              "stringId": "3221530844384325664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yoko, pogadajmy lepiej o interesach. Spieszy mi się.",
+              "maleVariant": "",
+              "stringId": "3221530844484988944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O, przepraszam. Nie wiedziałam, że pani taka zabiegana.",
+              "maleVariant": "O, przepraszam. Nie wiedziałam, że pan taki zabiegany.",
+              "stringId": "3221530844484988960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale deszyfracji nie przyspieszę. Jeszcze tylko sekundka...",
+              "maleVariant": "",
+              "stringId": "3221530844484988976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I już. TERAZ możemy porozmawiać o interesach.",
+              "maleVariant": "",
+              "stringId": "3221530844501766148"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No wiesz... Idzie mi całkiem dobrze. Nieskromnie mówiąc.",
+              "maleVariant": "",
+              "stringId": "3221530848125644804"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale nie na tyle dobrze, by samemu pomyszkować w kartotekach pewnej jednostki, co?",
+              "maleVariant": "",
+              "stringId": "3221530848125644820"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ałć, cios poniżej pasa, Yoko.",
+              "maleVariant": "",
+              "stringId": "3221530848142422020"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No dobrze. Formalności za nami, przejdźmy do sedna.",
+              "maleVariant": "",
+              "stringId": "3221530848142422036"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chyba cię rozczaruję - znakomitą netrunnerką nie zostałam. Inaczej nie byłoby mnie tutaj.",
+              "maleVariant": "Chyba cię rozczaruję - znakomitym netrunnerem nie zostałem. Inaczej nie byłoby mnie tutaj.",
+              "stringId": "3221530851749523548"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jestem odrobinkę rozczarowana. Ale jednocześnie cieszę się, że cię widzę.",
+              "maleVariant": "",
+              "stringId": "3221530851766300672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Równowaga w systemie.",
+              "maleVariant": "",
+              "stringId": "3221530851766300688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm. A propos systemów. Pogadajmy o twojej sprawie.",
+              "maleVariant": "",
+              "stringId": "3221530851766300704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tu masz wszystko, czego potrzebujesz. Szczerze mówiąc, zdobycie tego nie było łatwe.",
+              "maleVariant": "",
+              "stringId": "3221530857738989592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fortece danych Max-Tacu to jak Fort Knox ukryty na Alcatraz. Każdy twój krok przywołuje milion niechcianych spojrzeń.",
+              "maleVariant": "",
+              "stringId": "3221530857755766784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale dałaś radę. Jesteś wielka, dzięki.",
+              "maleVariant": "",
+              "stringId": "3221530857772544000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Poczekaj.",
+              "maleVariant": "",
+              "stringId": "3221530857789321216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W tym wypadku... nasza współpraca mogłaby potrwać odrobinkę dłużej.",
+              "maleVariant": "",
+              "stringId": "3221530857789321232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O ile zamierzasz zrobić to, o czym myślę. Zainteresowana?",
+              "maleVariant": "O ile zamierzasz zrobić to, o czym myślę. Zainteresowany?",
+              "stringId": "3221530857806098440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[weź drzazgę] Może. A co według ciebie chcę zrobić?",
+              "maleVariant": "",
+              "stringId": "3221530865003524096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[weź drzazgę] Nasza współpraca kończy się tu i teraz.",
+              "maleVariant": "",
+              "stringId": "3221530865003524112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może?... Tak hipotetycznie - co według ciebie zamierzam zrobić?",
+              "maleVariant": "",
+              "stringId": "3221530865070632988"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powiedzmy, że chciałabyś zjawić się w miejscu przejazdu pewnego konwoju.",
+              "maleVariant": "Powiedzmy, że chciałbyś zjawić się w miejscu przejazdu pewnego konwoju.",
+              "stringId": "3221530865070633004"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm, powiedzmy.",
+              "maleVariant": "",
+              "stringId": "3221530865087410180"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powiedzmy, że byłabyś na tyle skuteczna lub szalona, by zneutralizować obstawę tego konwoju.",
+              "maleVariant": "Powiedzmy, że byłbyś na tyle skuteczny lub szalony, by zneutralizować obstawę tego konwoju.",
+              "stringId": "3221530865087410196"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobrze mi idzie?",
+              "maleVariant": "",
+              "stringId": "3221530865104187392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz co, najlepiej będzie, jak nasza współpraca zakończy się tu i teraz.",
+              "maleVariant": "",
+              "stringId": "3221530871882182676"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zaskoczyłaś mnie.",
+              "maleVariant": "Zaskoczyłeś mnie.",
+              "stringId": "3221530871882182692"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcesz odrzucić moją ofertę w ciemno?",
+              "maleVariant": "",
+              "stringId": "3221530871898959872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W porządku. Jaka to oferta?",
+              "maleVariant": "",
+              "stringId": "3221530873945780224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak. Biorę dane i spadam.",
+              "maleVariant": "",
+              "stringId": "3221530873945780240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W porządku, posłucham. Tylko w miarę zwięźle poproszę.",
+              "maleVariant": "",
+              "stringId": "3221530873996111884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oczywiście.",
+              "maleVariant": "",
+              "stringId": "3221530873996111900"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie chcę znać tej oferty, bo wiem, że i tak bym ją odrzuciła.",
+              "maleVariant": "Nie chcę znać tej oferty, bo wiem, że i tak bym ją odrzucił.",
+              "stringId": "3221530875556392984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wielka szkoda.",
+              "maleVariant": "",
+              "stringId": "3221530875589947392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dla ciebie prawdopodobnie tak, ale czy dla mnie? Nie jestem przekonana.",
+              "maleVariant": "Dla ciebie prawdopodobnie tak, ale czy dla mnie? Nie jestem przekonany.",
+              "stringId": "3221530875606724608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czas na mnie.",
+              "maleVariant": "",
+              "stringId": "3221530875623501828"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Klient nasz pan.",
+              "maleVariant": "",
+              "stringId": "3221530875640279048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nasz wspólny znajomy, który cię tu przysłał, widziałby szansę na obopólne korzyści i dozgonną wdzięczność...",
+              "maleVariant": "",
+              "stringId": "3221530881763962888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "...gdybyś była tak dobra i podesłała namiary na miejsce, w którym... rozprawiłaś się ze swoim problemem.",
+              "maleVariant": "...gdybyś był tak dobry i podesłał namiary na miejsce, w którym... rozprawiłeś się ze swoim problemem.",
+              "stringId": "3221530881763962904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chodzi o sprzęt Max-Tacu? Chcecie go zgarnąć przed innymi?",
+              "maleVariant": "",
+              "stringId": "3221530881763962920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wystarczy zwykła wiadomość z koordynatami.",
+              "maleVariant": "",
+              "stringId": "3221530881780740096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zapraszam.",
+              "maleVariant": "",
+              "stringId": "3221530886981677136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hands uprzedził, że wpadnę? W sprawie zlecenia.",
+              "maleVariant": "",
+              "stringId": "3221530887568879704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ach, to ty.",
+              "maleVariant": "",
+              "stringId": "3221530887585656832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zanim pogadamy, zrobimy ci skan biometryczny. Podłącz się tutaj.",
+              "maleVariant": "",
+              "stringId": "3221530887585656848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[podłącz się] Proszę bardzo.",
+              "maleVariant": "",
+              "stringId": "3221530890521669632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No dobra. Proszę bardzo.",
+              "maleVariant": "",
+              "stringId": "3221530890672664620"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To zajmie tylko chwilkę.",
+              "maleVariant": "",
+              "stringId": "3221530890672664636"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I nie będzie bolało, znam te teksty.",
+              "maleVariant": "",
+              "stringId": "3221530890689441792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm, a wieczorem zaśniemy, nie rozmyślając, czy przypadkiem nie powierzyliśmy bardzo ryzykownych informacji niewłaściwej osobie.",
+              "maleVariant": "",
+              "stringId": "3221530890689441808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, w każdym razie ja zasnę spokojnie. I proszę, zgodność potwierdzona.",
+              "maleVariant": "",
+              "stringId": "3221530890689441824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[podłącz się] Proszę bardzo.",
+              "maleVariant": "",
+              "stringId": "3221530895588388864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No dobrze. Proszę bardzo.",
+              "maleVariant": "",
+              "stringId": "3221530895806492720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Deszyfrowanie zajmie tylko chwilę. Wybacz, ale to konieczne. Dla zleceń tej rangi.",
+              "maleVariant": "",
+              "stringId": "3221530895823269892"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurczę, V. Nie spodziewałam się, że jeszcze będziemy ze sobą współpracować.",
+              "maleVariant": "",
+              "stringId": "3221530895823269908"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak tam twój netrunning? Szlifujesz?",
+              "maleVariant": "",
+              "stringId": "3221530895840047112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To naprawdę konieczne? Przecież się znamy.",
+              "maleVariant": "",
+              "stringId": "3221530899984019468"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jesteś pewna? V, to Night City. Tu nikt nikogo tak naprawdę nie zna.",
+              "maleVariant": "Jesteś pewien? V, to Night City. Tu nikt nikogo tak naprawdę nie zna.",
+              "stringId": "3221530900000796672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Poza tym przestań marudzić. Bez tego i tak nie odszyfrujesz tych danych.",
+              "maleVariant": "",
+              "stringId": "3221530900034351104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm, mów dalej.",
+              "maleVariant": "",
+              "stringId": "3221530904564199424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Interesuje cię osoba, którą przewożą?",
+              "maleVariant": "",
+              "stringId": "3221530904564199440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, no. Mów dalej.",
+              "maleVariant": "",
+              "stringId": "3221530904614531080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niech zgadnę. Interesowałaby cię osoba, którą ten konwój przewoził?",
+              "maleVariant": "",
+              "stringId": "3221530905788936204"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie. Domyślam się, że ta osoba interesuje ciebie.",
+              "maleVariant": "",
+              "stringId": "3221530905788936220"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To naprawdę konieczne?",
+              "maleVariant": "",
+              "stringId": "3221530907365994512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oczywiście, że nie.",
+              "maleVariant": "",
+              "stringId": "3221530907382771712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Alternatywą są drzwi. Te same, którymi weszłaś. Wybieraj.",
+              "maleVariant": "Alternatywą są drzwi. Te same, którymi wszedłeś. Wybieraj.",
+              "stringId": "3221530907382771728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To konieczne? Znamy się.",
+              "maleVariant": "",
+              "stringId": "3221530911442857984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To konieczne?",
+              "maleVariant": "",
+              "stringId": "3221530911543521280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hands uprzedził cię, że wpadnę?",
+              "maleVariant": "",
+              "stringId": "3221533237519970304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz, że te dane to jak wyrok śmierci?",
+              "maleVariant": "",
+              "stringId": "3357969105205202944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kolejny do kolekcji.",
+              "maleVariant": "",
+              "stringId": "3357969105205202956"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Też prawda. To co, ślij je do Reeda i zobaczmy, gdzie nas to zaprowadzi.",
+              "maleVariant": "",
+              "stringId": "3357969105205202968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podłączasz się czy nie?",
+              "maleVariant": "",
+              "stringId": "3357971977246478336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Halo? Namyślasz się?",
+              "maleVariant": "",
+              "stringId": "3357974319412940800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zrobię to.",
+              "maleVariant": "",
+              "stringId": "3368156953271201796"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niczego nie obiecuję, ale postaram się.",
+              "maleVariant": "",
+              "stringId": "3368157398907613184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie, przykro mi. Nie potrzebuję dodatkowych kłopotów.",
+              "maleVariant": "",
+              "stringId": "3368157611223281664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie zrobię tego.",
+              "maleVariant": "",
+              "stringId": "3368158096688803840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O nic więcej nie proszę. Za to gwarantuję sowite wynagrodzenie. Powodzenia.",
+              "maleVariant": "",
+              "stringId": "3368158954440749056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W takim razie życzę powodzenia.",
+              "maleVariant": "",
+              "stringId": "3368169337302216704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[zaczekaj]",
+              "maleVariant": "",
+              "stringId": "3374106686405865472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No to poczekam.",
+              "maleVariant": "",
+              "stringId": "3376882824400203776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podobno możesz mi pomóc z tym układem behawioralnym.",
+              "maleVariant": "",
+              "stringId": "3437637037442600960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dostałem informację, że możesz mi pomóc w sprawie układu behawioralnego.",
+              "maleVariant": "",
+              "stringId": "3437640672964644864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm... Dostałam w tej sprawie instrukcje... Usługa została już opłacona, więc daj mi ten komponent. Zobaczę, co da się zrobić.",
+              "maleVariant": "",
+              "stringId": "3437648854239809536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zwykle nie pytam klientów, co zamierzają zrobić ze sprzętem, który do mnie przynoszą. I teraz też nie zapytam. Ale...",
+              "maleVariant": "",
+              "stringId": "3437654896235384832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Algorytmy, które napędzają ten układ... Dawno czegoś takiego nie widziałam. Oby NetWatch cię z tym nie nakrył. Mówię serio.",
+              "maleVariant": "",
+              "stringId": "3437656095806328832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To tech wygrzebany z miejsca, które prawdopodobnie powinno pozostać zalane grubą warstwą betonu.",
+              "maleVariant": "",
+              "stringId": "3491019563682951168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzięki. Będę ostrożna.",
+              "maleVariant": "Dzięki. Będę ostrożny.",
+              "stringId": "3491023929802420224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[weź drzazgę]",
+              "maleVariant": "",
+              "stringId": "3846071812766699524"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[poczekaj, aż Yoko zdeszyfruje komponent]",
+              "maleVariant": "",
+              "stringId": "3945128037917265920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[odbierz zdeszyfrowany komponent od Yoko]",
+              "maleVariant": "",
+              "stringId": "3945182577022603264"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

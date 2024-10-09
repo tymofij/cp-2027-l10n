@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слухаю. Чого треба?",
+              "maleVariant": "",
+              "stringId": "1796860334069235716"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Секундочку, будь ласка.",
+              "maleVariant": "",
+              "stringId": "1796860334086012932"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Агов, я до тебе говорю!",
+              "maleVariant": "",
+              "stringId": "1796860334169899012"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Куди це ти зібралась?",
+              "maleVariant": "Куди це ти зібрався?",
+              "stringId": "1796860334203453444"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тобі ще щось потрібно?",
+              "maleVariant": "",
+              "stringId": "1796860334253785092"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти щось забула?",
+              "maleVariant": "Ти щось забув?",
+              "stringId": "1796860334270562308"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Щось не так?",
+              "maleVariant": "",
+              "stringId": "1796860334304116740"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чого мовчиш?",
+              "maleVariant": "",
+              "stringId": "1796860334320893956"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Перепрошую?!",
+              "maleVariant": "",
+              "stringId": "1796860334538997764"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Обережніше йди!",
+              "maleVariant": "",
+              "stringId": "1796860334555774980"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

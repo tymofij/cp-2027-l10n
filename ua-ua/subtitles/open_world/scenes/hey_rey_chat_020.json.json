@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чуєш-чуєш, зирь. Отут легенько нагинаєш оце, доки не вискочить…",
+              "maleVariant": "",
+              "stringId": "2161852867338858496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І бац! Тепер стягуватиме з рахунків десь на десять-п’ятнадцять відсотків більше…",
+              "maleVariant": "",
+              "stringId": "2221523505866182656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ми повернемося десь за тиждень і заберемо їх собі.",
+              "maleVariant": "",
+              "stringId": "2221523702092500992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чекай-но, а шо, так можна?",
+              "maleVariant": "",
+              "stringId": "2221523990912274432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так треба.",
+              "maleVariant": "",
+              "stringId": "2221524114124148736"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przed państwem Vista del Ray. Dzielnica biedoty i tzw. elementu. Proszę nie oddalać się od grupy.",
+              "maleVariant": "",
+              "stringId": "1833121940549263360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Możemy już filmować? Opłaciłem wszystkie opcje dodatkowe.",
+              "maleVariant": "",
+              "stringId": "1833124183361052672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Możemy? Powinni państwo! Ha! Proszę tylko uważać na dzieci - kradną.",
+              "maleVariant": "",
+              "stringId": "1833124353767235584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cate mi nie uwierzy, że tu byłam!",
+              "maleVariant": "",
+              "stringId": "1833124593043890176"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

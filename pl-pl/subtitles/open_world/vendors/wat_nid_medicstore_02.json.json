@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę skorzystać z twoich usług.",
+              "maleVariant": "",
+              "stringId": "1893796934479020036"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zobaczmy, czy możesz coś dla mnie zrobić.",
+              "maleVariant": "",
+              "stringId": "1893797127115014144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz licencję na wykonywanie usług medycznych?",
+              "maleVariant": "",
+              "stringId": "1893797285626150912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz licencję medyczną?",
+              "maleVariant": "",
+              "stringId": "1893799869032202240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na pewno mogę.",
+              "maleVariant": "",
+              "stringId": "1893802464299745280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Licencję...? Jasne, że mam.",
+              "maleVariant": "",
+              "stringId": "1893802648161255424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No? Potrzebujesz czegoś?",
+              "maleVariant": "",
+              "stringId": "1893889354792058884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pół roku latałem z Trauma Team jako młodszy sanitariusz. Widziałem rzeczy, o których nie chcesz słyszeć.",
+              "maleVariant": "",
+              "stringId": "1984969165457256448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

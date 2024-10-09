@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не бойся, не выстрелит. Ты есть в базе. Входи.",
+              "maleVariant": "",
+              "stringId": "1795358798019854360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Алло? А, это ты. Тебя зовут Ви?",
+              "maleVariant": "",
+              "stringId": "1908455793905606656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Откуда ты меня знаешь?",
+              "maleVariant": "Откуда знаешь меня?",
+              "stringId": "1908456223536553984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Этот город меньше, чем ты думаешь. Давай, проходи.",
+              "maleVariant": "",
+              "stringId": "1908456389127675904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

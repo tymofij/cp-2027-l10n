@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нравится твой стиль. Пожалуй, я что-нибудь куплю.",
+              "maleVariant": "",
+              "stringId": "1740348629291868164"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тебе не мешало бы сбросить вес.",
+              "maleVariant": "",
+              "stringId": "1740348757520130048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нравится твой стиль. Пожалуй, я что-нибудь куплю.",
+              "maleVariant": "Мне нравится твой стиль. Пожалуй, что-нибудь куплю.",
+              "stringId": "1740370914904088576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что значит «пожалуй»?! Не «пожалуй», а «конечно»! Пора наряжаться и блистать!",
+              "maleVariant": "",
+              "stringId": "1740371606846808064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тебе бы похудеть, а то как бы брючки не треснули.",
+              "maleVariant": "",
+              "stringId": "1740371878822256640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот тут ты не права, девочка. Когда человека много — есть чё украсить!",
+              "maleVariant": "Вот тут ты не прав, мальчик. Когда человека много — есть чё украсить!",
+              "stringId": "1740373423802523648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу сменить стиль.",
+              "maleVariant": "",
+              "stringId": "3775234946210066432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу сменить стиль.",
+              "maleVariant": "",
+              "stringId": "3836287888589189132"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

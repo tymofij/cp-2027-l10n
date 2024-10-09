@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Siema, Night City! W dzisiejszym programie testujemy niezłą perełkę! Nowy model skóry z linii Svalinn – syntetyk od Militechu.",
+              "maleVariant": "",
+              "stringId": "1771997587861053440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Svalinn 9-F jest na rynku dopiero od miesiąca… Ale, w ramach testów, korzystam z niego już całkiem długo.",
+              "maleVariant": "",
+              "stringId": "1790981493011828736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podobnie jak w poprzednich wersjach serii Svalinn, producent zapewnia izolację w zakresie od -220 do +700 stopni w skali Fahrenheita. I w pełni stuprocentową ochronę przed wszelkimi otarciami.",
+              "maleVariant": "",
+              "stringId": "1790982297093459968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ten syntetyk z całą pewnością ucieszy wszystkich motocyklistów szukających wrażeń! Jak również tych, co lubią igrać z ogniem.",
+              "maleVariant": "",
+              "stringId": "1790982653441527808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jedna sprawa – nowego modelu niestety nie da się kolczykować. Za to jestem zmuszona odjąć jedną gwiazdkę. Finalny werdykt – dam cztery na pięć.",
+              "maleVariant": "",
+              "stringId": "1790983058510630912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To tyle na dzisiaj, Night City! Do zobaczenia w następnym Chippin' In!",
+              "maleVariant": "",
+              "stringId": "1790983481279696896"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

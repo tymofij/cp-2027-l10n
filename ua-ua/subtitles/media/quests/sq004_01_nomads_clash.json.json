@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вітаю на «Каналі 54» Час для місцевих новин. Серед Пустки продовжує вирувати насилля.",
+              "maleVariant": "",
+              "stringId": "1745844929275944960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На 1, 166 та 101 шосе повідомляють про стрілянину.",
+              "maleVariant": "",
+              "stringId": "1745845552264306688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Свідки стверджують, що це міжкланові конфлікти. Кількість нападів на сторонніх осіб не перевищує середнє значення.",
+              "maleVariant": "",
+              "stringId": "1745845801103974400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Однак про всяк випадок, поліція Найт-Сіті підвищила рівень небезпеки до 2 та радить мандрівникам уникати бічних доріг та об’їздів.",
+              "maleVariant": "",
+              "stringId": "1745846559148924928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми продовжимо тримати вас у курсі розвитку подій.",
+              "maleVariant": "",
+              "stringId": "1745847155578953728"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

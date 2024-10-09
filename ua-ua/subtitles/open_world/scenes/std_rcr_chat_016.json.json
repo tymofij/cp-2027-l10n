@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привіт, мала. Слухай, вибачай, але сьогодні не вийде… Ха-ха-ха, та’, нічка була класна.",
+              "maleVariant": "",
+              "stringId": "2167591200337186816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ов, ну, знаєш, у мене купа, ем, корпарських справ, з якими тре розібратися, рада директорів, ну, сама розумієш… Шо-Шо? Де я? Е-е… на Майдані корпорацій, авжеж… Ні, ні, ні, зараз мені не зручно… Давай трохи пізніше здибаємося…",
+              "maleVariant": "",
+              "stringId": "2228882546149920768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шо кажеш?.. Ов, ем… Ну, знаєш, дорогий костюм, туфлі з крокодила. А на т’бі шо?.. Угу… А ше шо?.. О-о-о, яка неслухняна дівчинка… Ха-ха-ха…",
+              "maleVariant": "",
+              "stringId": "2228923230043082752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Авжеж, я т’бе влаштую в «Арасаці». Ким ти в ній хочеш бути?.. Секретаркою?! Ну ж бо, крихітко, можеш брати вище! А як щодо гендиректора? Хе-хе…",
+              "maleVariant": "",
+              "stringId": "2228925246664445952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Авжеж, мала. Тримайся м’не, і я т’бі покажу та’кі місця, про які ти навіть і не мріяла. Ні в кого на все місто немає т’ких зв’язків, як у мене…",
+              "maleVariant": "",
+              "stringId": "2228928024669425664"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

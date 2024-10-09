@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A jak jest ze skażeniem? Wysokie?",
+              "maleVariant": "",
+              "stringId": "1963247775511519232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cóż... jak to na tego typu terenie. Poziom czerwony.",
+              "maleVariant": "",
+              "stringId": "1967813427649105920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niedobrze. Duży przemiał ludzi. Będą mi tu chorować, umierać...",
+              "maleVariant": "",
+              "stringId": "1967813920446271488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chętnych do pracy nie zabraknie. Pod bramą każdego ranka są kolejki.",
+              "maleVariant": "",
+              "stringId": "1967814742798290944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hmm... Chyba, że tak...",
+              "maleVariant": "",
+              "stringId": "1967815396774170624"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

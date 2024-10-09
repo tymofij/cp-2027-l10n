@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Задолбало… Почему я должен сам всё покупать? Может, мне и зарплату себе платить?",
+              "maleVariant": "",
+              "stringId": "2156376068888977408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаешь, всё так просто? Хочешь работать — сначала вложись.",
+              "maleVariant": "",
+              "stringId": "2170848571027079168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да сколько можно? Это уже второй раз за год! Если им надо, чтобы я покупал новую форму, пусть сначала зарплату поднимут!",
+              "maleVariant": "",
+              "stringId": "2170848969653731328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тебе никто ничего не должен.",
+              "maleVariant": "",
+              "stringId": "2170849181986177024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зарплату поднимают тем, кто этого заслуживает. Два-три дня в месяц без еды — и накопишь сколько надо.",
+              "maleVariant": "",
+              "stringId": "2170849399972544512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это даже полезно. Что-то типа детоксикации.",
+              "maleVariant": "",
+              "stringId": "2170849571754459136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. А потом отрублюсь прямо на работе и меня уволят.",
+              "maleVariant": "",
+              "stringId": "2170849765850071040"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

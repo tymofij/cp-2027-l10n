@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nikt nie jeździ na północ! Nawet Wraiths!",
+              "maleVariant": "",
+              "stringId": "1973560822578847744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No już, Jezu...! Tylko żartowałem!",
+              "maleVariant": "",
+              "stringId": "1974865321030041600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Odbiło ci?! Nie podpuszczaj go! Chcesz, żeby tam polazł i zatruł się oparami?",
+              "maleVariant": "",
+              "stringId": "1974865407449481216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak? Założę się, że nie poszedłbyś na pola naftowe. Tam chodzą tylko twardziele.",
+              "maleVariant": "",
+              "stringId": "1974865423169732608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wcale, że nie! Ja się niczego nie boję!",
+              "maleVariant": "",
+              "stringId": "1974865437010935808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Peniasz, co? Wiem, że peniasz.",
+              "maleVariant": "",
+              "stringId": "1974865448654323712"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

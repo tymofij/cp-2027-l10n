@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tylko wiesz, żeby było bez przypału. Nie dotykamy tancerzy, nikogo nie prowokujemy. Jasne?",
+              "maleVariant": "",
+              "stringId": "2172237022637043712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mordo, za kogo ty mnie masz? Jestem porządny chłopak. Co złego, to nie ja!",
+              "maleVariant": "",
+              "stringId": "2179453292302286848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, dobra, już ja cię znam. Cztery piwka i zaraz się na kogoś rzucisz z pięściami.",
+              "maleVariant": "",
+              "stringId": "2179453598587142144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale to nie jest byle speluna. Tego lokalu pilnują Animalsi. Czaisz?",
+              "maleVariant": "",
+              "stringId": "2179453980856008704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Za pierwszy razem grzecznie zwrócą ci uwagę.",
+              "maleVariant": "",
+              "stringId": "2179454250616864768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Za drugim obudzisz się na ulicy ze zmiażdżoną szczęką. Jeśli będziesz miał szczęście.",
+              "maleVariant": "",
+              "stringId": "2179455234718023680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Jesús\" b=\"\" a=\"… Nie musisz tak dramatyzować. Będzie dobrze.\"/>",
+              "maleVariant": "",
+              "stringId": "2179455391199117312"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

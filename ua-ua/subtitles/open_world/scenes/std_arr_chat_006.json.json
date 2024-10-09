@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні-і-і, будь ласка! Візьми мене із собою!",
+              "maleVariant": "",
+              "stringId": "1963262113051877376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Здуріла? Який із тебе солдат, шмаркачко? Ти й на п’ять секунд гвинтівку не піднімеш.",
+              "maleVariant": "",
+              "stringId": "1966497025691992064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А… А пістолет підніму!",
+              "maleVariant": "",
+              "stringId": "1966497183129387008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, а віддачею тобі рознесе пів обличчя?",
+              "maleVariant": "",
+              "stringId": "1966497338536738816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні, мала, ти краще вдома сиди. Якшо з тобою шось станеться, твоя мама мене вб’є. Доганяєш?",
+              "maleVariant": "",
+              "stringId": "1966497499698675712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але я теж хочу стріляти у «вихрювців» поганих!",
+              "maleVariant": "",
+              "stringId": "1966497634386165760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А я хочу, щоби Ліззі Віззі відсмоктала мені. Усе на світі не отримаєш, шмаркачко.",
+              "maleVariant": "",
+              "stringId": "1966497858261336064"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

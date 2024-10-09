@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Увага всім підрядникам поліції. Надійшло повідомлення про потенційну злочинну діяльність поблизу Росс-стріт і Шіп’ярд-вей.",
+              "maleVariant": "",
+              "stringId": "2328558570247282688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Група «бляхарів» на чолі з Єлєною Сідоровою — імовірно озброєні та небезпечні — скоїли напад на бездомних.",
+              "maleVariant": "",
+              "stringId": "2352102691805958144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Владою міста Найт-Сіті оголошено винагороду за нейтралізацію загрози з боку Сідорової та її злочинної групи.",
+              "maleVariant": "",
+              "stringId": "2352105436206174208"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

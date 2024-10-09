@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Сімʼя понад усе…», аякже, блядь.",
+              "maleVariant": "",
+              "stringId": "1973560424069636096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, пиздець, блядь. Непевно хоче розмастити мене по асфальту, сране чмо.",
+              "maleVariant": "",
+              "stringId": "1973767518967021568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мало йому було влаштувати церемонію вигнання, коли мене виставили за двері.",
+              "maleVariant": "",
+              "stringId": "1973767580472295424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тут злі язики кажуть, шо тебе твій братан шукає.",
+              "maleVariant": "",
+              "stringId": "1973767750089949184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мене у свій час просто відпиздили та викинули з машини на узбіччя.",
+              "maleVariant": "",
+              "stringId": "1973767912510177280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То тобі ше й церемонію зробили? Це ше нічоʼ так.",
+              "maleVariant": "",
+              "stringId": "1973767940947558400"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

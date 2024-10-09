@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, привіт, в Пустці розбилася вантажівка з імплантами. Хром топовий, але поліція туди не дуже поспішає.",
+              "maleVariant": "",
+              "stringId": "2354770932034068488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Схоже на те, що коренем проблеми є кіберпсих, а фуражки просто очкують туди пхатися.",
+              "maleVariant": "",
+              "stringId": "2354772613798977536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Перевір там усе, але не вбивай нікого без необхідності.",
+              "maleVariant": "",
+              "stringId": "2360721352948408320"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

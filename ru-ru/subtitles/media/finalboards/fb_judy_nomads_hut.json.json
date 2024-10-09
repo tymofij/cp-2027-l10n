@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Доброе утро!",
+              "maleVariant": "",
+              "stringId": "1790638455853588484"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты скажешь: «Какого хрена звонить мне на автоответчик, когда я тут, готовлю завтрак?!»",
+              "maleVariant": "",
+              "stringId": "1800990085298765824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, что поделать… У меня с выражением чувств пока не очень хорошо. Но я обещаю научиться.",
+              "maleVariant": "",
+              "stringId": "1800990262734602240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Во-о-от… Короче, главное, что я это всё-таки скажу.",
+              "maleVariant": "",
+              "stringId": "1800990552510676992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви, я тут недавно поняла, а… что я счастлива. Наверное, первый раз в жизни. И я хотела…",
+              "maleVariant": "",
+              "stringId": "1800990722178662400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Проснись и пой! Завтрак готов!",
+              "maleVariant": "",
+              "stringId": "1800991008465076224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прости, меня зовут. Я побегу. Целую!",
+              "maleVariant": "",
+              "stringId": "1800993210306904064"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

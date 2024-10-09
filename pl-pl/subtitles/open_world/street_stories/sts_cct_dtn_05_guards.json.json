@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słuchaj, kończę, w robocie jestem... No. Na razie.",
+              "maleVariant": "",
+              "stringId": "1384880022980997120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wiem, na cholerę im ten jacht? Przecież on nigdy nie wypływa z portu.",
+              "maleVariant": "",
+              "stringId": "1384894183270068224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz po co? Żeby się pierdolić.",
+              "maleVariant": "",
+              "stringId": "1672020428858667008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A co? To na lądzie gorzej się pierdoli? We łbach im się poprzewracało i tyle. Już sami nie wiedzą, na co kasę wydawać.",
+              "maleVariant": "",
+              "stringId": "1924372661702807552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha. Bo jak ty byś miał parę baniek, to byś dał na sieroty?",
+              "maleVariant": "",
+              "stringId": "1924373341599485952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Żebyś kurwa wiedział. Zawsze lubiłem dzieci.",
+              "maleVariant": "",
+              "stringId": "1924374985733099520"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

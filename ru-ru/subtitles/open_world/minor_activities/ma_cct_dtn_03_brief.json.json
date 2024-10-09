@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви, тут строители забастовали. Пришли утром на работу, как обычно, а все инструменты залиты кровью.",
+              "maleVariant": "",
+              "stringId": "2355036260620693504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Стройка находится на парковке, которую очень любят разные банды.",
+              "maleVariant": "",
+              "stringId": "2355048815044980736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, это их какие-то разборки, но я бы поставила на приступ киберпсихоза.",
+              "maleVariant": "",
+              "stringId": "2360707291594579968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если найдёшь психа, постарайся его обезвредить, а дальше я всё устрою.",
+              "maleVariant": "",
+              "stringId": "2360708074587250688"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

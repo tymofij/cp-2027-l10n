@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну от, наприклад, ми обідаємо — так? — і я раптово кидаю на неї поглядом, але геть нічого не відчуваю. Від слова «узагалі». Немов чужа людина.",
+              "maleVariant": "",
+              "stringId": "2161846879919566848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І я… Я чесно, ніби язик проковтнула… Сиджу така, як дурепа, і вичавлюю усмішку…",
+              "maleVariant": "",
+              "stringId": "2221506769469149184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну то розійдіться. Ти ж обманюєш що себе, що її. Скільки вже разом?",
+              "maleVariant": "",
+              "stringId": "2221506951183175680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "З кінця війни.",
+              "maleVariant": "",
+              "stringId": "2244545210402312192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Саме так. Ти й так уже забрала в неї купу часу. От тільки не кажи: «Це не так просто». Бо це дуже просто.",
+              "maleVariant": "",
+              "stringId": "2244547854575439872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але… Що, як раптом я не можу бути сама?",
+              "maleVariant": "",
+              "stringId": "2244548733399568384"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

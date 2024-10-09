@@ -1,0 +1,913 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chyba coś ci się pojebało.",
+              "maleVariant": "",
+              "stringId": "1567712226695254016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To ty stworzyłaś Soulkillera. To ty dałaś Arasace do ręki broń, którą rozpierdoliła mnie, ciebie i połowę netrunnerów z Night City.",
+              "maleVariant": "",
+              "stringId": "1567848151756640256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty zginąłeś na własne życzenie.",
+              "maleVariant": "",
+              "stringId": "1567848513993510912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, Alt, poszedłem po ciebie. A teraz ty mówisz, że to nie twój problem?",
+              "maleVariant": "",
+              "stringId": "1567848840025149440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rozmawiasz z niewłaściwą osobą. Alt Cunningham, po którą przyszedłeś do Arasaka Tower, odeszła.",
+              "maleVariant": "",
+              "stringId": "1567865230123667456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powinieneś to wiedzieć, bo sam doprowadziłeś do jej śmierci.",
+              "maleVariant": "",
+              "stringId": "1614242359262121984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A co z Voodoo Boys?",
+              "maleVariant": "",
+              "stringId": "1695389307310723072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pozwolą wam odejść. To część naszej umowy.",
+              "maleVariant": "",
+              "stringId": "1695391416089333760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Alt, zanim odejdziesz, musimy porozmawiać. Sami.",
+              "maleVariant": "",
+              "stringId": "1699572875838640128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co z Brigitte i Voodoo Boys?",
+              "maleVariant": "",
+              "stringId": "1699829769710145536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Musiałam ich zlikwidować. NetWatch wykorzystywał ich BBS.",
+              "maleVariant": "",
+              "stringId": "1699830939971293184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To znaczy, że wszyscy nie żyją?",
+              "maleVariant": "",
+              "stringId": "1699831363277230080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co zrobiłaś z Brigitte? Ona żyje, prawda?",
+              "maleVariant": "",
+              "stringId": "1699851405641453568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak. Ale nie jest teraz potrzebna.",
+              "maleVariant": "",
+              "stringId": "1699851405641453580"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czego chcesz?",
+              "maleVariant": "",
+              "stringId": "1699851405641453592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czego chcieli w zamian za konstrukt Johnny'ego?",
+              "maleVariant": "",
+              "stringId": "1699852544579538944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A czego tam szukają?",
+              "maleVariant": "",
+              "stringId": "1699852544596316176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sieć kontrolowana przez korporacje jest teraz prawie tak niestabilna, jak przed stworzeniem Blackwallu.",
+              "maleVariant": "",
+              "stringId": "1699852544596316188"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Voodoo Boys chcą na tym skorzystać i opowiedzieć się po naszej stronie, kiedy dojdzie do konfliktu.",
+              "maleVariant": "",
+              "stringId": "1699852544596316200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Waszej, czyli niezależnych SI? To w ogóle możliwe?",
+              "maleVariant": "",
+              "stringId": "1699852544613093380"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Żebym zapewniła im bezpieczeństwo za Blackwallem.",
+              "maleVariant": "",
+              "stringId": "1699855083895066624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeśli są na to gotowi.",
+              "maleVariant": "",
+              "stringId": "1699855759698104320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To nie jest możliwe.",
+              "maleVariant": "",
+              "stringId": "1699957172851773440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czego Brigitte chciała od ciebie w zamian za konstrukt Johnny'ego?",
+              "maleVariant": "",
+              "stringId": "1730061768471154688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Żebym zapewniła im bezpieczeństwo za Blackwallem.",
+              "maleVariant": "",
+              "stringId": "1730061768471154700"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A czego chcieli tam szukać?",
+              "maleVariant": "",
+              "stringId": "1730061768487931908"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sieć kontrolowana przez korporacje jest teraz prawie tak niestabilna, jak przed stworzeniem Blackwalla.",
+              "maleVariant": "",
+              "stringId": "1730061768487931920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Voodoo Boys chcieli na tym skorzystać i opowiedzieć się po naszej stronie, kiedy dojdzie do konfliktu.",
+              "maleVariant": "",
+              "stringId": "1730061768487931932"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chyba nie będziesz ich żałować?",
+              "maleVariant": "",
+              "stringId": "1730067878045356032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Propaganda NetWatchu odnosi skutki. Wydaje ci się, że jestem demonem, z którym podpiszesz pakt?",
+              "maleVariant": "",
+              "stringId": "1953439749166092288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Johnny ma to już obmyślone. Tylko jaką cenę mam zapłacić?",
+              "maleVariant": "",
+              "stringId": "1953461074484023300"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Relic mnie zabija.",
+              "maleVariant": "",
+              "stringId": "1953461530824298496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie mam pojęcia, kim jesteś.",
+              "maleVariant": "",
+              "stringId": "1953471819368124416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja po prostu próbuję przeżyć.",
+              "maleVariant": "",
+              "stringId": "1953472304313552896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie mam pojęcia, kim jesteś. Wiem trochę o tym, kim byłaś.",
+              "maleVariant": "",
+              "stringId": "1953483168903090176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja tylko próbuję przeżyć.",
+              "maleVariant": "",
+              "stringId": "1953484885178732544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I że Johnny był dla ciebie ważny. Ale ze mną nie masz nic wspólnego. Dlatego pytam o cenę.",
+              "maleVariant": "",
+              "stringId": "1953485898522578944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie mogę ci pomóc.",
+              "maleVariant": "",
+              "stringId": "1953522599907315712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spokojnie. Ja z nią pogadam.",
+              "maleVariant": "",
+              "stringId": "1954797616632713216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Johnny.",
+              "maleVariant": "",
+              "stringId": "1954797616716599296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Skoro przekroczyłaś Blackwall, żeby się ze mną spotkać, to znaczy, że między nami wszystko w porządku?",
+              "maleVariant": "",
+              "stringId": "1954797616817262592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rozpoznałam kod twojego engramu. Nie wiem, po co tu jesteś.",
+              "maleVariant": "",
+              "stringId": "1954797616917925888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, to Alt, najlepsza netrunnerka w Night City.",
+              "maleVariant": "",
+              "stringId": "1954797617236692992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To ja ściągnęłam tu NetWatch.",
+              "maleVariant": "To ja ściągnąłem tu NetWatch.",
+              "stringId": "1954797617488351232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co z Voodoo Boys?",
+              "maleVariant": "",
+              "stringId": "1954797617505128448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czego chciała od ciebie Brigitte?",
+              "maleVariant": "",
+              "stringId": "1954797617505128464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To ja ściągnęłam tu NetWatch. Ich agent musiał podrzucić mi jakiś program śledzący.",
+              "maleVariant": "To ja ściągnąłem tu NetWatch. Ich agent musiał podrzucić mi jakiś program śledzący.",
+              "stringId": "1954797617639346180"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W ten sposób dotarli do ciebie.",
+              "maleVariant": "",
+              "stringId": "1954797617740009472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To nie ma znaczenia. Cała sieć została zniszczona.",
+              "maleVariant": "",
+              "stringId": "1954797617823895552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Alt…",
+              "maleVariant": "",
+              "stringId": "1954797617907781632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Skoro wyciągnęłaś nas stamtąd, to znaczy, że między nami wszystko w porządku?",
+              "maleVariant": "",
+              "stringId": "1954797618008444928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rozpoznałam kod twojego engramu, ale nie wiem, po co tu jesteś.",
+              "maleVariant": "",
+              "stringId": "1954797618075553792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jaką cenę będę musiała zapłacić za uratowanie mi życia?",
+              "maleVariant": "Jaką cenę będę musiał zapłacić za uratowanie mi życia?",
+              "stringId": "1954797619082186752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czego chcieli Voodoo Boys w zamian za konstrukt?",
+              "maleVariant": "",
+              "stringId": "1954797619082186768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co zrobiłaś z Brigitte?",
+              "maleVariant": "",
+              "stringId": "1954797619098963972"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tutaj NetWatch nie może mnie dosięgnąć.",
+              "maleVariant": "",
+              "stringId": "1954797620508250112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tym razem NetWatch był dobrze przygotowany.",
+              "maleVariant": "",
+              "stringId": "1954797620692799488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Żeby dać ci szansę odwdzięczyć się za uwolnienie z Arasaka Tower.",
+              "maleVariant": "",
+              "stringId": "1954801787364724736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Alt, to jest V. Musisz uratować jej życie.",
+              "maleVariant": "Alt, to jest V. Musisz uratować mu życie.",
+              "stringId": "1954814379856515072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Żeby dać ci szansę odwdzięczyć się za uwolnienie z Arasaka Tower.",
+              "maleVariant": "",
+              "stringId": "1954817335314108416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, to Alt, najlepsza netrunnerka w Night City.",
+              "maleVariant": "",
+              "stringId": "1954817420508811264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Alt, to jest V. Musisz uratować jej życie.",
+              "maleVariant": "Alt, to jest V. Musisz uratować mu życie.",
+              "stringId": "1954819219311579136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Relic mnie zabija.",
+              "maleVariant": "",
+              "stringId": "1954822922848456704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak widzisz, Johnny ma już to wszystko obmyślone.",
+              "maleVariant": "",
+              "stringId": "1954828137307852800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pytanie tylko, czego chcesz w zamian za pomoc.",
+              "maleVariant": "",
+              "stringId": "1954830483534401536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jaką cenę będę musiała zapłacić za uratowanie życia?",
+              "maleVariant": "Jaką cenę będę musiał zapłacić za uratowanie życia?",
+              "stringId": "1954835782030872576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Relic mnie zabija. Konstrukt z biochipu nadpisuje się na mojej sieci neuralnej.",
+              "maleVariant": "",
+              "stringId": "1954839529054294016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widzę. Ale dlaczego to ma być mój problem?",
+              "maleVariant": "",
+              "stringId": "1954847340878385152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej, masz pretensje do Johnny'ego, ale co ze mną?",
+              "maleVariant": "",
+              "stringId": "1954855277508186116"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie mogę ci pomóc.",
+              "maleVariant": "",
+              "stringId": "1954855278380601344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To nie była wina Johnny'ego.",
+              "maleVariant": "",
+              "stringId": "1954855281115287552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej, masz żal do Johnny'ego. Ale co ze mną?",
+              "maleVariant": "",
+              "stringId": "1954855281115287572"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To nie była jego wina.",
+              "maleVariant": "",
+              "stringId": "1954855282021257220"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Skąd ty możesz to wiedzieć?",
+              "maleVariant": "",
+              "stringId": "1954855282927226880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widziałam cię we wspomnieniach Johnny'ego. To był wypadek.",
+              "maleVariant": "",
+              "stringId": "1954855283749310464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widziałaś zdeformowany, zapośredniczony obraz tego, co subiektywnie zapamiętał Johnny i co potem odgrywał przed sobą zamknięty we własnej głowie.",
+              "maleVariant": "Widziałeś zdeformowany, zapośredniczony obraz tego, co subiektywnie zapamiętał Johnny i co potem odgrywał przed sobą zamknięty we własnej głowie.",
+              "stringId": "1954855284571394048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To już nie ma nic wspólnego z prawdą.",
+              "maleVariant": "",
+              "stringId": "1954855285376700416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To kim jesteś, jeśli nie Alt?",
+              "maleVariant": "",
+              "stringId": "1954855287087976452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Korzystam z jej danych.",
+              "maleVariant": "",
+              "stringId": "1954855287977168896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Serio? I znalazłaś w nich informację, że była zimną suką?",
+              "maleVariant": "",
+              "stringId": "1954855288799252480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie możesz czy nie chcesz?",
+              "maleVariant": "",
+              "stringId": "1954863919770914816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może wyjaśnicie to sobie później?",
+              "maleVariant": "",
+              "stringId": "1954869250546749440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wiem, czego się spodziewałam po spotkaniu z tobą, ale raczej nie kłótni wirtualnych kochanków.",
+              "maleVariant": "",
+              "stringId": "1954869257425408000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Myślisz, że mi teraz pomagasz?",
+              "maleVariant": "",
+              "stringId": "1954869264505393152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A myślisz, że tak świetnie ci idzie?",
+              "maleVariant": "",
+              "stringId": "1954869271316942848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może wyjaśnicie sobie to później?",
+              "maleVariant": "",
+              "stringId": "1954869412195225600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak to? Przecież to ty stworzyłaś Soulkillera.",
+              "maleVariant": "",
+              "stringId": "1954875850820964356"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mogłabym spróbować. Ale nie mam dostępu do tak zaawansowanej technologii.",
+              "maleVariant": "",
+              "stringId": "1954877716145393664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ciekawe, Brigitte powiedziała, że to możliwe.",
+              "maleVariant": "",
+              "stringId": "1954880173705547776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak to? Przecież to ty stworzyłaś Soulkillera.",
+              "maleVariant": "",
+              "stringId": "1954881962576203776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To ciekawe... Brigitte mówiła, że sama mogłaby mi pomóc.",
+              "maleVariant": "",
+              "stringId": "1954882340013232128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Voodoo Boys cię oszukali.",
+              "maleVariant": "",
+              "stringId": "1954886939403112448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dlaczego nie jestem zdziwiony.",
+              "maleVariant": "",
+              "stringId": "1954887114020376576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mój program ma niewiele wspólnego z tym, co potem zrobiła z nim Arasaka.",
+              "maleVariant": "",
+              "stringId": "1954891346056335360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No dobra - a Mikoshi? Jest dostatecznie zaawansowane dla ciebie?",
+              "maleVariant": "",
+              "stringId": "1954892883470077952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gdybym mogła dostać się do Mikoshi, już dawno przestałoby istnieć.",
+              "maleVariant": "",
+              "stringId": "1954894758827282432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co konkretnie możesz dla mnie zrobić?",
+              "maleVariant": "",
+              "stringId": "1954897791392960516"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W takim razie deal wygląda tak: my wpuścimy cię do Mikoshi, a ty pomożesz V. Umowa stoi?",
+              "maleVariant": "",
+              "stringId": "1954899034752438272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"Najlepsza netrunnerka w Night City\" nie umie się włamać do Mikoshi?",
+              "maleVariant": "",
+              "stringId": "1954900887057747968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co konkretnie możesz dla mnie zrobić?",
+              "maleVariant": "",
+              "stringId": "1954901708503797760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeśli użyję Soulkillera z Mikoshi, staniesz się konstruktem i będę mogła rozłączyć twoją sieć neuralną i Johnny'ego.",
+              "maleVariant": "",
+              "stringId": "1954902534462918656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dotąd wszyscy mówili, że już za późno, żeby mi pomóc.",
+              "maleVariant": "",
+              "stringId": "1954903097606950912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"Wszyscy\", czyli Anders Hellman, przydupas Saburo.",
+              "maleVariant": "",
+              "stringId": "1954904187471679488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"Najlepsza netrunnerka w Night City\" nie umie się włamać do Mikoshi?",
+              "maleVariant": "",
+              "stringId": "1954906108295139328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobrze mnie tam znają. Mikoshi jest obudowane czarnym LODem dedykowanym specjalnie dla mnie.",
+              "maleVariant": "",
+              "stringId": "1954906939891404800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ja nigdy więcej nie dam się tam zamknąć.",
+              "maleVariant": "",
+              "stringId": "1954908237659394048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Coś jak pasiak szyty na miarę.",
+              "maleVariant": "",
+              "stringId": "1954910211448524800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To znaczy, że mnie uratujesz, ale po drodze umrę?",
+              "maleVariant": "",
+              "stringId": "1954916956963098628"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Twoja świadomość zostanie zapisana w formie danych. A cała reszta przestanie istnieć.",
+              "maleVariant": "",
+              "stringId": "1954916957114093568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jaka reszta?",
+              "maleVariant": "",
+              "stringId": "1954916957231534080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dusza. To nie ja nazwałam mój program Soulkillerem, ale o to właśnie chodzi.",
+              "maleVariant": "",
+              "stringId": "1954916957332197376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, nawet nie chcę słuchać tych bzdur.",
+              "maleVariant": "",
+              "stringId": "1954916957466415104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V przecież wróci do swojego ciała, tak? Nic się nie zmieni.",
+              "maleVariant": "",
+              "stringId": "1954916957650964480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystko się zmieni. I sam dobrze o tym wiesz.",
+              "maleVariant": "",
+              "stringId": "1954916957785182208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej, czyli mamy plan.",
+              "maleVariant": "",
+              "stringId": "1954917137620160516"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To znaczy, że mnie uratujesz, ale po drodze umrę?",
+              "maleVariant": "",
+              "stringId": "1954917734587060224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej, czyli mamy plan.",
+              "maleVariant": "",
+              "stringId": "1954919692974706688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak zamierzasz dostać się do Mikoshi? Stworzyłam całe armie, którym się to nie udało.",
+              "maleVariant": "",
+              "stringId": "1954920779131670528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W sieci. Stworzyłaś je w sieci.",
+              "maleVariant": "",
+              "stringId": "1954921434231623680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "My z kolei stawiamy na czynnik ludzki.",
+              "maleVariant": "",
+              "stringId": "1954921861933191168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V jest w chuj towarzyska i zdążyła narobić sobie wpływowych przyjaciół. Nomadzi, najemnicy...",
+              "maleVariant": "",
+              "stringId": "1954926434127204352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Załatwimy ci to wejście do Mikoshi.",
+              "maleVariant": "",
+              "stringId": "1954926818241564672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z jakiegoś powodu wszyscy w Afterlife przepadają za V. I zrobią dla niej wszystko.",
+              "maleVariant": "Z jakiegoś powodu wszyscy w Afterlife przepadają za V. I zrobią dla niego wszystko.",
+              "stringId": "1954932191832854528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jest taka rodzina nomadów, która zrobi dla V wszystko.",
+              "maleVariant": "",
+              "stringId": "1954932569387323392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czyli zgadzasz się?",
+              "maleVariant": "",
+              "stringId": "1954939540639338500"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Johnny ma rację. Możemy to zrobić.",
+              "maleVariant": "",
+              "stringId": "1954940866643382272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zgadzasz się?",
+              "maleVariant": "",
+              "stringId": "1954941253123330048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Johnny ma rację. Możemy to zrobić.",
+              "maleVariant": "",
+              "stringId": "1954943069693169664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widzę, że bardzo mu ufasz.",
+              "maleVariant": "",
+              "stringId": "1954943848306987008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak. Jeśli znajdziecie dojście do Mikoshi, przygotuję program, który pozwoli poruszać się w ich sieci.",
+              "maleVariant": "",
+              "stringId": "1954946984908181504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kiedy będę już gotowa, jak mam się z tobą skontaktować?",
+              "maleVariant": "Kiedy będę już gotowy, jak mam się z tobą skontaktować?",
+              "stringId": "1954949789387608064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To adres BBS, przez który możesz bezpiecznie ze mną rozmawiać.",
+              "maleVariant": "",
+              "stringId": "1954950537634664448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ty nie?",
+              "maleVariant": "",
+              "stringId": "1954959234658226176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To ty jesteś \"czynnikiem ludzkim\". I to z tobą będę ustalać warunki.",
+              "maleVariant": "",
+              "stringId": "1954959590368759808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Johnny trochę się zagalopował.",
+              "maleVariant": "",
+              "stringId": "1954961503625695232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Johnny trochę się zagalopował.",
+              "maleVariant": "",
+              "stringId": "1954962726785404928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiem, że niezbyt mu ufasz, ale daję ci słowo: znajdziemy taką drogę do Mikoshi, żeby cię nie narazić.",
+              "maleVariant": "",
+              "stringId": "1954966219315236864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mam wrażenie, że ja i \"czynnik ludzki\" mamy jednak coś wspólnego.",
+              "maleVariant": "",
+              "stringId": "1954967468395745280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Później wgram twój engram z powrotem do ciała.",
+              "maleVariant": "",
+              "stringId": "1954975114930704384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co się tam w ogóle stało? Nie mogłaś z nimi walczyć?",
+              "maleVariant": "",
+              "stringId": "1967634147995045888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To robota Mosleya... A to skurwiel.",
+              "maleVariant": "",
+              "stringId": "1967636299958210560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Udawał, że tylko usuwa wirusa Voodoo Boys, ale przy okazji podsunął V własny syf.",
+              "maleVariant": "",
+              "stringId": "1967642738969825280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tu porozmawiamy.",
+              "maleVariant": "",
+              "stringId": "1967654082045562880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To kim jesteś, jeśli nie Alt?",
+              "maleVariant": "",
+              "stringId": "1967673521637969920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To naprawdę ty.",
+              "maleVariant": "",
+              "stringId": "2009946838818115584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wiem, czego ode mnie oczekujesz.",
+              "maleVariant": "",
+              "stringId": "2260811523331538944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Twój ślad w Cyberprzestrzeni. Jest... interesujący.",
+              "maleVariant": "",
+              "stringId": "2260815330115403776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niepotrzebnie ryzykowałaś, pojawiając się tutaj.",
+              "maleVariant": "Niepotrzebnie ryzykowałeś, pojawiając się tutaj.",
+              "stringId": "2260815409656184836"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, sprawdź ciało.",
+              "maleVariant": "",
+              "stringId": "1141750414696976400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sandra Dorsett jest objęta immunitetem korporacyjnym drugiego stopnia. To najwyższa półka.",
+              "maleVariant": "",
+              "stringId": "1141752040660865040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, rusz się. Zobacz, czy to ona.",
+              "maleVariant": "",
+              "stringId": "1141794090370404352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To nie ona. Szukamy dalej.",
+              "maleVariant": "",
+              "stringId": "1173663261609627648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V... To ona? Spóźniliśmy się!?",
+              "maleVariant": "",
+              "stringId": "1193657062757011456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ta tutaj ma czarnorynkowe podróbki Zetatechu. Tanie i załatwiane na lewo.",
+              "maleVariant": "",
+              "stringId": "1630194113232957440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra robota. Teraz są ślepi.",
+              "maleVariant": "",
+              "stringId": "1690989747161427968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zobaczyli was! Zaraz będą tu Kosiarze.",
+              "maleVariant": "",
+              "stringId": "1690992765969788928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zaraz się przekonamy.",
+              "maleVariant": "",
+              "stringId": "2177968277633142788"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, потом в город?",
+              "maleVariant": "",
+              "stringId": "2178316214208897024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "К этому парню с брейнами?",
+              "maleVariant": "",
+              "stringId": "2211347860069478400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не, его уже нет. К нему пришли пару дней назад.",
+              "maleVariant": "",
+              "stringId": "2211348495707860992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, можно, конечно, только мы им ещё за краску не отдали.",
+              "maleVariant": "",
+              "stringId": "2211351166925860864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чёрт, точно.",
+              "maleVariant": "",
+              "stringId": "2211352054893572096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну… Так что делать будем?",
+              "maleVariant": "",
+              "stringId": "2211410190715252736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эх… Ничего. Подождём. Что-нибудь да случится.",
+              "maleVariant": "",
+              "stringId": "2211466342144602112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Некруто.",
+              "maleVariant": "",
+              "stringId": "2211469859202723840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можем посмотреть, вдруг у этих чуваков в Уотсоне есть новые турбокомпрессоры.",
+              "maleVariant": "",
+              "stringId": "2211470115810242560"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

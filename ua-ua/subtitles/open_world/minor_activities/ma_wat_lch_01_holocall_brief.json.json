@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Увага всім підрядникам поліції. Надійшло повідомлення про потенційну злочинну діяльність у районі Ґолдсміт-стріт.",
+              "maleVariant": "",
+              "stringId": "2328914113430056960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Було помічено групу «бляхарів» на чолі з Баррі Алькеном, який розшукується за звинуваченнями у вбивстві першого ступеня та нелегальній торгівлі імплантами.",
+              "maleVariant": "",
+              "stringId": "2350702003314069504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Владою міста Найт-Сіті оголошено винагороду за нейтралізацію загрози з боку Алкена та його спільників.",
+              "maleVariant": "",
+              "stringId": "2350702150819352576"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

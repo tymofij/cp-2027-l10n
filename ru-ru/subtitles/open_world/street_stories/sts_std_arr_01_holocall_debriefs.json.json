@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что ж, бета-кислота у меня, но я так и не узнал, что там с Букером. Я ожидал от тебя большего, Ви. Заказ выполнен, но тебе есть над чем подумать.",
+              "maleVariant": "",
+              "stringId": "2328604563744043008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Padrísimo.\" b=\"Ну что, с бета-кислотой всё окей? \" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2328606991809851396"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Начисляю тебе бонусные очки за то, что выяснила всё по Букеру. Не опускай планку, Ви. Заказ выполнен, твоя оплата скоро поступит.",
+              "maleVariant": "Начисляю тебе бонусные очки за то, что выяснил всё по Букеру. Не опускай планку, Ви. Заказ выполнен, твоя оплата скоро поступит.",
+              "stringId": "2369272698218319872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

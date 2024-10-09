@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What'd you do before?",
+              "maleVariant": "",
+              "stringId": "1953082758967087108"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What did you do before taking jobs?",
+              "maleVariant": "",
+              "stringId": "1953152787519655936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Used to work in Trauma Team.",
+              "maleVariant": "",
+              "stringId": "1953176413497217024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Huh. Don't they pay pretty well?",
+              "maleVariant": "",
+              "stringId": "1953180293563961344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Let's just say I, um, misjudged a situation.",
+              "maleVariant": "",
+              "stringId": "1953183773896757248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, now you have to tell me.",
+              "maleVariant": "",
+              "stringId": "1953186614984069120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I shot a client. By accident.",
+              "maleVariant": "",
+              "stringId": "1953187476678660096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

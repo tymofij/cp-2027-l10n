@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Фу, мерзость.",
+              "maleVariant": "",
+              "stringId": "2162091767526830080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С другой стороны, это же просто вирт.",
+              "maleVariant": "",
+              "stringId": "2213001106531127296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не-не-не, такое отправлять нельзя, если ты на что-то надеешься.",
+              "maleVariant": "",
+              "stringId": "2213001140806979584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Откуда вообще берутся все эти говноеды?",
+              "maleVariant": "",
+              "stringId": "2218546127363739648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, тебе-то как раз не на что жаловаться. Может, посмотрим этот вирт?",
+              "maleVariant": "",
+              "stringId": "2218546822057922560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Уф… Перестань, а то меня стошнит.",
+              "maleVariant": "",
+              "stringId": "2218547078430560256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А я вот посмотрю. Оргазм он и есть оргазм.",
+              "maleVariant": "",
+              "stringId": "2218547294806315008"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

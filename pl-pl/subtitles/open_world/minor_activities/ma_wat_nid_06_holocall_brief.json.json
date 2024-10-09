@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do wszystkich jednostek wspierających działania NCPD. Podejrzenie przestępczości zorganizowanej przy Martin Street. Na miejscu są członkowie gangu Maelstrom.",
+              "maleVariant": "",
+              "stringId": "2328567125268488192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wśród nich przebywa Kaiser Herzog pseudonim \"Chirurg\" – wykonujący zawód rippera bez zezwoleń. Skazany prawomocnie na karę śmierci m.in. za morderstwo.",
+              "maleVariant": "",
+              "stringId": "2352315089095593984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Za zneutralizowanie zagrożenia władze Night City wypłacą nagrodę.",
+              "maleVariant": "",
+              "stringId": "2352320228158181376"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

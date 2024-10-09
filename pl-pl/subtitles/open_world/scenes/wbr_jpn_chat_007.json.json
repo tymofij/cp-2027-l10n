@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podstawa to blokada neuralna, blokada wspomnień. Bez tego długo nie pociągniesz w biznesie.",
+              "maleVariant": "",
+              "stringId": "1806884847720456192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słyszałem, że niektórzy ją włączali i się już nie wybudzali.",
+              "maleVariant": "",
+              "stringId": "1806886123308965888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak tylko pierdolą. Nie znam nikogo, kto by się nie wybudził.",
+              "maleVariant": "",
+              "stringId": "1806886452612161536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czytałem o dziewczynie w Japonii, którą tak zblokowało, że…",
+              "maleVariant": "",
+              "stringId": "1806886643167780864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słuchaj, to jest jak sen, ale taki, po którym nic nie pamiętasz.",
+              "maleVariant": "",
+              "stringId": "1806886818875564032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale jak się wybudzasz?",
+              "maleVariant": "",
+              "stringId": "1806887058856861696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znikasz, a potem wracasz do tego syfu tutaj, cieszyć się zarobioną kasą.",
+              "maleVariant": "",
+              "stringId": "1824543639562719232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz taki, jakby… budzik… po prostu cię nie ma, a potem jesteś. Czasem robię sobie to sama, żeby odpocząć, ha, ha, ha.",
+              "maleVariant": "",
+              "stringId": "1824544161149587456"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

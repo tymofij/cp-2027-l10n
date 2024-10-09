@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это нечестно! Нечестно, блядь!",
+              "maleVariant": "",
+              "stringId": "2179537880846987264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, если ты ему скажешь, что это твоё место, попросишь перейти?..",
+              "maleVariant": "",
+              "stringId": "2188306224250601472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То он мне так жопу надерёт, что я уже не встану. Видал я таких, королей помойки.",
+              "maleVariant": "",
+              "stringId": "2188306391519444992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй, ну чего ты. Непохоже, чтоб он прямо на людей кидался.",
+              "maleVariant": "",
+              "stringId": "2188306540769558528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, и непохоже, а под шкурой-то у него один хром. Явно с войны остался.",
+              "maleVariant": "",
+              "stringId": "2188306770265096192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, если с войны, так может, ты ему уступишь?",
+              "maleVariant": "",
+              "stringId": "2188307190618243072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А какие ещё варианты?",
+              "maleVariant": "",
+              "stringId": "2188307352786812928"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что скажешь напоследок, Джейк?",
+              "maleVariant": "",
+              "stringId": "1807014572208021504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не смешно.",
+              "maleVariant": "",
+              "stringId": "1807015502471094272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты должен сразиться с Горирой! От него не уйти!",
+              "maleVariant": "",
+              "stringId": "1807015639171850240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет, Джейк тупой! Он там только целуется, фу! Хочу быть Горирой!",
+              "maleVariant": "",
+              "stringId": "1807015857829306368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У нас только один Горира!",
+              "maleVariant": "",
+              "stringId": "1807016041254608896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё расскажу! Всё твоей маме расскажу!",
+              "maleVariant": "",
+              "stringId": "1807016214462586880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У Гориры нет мамы! У Гориры есть стальные кулаки! А-а-ар-р-р!",
+              "maleVariant": "",
+              "stringId": "1807016367118475264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мисс Лю!",
+              "maleVariant": "",
+              "stringId": "1807016583108354048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно, ладно. Можешь быть Горирой.",
+              "maleVariant": "",
+              "stringId": "1807016767271854080"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

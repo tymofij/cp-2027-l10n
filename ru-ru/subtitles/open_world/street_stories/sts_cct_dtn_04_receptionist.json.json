@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У меня встреча с госпожой Кох.",
+              "maleVariant": "",
+              "stringId": "1408088290545135616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У меня назначена встреча с госпожой Кох.",
+              "maleVariant": "",
+              "stringId": "1408091328093646848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Минуточку, я посмотрю…",
+              "maleVariant": "",
+              "stringId": "1408092557276377088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу снять комнату.",
+              "maleVariant": "",
+              "stringId": "1419935019515015168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Здравствуйте. Чем могу помочь?",
+              "maleVariant": "",
+              "stringId": "1935891931595067392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу снять номер, одноместный подойдёт.",
+              "maleVariant": "",
+              "stringId": "1935892937053622272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну надо же.",
+              "maleVariant": "",
+              "stringId": "1935899340698865664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Боюсь, это невозможно. У нас корпоративный отель, только для сотрудников «Биотехники».",
+              "maleVariant": "",
+              "stringId": "1935899944544423936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эх, очень жаль. У вас тут мило.",
+              "maleVariant": "",
+              "stringId": "1946250435674607616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Боюсь, что нет. Это какое-то недоразумение.",
+              "maleVariant": "",
+              "stringId": "2523106879086055424"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tygerzy przyjdą dziś po opłatę. Właśnie dostałam wiadomość.",
+              "maleVariant": "",
+              "stringId": "2156428633030762496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa. Kurwa mać.",
+              "maleVariant": "",
+              "stringId": "2169128396360306688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie masz...?",
+              "maleVariant": "",
+              "stringId": "2169130664103038976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To był zły tydzień... Najpierw dziecko mi się pochorowało, potem ta strzelanina i ludzie się wystraszyli...",
+              "maleVariant": "",
+              "stringId": "2169130891870523392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może mi odpuszczą, co? Zawsze płacę na czas. Jeden raz każdemu może się zdarzyć, nie?",
+              "maleVariant": "",
+              "stringId": "2169131659075833856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Posłuchaj mnie. Skołuj kasę. Teraz. Nie wiem jak, wydłub sobie wszczepy, sprzedaj nerkę. Inaczej wszyscy będziemy mieli przesrane. Rozumiesz? Wszyscy.",
+              "maleVariant": "",
+              "stringId": "2169133135688945664"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

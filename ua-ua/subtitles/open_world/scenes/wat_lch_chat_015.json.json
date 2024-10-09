@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чуєш, а в тебе який поліс «Травми? Золотий?",
+              "maleVariant": "",
+              "stringId": "2156387886174597120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Типу того.",
+              "maleVariant": "",
+              "stringId": "2169308549417848832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Раджу подумати щодо платинового. Тоді разом із тобою вони можуть забрати ще двох людей.",
+              "maleVariant": "",
+              "stringId": "2169308652463509504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пам’ятаєш, як мою машину обстріляли, у сімдесят п’ятому? От саме такий поліс допоміг урятувати мою доньку з дружиною. Лише-от няню довелося залишити. Бідолашна, стекла кров’ю.",
+              "maleVariant": "",
+              "stringId": "2169309017149853696"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

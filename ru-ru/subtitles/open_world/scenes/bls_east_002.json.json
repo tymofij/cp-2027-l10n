@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я-то видел. Но в зеркале-то не видно, насколько тебе приспичило.",
+              "maleVariant": "",
+              "stringId": "1973539329958518784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну что, бухаем сегодня?",
+              "maleVariant": "",
+              "stringId": "1976242292912836608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чего? А ты что, тут где-то кабак видел?",
+              "maleVariant": "",
+              "stringId": "1976242322826612736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет, в смысле, берём ящик пива, тихаримся где-нибудь…",
+              "maleVariant": "",
+              "stringId": "1976242349418500096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И любуемся видами.",
+              "maleVariant": "",
+              "stringId": "1976242599852003328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты меня на свидание, что ли, зовёшь?",
+              "maleVariant": "",
+              "stringId": "1976242627903508480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха! Ты себя в зеркало-то видел?",
+              "maleVariant": "",
+              "stringId": "1976242647482519552"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

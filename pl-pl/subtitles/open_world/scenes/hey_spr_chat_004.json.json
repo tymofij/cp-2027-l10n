@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To jest niemoralne! To grzech!",
+              "maleVariant": "",
+              "stringId": "1831681692086689792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bez przesady, chodzi tylko o złącze interfejsu.",
+              "maleVariant": "",
+              "stringId": "1831683317849251840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wierzę, że to mówisz... Jak się poznaliśmy, to nie było w tobie tyle pychy.",
+              "maleVariant": "",
+              "stringId": "1831683486074396672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak się poznaliśmy, to nie mieliśmy dziecka i decydowaliśmy tylko za siebie.",
+              "maleVariant": "",
+              "stringId": "1831683633881669632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jesteśmy dziełem Boga i nie mamy prawa w to dzieło ingerować!",
+              "maleVariant": "",
+              "stringId": "1831683771287068672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To nasz syn. Chcę ułatwić mu życie.",
+              "maleVariant": "",
+              "stringId": "1831683920419741696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ułatwić? Jemu? A może sobie? Co? Chcesz być taki, jak twoi koledzy, jak ten Michael, albo Peter?",
+              "maleVariant": "",
+              "stringId": "1831684098744770560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przestań.",
+              "maleVariant": "",
+              "stringId": "1831684277220794368"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

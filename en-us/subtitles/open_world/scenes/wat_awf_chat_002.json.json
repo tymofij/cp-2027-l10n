@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "See the game last night?",
+              "maleVariant": "",
+              "stringId": "1963247011426770944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nope. Who was playing?",
+              "maleVariant": "",
+              "stringId": "1967803834118230016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Whaddaya mean, \"who?\" Our boys, choom? Bastards lost by twenty points. Twenty!",
+              "maleVariant": "",
+              "stringId": "1967805494810955776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Shit, if I could chip me the kind of implants they have, I'd show 'em how to crash the fuckin' boards.",
+              "maleVariant": "",
+              "stringId": "1967806006314717184"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie możemy się poddać.",
+              "maleVariant": "",
+              "stringId": "2167867518284648448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dokładnie. Musimy walczyć o swoje! Razem!",
+              "maleVariant": "",
+              "stringId": "2214409772538892288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Panowie, ale co my możemy zrobić? Na automatyzację pracy nie ma rady.",
+              "maleVariant": "",
+              "stringId": "2214409820337180672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak mogą wsadzić roboty na nasze miejsce, to wsadzą. Prędzej czy później.",
+              "maleVariant": "",
+              "stringId": "2221543300246376448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ciebie, to już do końca pojebało? Zwolnili cię z dnia na dzień i jeszcze ich bronisz?",
+              "maleVariant": "",
+              "stringId": "2221543529255374848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie no, po prostu rozumiem, to kapitalizm, na ich miejscu pewnie zrobiłbym tak samo.",
+              "maleVariant": "",
+              "stringId": "2221545653922009088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Weź mnie, kurwa, trzymaj bo mu zaraz, kurwa, przypierdolę. No kurwa mać. Nie wierzę!",
+              "maleVariant": "",
+              "stringId": "2221546298938855424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"Jakby był na ich miejscu\"? Czy ty, kurwa, słyszysz tego debila?!",
+              "maleVariant": "",
+              "stringId": "2221546593680986112"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

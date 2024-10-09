@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слышь, мы вернулись, заводи давай свою шарманку.",
+              "maleVariant": "",
+              "stringId": "1712650063665532928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Придётся подождать.",
+              "maleVariant": "",
+              "stringId": "1712661918228254720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подождать? Чего, блядь, ждать-то?",
+              "maleVariant": "",
+              "stringId": "1712695267726561280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У нас полно заказов. Всё занято. Придётся подождать в очереди.",
+              "maleVariant": "",
+              "stringId": "1712696356232335360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"pendejo\" b=\"Слышь, Крузито ни в каких блядских очередях стоять не привык. Понял меня, \" a=\"?\"/>",
+              "maleVariant": "",
+              "stringId": "1712704701320237056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А теперь посмотри мне в глаза и повтори. Ну, давай, смелее.",
+              "maleVariant": "",
+              "stringId": "1712704795775963136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пф…",
+              "maleVariant": "",
+              "stringId": "1712705786017583104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так-то лучше.",
+              "maleVariant": "",
+              "stringId": "1712705924278620160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно, подождём, куда деваться.",
+              "maleVariant": "",
+              "stringId": "1720256342080720896"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

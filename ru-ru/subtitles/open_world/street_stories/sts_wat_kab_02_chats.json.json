@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Блядь, я до сих под весь в гансовой кровище…",
+              "maleVariant": "",
+              "stringId": "983714023834091520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да жесть! Чуваку брюхо вспороли, а ему хоть бы что! Насовал им по самые гланды.",
+              "maleVariant": "",
+              "stringId": "983720057994706944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это Ганс, чувак. Его так просто не возьмёшь.",
+              "maleVariant": "",
+              "stringId": "1375048606130999296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скорей бы риперка его подлатала!",
+              "maleVariant": "",
+              "stringId": "1456005601566232576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это уж точно. Ладно, выгружай давай.",
+              "maleVariant": "",
+              "stringId": "1456015373606686720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ща всё будет!",
+              "maleVariant": "",
+              "stringId": "1456015547250872320"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

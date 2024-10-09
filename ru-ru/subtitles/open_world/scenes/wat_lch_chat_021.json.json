@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Надо включать голову, а не биться лбом об стену. Ищи, как проще.",
+              "maleVariant": "",
+              "stringId": "2156507374513582080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Клиенту всё равно, как ты его заказ выполнишь.",
+              "maleVariant": "",
+              "stringId": "2176366912042942464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Само собой, не ему же потом получать спам от озабоченных.",
+              "maleVariant": "",
+              "stringId": "2176367127395287040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всегда можно что-то придумать. Некоторым скажешь, что тебе больше не интересно, и всё.",
+              "maleVariant": "",
+              "stringId": "2176367432874835968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А некоторым приходится приставлять к виску «Омаху».",
+              "maleVariant": "",
+              "stringId": "2176367623749222400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё равно. Не хочу никого соблазнять ради заказа.",
+              "maleVariant": "",
+              "stringId": "2176367987194052608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лучше уж устрою нормальную перестрелку, как настоящий солдат.",
+              "maleVariant": "",
+              "stringId": "2176369225738469376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Уважаю.",
+              "maleVariant": "",
+              "stringId": "2176369569067417600"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

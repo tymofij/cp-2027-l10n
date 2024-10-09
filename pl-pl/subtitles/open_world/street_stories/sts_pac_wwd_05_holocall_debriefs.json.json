@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Otrzymałem informację, że Logan Garcia jest już w drodze do mnie.",
+              "maleVariant": "",
+              "stringId": "2328531507121479680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Otrzymałem informację, że Logan Garcia nie żyje. Klientka bardzo zadowolona. Ja również.",
+              "maleVariant": "",
+              "stringId": "2328535053858496516"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Doskonale. Wzorowa robota. Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2334617013399044096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zamykam kontrakt i robię przelew.",
+              "maleVariant": "",
+              "stringId": "2334617911080763392"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

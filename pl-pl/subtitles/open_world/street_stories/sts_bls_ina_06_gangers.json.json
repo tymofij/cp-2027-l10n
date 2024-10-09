@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, widziałeś jak mi obsrało samochód przez noc?",
+              "maleVariant": "",
+              "stringId": "1468919596504756224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ile jeszcze będziemy tu trzymać tę laskę i ten jej pierdolony wóz?",
+              "maleVariant": "",
+              "stringId": "1468921072513888256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wyluzuj. Nie tak spinaj dupy, bo ci żyłka pęknie. Idź umyj furę.",
+              "maleVariant": "",
+              "stringId": "1468921318870528000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zajmuje miejsce pod dachem.",
+              "maleVariant": "",
+              "stringId": "1932950596875997184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzięki.",
+              "maleVariant": "",
+              "stringId": "1932953601172066304"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

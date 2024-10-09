@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Він зробив пропозицію?!",
+              "maleVariant": "",
+              "stringId": "1806787971243433984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. І так, як я йому й казала: щоби це був сюрприз, і щоби всі дівчата з офісу це побачили.",
+              "maleVariant": "",
+              "stringId": "1806788361414369280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це де?",
+              "maleVariant": "",
+              "stringId": "1806789017822945280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, знаєш, у цьому новому ресторані в середмісті. Це було просто ідеально: захід сонця, дрони, усі аплодують… Я геть не очікувала!",
+              "maleVariant": "",
+              "stringId": "1806789199184650240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як романтично!",
+              "maleVariant": "",
+              "stringId": "1806789655726252032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу.",
+              "maleVariant": "",
+              "stringId": "1807009699566292992"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Иногда так хочется посмотреть, что там творится.",
+              "maleVariant": "",
+              "stringId": "2179406238622969856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну не знаю. Мне хочется пожить подольше.",
+              "maleVariant": "",
+              "stringId": "2189672989396287488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сколько же имплантов надо себе поставить, чтобы выдержать там хотя бы день?",
+              "maleVariant": "",
+              "stringId": "2189673139887915008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Фабьен говорит, туда выкидывают самых опасных киберпсихов, чтобы они там друг друга перебили.",
+              "maleVariant": "",
+              "stringId": "2189673345459142656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скажи чуваку, пусть дилера сменит. Не знаю, на чём он был, когда это придумал.",
+              "maleVariant": "",
+              "stringId": "2189673630051057664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ты лучше него знаешь, что ли?",
+              "maleVariant": "",
+              "stringId": "2189673815573512192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поверь, я однажды видела чувака, который оттуда вышел ненадолго.",
+              "maleVariant": "",
+              "stringId": "2189673934322647040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У него был такой взгляд… Это не киберпсихоз. Это что-то намного хуже.",
+              "maleVariant": "",
+              "stringId": "2189674219384324096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Валіть туди, звідки приїхали! Досить засирати Найт-Сіті!",
+              "maleVariant": "",
+              "stringId": "2167932130531135488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Понаприводили сюди наркоманів, убивць, ґвалтівників та іншу погань!",
+              "maleVariant": "",
+              "stringId": "2221664624063123456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Досить відбирати роботу в чесних містян! Ви тільки дочекайтеся, Голт повиганяє вас до дідька з нашого міста!",
+              "maleVariant": "",
+              "stringId": "2221665065622671360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От маєте свої срані НСША, там і залишайтеся!",
+              "maleVariant": "",
+              "stringId": "2221665562261819392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Треба просто побудувати стіну і відгородитися від вас! Як від бойової зони!",
+              "maleVariant": "",
+              "stringId": "2221665780231409664"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

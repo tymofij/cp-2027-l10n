@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ten. Ten. Ten. Dzie- dzie- dzień.",
+              "maleVariant": "",
+              "stringId": "1740162750440710144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Halo?!",
+              "maleVariant": "",
+              "stringId": "1834259589791653888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Delamain?! Jesteś?!",
+              "maleVariant": "",
+              "stringId": "1834263384177156096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słyszysz mnie?",
+              "maleVariant": "",
+              "stringId": "1925993314715344900"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja- ja- jam- jest.",
+              "maleVariant": "",
+              "stringId": "1925993314715344908"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słyszysz mnie?",
+              "maleVariant": "",
+              "stringId": "2463482209525022724"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Halo?",
+              "maleVariant": "",
+              "stringId": "2463485662729060356"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Delamain? Jesteś tu?",
+              "maleVariant": "",
+              "stringId": "2463486344521564164"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

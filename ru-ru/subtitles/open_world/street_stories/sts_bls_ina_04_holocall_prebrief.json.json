@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Короче, «Милитех» поставил на границе новый радар. Это плохо для контрабанды, плохо для Альдекальдо и особенно плохо для меня.",
+              "maleVariant": "",
+              "stringId": "2328763362761789444"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу узнать, как он устроен, но для этого мне надо его получить.",
+              "maleVariant": "",
+              "stringId": "2332972600377720832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Доставь мне эту штуку, а я тебе хорошо заплачу. Подробности сейчас пришлю письмом.",
+              "maleVariant": "",
+              "stringId": "2332972827205681152"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

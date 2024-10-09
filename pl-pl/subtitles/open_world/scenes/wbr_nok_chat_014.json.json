@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nikt nie jest w stanie uciec od siebie.",
+              "maleVariant": "",
+              "stringId": "2159345535122120704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Można zastąpić ciało metalem, można udawać, że nie jesteśmy mięsem.",
+              "maleVariant": "",
+              "stringId": "2196916705295527936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale nie można zalać duszy chromem!",
+              "maleVariant": "",
+              "stringId": "2196917335061884928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Metal rdzewieje, a mięso gnije. Lecz dusza wciąż woła przeraźliwie: \"Strzeżcie się! Drżyjcie\"!",
+              "maleVariant": "",
+              "stringId": "2196917606970224640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak, tak. To miasto przesiąknięte jest rdzą. I zgnilizną.",
+              "maleVariant": "",
+              "stringId": "2196918519952764928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Strzeżcie się! Drżyjcie!",
+              "maleVariant": "",
+              "stringId": "2196920029096898560"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

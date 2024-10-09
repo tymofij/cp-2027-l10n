@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kwiatów trzeba nowych przynieść, bo zwiędły.",
+              "maleVariant": "",
+              "stringId": "2179420296772349952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Już? Może tym razem kupię sztuczne...",
+              "maleVariant": "",
+              "stringId": "2182418132503941120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sztuczne. Sztuczne! Wszystko w tym mieście jest sztuczne. Ludzie są sztuczni. Jedzenie jest sztuczne. Niech chociaż kwiaty będą prawdziwe.",
+              "maleVariant": "",
+              "stringId": "2182421682780950528"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

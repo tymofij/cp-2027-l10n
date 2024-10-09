@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Looking for Logan.",
+              "maleVariant": "",
+              "stringId": "1654945466095738884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Here for Logan. We've got a date.",
+              "maleVariant": "",
+              "stringId": "1654946518245285888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh yeah? Skippin' dinner – here to get straight fucked?",
+              "maleVariant": "",
+              "stringId": "1654946808273018880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Funny. That ain't your biz. Now where is he?",
+              "maleVariant": "",
+              "stringId": "1654947294258634752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Prolly upstairs, but... said not to be bothered, so if I were you I'd wait downstairs.",
+              "maleVariant": "",
+              "stringId": "1654948561039106048"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

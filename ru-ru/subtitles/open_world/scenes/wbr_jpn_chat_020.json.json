@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чистая работа, говорю тебе. Снаряга есть, копам заплатили. Заходим, забираем что надо и съёбываем. Окей?",
+              "maleVariant": "",
+              "stringId": "2160323573585059840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вроде всё нормально. Вакако дала добро?",
+              "maleVariant": "",
+              "stringId": "2169430319558873088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А чего её спрашивать? Мы ж в масках будем, никто не узнает.",
+              "maleVariant": "",
+              "stringId": "2169431743055319040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не-не-не! Ты что, не в курсе про Вакако? Не знаю, как у неё получается, но она всегда всё знает. Перейдёшь ей дорогу — всё, ты труп.",
+              "maleVariant": "",
+              "stringId": "2169432328915701760"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

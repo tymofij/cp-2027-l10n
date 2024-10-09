@@ -1,0 +1,613 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шукаю цікаву музику.",
+              "maleVariant": "",
+              "stringId": "1854836846355161088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подейкують, тут можна придбати якусь порядну музику.",
+              "maleVariant": "",
+              "stringId": "1854838265338535936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що ти маєш на увазі під «порядною»? Ми маємо «Декартових дуелянтів», дещо з Євродайна, «Гнилий Владика»…",
+              "maleVariant": "",
+              "stringId": "1854841406519910400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І я цим пишаюся. Сучасні «рокери» навіть і поряд не стояли. У Сільвергенда було те, про що їм навіть не снилося.",
+              "maleVariant": "",
+              "stringId": "1854841515135606784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Срібна рука?",
+              "maleVariant": "",
+              "stringId": "1854841924415791104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я шукаю справжні артефакти «Самурая».",
+              "maleVariant": "",
+              "stringId": "1854843511305543684"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Великий фанат Сільвергенда, так?",
+              "maleVariant": "",
+              "stringId": "1854846294175916032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Схоже, я знайшла найбільшого фаната Сільвергенда.",
+              "maleVariant": "Схоже, я знайшов найбільшого фаната Сільвергенда.",
+              "stringId": "1854848132841349120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бля. Ти взагалі не розумієш, про що просиш! Хіба що кажеш так… аби казати!",
+              "maleVariant": "",
+              "stringId": "1854849547630419968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знаю, що кажуть про Джонні в «Арасаці».",
+              "maleVariant": "",
+              "stringId": "1854850230161121284"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я пам’ятаю концерти у «Веселковій Каденції».",
+              "maleVariant": "",
+              "stringId": "1854850486332432384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А звідки «першій ліпшій із вулиці» відомо, що кажуть новеньким в «Арасаці»?",
+              "maleVariant": "А звідки «першому ліпшому з вулиці» відомо, що кажуть новеньким в «Арасаці»?",
+              "stringId": "1854853232477478912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ех, я бувала тут ще за часів «Веселкової каденції». Підпільний запис був би гарною пам’яткою про старі добрі дні.",
+              "maleVariant": "Ех, я бував тут ще за часів «Веселкової каденції». Підпільний запис був би гарною пам’яткою про старі добрі дні.",
+              "stringId": "1854865456810041344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не пам’ятаєш? Хтось додумався гасити пожежу пивом.",
+              "maleVariant": "",
+              "stringId": "1855925460627496964"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бідолашна Денні… і її волосся.",
+              "maleVariant": "",
+              "stringId": "1855926052510900224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Стривай, дай подумати… Ем, там була пожежа? Пам’ятаєш ідіотів, які намагалися загасити її пивом?",
+              "maleVariant": "",
+              "stringId": "1855927023777488896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Стривай… Пригадала. Ех, була пожежа. Бідолашна Денні та її волосся.",
+              "maleVariant": "Стривай… Пригадав. Ех, була пожежа. Бідолашна Денні та її волосся.",
+              "stringId": "1855927643813060608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаєш, кажуть, що час — найкращий учитель. Раніше я думав, що це правда.",
+              "maleVariant": "",
+              "stringId": "1856026986524057600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кажуть, якщо стажисти не виконають роботу вчасно, то за ними прийде привид розділеної навпіл людини. Звісно, ніхто вже не пам’ятає, що цей привид — Джонні.",
+              "maleVariant": "",
+              "stringId": "1876319983446663168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дуже дякую.",
+              "maleVariant": "",
+              "stringId": "1876320504798650368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бери й неси слово Сільвергенда людям. Смерть корпарям!",
+              "maleVariant": "",
+              "stringId": "1876320950418284544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Маєш якийсь лазерпоп?..",
+              "maleVariant": "",
+              "stringId": "1883552378951286784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привіт, я шукаю якусь цікаву музику. Маєш лазерпоп? Можливо, щось від «Попагри»?",
+              "maleVariant": "",
+              "stringId": "1883552485050400768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я мотлох не продаю! Ти або шукаєш хорошу музику, або веселкове гівно!",
+              "maleVariant": "",
+              "stringId": "1883552802559213568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Охолонь, чумбо. Я просто жартую.",
+              "maleVariant": "",
+              "stringId": "1883552911929884672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лазерпоп! Їбаний лазерпоп! Тут, у мене?!",
+              "maleVariant": "",
+              "stringId": "1883553011653656576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А «Самурай» є?",
+              "maleVariant": "",
+              "stringId": "1883578767146467328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дитинко, ти ще питаєш?! «Never Fade Away», «Dancing with my Ax», «Chippin' In». Усе є, тільки скажи!",
+              "maleVariant": "",
+              "stringId": "1883578928325181440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сільвергенд був справжнім месією року. Якби міг, то роздавав би його записи всім як цукерки. Але треба й мені щось їсти.",
+              "maleVariant": "",
+              "stringId": "1883579642363494400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У нього був запал, дитинко! Вогонь! Хлопець струсив основи світу корпарів! Він помер за свої ідеали!",
+              "maleVariant": "",
+              "stringId": "1883594418376392704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А те, що він був трохи терористом, значення не має?",
+              "maleVariant": "",
+              "stringId": "1883594511808708608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я шукаю справжні артефакти. Наприклад, підпільні записи перших концертів «Самурая».",
+              "maleVariant": "",
+              "stringId": "1883618222746091520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не знаю, звідки ти дізналася про підпільні записи, але забудь. Я не віддам їх першій ліпшій із вулиці.",
+              "maleVariant": "Не знаю, звідки ти дізнався про підпільні записи, але забудь. Я не віддам їх першому ліпшому з вулиці.",
+              "stringId": "1883618338693431296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добре, я вражений. Хтось з «Арасаки» розповів тобі це!",
+              "maleVariant": "",
+              "stringId": "1883729768247705600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "З дитинства знаю «Chippin' In».",
+              "maleVariant": "",
+              "stringId": "1883730042051870724"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джонні завжди зі мною.",
+              "maleVariant": "",
+              "stringId": "1883730122465067008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Коли інші діти слухали «Хромову крейду», я вже на пам’ять знала «Chippin' In».",
+              "maleVariant": "Коли інші діти слухали «Хромову крейду», я вже на пам’ять знав «Chippin' In».",
+              "stringId": "1883730381874380800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Він завжди зі мною. У кожному русі, кожному кроці. Джонні наче моя совість. Мій вічний пекельний моральний компас.",
+              "maleVariant": "",
+              "stringId": "1883730445879459840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха! Добре сказано, дитино. Аж на сльозу пробила. Ти своя.",
+              "maleVariant": "Ха-ха! Добре сказано, дитино. Аж на сльозу пробила. Ти свій.",
+              "stringId": "1883731452411756544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ех, що там. Треба навчати молодь. Можливо, знайдеш собі щось особливе під прилавком… Вибирай.",
+              "maleVariant": "",
+              "stringId": "1883739910829752320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знаю, якими були останні слова Джонні до Керрі.",
+              "maleVariant": "",
+              "stringId": "1883766702248542208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не позерка. Знаю все про Сільвергенда.",
+              "maleVariant": "Я не позер. Знаю все про Сільвергенда.",
+              "stringId": "1883767294870142976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не мели дурниць. Ти замолода, щоби пам’ятати перші виступи «Самурая». Тебе тоді ще навіть батьки не мали в планах.",
+              "maleVariant": "Не мели дурниць. Ти замолодий, щоби пам’ятати перші виступи «Самурая». Тебе тоді ще навіть батьки не мали в планах.",
+              "stringId": "1883783333418876928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зовнішність буває оманлива. Звідки тобі знати, що це чарівне обличчя — не імплант?",
+              "maleVariant": "",
+              "stringId": "1883783426733752320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну добре, доведи. Як завершився третій виступ «Самурая»?",
+              "maleVariant": "",
+              "stringId": "1883783523756392448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джонні, допоможеш?",
+              "maleVariant": "",
+              "stringId": "1883784703429558276"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джонні, до мене!",
+              "maleVariant": "",
+              "stringId": "1883784759515791360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джонні, мій шановний експерте, допоможи чумбі. Потрібен швидкий екскурс по історії «Самурая».",
+              "maleVariant": "",
+              "stringId": "1883784979548979200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гей, Джонні! Тягни сюди свою цифрову сраку та скажи, що треба відповісти.",
+              "maleVariant": "",
+              "stringId": "1883785047026941952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти завжди так підвисаєш?",
+              "maleVariant": "",
+              "stringId": "1883829558927147008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Третій виступ був у «Каденції». Сталася невеличка пожежа. Кілька бухих ідіотів вирішили загасити її пивом.",
+              "maleVariant": "",
+              "stringId": "1883830579116097536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха-ха! Сам ледь не забув… Я чув, що вона сталася через Джонні… він кинув недопалок.",
+              "maleVariant": "",
+              "stringId": "1883869859981017088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Маячня. Це точно була сигарета Керрі. Але ні, як щось не так, то винен Джонні.",
+              "maleVariant": "",
+              "stringId": "1883879709163110400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Досі не вірю, що ти була там, але біс із ним… Лише справжній фанат знає щось таке.",
+              "maleVariant": "Досі не вірю, що ти був там, але біс із ним… Лише справжній фанат знає щось таке.",
+              "stringId": "1884895243207950336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Уперед. Спробуй вразити мене.",
+              "maleVariant": "",
+              "stringId": "1884936939874533376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знаю останні слова Джонні до Керрі.",
+              "maleVariant": "",
+              "stringId": "1884937048188239872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але от дивлюся на цього хлопця. Йому щонайменше шістдесят, а досі живе у 2020.",
+              "maleVariant": "",
+              "stringId": "1885000971679678464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Він твій найбільший фанат. Не радий зустріти його?",
+              "maleVariant": "",
+              "stringId": "1885013542746963968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я підірвав «Вежу Арасаки», а вона досі стоїть тут, як і стояла.",
+              "maleVariant": "",
+              "stringId": "1885013626263945216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не хочу, щоби люди застрягали в якомусь проміжку часу. Хочу, щоби вони змінювалися разом зі світом.",
+              "maleVariant": "",
+              "stringId": "1885013777527324672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Минуло шістдесят років. Щось мало змінитися.",
+              "maleVariant": "",
+              "stringId": "1885047313688936448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаєш, що змінилося? Фасад. Нові роз’єми для інтерфейсів, нові смаки фруктозного сиропу…",
+              "maleVariant": "",
+              "stringId": "1885047358383439872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Щось мало змінитися.",
+              "maleVariant": "",
+              "stringId": "1885047905605894148"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Підривом людей не змінити…",
+              "maleVariant": "",
+              "stringId": "1885047953253187584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочеш змусити їх змінитися? Їх не вийде просто підірвати, як вежу.",
+              "maleVariant": "",
+              "stringId": "1885048100993351680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А музикою вийде? Он дивися, що вийшло — дід, який знає всі слова, але не розуміє жодного!",
+              "maleVariant": "",
+              "stringId": "1885053996909707264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Blaze way down the rebel path»!",
+              "maleVariant": "",
+              "stringId": "1902512577208631296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Він назвав його пиздою. Та порадив припинити бути таким.",
+              "maleVariant": "",
+              "stringId": "1902615781397217280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Нахуй цей гурт. Це не твоя публіка, зроби щось своє».",
+              "maleVariant": "",
+              "stringId": "1902615852180291584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. Звісно. Я можу вигадати мільйон їхніх розмов. Там не було свідків.",
+              "maleVariant": "",
+              "stringId": "1902617875361546240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти серйозно? Ти справді фанатка Сільвергенда?",
+              "maleVariant": "Ти серйозно? Ти справді фанат Сільвергенда?",
+              "stringId": "1902709696544620544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А як тобі: «Іди нахуй, Ві. Я тобі не песик».",
+              "maleVariant": "",
+              "stringId": "1903741920060620800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну? Я не можу чекати весь день.",
+              "maleVariant": "",
+              "stringId": "1903742095466414080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, третій виступ. Пам’ятаю, наче було вчора. Я підпалив свою гітару, а потім розбив об сцену. Натовп шаленів.",
+              "maleVariant": "",
+              "stringId": "1903753030805471232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пф-ф, легко. Джонні підпалив гітару та розбив її.",
+              "maleVariant": "",
+              "stringId": "1903767086069170176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні! Я так і знав. Хто розбиває свої інструменти на початку кар’єри? За нову ж треба платити євдики!",
+              "maleVariant": "",
+              "stringId": "1903767235034071040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джонні, блядь!",
+              "maleVariant": "",
+              "stringId": "1903770626179186692"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джонні, будь ласка.",
+              "maleVariant": "",
+              "stringId": "1903771068141387776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джонні, блядь! Нащо мені зараз цей саботаж?",
+              "maleVariant": "",
+              "stringId": "1903771154510495744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джонні, будь ласка, ти можеш припинити ускладнювати моє й без того коротке життя?",
+              "maleVariant": "",
+              "stringId": "1903771218448465920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бо це смішно. Бо мені нудно. А, можливо, мені не подобається твій ортодоксальний їбальник.",
+              "maleVariant": "",
+              "stringId": "1903789698937765888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І як мені дотепно відповісти на таке жалюгідне питання? Це ж наче бити цуцика. Та ще й сліпенького.",
+              "maleVariant": "",
+              "stringId": "1903802901633679360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Афро Денні згоріло. Вона потім кілька тижнів носила перуку. Нізащо не хотіла вживляти технічне волосся.",
+              "maleVariant": "",
+              "stringId": "1903809933803765760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вважаєш, що краще вбити купу людей на твою честь? А прості люди?",
+              "maleVariant": "",
+              "stringId": "1903912835834691584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А може вони не хочуть змінюватися. Це їхній вибір. Хочеш забрати його?",
+              "maleVariant": "",
+              "stringId": "1903912966277545984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можливо, вони прикидаються й не бачать зла, можливо, сліпі ідіоти — але вони мають зрозуміти. А як змусити зрозуміти — це вже інше питання.",
+              "maleVariant": "",
+              "stringId": "1903913104253370368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нове обличчя «Арасаки». Старе лайно в новій обгортці.",
+              "maleVariant": "",
+              "stringId": "1903915857025417216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Щось таки змінилося. Можливо, ми цього не бачимо, але — зміни таки відбулися.",
+              "maleVariant": "",
+              "stringId": "1903915959165108224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Звісно. Тепер майже ніхто не пам’ятає часи, що колись «людина» не означала мішок із кістками, який набитий вживаними імплантами.",
+              "maleVariant": "",
+              "stringId": "1903916046255636480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зачекай-но… Що це на тобі? Часом не…",
+              "maleVariant": "",
+              "stringId": "1924395857093730304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Заздриш? Так, це куртка Сільвергенда.",
+              "maleVariant": "",
+              "stringId": "1927016159530172420"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Копія. Пробудила спогади?",
+              "maleVariant": "",
+              "stringId": "1927016266686251008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Заздриш? Отримала її від старого чумби Джонні. Розумієш, уся справа у зв’язках.",
+              "maleVariant": "Заздриш? Отримав її від старого чумби Джонні. Розумієш, уся справа у зв’язках.",
+              "stringId": "1927016327537213440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Саме так, точна копія куртки Сільвергенда. Вигляд у тебе, ніби повернувся спогадами на п’ятдесят років назад.",
+              "maleVariant": "",
+              "stringId": "1927016364598083584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хо-хо-хо. Хай мені грець. Востаннє я бачив її ще коли був молодий і красивий.",
+              "maleVariant": "",
+              "stringId": "1927016394847404032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якось Джонні повісив таку на стілець, щоби піти навішати люлей захиснику «Мілітеху».",
+              "maleVariant": "",
+              "stringId": "1927017068821725184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я тоді підкрався та вдягнув її на кілька секунд. Ох, ото були часи…",
+              "maleVariant": "",
+              "stringId": "1927017173159231488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Оглянути артефакти]",
+              "maleVariant": "",
+              "stringId": "1959217629940817924"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

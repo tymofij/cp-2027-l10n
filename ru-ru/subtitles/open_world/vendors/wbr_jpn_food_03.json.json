@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чем можно перекусить?",
+              "maleVariant": "",
+              "stringId": "1884976962712518656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вы готовите настоящее мясо?",
+              "maleVariant": "",
+              "stringId": "1884976962712518672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Какая у вас еда?",
+              "maleVariant": "",
+              "stringId": "1884976962762850308"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Посмотри сама.",
+              "maleVariant": "Посмотри сам.",
+              "stringId": "1884976962762850316"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А настоящее мясо у вас есть?",
+              "maleVariant": "",
+              "stringId": "1884976962846736388"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А? В смысле… из животных? Ты откуда упала-то?",
+              "maleVariant": "А? В смысле… из животных? Ты откуда упал-то?",
+              "stringId": "1884976962846736396"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

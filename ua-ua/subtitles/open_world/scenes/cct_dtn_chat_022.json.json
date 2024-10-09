@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, принцесо? С’і’ки мені ч’кати, поки Ваша Високиство вирішить походити?",
+              "maleVariant": "",
+              "stringId": "2172211025015451648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Закрий писок — вумних не підганяти.",
+              "maleVariant": "",
+              "stringId": "2178091326430232576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ой, блядь… З тебе т’кий вумний, як із мене, курва, Річард Найт.",
+              "maleVariant": "",
+              "stringId": "2178091716232069120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це ше хто вумний. Зара’ в нас рахунок 3:0.",
+              "maleVariant": "",
+              "stringId": "2178091840249249792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добре, добре. Зара’ п’дивим’ся, як ти пиздякатимеш, к’ли я в тебе виб’ю останню банку.",
+              "maleVariant": "",
+              "stringId": "2178092036442013696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха! А тобі би точно ті’ки й пиздякати, лох.",
+              "maleVariant": "",
+              "stringId": "2178092138749476864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, та це т’ка стратегія в мене. Спершу я т’бе забалакую, потім витягую т’ку карту, шо ти довбанешся г’ловою вниз.",
+              "maleVariant": "",
+              "stringId": "2178092638542741504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну аякже… Це ми ше зара’ п’дивимся!",
+              "maleVariant": "",
+              "stringId": "2178092858861142016"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

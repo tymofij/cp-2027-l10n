@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, крути жопой, киса, иначе зачем она нужна?",
+              "maleVariant": "",
+              "stringId": "1242802899126820864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Почку любой дебил может вырезать.",
+              "maleVariant": "",
+              "stringId": "1266395901891944448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А чё, глаз уже нет?",
+              "maleVariant": "",
+              "stringId": "1266398370172739584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О-о… Нравится тебе?",
+              "maleVariant": "",
+              "stringId": "1272138729993510912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Глаза — работа для специалиста. Кстати, почки? Тьфу, говно… У одного такие камни были…",
+              "maleVariant": "",
+              "stringId": "1595423599094112256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ой, всё, закрой хлебало, ещё слушать про это!",
+              "maleVariant": "",
+              "stringId": "1659129903010336768"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

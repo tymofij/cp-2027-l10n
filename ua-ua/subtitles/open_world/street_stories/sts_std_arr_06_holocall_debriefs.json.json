@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, мушу визнати, ти мене вразила.",
+              "maleVariant": "Ві, мушу визнати, ти мене вразив.",
+              "stringId": "2328624723381006336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А наприкінці прямо затхло смаженим, еге ж?",
+              "maleVariant": "",
+              "stringId": "2328625024095825920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Під кінець я вже злякалася, думала, це кінець. І втім, клієнт живий, а ти — тим паче.",
+              "maleVariant": "",
+              "stringId": "2334651689186607104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знайду для Карла безпечне місце. І, думаю, він залюбки докине ще на чайові. Суперова робота, правда.",
+              "maleVariant": "",
+              "stringId": "2334651723596677120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але ти не парся. Хто ж знав, правильно? Таке з кожним може трапитись. Контракт закрито.",
+              "maleVariant": "",
+              "stringId": "2334652900166057984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

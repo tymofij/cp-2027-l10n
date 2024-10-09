@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты так говоришь, потому что хорошей свининки не ела!",
+              "maleVariant": "",
+              "stringId": "2160395616628285440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я много чего в жизни хочу попробовать, но падали в этом списке нет.",
+              "maleVariant": "",
+              "stringId": "2196887786190381056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А, ну да, я и забыл! Ты ж это говно синтетическое любишь.",
+              "maleVariant": "",
+              "stringId": "2196890640330366976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Говно? Тебе ли о говне говорить, трупоед.",
+              "maleVariant": "",
+              "stringId": "2196909340248875008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу соблюдать традиции!",
+              "maleVariant": "",
+              "stringId": "2196911285046976512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, вот давай только без этого пафоса!",
+              "maleVariant": "",
+              "stringId": "2197036057386917888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

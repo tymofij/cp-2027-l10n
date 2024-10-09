@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nawaliłaś. A to znaczy, że ucierpiał nie tylko Hwangbo, ale też moja reputacja.",
+              "maleVariant": "Nawaliłeś. A to znaczy, że ucierpiał nie tylko Hwangbo, ale też moja reputacja.",
+              "stringId": "2328461726368391168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wzorowa robota. Hwangbo mówi, że powinnaś przybrać pseudonim \"Wściekła Lwica\", więc chyba jest zadowolony.",
+              "maleVariant": "Wzorowa robota. Hwangbo mówi, że powinieneś przybrać pseudonim \"Wściekły Lew\", więc chyba jest zadowolony.",
+              "stringId": "2328472824983314436"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bardzo tego nie lubię. I bardzo nie chcę, żeby to się kiedyś powtórzyło, jasne? Kontrakt zamknięty.",
+              "maleVariant": "",
+              "stringId": "2339566199225290752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zamykam kontrakt i robię przelew.",
+              "maleVariant": "",
+              "stringId": "2339569079537733632"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

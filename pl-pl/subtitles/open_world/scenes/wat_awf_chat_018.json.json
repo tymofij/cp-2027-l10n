@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niestety. Nie widnieje pan w rejestrach.",
+              "maleVariant": "",
+              "stringId": "2177920697144373248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To jakaś kpina. Ja zarządzam całym pionem logistyki w magazynie 04. Jakim cudem nie ma mnie w rejestrach?",
+              "maleVariant": "",
+              "stringId": "2177921938406699008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Magazyn 04? Momencik. Chyba wiem, o co chodzi.",
+              "maleVariant": "",
+              "stringId": "2177922972671733760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No wreszcie.",
+              "maleVariant": "",
+              "stringId": "2177923397336625152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm, tak. Mam potwierdzenie.",
+              "maleVariant": "",
+              "stringId": "2177923974758068224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stanowiska kierownicze w 04 zostały zlikwidowane.",
+              "maleVariant": "",
+              "stringId": "2177926208409497600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co?!",
+              "maleVariant": "",
+              "stringId": "2177926760581230592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pański kontrakt uległ rozwiązaniu ze skutkiem natychmiastowym.",
+              "maleVariant": "",
+              "stringId": "2177926920551985152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja pierdolę. To się nie dzieje naprawdę...",
+              "maleVariant": "",
+              "stringId": "2177932435860418560"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

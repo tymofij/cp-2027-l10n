@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Цього вистачить? Вони тільки те й роблять, що жеруть від нудьги.",
+              "maleVariant": "",
+              "stringId": "1653504655092637696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привеземо більше через пару днів.",
+              "maleVariant": "",
+              "stringId": "1653506503555964928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пару днів?! Скільки ж іще ми маємо тут стирчати?",
+              "maleVariant": "",
+              "stringId": "1653508123832377344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Їх там двоє. Просто сидять.",
+              "maleVariant": "",
+              "stringId": "1703684761597267968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І?",
+              "maleVariant": "",
+              "stringId": "1703684761597267984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І все. Просто сидять там і спостерігають.",
+              "maleVariant": "",
+              "stringId": "1703684761597268000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хе, хрін вони тоді щось видивляться.",
+              "maleVariant": "",
+              "stringId": "1703684761597268016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У того нагорі схоже щось не ладнається.",
+              "maleVariant": "",
+              "stringId": "1714196674373816320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ще певний час.",
+              "maleVariant": "",
+              "stringId": "1714198917168828416"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

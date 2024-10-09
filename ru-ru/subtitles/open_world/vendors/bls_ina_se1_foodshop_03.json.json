@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Есть что для меня полезное?",
+              "maleVariant": "",
+              "stringId": "1935665706222137344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С «Духами» много проблем?",
+              "maleVariant": "",
+              "stringId": "1935665706222137360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Есть что-то для меня?",
+              "maleVariant": "",
+              "stringId": "1935665706255691776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А то как же! И с хорошей скидкой.",
+              "maleVariant": "",
+              "stringId": "1935665706255691784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как у вас с «Духами»? Много проблем?",
+              "maleVariant": "",
+              "stringId": "1935665706289246212"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Они уже давно тут лазят. Раньше хоть можно было взять дробовичок, и они удирали, поджав хвост. А теперь… Даже и не знаю.",
+              "maleVariant": "",
+              "stringId": "1935665706306023424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ох… Спасибо, подруга. Я уж думал, мне конец.",
+              "maleVariant": "Ох… спасибо, друг. Я уж думал, мне конец.",
+              "stringId": "1975137452373102592"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

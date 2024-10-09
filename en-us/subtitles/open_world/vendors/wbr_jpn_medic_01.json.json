@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I need a doc.",
+              "maleVariant": "",
+              "stringId": "1885160209220255744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Was hoping for something strong",
+              "maleVariant": "",
+              "stringId": "1885160209220255760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kinda need a doc.",
+              "maleVariant": "",
+              "stringId": "1885160209270587396"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How can I help?",
+              "maleVariant": "",
+              "stringId": "1885160209270587404"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Was wonderin' what kind of \"vitamins\" you might have under the counter.",
+              "maleVariant": "",
+              "stringId": "1885160209354473476"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I take it you're not in the market for vitamin C... Yeah, I think we're well stocked on what you're shoppin' for.",
+              "maleVariant": "",
+              "stringId": "1885160209371250688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But if anybody in blue asks, you weren't here.",
+              "maleVariant": "",
+              "stringId": "1979441176302112768"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

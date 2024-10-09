@@ -1,0 +1,103 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Данные у тебя. Что теперь?",
+              "maleVariant": "",
+              "stringId": "1950200392976035844"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Над чем ты работала в «Сайтехе»?",
+              "maleVariant": "",
+              "stringId": "1950201057991323648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Программа у тебя. Что дальше?",
+              "maleVariant": "",
+              "stringId": "1950204319633108992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Над чем ты работала за спиной корпорации?",
+              "maleVariant": "",
+              "stringId": "1950204401086492672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Своя лаборатория мне не по карману, даже домашняя. Придётся искать того, кого заинтересуют мои наработки.",
+              "maleVariant": "",
+              "stringId": "1950205771986366464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поосторожнее с «Сайтехом». Чем быстрей ты уйдёшь с радара, тем лучше.",
+              "maleVariant": "Поосторожнее с «Сайтехом». Чем быстрей уйдёшь с радара, тем лучше.",
+              "stringId": "1950207031384862720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спокойно, мой фиксер уже над этим работает.",
+              "maleVariant": "",
+              "stringId": "1950208065012363264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он найдёт кого-нибудь, кто сможет зашифровать транзакции и защитить меня от «Сайтеха».",
+              "maleVariant": "",
+              "stringId": "1950210354968129536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты знала, что «Сайтех» кодирует драйвера и подсаживает пользователей на импланты определённых брендов? Конечно, не знала.",
+              "maleVariant": "Ты знал, что «Сайтех» кодирует драйвера и подсаживает пользователей на импланты определённых брендов? Конечно, не знал.",
+              "stringId": "1950289395620376576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подключаешь не тот имплант — и тело реагирует так, словно тебе отрезали руку или удалили почку.",
+              "maleVariant": "",
+              "stringId": "1950290047146782720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я пыталась написать программу, которая находит и удаляет такие алгоритмы из всех видов имплантов.",
+              "maleVariant": "",
+              "stringId": "1950291454268665856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ого. Уважаю. Надеюсь, у тебя получится.",
+              "maleVariant": "Вау. Уважаю. Надеюсь, у тебя получится.",
+              "stringId": "1950300756479963136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добавь к этому искусственный синдром отмены и получишь армию пользователей, которые жить не могут без твоего продукта.",
+              "maleVariant": "",
+              "stringId": "1950302163635400704"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

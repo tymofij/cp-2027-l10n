@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Этот чувак тоже просто горло дерёт, а смысла никакого.",
+              "maleVariant": "",
+              "stringId": "2161801046577459200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага! Зато версия Евродина прямо зашибись, да?",
+              "maleVariant": "",
+              "stringId": "2178034536342601728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«О-о-о, я такой крутой, я бы выебал корпоратов, но мне страшненько».",
+              "maleVariant": "",
+              "stringId": "2178034739514687488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. Действительно, нахуя нужны метафоры? Лучше просто орать три с половиной минуты, как ты хочешь всех обнулить!",
+              "maleVariant": "",
+              "stringId": "2178035441204969472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В этом-то и дело, блядь! Ты тупой, что ли? Они для этого и собрали группу. Чтобы орать, пока люди не проснутся.",
+              "maleVariant": "",
+              "stringId": "2178035555592028160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как глубоко. Жалко только, что музыка нужна не для этого.",
+              "maleVariant": "",
+              "stringId": "2178035758797668352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё, ты заебал!",
+              "maleVariant": "",
+              "stringId": "2178035935663079424"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

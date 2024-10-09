@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, я знаю, що Гел у безпеці, але не будемо вдавати, що все було як треба. Очікувала від тебе більшого професіоналізму, Ві.",
+              "maleVariant": "",
+              "stringId": "2329256372747673600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хороша робота. Гел дуже задоволений, увесь час про тебе базікає. І лише хороше, як розумієш.",
+              "maleVariant": "",
+              "stringId": "2329256889989242880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прошу, більше таких коників не треба. Контракт закриваю.",
+              "maleVariant": "",
+              "stringId": "2339445848403185664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пам’ятай, Ві, слова ширяться між людьми. Контракт закрито.",
+              "maleVariant": "",
+              "stringId": "2339447006702178304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, Гел мертвий. Намагався самотужки впоратися, але кіберпсихопатка дісталася його раніше.",
+              "maleVariant": "",
+              "stringId": "2358917713850572800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ось так доля спіткала бідолаху після того, як ти його покинула. Я цього не забуду.",
+              "maleVariant": "Ось так доля спіткала бідолаху після того, як ти його покинув. Я цього не забуду.",
+              "stringId": "2362391609075929088"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Два дрона, ага.",
+              "maleVariant": "",
+              "stringId": "2156447427357351936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мало что осталось, не могу понять, чьи они…",
+              "maleVariant": "",
+              "stringId": "2177859795397308416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, мы нашли передатчики, микрофоны, объективы. Явно кто-то тут был.",
+              "maleVariant": "",
+              "stringId": "2177860102185480192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, но можем случайно что-то сбить над чужой территорией.",
+              "maleVariant": "",
+              "stringId": "2177861297276907520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Принято. Будем стрелять без предупреждения.",
+              "maleVariant": "",
+              "stringId": "2177862969378140160"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

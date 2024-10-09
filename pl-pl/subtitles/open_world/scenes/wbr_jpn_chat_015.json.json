@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty! Ty chuju! Ty skurwysynie! No nie wierzę! No nie, nie, nie!",
+              "maleVariant": "",
+              "stringId": "2159546605931372544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co? O... Hej, kochanie...",
+              "maleVariant": "",
+              "stringId": "2182185263890223104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jakie kurwa \"hej\"? Jakie kurwa \"kochanie\"? Co ty tu robisz, pytam?",
+              "maleVariant": "",
+              "stringId": "2182185484812603392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tśś, słońce, nie róbmy afery...",
+              "maleVariant": "",
+              "stringId": "2182186019401814016"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

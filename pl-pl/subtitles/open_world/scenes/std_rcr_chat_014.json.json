@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ludzie są robaki, to po robacku żyją.",
+              "maleVariant": "",
+              "stringId": "2167583306455732224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No nie szanują się. Nie szanują.",
+              "maleVariant": "",
+              "stringId": "2214544611510423552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wie pani, najgorsi to ci, co nade mną mieszkają. Rockmani wielcy, a tylko ćpa to i słucha różnych szarpidrutów. Spać nie można.",
+              "maleVariant": "",
+              "stringId": "2228790780600094720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A jeszcze strach, takim uwagę zwrócić.",
+              "maleVariant": "",
+              "stringId": "2228826334876241920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ooo, kiedyś to się inaczej żyło.",
+              "maleVariant": "",
+              "stringId": "2228826932262572032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wie pan, wtedy to byle kto w megabloku nie mieszkał.",
+              "maleVariant": "",
+              "stringId": "2228827845245112320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Też prawda.",
+              "maleVariant": "",
+              "stringId": "2228829954459930624"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

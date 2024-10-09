@@ -1,0 +1,37 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне надо, чтобы ты забрала кое-что очень редкое — скандиевые стержни. Они попали к наркоману, который не знает их настоящей цены.",
+              "maleVariant": "Мне надо, чтобы ты забрал кое-что очень редкое — скандиевые стержни. Они попали к наркоману, который не знает их настоящей цены.",
+              "stringId": "2328721861449641984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не переживу, если с ними что-то случится. Прочти моё письмо, и вперёд.",
+              "maleVariant": "",
+              "stringId": "2334344691819724800"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

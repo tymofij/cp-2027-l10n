@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, робота заїбись! Реально, прям дуже круто. Контракт закриваю, гроші скину.",
+              "maleVariant": "",
+              "stringId": "2328507582008029184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти домовилася з Маузером?! Я в ахуї, що ж ти одразу не сказала, що ти так добре язиком патякати вмієш? Я тебе куди завгодно барменкою влаштую, бабло дівати буде нікуди! Просто талант.",
+              "maleVariant": "Ти домовився з Маузером?! Я в ахуї, що ж ти одразу не сказав, що ти так добре язиком патякати вмієш? Я тебе куди завгодно барменом влаштую, бабло дівати буде нікуди! Просто талант.",
+              "stringId": "2328508003418140672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Блядь, Ві…",
+              "maleVariant": "",
+              "stringId": "2328509104993366016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То кажуть, Маузер дуба врізав. Це чудово.",
+              "maleVariant": "",
+              "stringId": "2333215229942153216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Справу зроблено, а це треба відсвяткувати. Цим я й займуся. Бувай, Ві.",
+              "maleVariant": "",
+              "stringId": "2333215644574269440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А взагалі добре. Нема Маузера — нема проблем. Зате є закритий контракт і гонорар на твоєму балансі. Домовилися? Супер.",
+              "maleVariant": "",
+              "stringId": "2333218072287756288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти мала прибрати Маузера, а не зробити йому бо-бо. Вибач, але грошей за таке я не дам.",
+              "maleVariant": "Ти мав прибрати Маузера, а не зробити йому бо-бо. Вибач, але грошей за таке я не дам.",
+              "stringId": "2333218875731853312"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

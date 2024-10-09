@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я обожаю стрелять по мишеням. Сразу чувствуешь, какая в руке… сила, понимаешь?",
+              "maleVariant": "",
+              "stringId": "2172225876458713088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, наверное… Не знаю. Так себе.",
+              "maleVariant": "",
+              "stringId": "2178193727191498752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То есть мне нравится, реально. Но не то чтобы до мурашек.",
+              "maleVariant": "",
+              "stringId": "2178193909173960704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Есть такое. Тебе нужны реальные ощущения, а не вся эта байда.",
+              "maleVariant": "",
+              "stringId": "2178194167962517504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Один чувак водит экспедиции в Нортсайд. Охота на бездомных.",
+              "maleVariant": "",
+              "stringId": "2178194513690607616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я скину его номер. Там тебе мурашки гарантированы.",
+              "maleVariant": "",
+              "stringId": "2178194696243494912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм-м-м… А полиция что?",
+              "maleVariant": "",
+              "stringId": "2178194845762043904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Какая полиция? У них и так проблем полно, чтоб ещё с бесхозными трупами возиться.",
+              "maleVariant": "",
+              "stringId": "2178195058346147840"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

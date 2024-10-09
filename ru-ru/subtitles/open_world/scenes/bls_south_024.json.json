@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эх, не удивительно, что она даёт меньше энергии. Тут всю пылью занесло.",
+              "maleVariant": "",
+              "stringId": "2178303088333938688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Могли бы придумать в своих лабораториях, как разгонять песчаные бури.",
+              "maleVariant": "",
+              "stringId": "2188194950707658752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно, нам тут делать нечего. Надо сообщить, пусть присылают уборщиков.",
+              "maleVariant": "",
+              "stringId": "2188195143947632640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, отличная идея. Их пришлют, они сделают всё как попало, а виноваты опять будем мы.",
+              "maleVariant": "",
+              "stringId": "2188195292644098048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Надо просто проверить, чтоб всё остальное было исправно.",
+              "maleVariant": "",
+              "stringId": "2188195402450976768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей, окей. Не надо меня торопить.",
+              "maleVariant": "",
+              "stringId": "2188195579601600512"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

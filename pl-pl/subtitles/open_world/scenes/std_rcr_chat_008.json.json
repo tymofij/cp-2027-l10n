@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Te, dziadek! Gdzie wcięło Larsa? Co żeś robił w jego domu?",
+              "maleVariant": "",
+              "stringId": "1963294577585594368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Twój Lars dostał ataku cyberpsychozy, Max-Tac zgarnął go w zeszłym tygodniu. Teraz ja tu mieszkam.",
+              "maleVariant": "",
+              "stringId": "1969389514669146112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co? I już nie wróci?",
+              "maleVariant": "",
+              "stringId": "1969389843653574656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z tego co wiem, próbował zjeść swoją sąsiadkę. Tak że nie, raczej nie wróci.",
+              "maleVariant": "",
+              "stringId": "1969390122675453952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak to, kurde...? Przecież prawie nie miał wszczepów! Tylko jedno oko od Kiroshi!",
+              "maleVariant": "",
+              "stringId": "1969390325897871360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Loteria, mój drogi. Loteria.",
+              "maleVariant": "",
+              "stringId": "1969390486556491776"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

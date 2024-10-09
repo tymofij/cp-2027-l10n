@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słyszałeś, że brat Jamesa przeszedł na emeryturę.",
+              "maleVariant": "",
+              "stringId": "1806803052031238144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Za co? Giełda?",
+              "maleVariant": "",
+              "stringId": "1806806565431926784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie. Japantown. Kasyno. Mówią, że miał wsparcie netrunnera, ale to pewnie plotki.",
+              "maleVariant": "",
+              "stringId": "1806806700555624448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cholerny szczęściarz. I co zrobi z kasą?",
+              "maleVariant": "",
+              "stringId": "1806806869116313600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podobno jedzie na... Sycylię... do jakieś Modicy.",
+              "maleVariant": "",
+              "stringId": "1806807055209193472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gdzie to jest?",
+              "maleVariant": "",
+              "stringId": "1806807222025052160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty, w sumie sam nie wiem. James tylko mówił, że jakichś ich pradziadek stamtąd pochodził.",
+              "maleVariant": "",
+              "stringId": "1806807622010658816"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скажи своїй шльондрі, щоби не верещала всю ніч.",
+              "maleVariant": "",
+              "stringId": "1973553625052520448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мені коло сраки. Може їм до вподоби те слухати, але я спати хочу.",
+              "maleVariant": "",
+              "stringId": "1977697097271234560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У таборі всі вже забули, що таке нормальний сон, бо ви наїбатися не годні.",
+              "maleVariant": "",
+              "stringId": "1977697171191648256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шось ніхто не скаржився, окрім тебе.",
+              "maleVariant": "",
+              "stringId": "1977697208906829824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шось мені здається, шо ти іншого хочеш… Наприклад, пожичити її в мене на ніч?",
+              "maleVariant": "",
+              "stringId": "1977824991616192512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гм… Ага.",
+              "maleVariant": "",
+              "stringId": "1977828942449233920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха, і ти тоді від’їбешся вже від мене?",
+              "maleVariant": "",
+              "stringId": "1977829337468784640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага.",
+              "maleVariant": "",
+              "stringId": "1977829946397839360"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

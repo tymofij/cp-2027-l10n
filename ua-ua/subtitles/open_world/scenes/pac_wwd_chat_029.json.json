@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пам’ятаю, як там, унизу, к’лись цілими днями стояли затори. Рев двигунів і гавкіт клаксонів не вщухали ані на мить.",
+              "maleVariant": "",
+              "stringId": "2179643510736150528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А т’ер поглянь. Пустка й тиша.",
+              "maleVariant": "",
+              "stringId": "2211507386043265024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дітлахи приходили сюди посидіти, але потрапляли в справжню хмару з вихлопних газів. Оце сті’ки тих машин було.",
+              "maleVariant": "",
+              "stringId": "2212633214378504192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ось так світ і помре. По-тихому.",
+              "maleVariant": "",
+              "stringId": "2212635488848900096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ех, та він уже давно помер. Ми просто не помічали.",
+              "maleVariant": "",
+              "stringId": "2212640937300127744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

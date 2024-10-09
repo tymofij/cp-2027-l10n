@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"昨日ゴミを漁ったら、吸入器がごっそり出てきたのよ\" t=\"Я вчера прошла по помойкам. Набрала кучу ингаляторов.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2167912886425112576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"よーく振れば、ひと吸い分くらいは残ってるっぽいの。ね、あんたも一緒にキメてみない？\" t=\"В каждом осталось по крайней мере на один вдох. Надо только потрясти. Хочешь тоже?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2198412047566987264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Фу, выкинь это говно. Потом купим новые.",
+              "maleVariant": "",
+              "stringId": "2198440347291049984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"買うって、そんなお金持ってんの？\" t=\"Что? Откуда у тебя деньги?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2198440827756961792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Веду занятия по релаксации в центре для ветеранов. Неплохо платят для корпоративных мероприятий.",
+              "maleVariant": "",
+              "stringId": "2198440952965324800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"講師？ 資格とか持ってるの？\" t=\"А ты в этом разбираешься?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2198441573235777536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет, конечно. Просто прошу их представить себе полёт песчинок на ветру, звуки дождя над рекой. Ничего. Работает.",
+              "maleVariant": "",
+              "stringId": "2198442255430934528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"何それ。あたしもやりたい。まだインチキだってバレてないの？\" t=\"Блин, тоже хочу такую халтуру. И никто тебя не раскусил?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2198443703690551296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На самом деле всем насрать.",
+              "maleVariant": "",
+              "stringId": "2198448508920094720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты всё-таки скажи. Ты какое-то пособие получаешь?",
+              "maleVariant": "",
+              "stringId": "2179623632889307136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пособие? Это от кого? Кто вообще знает, что мы существуем?",
+              "maleVariant": "",
+              "stringId": "2212475721769742336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тогда откуда у тебя деньги?",
+              "maleVariant": "",
+              "stringId": "2212476262667186176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты лучше спроси, на кого я накопал компромат. Хе-хе-хе.",
+              "maleVariant": "",
+              "stringId": "2212476870388281344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Даже знать не хочу.",
+              "maleVariant": "",
+              "stringId": "2212477066362941440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну вот тебе и ответ.",
+              "maleVariant": "",
+              "stringId": "2212477210831548416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Заколют тебя когда-нибудь, чумба.",
+              "maleVariant": "",
+              "stringId": "2212477997028667392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну так заколотым приятней быть, когда у тебя полное брюхо и полный кошелёк.",
+              "maleVariant": "",
+              "stringId": "2212481794870276096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

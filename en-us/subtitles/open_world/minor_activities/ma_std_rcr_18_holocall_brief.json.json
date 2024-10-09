@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To all NCPD subcons – suspected organized crime activity reported near intersection of Sequoia and Gray.",
+              "maleVariant": "",
+              "stringId": "2328875206646190084"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "APB out on Paul Craven. Priors include corporate convoy hijacking. Also a known leader within an NC human trafficking ring.",
+              "maleVariant": "",
+              "stringId": "2358850675683987456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Active affiliations include the Wraiths gang. City authorities have offered a reward for neutralizing the threat.",
+              "maleVariant": "",
+              "stringId": "2358850712040214528"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Verga,\" b=\"\" a=\" patrz V. Dzieje się.\"/>",
+              "maleVariant": "",
+              "stringId": "2302765878827323392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chłopaki mają przejebane.",
+              "maleVariant": "",
+              "stringId": "2304051954604752900"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To nie wygląda jak zwykła interwencja...",
+              "maleVariant": "",
+              "stringId": "2304051970056568832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I po sprawie... Biedni skurwiele, ale sami są sobie winni.",
+              "maleVariant": "",
+              "stringId": "2304051973110022144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"Bo to nie jest zwykła policja, \" a=\". To tygrysy z Max-Tacu.\"/>",
+              "maleVariant": "<mothertongue l=\"mex\" m=\"mano\" b=\"Bo to nie jest zwykła policja, \" a=\". To tygrysy z Max-Tacu.\"/>",
+              "stringId": "2304055012436918272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzwonią po nich tylko, jak robi się naprawdę grubo. A tygrysy się nie pierdolą.",
+              "maleVariant": "",
+              "stringId": "2304055484128346112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wypierdalaj! Już!",
+              "maleVariant": "",
+              "stringId": "2304151246296236032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szybciej, szybciej!",
+              "maleVariant": "",
+              "stringId": "2304152437445017600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, są tutaj!",
+              "maleVariant": "",
+              "stringId": "2304152714034200576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Strzelać!",
+              "maleVariant": "",
+              "stringId": "2304153266910576640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

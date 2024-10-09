@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти мені подобаєшся. Ти знаєш, коли варто змовчати. Думаю, я тобі дам шанс.",
+              "maleVariant": "",
+              "stringId": "1979173572678356992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І скільки я отримуватиму? Маю на увазі, фінансово.",
+              "maleVariant": "",
+              "stringId": "1979175044207972352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ем, це стажування. Якщо воно тобі потрібне, то ти за нього сама платитимеш.",
+              "maleVariant": "",
+              "stringId": "1979175134184181760"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz, że to już równo pięćdziesiąt lat od zatopienia Haiti?",
+              "maleVariant": "",
+              "stringId": "2179439580101767168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rzeczywiście... Ojciec Claire coś wspominał. Liczy miesiące, jakby to coś znaczyło.",
+              "maleVariant": "",
+              "stringId": "2189607016467251200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dziwisz mu się? Dom, w którym się urodził i wychował, jest teraz na dnie oceanu.",
+              "maleVariant": "",
+              "stringId": "2189607318423584768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oni nie umieją zapomnieć, a powinni. Teraz Haiti to oni i ich dzieci. I Pacifica.",
+              "maleVariant": "",
+              "stringId": "2189607450762264576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czasem zastawiam się, czy my potrafilibyśmy zapomnieć na ich miejscu.",
+              "maleVariant": "",
+              "stringId": "2189607715993272320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie mielibyśmy wyboru. Zapomnieć o katakliźmie znaczy iść do przodu, żyć.",
+              "maleVariant": "",
+              "stringId": "2189607932620685312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I nie wyciągać żadnych wniosków.",
+              "maleVariant": "",
+              "stringId": "2189608058785349632"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

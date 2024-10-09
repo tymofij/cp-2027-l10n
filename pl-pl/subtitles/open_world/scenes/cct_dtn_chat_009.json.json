@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ładnie ci z tym nowym nosem. Ledwo cię poznałam. Jak zwykle.",
+              "maleVariant": "",
+              "stringId": "1964628570382516224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szkoda, że nie widziałaś mnie na planie w zeszłym tygodniu. Wszystko mi podmienili, nawet głos.",
+              "maleVariant": "",
+              "stringId": "1964666115946430464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zrobili ze mnie takie ciacho, że sama bym siebie przeleciała.",
+              "maleVariant": "",
+              "stringId": "1964666248419328000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znowu grasz faceta?",
+              "maleVariant": "",
+              "stringId": "1964666343428702208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiecie, w zasadzie nie powinnam tego jeszcze mówić... ale zgarnęłam epizod, o który starał się Tom Bradley.",
+              "maleVariant": "",
+              "stringId": "1964666471740850176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, no! Dziewczyno!",
+              "maleVariant": "",
+              "stringId": "1964666644512620544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chyba raczej \"chłopaku\", ha, ha, ha!",
+              "maleVariant": "",
+              "stringId": "1964666691606265856"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

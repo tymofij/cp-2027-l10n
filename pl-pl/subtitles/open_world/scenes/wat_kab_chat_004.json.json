@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bogaci ukrywają kasę i unikają podatków. Wszyscy to wiedzą.",
+              "maleVariant": "",
+              "stringId": "1802462615191543808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale my mówimy tu o rzece pieniędzy! O miliardach! Powiesz mi, że to nikogo nie obchodzi?",
+              "maleVariant": "",
+              "stringId": "1802463047171301376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Obchodzi, nie-obchodzi, taki system.",
+              "maleVariant": "",
+              "stringId": "1802463229740965888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ludzie nie… kurwa, nawet my nie wierzymy, że da się to zmienić.",
+              "maleVariant": "",
+              "stringId": "1802463469202169856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mamy dowody.",
+              "maleVariant": "",
+              "stringId": "1802464051203792896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No mamy. Jeśli nikt nas nie zabije, to pokażemy, że jakiś typ kradnie, i co?",
+              "maleVariant": "",
+              "stringId": "1802464231592419328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pewnie straci stanowisko.",
+              "maleVariant": "",
+              "stringId": "1802464425503481856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może, a może nie - a wiesz co będą mówić ludzie? “Na jego miejscu, zrobiłbym to samo”.",
+              "maleVariant": "",
+              "stringId": "1802464530394636288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

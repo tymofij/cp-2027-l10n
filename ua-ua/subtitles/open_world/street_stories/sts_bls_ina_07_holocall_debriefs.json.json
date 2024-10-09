@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Саме на такі результати я й очікувала. До зустрічі, сестро. Контракт закрито.",
+              "maleVariant": "Саме на такі результати я й очікувала. До зустрічі, брате. Контракт закрито.",
+              "stringId": "2328809700981133312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти нормальна взагалі?! Ти знищила машину!",
+              "maleVariant": "Ти нормальний взагалі?! Ти знищив машину!",
+              "stringId": "2333087516606578688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це ж ще потрібно вміти так облажатися. У мене немає слів…",
+              "maleVariant": "",
+              "stringId": "2333090849350205440"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

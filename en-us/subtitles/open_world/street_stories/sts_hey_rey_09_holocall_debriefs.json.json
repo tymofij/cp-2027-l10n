@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well done, my dear. I am pleased. As they say, we will be in touch. Contract closed.",
+              "maleVariant": "",
+              "stringId": "2328779755594993668"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You let the target die, V. Indeed, accidents happen – nothing will change that now. But do you know where the true problem lies?",
+              "maleVariant": "",
+              "stringId": "2328779755628548100"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You let me down, V. You were reckless, just as all of my husbands once were. They passed away soon after. So long, V.",
+              "maleVariant": "",
+              "stringId": "2340929764586786816"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

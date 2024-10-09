@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это всё, что ли?",
+              "maleVariant": "",
+              "stringId": "2157377079805767680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, пока да. А что?",
+              "maleVariant": "",
+              "stringId": "2179451667178143744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я бы на твоём месте начал запасаться. Говорят, здешним торгашам недолго осталось.",
+              "maleVariant": "",
+              "stringId": "2179458808752455680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не хотят платить по-хорошему.",
+              "maleVariant": "",
+              "stringId": "2179459804966764544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да уж, этих тварей везде хватает.",
+              "maleVariant": "",
+              "stringId": "2179465899105927168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Погоди-ка. Может, они хоть цены снизят? Раз у них и так уже всё плохо?",
+              "maleVariant": "",
+              "stringId": "2179470481987026944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Во-о-от, соображаешь.",
+              "maleVariant": "",
+              "stringId": "2179472899567075328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Когти» скоро придут и разнесут тут всё к чертям собачьим. С торговлей придётся завязать.",
+              "maleVariant": "",
+              "stringId": "2222894185739534336"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

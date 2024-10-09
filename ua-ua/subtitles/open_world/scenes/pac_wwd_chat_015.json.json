@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мамка сказала, шоб я додому не верталася.",
+              "maleVariant": "",
+              "stringId": "2179592311370539008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От лайно. Ну, можеш в мене заночувати, якшо хоч’.",
+              "maleVariant": "",
+              "stringId": "2211158006390546432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А шо, в’на досі сподівається, шо ти підеш у якусь корпорацію?",
+              "maleVariant": "",
+              "stringId": "2211158112875536384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А шо вже цього разу сталося?",
+              "maleVariant": "",
+              "stringId": "2217117730525110272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ай, вона взнала, шо я хочу стуситися з «Вудуїстами».",
+              "maleVariant": "",
+              "stringId": "2217118067612934144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та нє. В’на хоче, шоб я пішла до «Валентиносів», бо, мовляв, «Вудуїсти» т’ких пустоголових не беруть.",
+              "maleVariant": "",
+              "stringId": "2217119557547155456"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

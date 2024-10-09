@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Es lo mismo con Emilio. Siempre me ayuda con las compras.\" t=\"Еміліо теж. Він завжди допомагає мені нести пакети.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2172172634114732032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А тим паче цим хлоп’ятам.",
+              "maleVariant": "",
+              "stringId": "2181106406106959872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мови нема. Золотенькі дітки, їй-бо. А те, що іноді накапостять, то дрібниці, на те вони й дітки.",
+              "maleVariant": "",
+              "stringId": "2181123114301493248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Si no lo haces mientras eres joven, entonces ¿cuándo?\" t=\"На те вона й молодість.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2181123232127881216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Y te diré una cosa, esos agentes prefieren acosar a nuestros muchachos en lugar de ocuparse de los criminales de verdad.\" t=\"А ці поліціянти замість того, щоби ловити справжніх злочинців, натомість чіпляються до цих діток. Їй-бо.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2181123659493904384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"El otro día, un policía me dijo que Emilio estaba con los Valentinos. ¿Lo puedes creer?\" t=\"Один коп мені якось сказав, що бачив Еміліо разом із тими «Валентиносами». Уявляєш?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2181124645708992512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ой, та то все плітки. Дітки просто бавляться.",
+              "maleVariant": "",
+              "stringId": "2181124829067186176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Recuerdo cuando Emilio tenía cinco años, era un angelito. No mataba ni a una mosca.\" t=\"От я пам’ятаю, коли Еміліо було п’ять років, він був таким янголятком. Навіть муху не зачепить!\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2181128622076956672"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

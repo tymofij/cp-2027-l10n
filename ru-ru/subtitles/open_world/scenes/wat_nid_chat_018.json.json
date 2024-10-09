@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё клубу ушло?",
+              "maleVariant": "",
+              "stringId": "2156409163642036224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, и «Олл фудс». Ничего не осталось.",
+              "maleVariant": "",
+              "stringId": "2230325338355515392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот пидоры… Могли бы и нам оставить. Меня от одной дозы разгоняет на максимум, вот прям моментально.",
+              "maleVariant": "",
+              "stringId": "2230325534581833728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это как топливо. Заправляешься и едешь, и ничего тебя не колышет.",
+              "maleVariant": "",
+              "stringId": "2230325648398467072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Херня всё это. Не устаёшь, да, но всё равно параноишь.",
+              "maleVariant": "",
+              "stringId": "2230325781005582336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хоть каплю переборщишь — и сенсорным регуляторам пизда. Так и будешь трястись, как мешок сырого мяса.",
+              "maleVariant": "",
+              "stringId": "2230325879018078208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так это можно исправить. Надо миндалевидные тела заменить, и всё.",
+              "maleVariant": "",
+              "stringId": "2230326000048914432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да? Первый раз слышу. Надо будет попробовать.",
+              "maleVariant": "",
+              "stringId": "2230326116029808640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

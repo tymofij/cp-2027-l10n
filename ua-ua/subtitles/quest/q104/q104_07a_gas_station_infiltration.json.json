@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бачу машини кочівників.",
+              "maleVariant": "",
+              "stringId": "1641739873595183104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я всередині.",
+              "maleVariant": "",
+              "stringId": "1641743311095746560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей. Прикриваю.",
+              "maleVariant": "",
+              "stringId": "1641745439738580992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Радіовежа. Двоє охоронців.",
+              "maleVariant": "",
+              "stringId": "1641746755491745792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, упізнаю. Це нашого клану.",
+              "maleVariant": "",
+              "stringId": "1641749635485421568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гельман має бути тут.",
+              "maleVariant": "",
+              "stringId": "1641752003035811840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Будь уважною.",
+              "maleVariant": "Будь уважним.",
+              "stringId": "1641773404522303488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "З цієї заправки ви, блядоти, живими не вийдете.",
+              "maleVariant": "",
+              "stringId": "1767636926003568640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я дізналася де тримають Гельмана. Іду туди.",
+              "maleVariant": "Я дізнався де тримають Гельмана. Іду туди.",
+              "stringId": "1773383462876504064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей. Прикриваю.",
+              "maleVariant": "",
+              "stringId": "1773417475257004032"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

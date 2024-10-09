@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сегодня опять пролетали.",
+              "maleVariant": "",
+              "stringId": "2168036817355853824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что? Кто пролетал?",
+              "maleVariant": "",
+              "stringId": "2211130605405167616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ави! Летают вокруг, восьмёрки делают. Травят людей! Уже пятьдесят лет как!",
+              "maleVariant": "",
+              "stringId": "2212880550973890560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, не знаю. Машины разве не травят?",
+              "maleVariant": "",
+              "stringId": "2212884117961007104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "CHOOH2 — это не яд! Ави-то специально запускают у нас над головами, чтоб они распыляли химию! Нас превращают в коммунистические овощи! Понимаешь?",
+              "maleVariant": "",
+              "stringId": "2212884347573985280"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

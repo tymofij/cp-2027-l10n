@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не нравится мне это. Где она вообще? Говорила же, что всё прошло нормально…",
+              "maleVariant": "",
+              "stringId": "2156520533437739008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Успокойся. Если бы что-то сорвалось, за нами бы уже пришли.",
+              "maleVariant": "",
+              "stringId": "2172367324411838464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тем более она одна из лучших. Помнишь, как она обнулила этого директора?",
+              "maleVariant": "",
+              "stringId": "2172367493761056768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мало ли кого она там обнулила. Если об этом заказе узнает Браун, нам…",
+              "maleVariant": "",
+              "stringId": "2172367622089981952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А кто ему поверит? Он ничего не докажет.",
+              "maleVariant": "",
+              "stringId": "2172367788234752000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А если её схватили?",
+              "maleVariant": "",
+              "stringId": "2172367899115372544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Даже если так, она будет молчать. Иначе её бы никто не нанимал.",
+              "maleVariant": "",
+              "stringId": "2172368028232826880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

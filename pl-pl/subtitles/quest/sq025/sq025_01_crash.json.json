@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Johnny, widziałeś, co się stało? Coś tu nie gra.",
+              "maleVariant": "",
+              "stringId": "1756182346910048256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nawet wiem co.",
+              "maleVariant": "",
+              "stringId": "1924292467347709952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie chodzi o kraksę. Najbardziej uprzejmy gość w tym mieście nie odjechałby tak po prostu z miejsca wypadku.",
+              "maleVariant": "",
+              "stringId": "1924292847133548544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[wyjdź z uszkodzonego samochodu]",
+              "maleVariant": "",
+              "stringId": "2424313909325504516"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co tu się stało?",
+              "maleVariant": "",
+              "stringId": "3255085116176900096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszyscy w tym mieście chcą cię zabić. Nagle poczułem się jak marny imitator.",
+              "maleVariant": "",
+              "stringId": "3255086372370948096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zamknij się. Muszę sprawdzić dlaczego najmilszy gość Night City odjechał bez słowa po zderzeniu.",
+              "maleVariant": "",
+              "stringId": "3255086943198945280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pewnie też miał cię dość.",
+              "maleVariant": "",
+              "stringId": "3255087106961350656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zamknij się, powiedziałam..",
+              "maleVariant": "Zamknij się, powiedziałem.",
+              "stringId": "3368074701895462912"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

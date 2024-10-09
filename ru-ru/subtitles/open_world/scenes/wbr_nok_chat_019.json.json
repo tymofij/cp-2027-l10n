@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пара миллиграммов осталась.",
+              "maleVariant": "",
+              "stringId": "2159443550084243456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей, оставлю для тебя. Только по тройной цене. И деньги вперёд.",
+              "maleVariant": "",
+              "stringId": "2199624549182664704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Полегче, моим товаром в Хрустальном дворце носики пудрят. За качество, чумба, надо платить.",
+              "maleVariant": "",
+              "stringId": "2199624911352426496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. Окей, супер.",
+              "maleVariant": "",
+              "stringId": "2199627239979675648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Договорились. Ах, спасибо, сдачу оставлю себе.",
+              "maleVariant": "",
+              "stringId": "2199627724539228160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не, я сейчас в другом конце города. Заеду как смогу.",
+              "maleVariant": "",
+              "stringId": "2199628191835025408"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

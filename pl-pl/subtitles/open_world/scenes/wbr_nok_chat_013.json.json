@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I podali tatara z łososia. Naturalna hodowla. Ty sobie wyobrażasz, ile to musiało kosztować?",
+              "maleVariant": "",
+              "stringId": "2159261559435010048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Następnym razem po prostu zabierz mnie ze sobą. W Tokio byłam wieki temu.",
+              "maleVariant": "",
+              "stringId": "2199801429072474112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Byłam też na Gunkanjimie. Zrobili tam przepiękne kolumbarium, w jakiejś starej kopalni.",
+              "maleVariant": "",
+              "stringId": "2199802107979296768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Coś niesamowitego. Ale wszystkie miejsca już dawno porezerwowane.",
+              "maleVariant": "",
+              "stringId": "2199803581387960320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Myślisz o swoich rodzicach?",
+              "maleVariant": "",
+              "stringId": "2199804502155128832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Coraz częściej mówią o tym, że chcieliby wrócić na Okinawę. Ale że mogą nie zdążyć.",
+              "maleVariant": "",
+              "stringId": "2199804818153992192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz, w razie czego kolumbarium w Night City też ma swój urok... I byliby blisko...",
+              "maleVariant": "",
+              "stringId": "2199807281334513664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No... Mam nadzieję, że nie będę musiała wkrótce podejmować takiej decyzji.",
+              "maleVariant": "",
+              "stringId": "2199807697711460352"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, całą noc jechaliśmy.",
+              "maleVariant": "",
+              "stringId": "1976299695402405888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystkie mięśnie mam tak pospinane, że aż mnie łeb napierdala.",
+              "maleVariant": "",
+              "stringId": "1976299717934206976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Albo masaż z olejkiem z passiflory.",
+              "maleVariant": "",
+              "stringId": "1976299741288091648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O kurwa. A mamy w obozie takie rzeczy?",
+              "maleVariant": "",
+              "stringId": "1976299768416849920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No... nie. Ale możesz też po prostu strzelić bucha i iść spać.",
+              "maleVariant": "",
+              "stringId": "1976299792055947264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak właśnie planowałem.",
+              "maleVariant": "",
+              "stringId": "1976299819973234688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale zamiast tego stoję tutaj i słucham jak pierdolisz głupoty.",
+              "maleVariant": "",
+              "stringId": "1976299843041906688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na to najlepiej robi kąpiel w soli rzymskiej. ",
+              "maleVariant": "",
+              "stringId": "1976300559714242560"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

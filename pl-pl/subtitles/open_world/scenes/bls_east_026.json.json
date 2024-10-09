@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co tu się odjebało?",
+              "maleVariant": "",
+              "stringId": "2178291506520334336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wiem. I nie chcę wiedzieć.",
+              "maleVariant": "",
+              "stringId": "2211126254806167552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na wypadek mi to nie wygląda...",
+              "maleVariant": "",
+              "stringId": "2211126617177255936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Boisz się? To wróć do miasta, do przeszukiwania śmietników. Powodzenia.",
+              "maleVariant": "",
+              "stringId": "2211132055344050176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty się nie boisz? Nie pamiętasz, co widzieliśmy w zeszłym tygodniu? Co z tobą nie tak?",
+              "maleVariant": "",
+              "stringId": "2211161491338620928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mam krótką pamięć. Polecam, to znacznie ułatwia życie.",
+              "maleVariant": "",
+              "stringId": "2211165304934035456"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty, ale zobacz. Jak byś się pieprzył z dmuchaną lalką, no to byłaby zdrada?",
+              "maleVariant": "",
+              "stringId": "2160301293123444736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, nie.",
+              "maleVariant": "",
+              "stringId": "2167953559210217472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No to czemu masz problem z lalką w burdelu?",
+              "maleVariant": "",
+              "stringId": "2167953633466175488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bo to jednak człowiek, kurwa, no.",
+              "maleVariant": "",
+              "stringId": "2167953885896167424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale pozbawiony świadomości! Pusty w środku! To jest wyrafinowana forma masturbacji i tyle!",
+              "maleVariant": "",
+              "stringId": "2167954026187247616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W sumie... W sumie, no... No, tak, racja.",
+              "maleVariant": "",
+              "stringId": "2167954817534971904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

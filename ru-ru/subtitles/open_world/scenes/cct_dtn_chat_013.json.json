@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нужен иностранец, но без переводческого чипа. Я не хочу, чтобы он меня понимал, и сама тоже не хочу его понимать.",
+              "maleVariant": "",
+              "stringId": "2172133188044566528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Никакой болтовни. Ещё одного зануду я не вынесу.",
+              "maleVariant": "",
+              "stringId": "2182570066402709504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Есть пожелания к его внешности?",
+              "maleVariant": "",
+              "stringId": "2182572439892234240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Двадцать плюс, подтянутый, но не слишком мускулистый. Должен вкусно пахнуть. Хорошо, если будет выглядеть умным, но это не обязательно.",
+              "maleVariant": "",
+              "stringId": "2182572623502086144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу. А размер? Какие-то специальные устройства? Что-то необычное?",
+              "maleVariant": "",
+              "stringId": "2182573897496760320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ничего необычного. Пусть он просто будет хорош.",
+              "maleVariant": "",
+              "stringId": "2182574109007122432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаю, у меня есть такой. Уверен, путешествие с ним вас не разочарует.",
+              "maleVariant": "",
+              "stringId": "2182577887789813760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Надеюсь. Стоит это недёшево.",
+              "maleVariant": "",
+              "stringId": "2182578808238215168"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

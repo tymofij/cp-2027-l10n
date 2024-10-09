@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Płacę ci za rozwiązywanie problemów, a nie ich generowanie. Zapamiętam to sobie, V.",
+              "maleVariant": "",
+              "stringId": "2328576895046610944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pięknie V. Wiedziałem, że mogę na ciebie liczyć.",
+              "maleVariant": "",
+              "stringId": "2328585353129062404"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, chodziło o to, żeby oddać auto w dobrym stanie. Nomadzi je naprawią, ale byłoby milej, gdyby nie było tak obite.",
+              "maleVariant": "",
+              "stringId": "2328585606163034116"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2334572903648706560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nomadzi dziękują za pomoc. Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2334574155614896128"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

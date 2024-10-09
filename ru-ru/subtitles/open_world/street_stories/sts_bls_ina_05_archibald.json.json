@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Брюс, дорогой ты мой! Я уж думал, мы тебя не вытащим из этой помойки.",
+              "maleVariant": "",
+              "stringId": "1986559245031862300"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Арчи. Ну ты и говнюк.",
+              "maleVariant": "",
+              "stringId": "1986559245031862312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что?!",
+              "maleVariant": "",
+              "stringId": "1986559245031862324"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Этот лагерь существует из-за таких, как ты! Я видел тебя за рулём! Ну, сколько они тебе платят?!",
+              "maleVariant": "",
+              "stringId": "1986559245048639496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Достаточно, чтобы я мог купить тебе билет отсюда. Поблагодаришь потом. А щас нам пора.",
+              "maleVariant": "",
+              "stringId": "1986559245048639508"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слушай, Ви! Вот ещё что. Если решишь уехать из Найт-Сити, будь осторожней на границе. Там, говорят, всякое случается.",
+              "maleVariant": "",
+              "stringId": "1986559245048639520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Подождать.]",
+              "maleVariant": "",
+              "stringId": "2402375522593452036"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

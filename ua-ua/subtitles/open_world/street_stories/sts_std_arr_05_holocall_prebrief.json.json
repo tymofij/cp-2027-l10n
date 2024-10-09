@@ -1,0 +1,37 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Йоу, Ві. Що там, усе ніштяк? Якщо ти не зайнята, у мене є для тебе робота. Прямо класика.",
+              "maleVariant": "Йоу, Ві. Що там, усе ніштяк? Якщо ти не зайнятий, у мене є для тебе робота. Прямо класика.",
+              "stringId": "2328616320833122304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Треба лише пролізти до корпарського лігва та підкласти їм жучок. Інфу прикладаю.",
+              "maleVariant": "",
+              "stringId": "2334642076076720128"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

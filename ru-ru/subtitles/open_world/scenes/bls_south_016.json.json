@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Значит, следующего, который хорошо одет, отводишь в сторону, и делаем обыск.",
+              "maleVariant": "",
+              "stringId": "2178283834666639360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нас же попрут. Мы не можем просто так вещи отжимать. Обязательно кто-нибудь настучит.",
+              "maleVariant": "",
+              "stringId": "2181177136598704128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Твою мать. Ну что мне вас, дебилов, всему учить?",
+              "maleVariant": "",
+              "stringId": "2181179076447526912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Неплохо… У тебя вроде есть подход к бандам в городе?",
+              "maleVariant": "",
+              "stringId": "2181184670222999552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Смотря для чего. «Подход» — это громко сказано. А вот выход у меня был громкий.",
+              "maleVariant": "",
+              "stringId": "2181185384680742912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Короче. На меня повесили какую-то левую работу, потом меня заказали, но чувак промазал. Я такой весь в крови, кое-как дотащился до окраины.",
+              "maleVariant": "",
+              "stringId": "2181195613011140608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Четыре дня пролежал в канаве! Хорошо ещё, что на кровь всякая дрянь ползла. Хоть было чем перекусить с голодухи.",
+              "maleVariant": "",
+              "stringId": "2181197481305137152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Просто обыскиваешь его столько, чтоб он испугался или задолбался. Тогда он сам отвалит тебе на лапу.",
+              "maleVariant": "",
+              "stringId": "2188026908013977600"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja pierdolę, człowieku...! Myślałam, że wykitujesz!",
+              "maleVariant": "",
+              "stringId": "1963581427928514560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie bój nic... Wszystko pod kontrolą. Wszyściusieńko.",
+              "maleVariant": "",
+              "stringId": "1963613232798875648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To na pewno bezpieczne?",
+              "maleVariant": "",
+              "stringId": "1963613605202739200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie po to zostałem pama... paredy... paramedykiem... żeby nie wiedzieć... jak dawać sobie w żyłę.",
+              "maleVariant": "",
+              "stringId": "1963613786044350464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może lepiej wezwę chłopaków? Powinni mieć dzisiaj dyżur w AV-ce.",
+              "maleVariant": "",
+              "stringId": "1963614112109543424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zwariowałaś? Wiesz, ile hajsu na to pójdzie? Potrącą mi... z pensji. Albo dwóch. Albo... pięciu.",
+              "maleVariant": "",
+              "stringId": "1963614311406092288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

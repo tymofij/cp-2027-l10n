@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uciekacie wszyscy, nawet się nie obejrzycie za siebie.",
+              "maleVariant": "",
+              "stringId": "2179412543517519872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mamo, nie mów tak. Wiesz, że to nieprawda.",
+              "maleVariant": "",
+              "stringId": "2189631659328651264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Myślisz, że oczu nie mam? Przecież widzę, jak się ulice wyludniają. Coraz mniej młodych.",
+              "maleVariant": "",
+              "stringId": "2189631853424263168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tutaj nie ma przyszłości. W mieście jest praca, godne życie.",
+              "maleVariant": "",
+              "stringId": "2189631944692318208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dorobię się gdzieś w Heywood, sprowadzę cię do siebie. Tam będzie nam lepiej.",
+              "maleVariant": "",
+              "stringId": "2189632076460572672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Człowiek usycha, kiedy go odciąć od korzeni. Mój dom jest tutaj.",
+              "maleVariant": "",
+              "stringId": "2189632295520681984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mamo, nie możesz tak... A, nieważne. Wrócimy do tego później.",
+              "maleVariant": "",
+              "stringId": "2189632479130533888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

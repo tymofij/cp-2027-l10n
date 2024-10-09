@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Strata czasu i pieniędzy, moim zdaniem. Ktoś nawalił? To go odstrzelić, a nie te cyrki z \"przymusową terapią\".",
+              "maleVariant": "",
+              "stringId": "2167934998510587904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A widzisz, bo tu chodzi o kasę.",
+              "maleVariant": "",
+              "stringId": "2182317156564520960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kasę?",
+              "maleVariant": "",
+              "stringId": "2182318344005537792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha. Firma może sobie odliczyć koszty opieki od podatku. Im więcej tu wrzucą ludzi, tym więcej wykażą potem zysku.",
+              "maleVariant": "",
+              "stringId": "2182318397172535296"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

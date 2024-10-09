@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Увага всім підрядникам поліції. Надійшло повідомлення про потенційну злочинну діяльність на Сикамор-стріт.",
+              "maleVariant": "",
+              "stringId": "2328827125123489792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Через несплату орендної плати та інших зборів, влада Найт-Сіті розірвала договір оренди промислових об’єктів з «Імпала Автоматикс», що належать місту.",
+              "maleVariant": "",
+              "stringId": "2358369312207900672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Владою міста Найт-Сіті оголошено винагороду за здійснення примусового вилучення муніципального майна в компанії «Імпала Автоматикс».",
+              "maleVariant": "",
+              "stringId": "2358369442986299392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Імпала Автоматикс» відмовилася виконувати це рішення і тепер незаконно займає власність міста, зазначену в договорі.",
+              "maleVariant": "",
+              "stringId": "2363322155968860160"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

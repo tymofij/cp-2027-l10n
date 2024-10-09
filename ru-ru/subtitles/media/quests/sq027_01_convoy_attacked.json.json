@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет, с вами новости на Пятьдесят четвёртом канале. Мы начинаем наш выпуск с тревожных событий в Пустошах.",
+              "maleVariant": "",
+              "stringId": "1792314718506885120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На гуманитарный конвой корпорации «Милитех» совершила нападение банда агрессивных кочевников.",
+              "maleVariant": "",
+              "stringId": "1802524310112026624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Охрана «Милитеха» была вынуждена ответить на этот акт агрессии, так как преступники отрезали пути к отступлению.",
+              "maleVariant": "",
+              "stringId": "1802524495986802688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Несколько транспортёров корпорации были повреждены, но вскрыть их нападавшие не смогли.",
+              "maleVariant": "",
+              "stringId": "1802524682130014208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прибывшие на место силы подкрепления отразили атаку кочевников и доставили груз к конечному пункту.",
+              "maleVariant": "",
+              "stringId": "1802525109210824704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "К несчастью, в результате нападения погибло около десятка сотрудников корпорации, в том числе ветеран Объединяющей войны и кавалер Багряного сердца Линда Кнопс. Сотрудники Пятьдесят четвёртого канала выражают свои самые искренние соболезнования семьям погибших.",
+              "maleVariant": "",
+              "stringId": "1802525344242843648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Полицейский департамент Найт-Сити и «Милитех» уже заявили о том, что нанесут ответный удар по ближайшим лагерям кочевников.",
+              "maleVariant": "",
+              "stringId": "1802525640461369344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы продолжим выпуск после перерыва.",
+              "maleVariant": "",
+              "stringId": "1802525923945988096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

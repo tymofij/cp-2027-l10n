@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подъём, Найт-Сити! В такой солнечный денёк валяться в кровати — преступление. Скорее вылезайте из своего клоповника и смотрите на небо. Сегодня виден Хрустальный дворец — громадная орбитальная станция, куда всем нам, простым смертным, вход заказан.",
+              "maleVariant": "",
+              "stringId": "1319688154699657216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Говорят, там самые дорогие казино, самые красивые женщины и вообще есть на что посмотреть — но то же самое говорят и про Найт-Сити. Рай на земле, рай на орбите — для таких дождевых червей, как мы, никакой разницы!",
+              "maleVariant": "",
+              "stringId": "1319693954465787904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кстати, если хотите увидеть дворец, не забудьте забраться куда-нибудь повыше. Извиняйте, дорогие жители нижних уровней Найт-Сити. Вам снова не повезло.",
+              "maleVariant": "",
+              "stringId": "1319694647884902400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тем, кто не увидит ничего, кроме смога, посвящается песня Джонни Сильверхенда!",
+              "maleVariant": "",
+              "stringId": "1319700776853565440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы помним о тебе, старик. Где бы ты ни был.",
+              "maleVariant": "",
+              "stringId": "1490641495070994432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Встать.]",
+              "maleVariant": "",
+              "stringId": "1857786890562564100"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

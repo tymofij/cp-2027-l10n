@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Głodna jestem.",
+              "maleVariant": "Głodny jestem.",
+              "stringId": "1883814451866910720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Długo jesteś w Night City?",
+              "maleVariant": "",
+              "stringId": "1883814451866910736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Głodna jestem.",
+              "maleVariant": "Głodny jestem.",
+              "stringId": "1883814451934019588"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak myślałam. Co podać?",
+              "maleVariant": "",
+              "stringId": "1883814451934019596"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Długo już jesteś w Night City?",
+              "maleVariant": "",
+              "stringId": "1883814452001128452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dość długo, żeby nie wdawać się w rozmowy z nieznajomymi. Zjedz, zapłać i do widzenia.",
+              "maleVariant": "",
+              "stringId": "1883814452001128460"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

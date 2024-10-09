@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джонни, ты видел? Что-то тут не так…",
+              "maleVariant": "",
+              "stringId": "1756182346910048256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, ты думаешь?",
+              "maleVariant": "",
+              "stringId": "1924292467347709952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да я не про аварию. Чтоб самый вежливый в городе шофёр взял и уехал с места происшествия? Вот что странно.",
+              "maleVariant": "",
+              "stringId": "1924292847133548544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Выйти из разбитой машины.]",
+              "maleVariant": "",
+              "stringId": "2424313909325504516"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ох… Что это было?",
+              "maleVariant": "",
+              "stringId": "3255085116176900096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Похоже, каждый второй в этом сраном городе хочет тебя прикончить. Начинаю чувствовать себя дилетантом.",
+              "maleVariant": "",
+              "stringId": "3255086372370948096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ой, заткнись. Очень странно, что самый вежливый чувак Найт-Сити скрылся с места происшествия.",
+              "maleVariant": "",
+              "stringId": "3255086943198945280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Видимо, ты его тоже успела заебать.",
+              "maleVariant": "Видимо, ты его тоже успел заебать.",
+              "stringId": "3255087106961350656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я сказала, заткнись.",
+              "maleVariant": "Я сказал, заткнись.",
+              "stringId": "3368074701895462912"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

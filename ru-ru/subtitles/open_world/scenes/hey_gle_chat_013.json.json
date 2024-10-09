@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Они же нам обещали! Они не могут просто взять и сказать нам нет!",
+              "maleVariant": "",
+              "stringId": "2161723149930016768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Могут, конечно. «Найт» заплатил больше денег.",
+              "maleVariant": "",
+              "stringId": "2176517464269766656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Какого хера? У нас контракт! Нарушить контракт — это всё равно что объявить войну!",
+              "maleVariant": "",
+              "stringId": "2176517699670884352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. Но это если оба игрока в одной лиге.",
+              "maleVariant": "",
+              "stringId": "2176517798471909376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не понимаю! Они же ничего не выиграют от этой стройки. Эти инвестиции только самому «Найту» и выгодны.",
+              "maleVariant": "",
+              "stringId": "2176517898329899008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не знаю. Может, они просто идиоты. Не за всем же стоит великий заговор.",
+              "maleVariant": "",
+              "stringId": "2176518025836740608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Надо с этим что-то сделать.",
+              "maleVariant": "",
+              "stringId": "2176518132942487552"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

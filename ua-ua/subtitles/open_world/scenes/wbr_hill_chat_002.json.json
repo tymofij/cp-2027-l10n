@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поглянь на них. Шо ти бачиш?",
+              "maleVariant": "",
+              "stringId": "1806724152559263744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тупі корпарі. Легка здобич.",
+              "maleVariant": "",
+              "stringId": "1806724802374393856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А я от бачу таємниці. Кожен із них приховує свого скелета в шафі.",
+              "maleVariant": "",
+              "stringId": "1806725024487956480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якщо половиш їхніх скелетів, то вважай, шо ти володієш цими людьми, так само як їхні корпорації.",
+              "maleVariant": "",
+              "stringId": "1806725490693234688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тобі навіть просити не доведеться, вони самі тобі принесуть усе, шо тобі необхідно: дані, записи та інші найпотаємніші секрети корпорацій.",
+              "maleVariant": "",
+              "stringId": "1806725772651126784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І от ТОДІ, друже, бабло тектиме ріками.",
+              "maleVariant": "",
+              "stringId": "1806726174381563904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

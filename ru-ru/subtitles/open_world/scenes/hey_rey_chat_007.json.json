@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что-то Трэвиса давно не видать.",
+              "maleVariant": "",
+              "stringId": "1833110024850366464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ты не знаешь? Он же на днях ласты склеил.",
+              "maleVariant": "",
+              "stringId": "1833112568897069056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Этот дебил нашёл банку консервов из хер пойми чего.",
+              "maleVariant": "",
+              "stringId": "1833112701856505856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ему говорю, мол, не дури. Слухи ходят, стрёмное мясо по городу раскидали.",
+              "maleVariant": "",
+              "stringId": "1833113186080514048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не послушал. Всю банку сожрал.",
+              "maleVariant": "",
+              "stringId": "1833113591954923520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да уж, рисковый был парень.",
+              "maleVariant": "",
+              "stringId": "1833113824118038528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Говорю ему, а если органика? Кролик там или крыса, или ещё какая херня…",
+              "maleVariant": "",
+              "stringId": "1964791856902160384"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

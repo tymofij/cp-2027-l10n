@@ -1,0 +1,97 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Witaj.",
+              "maleVariant": "",
+              "stringId": "1796883813799804928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobrze cię widzieć.",
+              "maleVariant": "",
+              "stringId": "1796883813816582148"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Możemy pomówić o tym później...",
+              "maleVariant": "",
+              "stringId": "1796883813934022656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wrócimy do tematu innym razem.",
+              "maleVariant": "",
+              "stringId": "1796883813950799876"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O czym to rozmawiałyśmy?",
+              "maleVariant": "O czym to rozmawialiśmy?",
+              "stringId": "1796883814001131524"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Możemy wrócić do tematu?",
+              "maleVariant": "",
+              "stringId": "1796883814034685956"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Możemy?",
+              "maleVariant": "",
+              "stringId": "1796883814051463172"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może lepiej się z tym nie ociągać...",
+              "maleVariant": "",
+              "stringId": "1796883814085017604"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uważaj...",
+              "maleVariant": "",
+              "stringId": "1796883814303121412"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przepraszam?",
+              "maleVariant": "",
+              "stringId": "1796883814319898628"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, jesteś tam jeszcze?",
+              "maleVariant": "",
+              "stringId": "1966179956393123840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówiłaś coś?",
+              "maleVariant": "Mówiłeś coś?",
+              "stringId": "1966179956477009920"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

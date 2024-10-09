@@ -1,0 +1,415 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сюди.",
+              "maleVariant": "",
+              "stringId": "1508436663636873216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти Пацифіку знаєш добре?",
+              "maleVariant": "",
+              "stringId": "1508439916084744192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні. Ви якось не дуже стелите килими перед немісцевими.",
+              "maleVariant": "",
+              "stringId": "1508441961277706240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ґран Ерта.",
+              "maleVariant": "",
+              "stringId": "1508444466082500608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Placide, pitit mwen.\" t=\"Плациде, синку.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1508446044684308480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Pou ou.\" t=\"Тобі.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1508455182663438336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Ou pa t 'bezwen…\" t=\"Ой. Не варто було…\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1508457259179462656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Petèt, men sa se pou ou. P’ap pran “non” pou yon repons.\" t=\"Можливо. Але це твоє. І не сперечайся.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1508457755449511936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"creo\" m=\"Vini nan.\" b=\"\" a=\" Говоримо тут.\"/>",
+              "maleVariant": "",
+              "stringId": "1508471457569591296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Gen lòt ki genyen li pi mal…\" t=\"Іншим іще гірше…\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1533136402835116032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Mèsi.\" t=\"Дякую.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1533138365215739904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ходім. Недалеко вже.",
+              "maleVariant": "",
+              "stringId": "1533138839725740032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Aye, Placide.\" t=\"Агов, Плациде.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1551666024883965952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Mwen pral deplase yo ankò.\" t=\"Знову їх кудись переносять.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1551668439360229376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Ki etaj?\" t=\"На який поверх?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1551669307061063680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Dezyèm.\" t=\"Другий.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1551669342511321088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Placide! Mwen gen sa ou te bay lòd.\" t=\"Плациде! Твоє замовлення готове.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1551679075746074624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Li pa konekte ak Agwè depi Josue … ou konnen kisa pou w fè.\" t=\"Вона не під’єднувалась до Аґве відколи Жозві… То ти знаєш, що робити.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1551683851112173568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Li si sansib ke sa?\" t=\"Така вразлива?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1551685002213740544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Li pa ta pran yon souf san li pa di-sa.\" t=\"Вона без його дозволу й дихати боялась.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1551685035482959872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Oke mwen pral vini pita.\" t=\"Гаразд! Зайду пізніш.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1551707325071380480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Уже мала справу зі «Звірами»?",
+              "maleVariant": "Уже мав справу зі «Звірами»?",
+              "stringId": "1551746421957349376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Sibil pa ap renmen sa.\" t=\"Сивіль буде не в захваті.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1557400095127048192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Ki diferans ki genyen?\" t=\"Та яка різниця?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1557400628072091648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Li pa leve pou yon anè, nenpòt jan.\" t=\"Вона все одно вже рік не встає.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1557401238695645184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так. Бувало.",
+              "maleVariant": "",
+              "stringId": "1557481057944932352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Lovelie? Oh tanpri. Josue te toujou genyen li nan yon kòd.\" t=\"Лювелі? Я тебе прошу. Жозві її на короткому повідці тримав.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1590989069116313600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Найбільший та найгидотніший храм жадоби в Пацифіці… Але незавершений.",
+              "maleVariant": "",
+              "stringId": "1662078064263274496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "До минулого тижня стояв безлюдний, порожній.",
+              "maleVariant": "",
+              "stringId": "1662079130774118400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А тепер?",
+              "maleVariant": "",
+              "stringId": "1662079919991136256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Звірі» залізли, зробили лігвище.",
+              "maleVariant": "",
+              "stringId": "1662080467515580416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Узагалі, немає жодного сенсу там сидіти.",
+              "maleVariant": "",
+              "stringId": "1695268657450782720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочете, аби «Звірі» забралися з ГІМу? Щезли?",
+              "maleVariant": "",
+              "stringId": "1695269540066562048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Намагаються вас спровокувати? Змушують зробити якусь дурість?",
+              "maleVariant": "",
+              "stringId": "1695270130960109568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Для цього мене найняли?",
+              "maleVariant": "",
+              "stringId": "1695276575457873920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скоро дізнаєшся все.",
+              "maleVariant": "",
+              "stringId": "1695277157425942528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У самому серці Пацифіки, без підтримки, відрізані від решти…",
+              "maleVariant": "",
+              "stringId": "1695280975316324352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це ваша земля. Навіть лягаві тут не вештаються.",
+              "maleVariant": "",
+              "stringId": "1695282075633258496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вони не виходять із ГІМу.",
+              "maleVariant": "",
+              "stringId": "1695283186318512128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скільки їх там приблизно?",
+              "maleVariant": "",
+              "stringId": "1695283651919810560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тридцять. Може й більше.",
+              "maleVariant": "",
+              "stringId": "1695284081986965504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Oke, jijman ta dwe pase pa kounye a.\" t=\"Ну, вирок уже мали б оголосити.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1699656813256921088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Menm si li mache alè, li p'ap janm mete konfyans lan neg lan.\" t=\"Навіть якщо він зараз піде від відповідальності, вона йому вже ніколи не довірятиме.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1699657598044753920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Hm. E li te tèlman enpòtan.\" t=\"Гм. А був такий пихатий.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1699657640088457216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Placide! Ou gen yon minit?\" t=\"Плациде! Є хвилька?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1714450419366862848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Pa jodi a.\" t=\"Не сьогодні.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1714450419366862868"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Men, ou te di…\" t=\"Ти ж казав…\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1714450419366862888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Pita, Emilie, mwen pap bliye.\" t=\"Потім, Емілі, я пам’ятаю.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1714450419366862908"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нас цікавить ГІМ – торговий центр «Гранд Імперіал Мол».",
+              "maleVariant": "",
+              "stringId": "1760464909770006528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мала бути окремим містом, де піджаки спалюють свої євдики.",
+              "maleVariant": "",
+              "stringId": "1760483650608144424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Замкнене коло. Корпарі годують своїх овець, ті приносять більше грошей. Усі місцеві принади збудовані на гроші корпарів.",
+              "maleVariant": "",
+              "stringId": "1760483650608144440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві?",
+              "maleVariant": "",
+              "stringId": "1760644622408851456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Довго чекати?",
+              "maleVariant": "",
+              "stringId": "1760644677471674368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти йдеш?",
+              "maleVariant": "",
+              "stringId": "1760644752985923584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вітаю в Пацифіці.",
+              "maleVariant": "",
+              "stringId": "1773591285874053120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Tonnè, fout nou deyò, banfout sèpan! Tounen nan vil la! Se Pasifika!\" t=\"Валіть звідси нахуй, гади! Назад, до міста! Це Пацифіка!\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1773592293530423296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У передвиборчій кампанії Голт обіцяє, цитую…",
+              "maleVariant": "",
+              "stringId": "1780462637419614208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пацифіка – осередок незгод, місто всередині міста.",
+              "maleVariant": "",
+              "stringId": "1780464028821245952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усе це та значно більше…",
+              "maleVariant": "",
+              "stringId": "1780464106617196544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Очистити Пацифіку, навести в ній лад».",
+              "maleVariant": "",
+              "stringId": "1795071582414376960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Уже приречена на провал?",
+              "maleVariant": "",
+              "stringId": "1795072093632925696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми вирішили в цьому розібратися.",
+              "maleVariant": "",
+              "stringId": "1795072908418420736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Брудна пляма на мапі Найт-Сіті…",
+              "maleVariant": "",
+              "stringId": "1795077384848084992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чи шанс на оновлення міста?",
+              "maleVariant": "",
+              "stringId": "1795077829091987456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу.",
+              "maleVariant": "",
+              "stringId": "1973686555258933248"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

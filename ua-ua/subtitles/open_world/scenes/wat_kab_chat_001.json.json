@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми відстежили гроші. Вони в безпеці.",
+              "maleVariant": "",
+              "stringId": "1802435321311911936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Де?",
+              "maleVariant": "",
+              "stringId": "1802437166755340288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Унизу на станції… Чувак, що їх привіз, був білим… Звідки ми мали знати?",
+              "maleVariant": "",
+              "stringId": "1802437348083490816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Схоже, шо ти дупля не ріжеш, як тут усе влаштовано, лягавий!",
+              "maleVariant": "",
+              "stringId": "1802437612811182080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Розслабся, я про все подбаю…",
+              "maleVariant": "",
+              "stringId": "1802437892806139904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Коли?",
+              "maleVariant": "",
+              "stringId": "1802438215582998528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дня зо два. Щонайбільше. Мені лише треба…",
+              "maleVariant": "",
+              "stringId": "1802438387532685312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тобі лише треба не проїбатися цього разу. Бо твоєї жалюгідної платні навряд чи стане, шоби покрити можливі збитки.",
+              "maleVariant": "",
+              "stringId": "1802438793709084672"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

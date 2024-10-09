@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кхе-кхе-кхе.",
+              "maleVariant": "",
+              "stringId": "2162076589666054144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ов, звучить недобре. Ти користуєшся антисмоговими фільтрами?",
+              "maleVariant": "",
+              "stringId": "2209932055038758912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нє, це не через смог. Це я вчора попив… Кхе-кхе-кхе…",
+              "maleVariant": "",
+              "stringId": "2217586485489930240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вибач… Попив учора води з-під крана, і щось застрягло в горлі, кхе-кхе… Ніяк не можу збутися цього.",
+              "maleVariant": "",
+              "stringId": "2217587775070638080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "З-під крана?!",
+              "maleVariant": "",
+              "stringId": "2217589334126989312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "По радіо сказали, що можна.",
+              "maleVariant": "",
+              "stringId": "2217590374045945856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Авжеж, можливо в Норт-Оуці й можна, але ж ми в Велспринґзі. Сходи-но краще до різаря, а то ще потім доведеться міняти все горло.",
+              "maleVariant": "",
+              "stringId": "2217591236529065984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

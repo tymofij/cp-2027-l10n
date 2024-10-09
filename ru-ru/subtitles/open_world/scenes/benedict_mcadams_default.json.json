@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чем занимался раньше?",
+              "maleVariant": "",
+              "stringId": "1953082758967087108"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чем занимался, пока не стал наёмником?",
+              "maleVariant": "",
+              "stringId": "1953152787519655936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Раньше в «Травме» работал.",
+              "maleVariant": "",
+              "stringId": "1953176413497217024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха. И что, мало платили?",
+              "maleVariant": "Да ну? И что, мало платили?",
+              "stringId": "1953180293563961344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ушёл, потому что допустил тактическую ошибку.",
+              "maleVariant": "",
+              "stringId": "1953183773896757248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну давай, выкладывай.",
+              "maleVariant": "",
+              "stringId": "1953186614984069120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я застрелил клиента. Случайно.",
+              "maleVariant": "",
+              "stringId": "1953187476678660096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет, время местных новостей. Налёт на торговцев органическим мясом, и вспышка малярии в Глене.",
+              "maleVariant": "",
+              "stringId": "1744334830032183296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Район оказался на несколько часов отрезан от мира. Жители не могли подключиться к Сети, к локальным подсетям и средствам связи.",
+              "maleVariant": "",
+              "stringId": "1744341886478901248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Полиция призвала к спокойствию и объяснила отключение профилактическими работами.",
+              "maleVariant": "",
+              "stringId": "1744350285975314432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы вернёмся к местным новостям после паузы.",
+              "maleVariant": "",
+              "stringId": "1744350608886390784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но начнём наш выпуск с загадочного отключения Сети в Пасифике.",
+              "maleVariant": "",
+              "stringId": "1744352399770312704"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

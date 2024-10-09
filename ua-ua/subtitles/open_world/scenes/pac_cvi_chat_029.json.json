@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це нечесно! Нечесно, сука!",
+              "maleVariant": "",
+              "stringId": "2179537880846987264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Може, скажи й’му, шо це твоє місце, попроси посунутися, ну і…",
+              "maleVariant": "",
+              "stringId": "2188306224250601472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та він м’не просто заб’є нафіг! Бачив я вже таких «королів звалищ».",
+              "maleVariant": "",
+              "stringId": "2188306391519444992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та перестань. Він не схожий на того, хто п’де відразу бити т’бі писка.",
+              "maleVariant": "",
+              "stringId": "2188306540769558528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, не схожий, але під шкурою в нього повно хрому. Стопудово з армії лишився.",
+              "maleVariant": "",
+              "stringId": "2188306770265096192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, якшо вже з армії, то може вже ти поступишся й’му?..",
+              "maleVariant": "",
+              "stringId": "2188307190618243072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ніби в мене є вибір…",
+              "maleVariant": "",
+              "stringId": "2188307352786812928"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

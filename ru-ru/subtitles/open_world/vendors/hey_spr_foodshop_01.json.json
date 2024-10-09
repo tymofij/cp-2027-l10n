@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я человек, мне нужно что-то есть.",
+              "maleVariant": "",
+              "stringId": "1740377075363586048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вы точно готовите из свежих продуктов?",
+              "maleVariant": "",
+              "stringId": "1740377075363586064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаете что, я хочу чего-нибудь изысканного.",
+              "maleVariant": "",
+              "stringId": "1740377075380363264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Значит, вы пришли именно туда, куда нужно.",
+              "maleVariant": "",
+              "stringId": "1740377075397140484"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А продукты у вас свежие? Это точно?",
+              "maleVariant": "",
+              "stringId": "1740377075430694912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну конечно. Иначе мы не смогли бы назвать этот ресторан так, как он называется.",
+              "maleVariant": "",
+              "stringId": "1740377075430694920"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

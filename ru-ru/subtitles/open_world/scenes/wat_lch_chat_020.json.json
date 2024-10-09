@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да я серьёзно. Один раз пыхнешь — и всем вокруг кранты.",
+              "maleVariant": "",
+              "stringId": "2156504434860126208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ещё и отходняк долго не наступает. Как раз хватит времени отработать и свалить.",
+              "maleVariant": "",
+              "stringId": "2176426751288918016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не, не надо.",
+              "maleVariant": "",
+              "stringId": "2176426967345905664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С новыми бустерами всегда так. Наёмники после них начинают дохнуть как мухи.",
+              "maleVariant": "",
+              "stringId": "2176427323861745664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У одного сердце остановится, у другого сопроцессор перегреется…",
+              "maleVariant": "",
+              "stringId": "2176427468280020992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да слухи всё это. Если кто-то передознулся, это его проблемы. Надо меру знать.",
+              "maleVariant": "",
+              "stringId": "2176427684085350400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Химия, она же как хром. Без неё в нашем деле ничего не добьёшься.",
+              "maleVariant": "",
+              "stringId": "2176428217449824256"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

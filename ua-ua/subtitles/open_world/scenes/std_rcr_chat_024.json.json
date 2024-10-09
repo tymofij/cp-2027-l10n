@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мені необхідна термінова заміна авто. Моє зламалося. ЗЛА-МА-ЛО-СЯ, ти розумієш мене?",
+              "maleVariant": "",
+              "stringId": "2167652664053878784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, на сто відсотків. Сіла батарея.",
+              "maleVariant": "",
+              "stringId": "2217271112934055936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні, та не перевірятиму я рівень палива! Ти ідіот?! Авто не їде, бо воно, блядь, навіть не заводиться!",
+              "maleVariant": "",
+              "stringId": "2217271553335975936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Батарея!!!",
+              "maleVariant": "",
+              "stringId": "2217272247677837312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усе годі! З’єднай мене з людиною. Та хоч із дебілом, мені вже однаково!",
+              "maleVariant": "",
+              "stringId": "2217272734099660800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та будь-кого… Бо в цього ШІ клепок, як у тостера!",
+              "maleVariant": "",
+              "stringId": "2217273352105189376"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

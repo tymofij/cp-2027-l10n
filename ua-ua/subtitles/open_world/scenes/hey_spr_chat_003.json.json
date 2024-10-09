@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не піду на траву.",
+              "maleVariant": "",
+              "stringId": "1831674694678994944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не хвилюйся, коханий. Ну ж бо.",
+              "maleVariant": "",
+              "stringId": "1831677700266909696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А раптом там голки. Або міни.",
+              "maleVariant": "",
+              "stringId": "1831677869616128000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Немає тут нічого. Правда-правда.",
+              "maleVariant": "",
+              "stringId": "1831678011685593088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні, ні… Дуже шумно. І людей багато. Я хочу додому.",
+              "maleVariant": "",
+              "stringId": "1831678199858847744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але ж я поруч. Війни вже давно скінчилася. І ти зараз у безпеці.",
+              "maleVariant": "",
+              "stringId": "1831678354611888128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу піти звідси.",
+              "maleVariant": "",
+              "stringId": "1831678519330594816"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

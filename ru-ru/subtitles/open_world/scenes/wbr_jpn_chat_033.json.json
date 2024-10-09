@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё, друг. Тебе на сегодня уже хватит.",
+              "maleVariant": "",
+              "stringId": "2160398028084649984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В смысле? Хорошее саке ещё никому не навредило!",
+              "maleVariant": "",
+              "stringId": "2196820055193657344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаешь, что про это японцы говорят? Из первой рюмки ты пьёшь саке. Из второй — саке пьёт саке. А из третьей саке пьёт тебя.",
+              "maleVariant": "",
+              "stringId": "2196820815134433280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что за бред, чувак? Лучше скажем вот как…",
+              "maleVariant": "",
+              "stringId": "2196822989847502848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Первую рюмку покупаю я. Вторую рюмку покупаешь ты. А третья рюмка за счёт заведения!",
+              "maleVariant": "",
+              "stringId": "2196824330414170112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это бар «Тигриных когтей», друг. Здесь не бывает «за счёт заведения».",
+              "maleVariant": "",
+              "stringId": "2196825220663582720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Тигриных когтей»? А… Тогда лучше пошли отсюда.",
+              "maleVariant": "",
+              "stringId": "2196828154394681344"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу закупиться лекарствами.",
+              "maleVariant": "",
+              "stringId": "1740407374411702272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У вас есть медицинская лицензия?",
+              "maleVariant": "",
+              "stringId": "1740407374411702288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу закупиться лекарствами.",
+              "maleVariant": "",
+              "stringId": "1740407374428479488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Выбирайте, что хотите… из того, что вам по карману.",
+              "maleVariant": "",
+              "stringId": "1740407374428479496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "М-м… У вас же есть медицинская лицензия?",
+              "maleVariant": "Э-э… У вас же есть медицинская лицензия?",
+              "stringId": "1740407374445256704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну… Я закончил ветеринарную школу.",
+              "maleVariant": "",
+              "stringId": "1740407374462033924"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Значит, ветеринар. Это обнадёживает.",
+              "maleVariant": "",
+              "stringId": "1974729133657477120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чтобы понимать людей, необходимо изучить животных.",
+              "maleVariant": "",
+              "stringId": "1974731485789605888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как вышло, что вы лечите людей?",
+              "maleVariant": "",
+              "stringId": "1974735663467384832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Рада за тебя. Только ветеринары лечат животных, а не людей.",
+              "maleVariant": "Рад за тебя. Только ветеринары лечат животных, а не людей.",
+              "stringId": "1974740171454992384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Оглянитесь вокруг, где вы видите животных? Ветеринары — тоже вымирающий вид.",
+              "maleVariant": "",
+              "stringId": "1974744366732070912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы могли бы пригодиться богатеям, у которых есть питомцы, но нет — они все с имплантами. Им риперы нужны.",
+              "maleVariant": "",
+              "stringId": "1974745472266719232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А фермы… Ну, сами знаете. Всё мясо теперь из пробирки.",
+              "maleVariant": "",
+              "stringId": "1974747560828784640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

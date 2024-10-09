@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А-а… Грёбаная пустыня…",
+              "maleVariant": "",
+              "stringId": "1973569779229827072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да уж, работа как работа. Правда, солнце жарит, и делать нечего, только песок из зубов выковыривать.",
+              "maleVariant": "",
+              "stringId": "1975078611001786368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, направили. Кто-то должен охранять границу. Обычная работа.",
+              "maleVariant": "",
+              "stringId": "1975078621588209664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ты? Ты здесь как оказался?",
+              "maleVariant": "",
+              "stringId": "1975078634590552064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У меня всё было на мази — выносил на улицу, быстро толкал по дешёвке. Эдди рекой текли!",
+              "maleVariant": "",
+              "stringId": "1975078648029102080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А взяли меня, когда я таскал со склада крашеры.",
+              "maleVariant": "",
+              "stringId": "1975078657759887360"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаєш, вони справді впровадять?",
+              "maleVariant": "",
+              "stringId": "2172284434747469824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хах, н’ай тільки спробують, гандони! Це замах на базові права людини!",
+              "maleVariant": "",
+              "stringId": "2180889295592341504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як можна вимагати від пасажира купувати два квитки тільки через те, що він більше важить?",
+              "maleVariant": "",
+              "stringId": "2180889442946629632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бо для корпорацій ми не пасажири, а купюри з ногами.",
+              "maleVariant": "",
+              "stringId": "2180889604259561472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пиздець… Або мені доведеться відмовитися від метро, або я збанкрутую!",
+              "maleVariant": "",
+              "stringId": "2180889940609187840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пф-ф, ага, точно. Спробуй відмовитись! Будеш постійно тупо пішки ходити?",
+              "maleVariant": "",
+              "stringId": "2180890059526094848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ех… Йобаний ШПЕНС…",
+              "maleVariant": "",
+              "stringId": "2180890266775044096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

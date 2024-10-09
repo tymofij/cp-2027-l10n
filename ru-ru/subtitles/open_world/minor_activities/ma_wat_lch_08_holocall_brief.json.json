@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всем вспомогательным группам полиции. Поступило сообщение о преступной активности на перекрёстке Дрейк-авеню и Картрайт-стрит.",
+              "maleVariant": "",
+              "stringId": "2328908920680378368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Замечены члены банды «Тигриные когти», подозреваемые в разбое и вымогательстве. Их возглавляет Мокомити Ямада по прозвищу «Мотор».",
+              "maleVariant": "",
+              "stringId": "2350856711307628544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В мэрии города объявили вознаграждение за устранение Ямады и его преступной группировки.",
+              "maleVariant": "",
+              "stringId": "2350882628818014208"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

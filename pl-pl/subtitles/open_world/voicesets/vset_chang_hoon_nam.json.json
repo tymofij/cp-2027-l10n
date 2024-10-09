@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Witaj.",
+              "maleVariant": "",
+              "stringId": "1895269739531415556"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak?",
+              "maleVariant": "",
+              "stringId": "1895269739548192772"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przerwa?",
+              "maleVariant": "",
+              "stringId": "1895269739648856064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Poczekam.",
+              "maleVariant": "",
+              "stringId": "1895269739682410500"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja jestem gotowy.",
+              "maleVariant": "",
+              "stringId": "1895269739749519364"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O czym mówiliśmy?",
+              "maleVariant": "",
+              "stringId": "1895269739783073796"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widzę, że ci się nie spieszy.",
+              "maleVariant": "",
+              "stringId": "1895269739799851012"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Potrzebujesz jeszcze chwili?",
+              "maleVariant": "",
+              "stringId": "1895269739816628228"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ostrożnie, delikatne!",
+              "maleVariant": "",
+              "stringId": "1895269740051509252"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tu jest dużo miejsca.",
+              "maleVariant": "",
+              "stringId": "1895269740068286468"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

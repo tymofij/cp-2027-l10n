@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie pojedziesz do tej zdziry na Badlandach, nie ma mowy!",
+              "maleVariant": "",
+              "stringId": "2179595008911990784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kochanie, przecież nawet jej nie znasz. Nie widziałaś jej na oczy. Skąd wiesz, że to zdzira?",
+              "maleVariant": "",
+              "stringId": "2211172308849745920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystkie szmaty z Badlandów są takie same.",
+              "maleVariant": "",
+              "stringId": "2217133497853370368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aaa, masz na myśli Jolie... Ale ona pracowała w piekarni. Jill jest ripperką. Nie mają ze sobą nic wspólnego.",
+              "maleVariant": "",
+              "stringId": "2217135485651476480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może mi wyregulować stawy za pół ceny.",
+              "maleVariant": "",
+              "stringId": "2217136677622341632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To jedź! Tylko zabierz wszystkie swoje rzeczy. I odpowiedz mi raz szczerze - co cię tak kręci w tej dziwce?",
+              "maleVariant": "",
+              "stringId": "2217137229760520192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nic. Jest kompletnie nieatrakcyjna... Ale dużo mniej wrzaskliwa niż ty.",
+              "maleVariant": "",
+              "stringId": "2217138792474304512"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

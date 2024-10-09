@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що там із рівнем забруднення? Високий?",
+              "maleVariant": "",
+              "stringId": "1963247775511519232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ем… Такий, який і має бути тут. Багровий.",
+              "maleVariant": "",
+              "stringId": "1967813427649105920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Погано. Орендарі змінюватимуться. Вони ж хворітимуть, помиратимуть, переїжджатимуть…",
+              "maleVariant": "",
+              "stringId": "1967813920446271488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Натомість робочі завжди будуть. Вони приходять кожного ранку, благаючи про роботу…",
+              "maleVariant": "",
+              "stringId": "1967814742798290944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гм-м… Аргумент…",
+              "maleVariant": "",
+              "stringId": "1967815396774170624"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

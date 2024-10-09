@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добро буде вчасно?",
+              "maleVariant": "",
+              "stringId": "1802486374245982208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну що за питання такі, чумбо? Ображаєш.",
+              "maleVariant": "",
+              "stringId": "1802486889373622272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Просто запитав. Останнім часом були сюрпризи.",
+              "maleVariant": "",
+              "stringId": "1802487129908568064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але ж не з добром. Звідки я мав знати, що її татко працює на «Кігтів», га?",
+              "maleVariant": "",
+              "stringId": "1802487355679563776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Трясця, просто давай без сюрпризів, гаразд? Побудь хоч раз, як професіонал.",
+              "maleVariant": "",
+              "stringId": "1802487520918364160"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dlaczego nie mogę z nią porozmawiać?",
+              "maleVariant": "",
+              "stringId": "2159358707921035264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bo mama była bardzo chora i odeszła. Ale na pewno patrzy teraz na ciebie z góry i wciąż cię kocha.",
+              "maleVariant": "",
+              "stringId": "2199701479479242752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A Preston mówi, że jego tata umarł i mogą go odwiedzać. I rozmawiać z nim, kiedy chcą.",
+              "maleVariant": "",
+              "stringId": "2199702592412643328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bo tata Prestona... on nie poszedł do nieba, jak twoja mamusia.",
+              "maleVariant": "",
+              "stringId": "2199706122087231488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Preston mówi, że jego tata jest w fajniejszym miejscu niż niebo. I że to miejsce nazywa się Arasaka.",
+              "maleVariant": "",
+              "stringId": "2199707602273890304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jennie...",
+              "maleVariant": "",
+              "stringId": "2199707949344157696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I mówi, że gdybyśmy mieli więcej pieniędzy, to mamusia też mogłaby trafić do Arasaki, zamiast do nieba.",
+              "maleVariant": "",
+              "stringId": "2199708169981325312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I że wtedy moglibyśmy z nią rozmawiać codziennie.",
+              "maleVariant": "",
+              "stringId": "2199709154065707008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Córciu...",
+              "maleVariant": "",
+              "stringId": "2199709491489075200"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

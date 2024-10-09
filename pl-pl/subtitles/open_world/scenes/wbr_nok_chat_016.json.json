@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówię ci, to się rozpierdoli niedługo. Pęknie ta ich banieczka.",
+              "maleVariant": "",
+              "stringId": "2159360048521256960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak patrzę na te wille, na te ich samochody, na te ich pudelki jebane, to mam ochotę spuścić na to wszystko napalm.",
+              "maleVariant": "",
+              "stringId": "2196922895215816704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oni sami sobie spuszczą. Im dłużej mają w dupie takich jak my, tym mocniej oberwą, jak przyjdzie czas.",
+              "maleVariant": "",
+              "stringId": "2196925146315550720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, żeby tylko przyszedł.",
+              "maleVariant": "",
+              "stringId": "2196926551558385664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przyjdzie. To jest jak w oceanie: przypływ, odpływ. Ci z North Oak mieli czas, żeby się zabawić naszym kosztem.",
+              "maleVariant": "",
+              "stringId": "2196926736510414848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale idzie przypływ. Za chwilę my będziemy górą.",
+              "maleVariant": "",
+              "stringId": "2196927792803934208"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

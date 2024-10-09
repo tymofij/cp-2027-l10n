@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No masz przejebane! Rozumiesz kurwo?!",
+              "maleVariant": "",
+              "stringId": "2007146470602571776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zajebię cię jak psa! Ty pizdo pierdolona!",
+              "maleVariant": "",
+              "stringId": "2007146541268205568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rozpierdolę ci brzuch. Najpierw zobaczysz, co masz w środku. Wtedy cię zajebię.",
+              "maleVariant": "",
+              "stringId": "2007146625456275456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Upierdolę ci palce. Potem ręce i nogi. I tak zostawię.",
+              "maleVariant": "",
+              "stringId": "2007146696054800384"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

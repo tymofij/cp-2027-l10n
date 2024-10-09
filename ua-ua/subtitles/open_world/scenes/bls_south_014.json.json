@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Жінка з дитиною проходить, а ви залишаєтеся з нами.",
+              "maleVariant": "",
+              "stringId": "2178243834931568640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А в чому справа?",
+              "maleVariant": "",
+              "stringId": "2182332323065454592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У вас є несплачений штраф.",
+              "maleVariant": "",
+              "stringId": "2182343683354615808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та який іще такий штраф?!",
+              "maleVariant": "",
+              "stringId": "2182349234918612992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спокійно. Скільки треба? Ми зараз же все сплатимо.",
+              "maleVariant": "",
+              "stringId": "2182349498354458624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усі санкційні стягнення мають бути сплачені особисто в міській раді або в найближчому до місця проживання громадянина поліційному відділку.",
+              "maleVariant": "",
+              "stringId": "2182349868292071424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми спізнюємося на автобус!",
+              "maleVariant": "",
+              "stringId": "2182351892580622336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вони можуть іти. Чоловік залишається з нами.",
+              "maleVariant": "",
+              "stringId": "2182352528168673280"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

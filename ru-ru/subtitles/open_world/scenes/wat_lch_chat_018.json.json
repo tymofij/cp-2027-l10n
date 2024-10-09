@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Извини, всю ставку я тебе не могу заплатить. Вообще никак.",
+              "maleVariant": "",
+              "stringId": "2156487448952336384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я клиента на место привёз? Привёз.",
+              "maleVariant": "",
+              "stringId": "2169349781556875264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да. С пулей в животе и сломанной ногой.",
+              "maleVariant": "",
+              "stringId": "2169350026386788352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ему говорил отойти и не выёбываться. Так нет, он же хотел мне показать, что он второй Морган Блэкхенд.",
+              "maleVariant": "",
+              "stringId": "2169350448098889728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да я понимаю, чумба, но клиенты почти все такие. Учись их контролировать, а то будут проблемы.",
+              "maleVariant": "",
+              "stringId": "2169351026694737920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Короче, тут не о чем спорить. Минус десять процентов. Договорились? Всё.",
+              "maleVariant": "",
+              "stringId": "2169352399624654848"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

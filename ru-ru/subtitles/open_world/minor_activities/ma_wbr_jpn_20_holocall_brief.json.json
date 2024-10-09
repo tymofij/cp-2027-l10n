@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всем вспомогательным группам полиции. Поступило сообщение о преступной активности на окраине Уиллоу-стрит.",
+              "maleVariant": "",
+              "stringId": "2329306669280960512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Замечен Синобу Имай, многократно осуждённый за торговлю людьми и организацию принудительного труда.",
+              "maleVariant": "",
+              "stringId": "2358364346269405184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Властями города назначено вознаграждение за устранение преступной сети Имая.",
+              "maleVariant": "",
+              "stringId": "2358364668123516928"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

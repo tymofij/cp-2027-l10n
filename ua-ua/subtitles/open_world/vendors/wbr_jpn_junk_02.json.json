@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Маєш щось файне?",
+              "maleVariant": "",
+              "stringId": "1885146511026044928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти переглядаєш все що продаєш?",
+              "maleVariant": "",
+              "stringId": "1885146511026044944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Маєш щось високоякісне?",
+              "maleVariant": "",
+              "stringId": "1885146511076376580"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти всі мозкограї пережив зі свого асортименту?",
+              "maleVariant": "",
+              "stringId": "1885146511210594308"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ще б пак. Не можу продавати неперевірений товар. Треба спочатку все ретельно перевірити.",
+              "maleVariant": "",
+              "stringId": "1885146511210594316"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нічого кращого за твоє останнє придбання.",
+              "maleVariant": "",
+              "stringId": "1983737469952811008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але ти роздивись.",
+              "maleVariant": "",
+              "stringId": "1983737469952811020"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У мене все високоякісне.",
+              "maleVariant": "",
+              "stringId": "1983756461727768576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подивимось тоді.",
+              "maleVariant": "",
+              "stringId": "1983758703449038848"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

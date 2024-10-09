@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всем вспомогательным группам полиции. Поступило сообщение о преступной активности на южной Скайлайн.",
+              "maleVariant": "",
+              "stringId": "2328887377406963712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Основная цель — Дензел Крайер по прозвищу «Мозг». Он руководит небольшой группой так называемых «животных» и распространяет нелегальный стимулятор, известный как «сок».",
+              "maleVariant": "",
+              "stringId": "2358378652922908672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Властями города назначено вознаграждение за устранение Крайера и его группы.",
+              "maleVariant": "",
+              "stringId": "2358378682350145536"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

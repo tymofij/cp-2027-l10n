@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що є смачненького?",
+              "maleVariant": "",
+              "stringId": "1752047456349138944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тут хлоркою тхне.",
+              "maleVariant": "",
+              "stringId": "1752047456349138960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що є смачненького?",
+              "maleVariant": "",
+              "stringId": "1752047456382693376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Багато різного. Ось твоє меню.",
+              "maleVariant": "",
+              "stringId": "1752047456399470592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Е… А чому я хлорку відчуваю?",
+              "maleVariant": "",
+              "stringId": "1752047456416247808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ох, ем, нещодавно підлогу мили. Було кілька плям, що не відтиралися. Нічого особливого.",
+              "maleVariant": "",
+              "stringId": "1752047456433025024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То, ем, що принести?",
+              "maleVariant": "",
+              "stringId": "1976330283104129024"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"La carcelera de mi mujer me pidió que gorroneara un filtro de aire, como si tuviera edis de sobra tirados por ahí.\" t=\"Мне моя сказала собрать воздушный фильтр. Как будто у меня денег куры не клюют.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2178197413232451584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Además, ¿para qué chingados necesito un filtro? Se va a tapar a la primera tormenta que azote.\" t=\"И вообще, нахрена мне фильтр? Чтобы он накрылся после первой же бури?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2188375757337354240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я тебе могу отдать. Бесплатно. Мне вчера бульдозерами трейлер раздавили… Фильтр как-то уцелел.",
+              "maleVariant": "",
+              "stringId": "2188376222099791872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Ah, chingao. ¿Qué pasó?\" t=\"Ничего себе. А что случилось-то?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2189428516987822080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эх, да долгов было много, в конце концов дом отобрали. А потом сказали, что земля под ним будет стоить побольше.",
+              "maleVariant": "",
+              "stringId": "2189432968436211712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Güey, eso… es una pinche mierda.\" t=\"Блин, друг, это… Это жопа.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2189434094204182528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, не знаю. Я всё время боялся, что опять придёт это уведомление о выселении или ещё какая-нибудь херня.",
+              "maleVariant": "",
+              "stringId": "2189434306150752256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А теперь я чувствую себя… свободным.",
+              "maleVariant": "",
+              "stringId": "2189437641041862656"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

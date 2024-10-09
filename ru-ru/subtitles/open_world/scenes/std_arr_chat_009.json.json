@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вам что, своих людей не хватает?",
+              "maleVariant": "",
+              "stringId": "1963264060534333440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы хотим обойтись без ненужного внимания.",
+              "maleVariant": "",
+              "stringId": "1966556545382334464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Речь идёт о медийной персоне. Ни в коем случае нельзя допустить, чтобы с инцидентом связали нас.",
+              "maleVariant": "",
+              "stringId": "1966556831282872320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё ясно. Что от нас требуется? Пара сломанных костей?",
+              "maleVariant": "",
+              "stringId": "1966557165099139072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слегка потрепать, без последствий. В идеале бейсбольной битой. Я хочу, чтобы явно читался след «Шестой улицы».",
+              "maleVariant": "",
+              "stringId": "1966557510827229184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И скажите ей, что Дикси передаёт привет. Она поймёт, что это значит.",
+              "maleVariant": "",
+              "stringId": "1966558290883887104"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

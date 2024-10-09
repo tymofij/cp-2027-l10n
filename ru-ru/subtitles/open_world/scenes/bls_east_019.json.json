@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У меня вопрос… А почему мы в одни машины вставляем старые запчасти, а в другие новые?",
+              "maleVariant": "",
+              "stringId": "2178248733847003136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А это потому, моя дорогая, что есть два сорта людей: кочевники и цивилы.",
+              "maleVariant": "",
+              "stringId": "2180996341142634496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Даже не думай поставить кочевнику подержанный амортизатор.",
+              "maleVariant": "",
+              "stringId": "2180997704777973760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он сразу сообразит, ты даже не успеешь сказать: «Только не по лицу!»",
+              "maleVariant": "",
+              "stringId": "2180997914711277568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А цивилы — другое дело. Этим можно спокойно загнать старьё.",
+              "maleVariant": "",
+              "stringId": "2180998057502162944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну не знаю… Не хочется, чтобы они разбились из-за меня.",
+              "maleVariant": "",
+              "stringId": "2180998225291100160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё надо делать с умом. С тормозами лучше не химичить, конечно. А вот, например, сцепление…",
+              "maleVariant": "",
+              "stringId": "2180998457454215168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А-а-а, ну если так…",
+              "maleVariant": "",
+              "stringId": "2180998590631755776"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

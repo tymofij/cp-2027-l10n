@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты что, не чувствуешь, какой тут воздух? Дышать можно без фильтров. Не то что в Санто-Доминго.",
+              "maleVariant": "",
+              "stringId": "2161819553457319936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И пулю тут тоже можно схлопотать как нефиг делать. В Санто тебе хотя бы сначала скажут, за что.",
+              "maleVariant": "",
+              "stringId": "2212571365205450752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ты просто завидуешь. А вот если бы вставал пораньше и работал побольше…",
+              "maleVariant": "",
+              "stringId": "2212869673048186880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Наконец-то! Я всю жизнь мечтал сюда переехать!",
+              "maleVariant": "",
+              "stringId": "2212870011679514624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Куда, в Глен? Центр я ещё понимаю, но Глен?!",
+              "maleVariant": "",
+              "stringId": "2212870412856303616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А вот если б ты в мою жизнь не лез, а?",
+              "maleVariant": "",
+              "stringId": "2212886881858068480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно-ладно. Пойдём куда-нибудь выпьем. Не переживай, я угощаю.",
+              "maleVariant": "",
+              "stringId": "2212908928747282432"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но зачем, солнышко? У тебя же талант. Надо было в техники пойти!",
+              "maleVariant": "",
+              "stringId": "1963288946766028800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пап, не начинай. Ну что ты заладил…",
+              "maleVariant": "",
+              "stringId": "1965052560611721216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И ещё много раз повторю. Я не хочу, чтобы какой-нибудь хрен обидел моё сокровище…",
+              "maleVariant": "",
+              "stringId": "1965053021733502976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пап, мы же «Шельмы». А «Шельмы» своих в обиду не дадут.",
+              "maleVariant": "",
+              "stringId": "1965053228982452224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я… я договорюсь на фабрике. Пройдёшь собеседование… Будешь работать с машинами. Это же твоя мечта была!",
+              "maleVariant": "",
+              "stringId": "1965053607862321152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. С грязными развалюхами, из-за которых мать заработала себе рак? Ты про них?",
+              "maleVariant": "",
+              "stringId": "1965053864654389248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лучше уж давиться чужим хреном, чем этими парами.",
+              "maleVariant": "",
+              "stringId": "1965054185015328768"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

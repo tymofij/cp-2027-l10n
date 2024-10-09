@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бачу, ти не ставиш зайвих запитань, Ві. Просто робиш те, що прохають.",
+              "maleVariant": "",
+              "stringId": "2333111386495176708"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я гадала, що тебе не підкупити машиною, фаршированою корпарем. Ніколи не перестаєш дивувати, Ві.",
+              "maleVariant": "",
+              "stringId": "2333111428991864836"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, дорогенька, ти мене розчарувала. Навіщо це?",
+              "maleVariant": "Ві, дорогенький, ти мене розчарував. Навіщо це?",
+              "stringId": "2333111461707436032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Наступного разу будь розважливішою, не випробовуй моє терпіння. Це заздалегідь програшна гра. Незабаром почуємось, Ві.",
+              "maleVariant": "Наступного разу будь розважливішим, не випробовуй моє терпіння. Це заздалегідь програшна гра. Незабаром почуємось, Ві.",
+              "stringId": "2343017082554519552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поважаю такий підхід, і знаю, як його винагородити. Контракт виконано.",
+              "maleVariant": "",
+              "stringId": "2344958500550316032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Квід про кво, Ві. Квід про кво. Контракт закритий.",
+              "maleVariant": "",
+              "stringId": "2345012894079750144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хоча, звичайно, виграє той, хто більше пропонує. О, я не про Сєрґєя. Ні, на жаль, його ставку перебила інша зацікавлена сторона. Хто знає, що з ним тепер буде.",
+              "maleVariant": "",
+              "stringId": "2345017834718203904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

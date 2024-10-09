@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сука, не знаю, как вы, я себе весь хром повырежу.",
+              "maleVariant": "",
+              "stringId": "2179396891616505856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что, настолько с деньгами проблемы?",
+              "maleVariant": "",
+              "stringId": "2182439668946358272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С «мусорщиками» проблемы. С моей улицы уже пятерых похитили. По ночам приходят, затаскивают в машину, и всё. Человек больше не возвращается.",
+              "maleVariant": "",
+              "stringId": "2182442139357859840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты чё думаешь, если у тебя не будет имплантов, они тебя не заберут?",
+              "maleVariant": "",
+              "stringId": "2182442405360619520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да.",
+              "maleVariant": "",
+              "stringId": "2218390946335477760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так они же не спрашивают, какие у тебя за импланты. Потрошат людей как есть. Не трогай свой хром, просто купи нормальное оружие.",
+              "maleVariant": "",
+              "stringId": "2218391033291788288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

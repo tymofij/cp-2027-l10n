@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A teraz czas na wiadomości lokalne: już niedługo będziemy świętować Aratama-matsuri",
+              "maleVariant": "",
+              "stringId": "1743081712336031744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z tej okazji ulicami Night City przedefilują imponujące, wielopiętrowe platformy dashi.",
+              "maleVariant": "",
+              "stringId": "1743083012352167936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Organizatorzy przewidują liczne atrakcje, między innymi wspaniałe koncerty mistrzów biwa, a także, wisienka na torcie, festiwal teatralny noh.",
+              "maleVariant": "",
+              "stringId": "1743083347997151232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sponsorem tego wydarzenia jest korporacja Arasaka. Z niecierpliwością czekamy na to wydarzenie także dlatego, że swój udział w paradzie zapowiedziała sama Hanako Arasaka.",
+              "maleVariant": "",
+              "stringId": "1743084074937143296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Załoga WNS News życzy wszystkim udanej zabawy.",
+              "maleVariant": "",
+              "stringId": "1743085065044545536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Udanego matsuri, Night City!",
+              "maleVariant": "",
+              "stringId": "1743085467999719424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A po przerwie: co z tą cyberpsychozą? Istnieje czy nie?",
+              "maleVariant": "",
+              "stringId": "1743087757468946432"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

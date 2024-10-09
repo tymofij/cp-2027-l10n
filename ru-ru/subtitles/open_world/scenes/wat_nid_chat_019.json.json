@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мишель! Мишель, ты здесь? Скажи что-нибудь! Пожалуйста!",
+              "maleVariant": "",
+              "stringId": "2156413510719365120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Они ничего тебе не сделали. Они не могли. У тебя же почки больные… Зачем им больные почки?",
+              "maleVariant": "",
+              "stringId": "2170759751522828288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй… Я не шучу! Скажи что-нибудь! Мишель!",
+              "maleVariant": "",
+              "stringId": "2170760212694941696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я тебя найду… и мы пойдём домой.",
+              "maleVariant": "",
+              "stringId": "2170760391472955392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты же в кино хотела, сходим в кино! Выберешь фильм… Только скажи хоть что-нибудь!",
+              "maleVariant": "",
+              "stringId": "2170760449723449344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мишель, пожалуйста!",
+              "maleVariant": "",
+              "stringId": "2170760503158882304"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

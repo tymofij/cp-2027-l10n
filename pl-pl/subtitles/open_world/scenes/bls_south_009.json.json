@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A widziałeś tę ostatnią burzę piaskową?",
+              "maleVariant": "",
+              "stringId": "1973557402761469952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widziałem? Prawie zwiało mnie z szosy! Pogoda coraz bardziej szaleje.",
+              "maleVariant": "",
+              "stringId": "1973798973645594624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Będzie coraz gorzej. Wiesz, czemu?",
+              "maleVariant": "",
+              "stringId": "1973800262588768256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bo natura zachowuje się tak samo jak każda matka.",
+              "maleVariant": "",
+              "stringId": "1973800468747198464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na początku jest cierpliwa. Przymyka oko na różne wybryki.",
+              "maleVariant": "",
+              "stringId": "1973800770267324416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Potem ostrzega, chociaż ją ignorujesz. Wreszcie się wkurwia...",
+              "maleVariant": "",
+              "stringId": "1973801185536974848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I na końcu się ciebie wyrzeka. A dom, w którym całe życie mieszkałeś, już nie jest twój.",
+              "maleVariant": "",
+              "stringId": "1973802033105149952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hmm. No, nie wiem...",
+              "maleVariant": "",
+              "stringId": "1973802851296419840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rozejrzyj się. Kto może się tu czuć jak w domu?",
+              "maleVariant": "",
+              "stringId": "1973803337852461056"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

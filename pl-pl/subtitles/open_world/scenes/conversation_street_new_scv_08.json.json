@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie interesuję się polityką, bo polityka nie interesuje się mną.",
+              "maleVariant": "",
+              "stringId": "2276537117143375888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Howie też tak mówił, a teraz patrz - nosi garniaki i siedzi w jakiejś komisji.",
+              "maleVariant": "",
+              "stringId": "2276537117143375900"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Howie to skurwiel na smyczy federalnych. Na pewno na nas donosi. I trzeba to jakoś załatwić.",
+              "maleVariant": "",
+              "stringId": "2276537117143375912"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

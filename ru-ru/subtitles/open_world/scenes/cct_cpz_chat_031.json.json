@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А теперь глубокий вдох… и ме-е-едленный вы-ы-ыдох.",
+              "maleVariant": "",
+              "stringId": "2172133362346090496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сосредоточьтесь на своём дыхании, почувствуйте, как воздух проходит через ваши лёгкие…",
+              "maleVariant": "",
+              "stringId": "2208324964528263168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Позвольте вашим мыслям плыть сквозь сознание. Не удерживайте их.",
+              "maleVariant": "",
+              "stringId": "2208326514524917760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Представьте, что вы камень в реке: поток омывает вас, а вы лежите спокойно и неподвижно.",
+              "maleVariant": "",
+              "stringId": "2208326976703664128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хорошо. Помните о дыхании. Сделайте глубокий вдох и… вместе с выдохом отпустите напряжение.",
+              "maleVariant": "",
+              "stringId": "2208327968606228480"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

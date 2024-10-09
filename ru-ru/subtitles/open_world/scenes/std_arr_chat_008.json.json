@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Помнишь пацана того? Лет 8 ему было, хотел на станции работать.",
+              "maleVariant": "",
+              "stringId": "1963263527807393792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, помню, дрыщеватый такой.",
+              "maleVariant": "",
+              "stringId": "1966525417590079488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Уже нет. Говорят, он прибился к «Животным».",
+              "maleVariant": "",
+              "stringId": "1966525605763334144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха! Да они его на закуску припасли!",
+              "maleVariant": "",
+              "stringId": "1966526296699420672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зря смеёшься! Гормонами так напичкали, разнесло парня, вообще не узнать!",
+              "maleVariant": "",
+              "stringId": "1966526522889846784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Видать, им было интересно, сколько он так протянет. А он помирать-то не стал. Наоборот, поднялся.",
+              "maleVariant": "",
+              "stringId": "1966526774799745024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Офигеть, бывший недоносок стал альфой! Ну дела!",
+              "maleVariant": "",
+              "stringId": "1966527268972642304"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

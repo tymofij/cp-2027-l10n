@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej, możesz teraz sprawdzić elektrykę?",
+              "maleVariant": "",
+              "stringId": "1400882961402900480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ta...",
+              "maleVariant": "",
+              "stringId": "1400913327140450304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, poczekam na górze. Daj znać, jak będziesz gotowy.",
+              "maleVariant": "",
+              "stringId": "1419997132761411584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Maelstrom... to było nawet, kurwa, zbyt proste!",
+              "maleVariant": "",
+              "stringId": "1617198252343504896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dali się podejść jak dzieci.",
+              "maleVariant": "",
+              "stringId": "1617198252343504904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jakbyśmy im na pełnej piździe wjechali do Totentanzu, nie połapaliby się do jutra, skąd tyle trupów.",
+              "maleVariant": "",
+              "stringId": "1617198252343504912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He, he. Dobry pomysł na jakiś luźniejszy wieczór.",
+              "maleVariant": "",
+              "stringId": "1617205965265907712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czego się spodziewałeś? Ci goście grzebią sobie we łbach jebanymi pilarkami!",
+              "maleVariant": "",
+              "stringId": "1618186799212998656"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

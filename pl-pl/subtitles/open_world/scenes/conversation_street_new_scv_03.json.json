@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To jest najmniej śmieszny żart, jaki słyszałam. A pracowałam kiedyś w klubie komediowym.",
+              "maleVariant": "",
+              "stringId": "2276536005954805776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie zrozumiałaś puenty! Żona myślała, że mąż w końcu nauczył się robić jej dobrze, a on miał atak cyberpsychozy! Ha, ha, ha.",
+              "maleVariant": "",
+              "stringId": "2276536005954805788"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Opowiedz mi jeszcze parę takich, a sama dostanę cyberpsychozy.",
+              "maleVariant": "",
+              "stringId": "2276536005971582976"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

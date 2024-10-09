@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówiłaś coś, kochana?",
+              "maleVariant": "",
+              "stringId": "2161836388907036672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówiłam, że wybierając lokal zawsze trzeba kierować się nosem.",
+              "maleVariant": "",
+              "stringId": "2211342441179881472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A tutaj... po prostu śmierdzi.",
+              "maleVariant": "",
+              "stringId": "2211342487484997632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Taa, Embers to nie jest. Ale ty nie jesteś już tamtą kobietą.",
+              "maleVariant": "",
+              "stringId": "2211342696998871040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeden kontrakt wyniósł cię na szczyt, jeden cię z niego zrzucił.",
+              "maleVariant": "",
+              "stringId": "2211342834051948544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ja, jako twoja była asystentka udzielę ci porady, która może uratować ci życie.",
+              "maleVariant": "",
+              "stringId": "2211343084904882176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "My, śmiertelnicy, nie kierujemy się nosem, tylko pieprzonym portfelem.",
+              "maleVariant": "",
+              "stringId": "2211343246905679872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przyzwyczajaj się. Tamten świat już nie wróci.",
+              "maleVariant": "",
+              "stringId": "2211343491886587904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

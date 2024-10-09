@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znowu rozwalili system zabezpieczeń.",
+              "maleVariant": "",
+              "stringId": "2178301430946324480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I pewnie znowu zniknęły diody bocznikujące?",
+              "maleVariant": "",
+              "stringId": "2188083722547085312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No przecież, że tak.",
+              "maleVariant": "",
+              "stringId": "2188084092669247488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Walka z wiatrakami. Oni podpierdają części, my naprawiamy, oni podpierdalają... ehhh.",
+              "maleVariant": "",
+              "stringId": "2188084399725854720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Typowi nomadzi, kurwa ich mać. Pępki świata. Jakby wszystko im się należało!",
+              "maleVariant": "",
+              "stringId": "2188084834608070656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fotoogniwa to dla nich szwedzki stół. Stoją te panele pośrodku niczego... Nic, tylko się częstować.",
+              "maleVariant": "",
+              "stringId": "2188085055513673728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Taa... a potem naprawiaj, człowieku!",
+              "maleVariant": "",
+              "stringId": "2188085530644430848"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

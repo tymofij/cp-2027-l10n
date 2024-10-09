@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Непомітно та витончено, чого не скажеш про розлучення пана Гутьєрреса. Прекрасна робота, Ві. Закриваю контракт.",
+              "maleVariant": "",
+              "stringId": "2328653895436414976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пан Гутьєррес наполягав на непомітності.",
+              "maleVariant": "",
+              "stringId": "2342903326335930368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ти галасуєш. Спочатку його зрадила власна жінка, а тепер ти. Нашому клієнту зовсім не щастить з жінками. Я закриваю контракт.",
+              "maleVariant": "Можливо, ти не знаєш, але не підіймати шуму й тривога — це різні речі. Запам’ятай. Я закриваю контракт.",
+              "stringId": "2342904435460902912"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

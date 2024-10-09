@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаєш, на сході краще?",
+              "maleVariant": "",
+              "stringId": "2178311137037459456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не знаю, але мені кортить дізнатися. У мене є сім’я в Небрасці, тож ми могли би зупинитися там на деякий час.",
+              "maleVariant": "",
+              "stringId": "2211250919570599936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чув, там шось галяк із роботою.",
+              "maleVariant": "",
+              "stringId": "2211256300124434432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, у Найт-Сіті з цим теж не врожай.",
+              "maleVariant": "",
+              "stringId": "2211256613405388800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пхе, якраз там і немає. Я ще трохи пожити хочу, шариш?",
+              "maleVariant": "",
+              "stringId": "2211256783039819776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та-а, ти просто шукав не там, де треба. Або не ту роботу.",
+              "maleVariant": "",
+              "stringId": "2211258545603801088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, тоді гарної дороги. Може Небраска тебе прийме краще.",
+              "maleVariant": "",
+              "stringId": "2211259659090849792"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

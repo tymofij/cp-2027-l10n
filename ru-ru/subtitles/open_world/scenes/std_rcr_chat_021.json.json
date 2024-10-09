@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй, у тебя же завтра контрольная. Ты не будешь готовиться?",
+              "maleVariant": "",
+              "stringId": "2167632358018928640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё равно завалю. Чего мучиться?",
+              "maleVariant": "",
+              "stringId": "2196939676842680320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Попробуй обойти тех, кто ради оценки готов глотать всю таблицу Менделеева.",
+              "maleVariant": "",
+              "stringId": "2196949074348564480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так ты тоже чем-нибудь закинься. Ты же сама барыжишь.",
+              "maleVariant": "",
+              "stringId": "2196950680985100288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, поэтому я и не употребляю… Ладно, я пойду. Надо переодеться, а то мне сегодня ещё к маме на ужин идти.",
+              "maleVariant": "",
+              "stringId": "2196952940976758784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зачем? Ты ж нормально одета.",
+              "maleVariant": "",
+              "stringId": "2196960642624872448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, просто ей тётя недавно передала для меня одежду. Будет спрашивать, почему не ношу.",
+              "maleVariant": "",
+              "stringId": "2196962506892337152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зачем тебе носить старое? У тебя же столько денег с товара.",
+              "maleVariant": "",
+              "stringId": "2196963073509253120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ну нахер, она мне тогда мозг вынесет, что я себя выше всех ставлю.",
+              "maleVariant": "",
+              "stringId": "2196963865460957184"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

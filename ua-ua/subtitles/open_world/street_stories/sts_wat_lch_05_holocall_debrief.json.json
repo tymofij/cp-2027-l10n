@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джейкоб отримав своє око назад, тож контракт закриваю. Але, Ві… ми ж з тобою розуміємо, що виконано все було не дуже.",
+              "maleVariant": "",
+              "stringId": "2329228966729129984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Готово. Джейкоб надсилає найщиріші подяки.",
+              "maleVariant": "",
+              "stringId": "2329229293381525504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Каже, тепер ліпше пильнуватиме за своїми імплантами, хе-хе. Закриваю контракт.",
+              "maleVariant": "",
+              "stringId": "2334832993867501568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можливо, наступного разу докладеш зусиль? Закрила контракт. Подякувала.",
+              "maleVariant": "",
+              "stringId": "2334834634175909888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

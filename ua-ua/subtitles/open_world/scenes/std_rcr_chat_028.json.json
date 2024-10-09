@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От не викупаю я цього, чумбо. Думав і думав, але тупо не викупаю, і все.",
+              "maleVariant": "",
+              "stringId": "2167915868692697088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шо саме?",
+              "maleVariant": "",
+              "stringId": "2182248835446001664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У смітниках повно ж їдла. Хорошого їдла! То якшо в’ни й’го самі не х’тять їсти, то ч’го просто нам не віддадуть?",
+              "maleVariant": "",
+              "stringId": "2182248903511166976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, бо того шо в’ни бридяться навіть думати про нас. От і все.",
+              "maleVariant": "",
+              "stringId": "2182249951214751744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

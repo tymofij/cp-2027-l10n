@@ -1,0 +1,97 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ищу лекарства.",
+              "maleVariant": "",
+              "stringId": "1957668066341187584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Выпишешь мне рецепт?",
+              "maleVariant": "",
+              "stringId": "1957668066341187600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А это подействует? Медицина вообще продвинулась со времён средневековья…",
+              "maleVariant": "",
+              "stringId": "1957668066659954692"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты точно в лекарствах понимаешь?",
+              "maleVariant": "",
+              "stringId": "1977976307727450112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тебе не нужны грибы и травы — только воссоединение своего «я». Избавление от мёртвой хватки демона.",
+              "maleVariant": "",
+              "stringId": "1977976675903455232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В противном случае это лишь потенциальный источник инфекции. Микрофлора берёт своё.",
+              "maleVariant": "",
+              "stringId": "1978001956248731648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я предлагаю то, что нужно. Кому-то дефибриллятор. Кому-то порошок плаценты.",
+              "maleVariant": "",
+              "stringId": "1978002291457507328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отличное средство от импотенции. Но только если свято веришь, что поможет.",
+              "maleVariant": "",
+              "stringId": "1978002409887875072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Порошок чего?!",
+              "maleVariant": "Чего, блядь?",
+              "stringId": "1978002425339691008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Выпишешь мне рецепт? Ну там, на женьшень или грибы?",
+              "maleVariant": "",
+              "stringId": "1978009905645993984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха. Где-то я уже это слышала…",
+              "maleVariant": "А, да. Где-то я это уже слышал, ха…",
+              "stringId": "1985048457785360384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нужны лекарства.",
+              "maleVariant": "",
+              "stringId": "2277825095508148224"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

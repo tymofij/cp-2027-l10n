@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A nie macie od tego własnych ludzi?",
+              "maleVariant": "",
+              "stringId": "1963264060534333440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No w tym wypadku chcemy być dyskretni i anonimowi.",
+              "maleVariant": "",
+              "stringId": "1966556545382334464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chodzi o wpływową personę. Nie może dostać do ręki żadnych twardych dowodów, że zlecenie wyszło od nas.",
+              "maleVariant": "",
+              "stringId": "1966556831282872320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Łapię. Co mamy zrobić? Połamać jej kilka kości?",
+              "maleVariant": "",
+              "stringId": "1966557165099139072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zwykłe pobicie zupełnie wystarczy. Jakiś kij bejsbolowy, te sprawy. Ma być w waszym stylu.",
+              "maleVariant": "",
+              "stringId": "1966557510827229184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I powiedzcie jej, że Dixie przesyła pozdrowienia. Będzie wiedziała, o co chodzi.",
+              "maleVariant": "",
+              "stringId": "1966558290883887104"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ви, пані, не намагалися викликати спеціаліста?",
+              "maleVariant": "",
+              "stringId": "2196683183746293760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Маєте на увазі… Екзорциста?",
+              "maleVariant": "",
+              "stringId": "2196683934845476864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні, пані… я про електрика. Можливо, це все через коливання напруги.",
+              "maleVariant": "",
+              "stringId": "2196684091225907200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Коливання напруги не намагаються вбити вас уві сні!",
+              "maleVariant": "",
+              "stringId": "2196686495887499264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та я правду кажу! У мої домашні прилади вселилася нечисть!",
+              "maleVariant": "",
+              "stringId": "2212815768977252352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Світильники то вмикаються, то вимикаються, телевізор сам канали перемикає, а цей термостат… Навіть казати не хочу!",
+              "maleVariant": "",
+              "stringId": "2212817761456201728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, гаразд… У такому разі я би спробував пахощі. Обкурюйте всі свої електроприлади тричі на день.",
+              "maleVariant": "",
+              "stringId": "2212843992364982272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А термостат? Його теж?",
+              "maleVariant": "",
+              "stringId": "2212847225972039680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А термостат п’ять разів, щонайменше.",
+              "maleVariant": "",
+              "stringId": "2212847303013015552"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, цього разу потрібно, щоби ти відновила природну рівновагу в місті. Один із «Валентинос» убив копа та безкарно пішов.",
+              "maleVariant": "Ві, цього разу потрібно, щоби ти відновив природну рівновагу в місті. Один із «Валентинос» убив копа та безкарно пішов.",
+              "stringId": "2328628520737337344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти можеш це змінити. Якщо з’ясуєш, хто прикриває цього бандита, то заплачу згори. Подробиці надсилаю.",
+              "maleVariant": "",
+              "stringId": "2334559512292999168"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

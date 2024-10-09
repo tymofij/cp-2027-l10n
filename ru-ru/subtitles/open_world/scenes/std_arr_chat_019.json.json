@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Езжайте откуда приехали! Вы разрушаете Найт-Сити!",
+              "maleVariant": "",
+              "stringId": "2167932130531135488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вы все наркоманы, убийцы, насильники! От вас все проблемы!",
+              "maleVariant": "",
+              "stringId": "2221664624063123456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отбираете работу у честных горожан! Погодите, Холт вас всех погонит поганой метлой!",
+              "maleVariant": "",
+              "stringId": "2221665065622671360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нечего тут! Возвращайтесь в свои НСША!",
+              "maleVariant": "",
+              "stringId": "2221665562261819392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Надо построить стену, отгородить вас всех! Как боевую зону!",
+              "maleVariant": "",
+              "stringId": "2221665780231409664"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

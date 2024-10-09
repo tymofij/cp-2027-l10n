@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dalej, mała. Bujaj dupą. Po to jest.",
+              "maleVariant": "",
+              "stringId": "1242802899126820864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nerkę może wyciąć każdy debil.",
+              "maleVariant": "",
+              "stringId": "1266395901891944448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A oka to już nie?",
+              "maleVariant": "",
+              "stringId": "1266398370172739584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podoba ci się?",
+              "maleVariant": "",
+              "stringId": "1272138729993510912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oko to robota dla specjalisty. Poza tym, nerki śmierdzą. Trafiliśmy kiedyś na gościa z kamieniami...",
+              "maleVariant": "",
+              "stringId": "1595423599094112256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, nie pierdol. Nie chce mi się tego słuchać.",
+              "maleVariant": "",
+              "stringId": "1659129903010336768"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

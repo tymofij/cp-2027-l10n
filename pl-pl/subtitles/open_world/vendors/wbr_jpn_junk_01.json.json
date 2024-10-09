@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co masz na sprzedaż?",
+              "maleVariant": "",
+              "stringId": "1885089914044170240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co się najlepiej sprzedaje?",
+              "maleVariant": "",
+              "stringId": "1885089914060947464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co masz na sprzedaż?",
+              "maleVariant": "",
+              "stringId": "1885089914161610756"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystko, czego potrzeba kobiecie.",
+              "maleVariant": "Wszystko, czego potrzeba mężczyźnie.",
+              "stringId": "1885089914178387968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co się najlepiej sprzedaje?",
+              "maleVariant": "",
+              "stringId": "1885089914279051264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wibratory. Trochę silikonu, bateryjka, silniczek... I masz lepszy odjazd, niż na braindansie. Satysfakcja gwarantowana.",
+              "maleVariant": "",
+              "stringId": "1885089914279051272"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

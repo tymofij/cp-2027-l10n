@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що є випити?",
+              "maleVariant": "",
+              "stringId": "1863266873962283008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Цікавий заклад.",
+              "maleVariant": "",
+              "stringId": "1863266873962283024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що є з напоїв?",
+              "maleVariant": "",
+              "stringId": "1863266874029391876"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Повний спектр. На будь-який смак. В таких місцях хочеться аби люди розслабились, навіть трохи розважились.",
+              "maleVariant": "",
+              "stringId": "1863266874029391884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Цікавий заклад. Подобається тут працювати?",
+              "maleVariant": "",
+              "stringId": "1863266874096500740"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Переважно так. Тільки ці блискітки заважають. Ніяк не вдається їх повністю позбутися.",
+              "maleVariant": "",
+              "stringId": "1863266874096500748"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

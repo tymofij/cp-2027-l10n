@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ищу что-нибудь красивое.",
+              "maleVariant": "",
+              "stringId": "1914297443719860224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С каких пор бандиты шмотьём торгуют?",
+              "maleVariant": "",
+              "stringId": "1914297443719860240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Есть для меня хорошие шмотки?",
+              "maleVariant": "",
+              "stringId": "1914297443753414656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если под «хорошими» ты понимаешь дешёвые, то да.",
+              "maleVariant": "",
+              "stringId": "1914297443753414664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это метка «Тигриных когтей»? С каких пор бандиты шмотьём торгуют?",
+              "maleVariant": "Это метка «Тигриных когтей»? С каких пор банды торгуют шмотьём?",
+              "stringId": "1914297443770191876"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С тех пор, как босс решил списать в утиль парней с убитым позвоночником.",
+              "maleVariant": "",
+              "stringId": "1914297443770191884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нужна помощь.",
+              "maleVariant": "",
+              "stringId": "3775204349752242176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу сменить стиль.",
+              "maleVariant": "",
+              "stringId": "3836253223455158296"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

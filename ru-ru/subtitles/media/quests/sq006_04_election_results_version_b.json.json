@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет, Найт-Сити. С вами Джиллиан Джордан и новости о выборах на Пятьдесят четвёртом канале. Мы получили данные экзит-поллов.",
+              "maleVariant": "",
+              "stringId": "1792236862913290240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нынешний мэр из партии деволюционистов Уэлдон Холт получил всего 27,2 процента голосов. Его избирательная кампания пошла под откос после обвинений в причастности к убийству Люциуса Райна, предыдущего мэра Найт-Сити.",
+              "maleVariant": "",
+              "stringId": "1800909871180922880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кандидат от федералистов Джефферсон Пералес одержал уверенную победу, набрав 70,7 процента голосов.",
+              "maleVariant": "",
+              "stringId": "1800910204275769344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В своей прощальной речи мэр Холт поздравил своего соперника с победой на выборах.",
+              "maleVariant": "",
+              "stringId": "1800910431489605632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Осталось выяснить, сможет ли Пералес выполнить свои громкие предвыборные обещания.",
+              "maleVariant": "",
+              "stringId": "1800910582752985088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "После паузы: Выясним, есть ли у «Корсаров» шанс прервать череду неудач?",
+              "maleVariant": "",
+              "stringId": "1800910893064372224"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

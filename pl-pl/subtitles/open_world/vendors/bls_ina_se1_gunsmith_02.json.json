@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co masz na sprzedaż?",
+              "maleVariant": "",
+              "stringId": "1935671434919981056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz coś... Spod lady?",
+              "maleVariant": "",
+              "stringId": "1935671434919981072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co masz na sprzedaż?",
+              "maleVariant": "",
+              "stringId": "1935671434987089924"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Broń. Najlepszą na Badlandach.",
+              "maleVariant": "",
+              "stringId": "1935671434987089932"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak sobie myślę... NCPD na tym odludziu nie musisz się przejmować, kontrolami od korporacyjnych dostawców też nie...",
+              "maleVariant": "",
+              "stringId": "1935671435020644356"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Coś się znajdzie.",
+              "maleVariant": "",
+              "stringId": "1935671435020644364"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To może masz coś ekstra? Coś, czego nie dostanę w mieście?",
+              "maleVariant": "",
+              "stringId": "1975106424220733440"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

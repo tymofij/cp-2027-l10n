@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Y'know, I don't typically see strong-arming as the best way to get results. Still, sometimes you're left with no choice but force.",
+              "maleVariant": "",
+              "stringId": "2328596370291085312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "There's this scuzzbag needs to be... reined in. A sadist on a corporate leash – a real hemorrhoid on Night City's ass.",
+              "maleVariant": "",
+              "stringId": "2342006299783696384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do us all a favor and handle this contract. Details are attached.",
+              "maleVariant": "",
+              "stringId": "2342006345149288448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты думал, типа приду к своему чумбе и всё ему выложу, да?",
+              "maleVariant": "",
+              "stringId": "2161898330591096832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да…",
+              "maleVariant": "",
+              "stringId": "2227286226075226112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты думал, типа, не мои проблемы, не мои деньги, да?",
+              "maleVariant": "",
+              "stringId": "2227286550882127872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет… Нет, босс, я думал…",
+              "maleVariant": "",
+              "stringId": "2227286941187280896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как мы теперь выйдем в высшую лигу, а?! Как мы, блядь, теперь попадём в «Посмертие»?!",
+              "maleVariant": "",
+              "stringId": "2227287064550150144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты всё провафлил, хуесос! Всё! А думают на меня! Как я теперь буду работать в этом блядском городе, хуйло?! А?",
+              "maleVariant": "",
+              "stringId": "2227287168837324800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Простите…",
+              "maleVariant": "",
+              "stringId": "2227287662355910656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Босс, я даже не знаю… Я что-то уже не хочу в «Посмертие». Не для меня это всё.",
+              "maleVariant": "",
+              "stringId": "2227301010577395712"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

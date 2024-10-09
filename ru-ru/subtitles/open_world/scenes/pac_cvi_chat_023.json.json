@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А если опять будет цунами? Тогда что?",
+              "maleVariant": "",
+              "stringId": "2179509554614923264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Откуда я знаю? Второе Гаити будет, наверно. Или отрастим жабры всей Пасификой.",
+              "maleVariant": "",
+              "stringId": "2189536558233403392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Для этого есть импланты, между прочим. Корпорации обосрутся от радости.",
+              "maleVariant": "",
+              "stringId": "2189536708825694208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Покупайте наши кибержабры прямо сейчас!» Или нет! Кислород по подписке!",
+              "maleVariant": "",
+              "stringId": "2189536917668478976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха! Ты не кричи так, а то кто-нибудь из «Травмы» услышит и сопрёт идею.",
+              "maleVariant": "",
+              "stringId": "2189538506252730368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаешь, нас специально затопят, чтоб мы им платили?",
+              "maleVariant": "",
+              "stringId": "2189538639145058304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ты думаешь, нет? Если бы у них были на это деньги, уже давно бы так сделали.",
+              "maleVariant": "",
+              "stringId": "2189538785962475520"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

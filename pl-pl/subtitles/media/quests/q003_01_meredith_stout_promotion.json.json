@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiadomości lokalne.",
+              "maleVariant": "",
+              "stringId": "1745874227529572352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Policja zamówiła dwadzieścia sztuk, które znajdą się na wyposażeniu sił prewencyjnych oraz oddziałów Max-Tacu.",
+              "maleVariant": "",
+              "stringId": "1745876180514955264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uroczyste podpisanie kontraktu odbyło się w siedzibie Urzędu Miasta. Dokument sygnowali komendant Coleridge oraz Government Relations Executive, Meredith Stout, z biura Militechu.",
+              "maleVariant": "",
+              "stringId": "1745876518743629824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Funkcjonariusze NCPD praktycznie każdego dnia narażają dla nas życie. Stają w naszej obronie przed brutalnymi gangami, a także nomadami i atakami cyberpsychopatów.",
+              "maleVariant": "",
+              "stringId": "1745876670409662464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Policjanci wyposażeni w egzoszkielety Centaur będą się czuli bezpiecznie. Zresztą nie tylko oni, ale my wszyscy.",
+              "maleVariant": "",
+              "stringId": "1745876848130711552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Po raz kolejny Militech dowiódł swej kluczowej roli w odbudowie podupadającej Ameryki. A już po przerwie: czym powinniśmy się kierować i na co zwracać uwagę przy wyborze ochroniarza dla naszych dzieci?",
+              "maleVariant": "",
+              "stringId": "1745876948240359424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "NCPD wzbogaciła dzisiaj swój arsenał o wyprodukowane przez Militech egzoszkielety klasy “Centaur”.",
+              "maleVariant": "",
+              "stringId": "1751600254725459968"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

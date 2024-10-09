@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну ти й профі, Ві! «Шості» тепер сто разів подумають, перш ніж совати свої їбальники на мою територію!",
+              "maleVariant": "",
+              "stringId": "2328827457029398528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, а «Шості», схоже, урок запам’ятали… На відміну від нашого щасливчика, Луція Торана.",
+              "maleVariant": "",
+              "stringId": "2328841105059733504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але мені жалітися нема на що, еге ж? Роботу виконано, питання вирішено. Просто наступного разу доведеш справу до кінця, гаразд?",
+              "maleVariant": "",
+              "stringId": "2341892900517154816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А Луцій Торан? М-м-м, із ним — узагалі конхфєтка! За-а-акриваю контракт!",
+              "maleVariant": "",
+              "stringId": "2341896652724736000"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

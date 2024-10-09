@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха, оце так зустріч. Я ж із ним в одній частині служив.",
+              "maleVariant": "",
+              "stringId": "1918422143395975168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що, впізнав?",
+              "maleVariant": "",
+              "stringId": "1925818834502340608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "За татухою. А, ну і за вічним страхом в очах.",
+              "maleVariant": "",
+              "stringId": "1925818920233914368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми такого надивилися в Мексиці… Що там було… Через яке пекло ми пройшли…",
+              "maleVariant": "",
+              "stringId": "1925819108692381696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Там будь-хто глуздом поїде, і місяця не пройде.",
+              "maleVariant": "",
+              "stringId": "1925819939986657280"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[en_us][pl_pl]Beginning",
+              "maleVariant": "",
+              "stringId": "1737483738415849472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[en_us][pl_pl]Street Kid.",
+              "maleVariant": "",
+              "stringId": "1737483738466181120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[en_us][pl_pl]Corporate.",
+              "maleVariant": "",
+              "stringId": "1737483738466181136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[en_us][pl_pl]Nomad.",
+              "maleVariant": "",
+              "stringId": "1737483738466181152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[en_us][pl_pl]Porsche zdobyte.",
+              "maleVariant": "",
+              "stringId": "2073974562557411328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[en_us][pl_pl]Porsche nie zdobyte.",
+              "maleVariant": "",
+              "stringId": "2073974562557411344"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

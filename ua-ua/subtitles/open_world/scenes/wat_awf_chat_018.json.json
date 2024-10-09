@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Перепрошую, пане, але вас немає в системі.",
+              "maleVariant": "",
+              "stringId": "2177920697144373248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це що, якийсь жарт? Я відповідаю за весь відділ логістики на четвертому складі! Як це мене немає в системі?",
+              "maleVariant": "",
+              "stringId": "2177921938406699008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Четвертого складу? Одну хвилинку, я, мабуть, знаю в чому справа.",
+              "maleVariant": "",
+              "stringId": "2177922972671733760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну нарешті.",
+              "maleVariant": "",
+              "stringId": "2177923397336625152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу, так. Знайшла.",
+              "maleVariant": "",
+              "stringId": "2177923974758068224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усі керівні посади на четвертому складі було скорочено.",
+              "maleVariant": "",
+              "stringId": "2177926208409497600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що?!",
+              "maleVariant": "",
+              "stringId": "2177926760581230592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ваш контракт із корпорацією було розірвано ще тієї миті.",
+              "maleVariant": "",
+              "stringId": "2177926920551985152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та пиздець… Цього не може бути…",
+              "maleVariant": "",
+              "stringId": "2177932435860418560"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

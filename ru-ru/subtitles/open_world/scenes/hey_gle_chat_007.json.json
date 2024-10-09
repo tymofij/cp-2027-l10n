@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А если Пералес проиграет? Конец всему?",
+              "maleVariant": "",
+              "stringId": "1832735430050177024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет. Но если он победит, в городе наконец хоть что-то изменится.",
+              "maleVariant": "",
+              "stringId": "1832741124455391232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ну? Вот для них?",
+              "maleVariant": "",
+              "stringId": "1832741464294678528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И для тебя тоже.",
+              "maleVariant": "",
+              "stringId": "1832741687901413376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха, хватит лапшу-то вешать. Ты правда веришь, что Пералесу на них не насрать?",
+              "maleVariant": "",
+              "stringId": "1832742476849995776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он хоть делает вид, что ему не насрать, а это уже немало.",
+              "maleVariant": "",
+              "stringId": "1832742714146938880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ого. По ходу, ты вообще не в курсе, как работает политика…",
+              "maleVariant": "",
+              "stringId": "1832742889670172672"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

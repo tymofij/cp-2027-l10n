@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, як там наш маленький корпаратський принц?",
+              "maleVariant": "",
+              "stringId": "2161935480598589440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добре.",
+              "maleVariant": "",
+              "stringId": "2227630222672760832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Умови непогані? А вода достатньо мутна?",
+              "maleVariant": "",
+              "stringId": "2227630290301718528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усе чудово.",
+              "maleVariant": "",
+              "stringId": "2227630408010665984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А обід? Вам уже п’таланило скуштувати тутешні фірмові страви? Відчулий цей, ем… Неповторний б’кет?",
+              "maleVariant": "",
+              "stringId": "2227630527347003392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Авжеж, неймовірно.",
+              "maleVariant": "",
+              "stringId": "2227630706393452544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха! А я ж к’зав, шо «Мілітех» — то ше не край світу, еге ж? Закладаюся, шо ти т’пер на’іть жити не зміг би в тому своєму к’рпоратському пентгаусі.",
+              "maleVariant": "",
+              "stringId": "2227630985012678656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Авжеж, ні.",
+              "maleVariant": "",
+              "stringId": "2227632256339775488"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

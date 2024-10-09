@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "FM-2030. Ты о нём почитай. Вот это была глыбища, а не человек. Его до сих пор держат в криокамере, в коллекции у какого-то миллионера из Бахрейна или хер пойми чего.",
+              "maleVariant": "",
+              "stringId": "2276536222213120016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты про Фёдорова слышал? Это с него всё началось, он всё предсказал. Остальные уже потом присоединились.",
+              "maleVariant": "",
+              "stringId": "2276536222229897216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ладно? А в криокамере его заморозили? Вот именно. Так что ты давай не умничай, а работай.",
+              "maleVariant": "",
+              "stringId": "2276536222229897228"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

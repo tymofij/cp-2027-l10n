@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Haiti to było ostrzeżenie! Ludzie! Opamiętajcie się!",
+              "maleVariant": "",
+              "stringId": "1802580862837010432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oderwijcie wzrok od ekranów! Porzućcie grzech!",
+              "maleVariant": "",
+              "stringId": "1802582968444727296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To ci w wysokich domach chcą byście byli ślepi! To oni będą patrzeć, jak się topicie!",
+              "maleVariant": "",
+              "stringId": "1802583038422495232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pojedyncze palce łatwo złamać, dlatego bądźcie jak pięść!",
+              "maleVariant": "",
+              "stringId": "1802583495299641344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bądźcie razem! Bądźcie silni! Jeszcze nie jest za późno!",
+              "maleVariant": "",
+              "stringId": "1802583703219679232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nadchodzi wielka woda, która zmyje wszystko!",
+              "maleVariant": "",
+              "stringId": "1802584832242429952"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

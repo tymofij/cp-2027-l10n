@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Видел этого хера в пиджаке? Прямо жалко его даже.",
+              "maleVariant": "",
+              "stringId": "2179385098424840192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так нализался, что наверняка даже не помнит, как сюда пришёл.",
+              "maleVariant": "",
+              "stringId": "2192295237202460672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я как раз мимо отеля проходил, когда он припёрся. Типа, поспорил с дружками на работе, что на несколько ночей тут остановится.",
+              "maleVariant": "",
+              "stringId": "2192295368484175872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А, корпорат? Откуда его принесло? Из Чартер-Хилла?",
+              "maleVariant": "",
+              "stringId": "2192295527381188608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Наверное, нажрался после работы. Они все после работы нажираются.",
+              "maleVariant": "",
+              "stringId": "2192295795262996480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Представляю его рожу, когда он проснётся без ствола и денег.",
+              "maleVariant": "",
+              "stringId": "2192295941845532672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А вы его обчистили?",
+              "maleVariant": "",
+              "stringId": "2192296046787018752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Такого грех не обчистить. Чего хорошему стволу пропадать.",
+              "maleVariant": "",
+              "stringId": "2192296340455407616"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

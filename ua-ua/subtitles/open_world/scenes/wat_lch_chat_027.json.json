@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так не робиться! Їм ніби повідбивало, що тут люди живуть!",
+              "maleVariant": "",
+              "stringId": "2156532550940782592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вони гадають, що ПТашки не гудуть? Та я ледве сплю.",
+              "maleVariant": "",
+              "stringId": "2172120706013970432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ех, те ж саме. Діти сплять як мертві, а я насилу це витримую. Може річ у віці?..",
+              "maleVariant": "",
+              "stringId": "2172121053604331520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ходив у міськраду поскаржитися, і знаєш, що вони мені сказали?",
+              "maleVariant": "",
+              "stringId": "2172121474527903744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Якщо вам це заважає, то купіть собі шумозаглушувальні імпланти».",
+              "maleVariant": "",
+              "stringId": "2172121682833817600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У мене аж вікна трясуться, коли вони пролітають повз! Від такого імпланти ще не рятують!",
+              "maleVariant": "",
+              "stringId": "2172121878523265024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ех-х… Аеропорт, блядь…",
+              "maleVariant": "",
+              "stringId": "2172122344795652096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

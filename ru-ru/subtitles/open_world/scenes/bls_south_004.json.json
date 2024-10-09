@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну? Достала препараты? Ане становится хуже.",
+              "maleVariant": "",
+              "stringId": "1973555053196255232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Феликс… Караван не пришёл. Напоролись на мину у Каюкоса.",
+              "maleVariant": "",
+              "stringId": "1978991564630052864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чёрт… И что, всё?.. Ты ничего не достала?",
+              "maleVariant": "",
+              "stringId": "1978998992775991296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет. Фургон сгорел дотла. Успела вытащить только аспирин и витамины какие-то.",
+              "maleVariant": "",
+              "stringId": "1978999893678936064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От жёлтой лихорадки это не поможет.",
+              "maleVariant": "",
+              "stringId": "1979001050182766592"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

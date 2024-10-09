@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вибач, чумбо, але весь гонорар я тобі не можу виплатити. Просто ніяк.",
+              "maleVariant": "",
+              "stringId": "2156487448952336384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ж привіз клієнта куди треба?",
+              "maleVariant": "",
+              "stringId": "2169349781556875264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, привіз. Разом із кулею в його животі та зламаною ногою.",
+              "maleVariant": "",
+              "stringId": "2169350026386788352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та я йому казав не грати в героя. Просто відійти. Але ж ні, цей дебіл хотів мені довести, що він новий йобаний Морґан Блекгенд.",
+              "maleVariant": "",
+              "stringId": "2169350448098889728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знаю, чумбо, справді. Але практично всі клієнти цілковиті дебіли. Тобі треба навчитися їх контролювати, окей? Інакше знову матимемо проблеми.",
+              "maleVariant": "",
+              "stringId": "2169351026694737920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, коротше, тут немає про що більше говорити. Втрачаєш десять відсотків, домовилися? Гаразд.",
+              "maleVariant": "",
+              "stringId": "2169352399624654848"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

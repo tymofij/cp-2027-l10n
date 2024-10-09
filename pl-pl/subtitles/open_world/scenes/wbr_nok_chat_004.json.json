@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Robił pan już coś takiego?",
+              "maleVariant": "",
+              "stringId": "1963357883776237568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mną się nie przejmuj. 2023, 2051, 2070 - kurwa, ten dał mi w kość - naturalna fluktuacja rynku.",
+              "maleVariant": "",
+              "stringId": "1979130653959360512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trzy razy. Czasem trzeba zacząć grę od nowa.",
+              "maleVariant": "",
+              "stringId": "1979130834582867968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie komplikuj tego, czego nie trzeba. Ludzie są chciwy i chcą władzy.",
+              "maleVariant": "",
+              "stringId": "1979131256882171904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale ja nie chcę stracić pracy. Nie mogę.",
+              "maleVariant": "",
+              "stringId": "1979133866611675136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co najwyżej cię przeniosą. Na tym chaosie jeszcze możesz się wzbogacić.",
+              "maleVariant": "",
+              "stringId": "1979134272788074496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A pana oszczędności?",
+              "maleVariant": "",
+              "stringId": "1979135397952065536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "My tylko musimy dobrze na to reagować.",
+              "maleVariant": "",
+              "stringId": "1979147904460623872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

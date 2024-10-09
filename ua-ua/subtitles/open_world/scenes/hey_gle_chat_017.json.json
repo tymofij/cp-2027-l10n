@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Молодша сестра дуже засмучена, що наші сусіди їдуть. Їй подобається їхній малий, як там його звуть… Барт.",
+              "maleVariant": "",
+              "stringId": "2161749616877449216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І як ти їй те пояснюєш?",
+              "maleVariant": "",
+              "stringId": "2176632322600452096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, що так буде краще для них. Інакше «Валентиноси» їх дістануть.",
+              "maleVariant": "",
+              "stringId": "2176632676633264128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаєш, іноді мені здається, що вони могли би краще до нас ставитися, ураховуючи скільки ми їм грошей віддаємо.",
+              "maleVariant": "",
+              "stringId": "2176632899988340736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаєш, чому вони так повелися з ними?",
+              "maleVariant": "",
+              "stringId": "2176633055966117888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. Мала казала, що старша сестра Барта «пішла на \"Шосту вулицю\" чи щось типу того».",
+              "maleVariant": "",
+              "stringId": "2176633258903322624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І тоді така запитує мене: «А де ця \"Шоста вулиця\"? Нам що, не можна на неї ходити?» Ти розумієш?",
+              "maleVariant": "",
+              "stringId": "2176633846760194048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От лайно.",
+              "maleVariant": "",
+              "stringId": "2218431679167184896"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

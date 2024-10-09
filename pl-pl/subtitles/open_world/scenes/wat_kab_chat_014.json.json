@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słuchaj, a może by tak... Zamiast korzystać z tych bezdusznych technologii, byśmy tak po prostu, no wiesz, jak ludzie... Ty i ja...",
+              "maleVariant": "",
+              "stringId": "2156373511487594496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zapomnij. Bierzesz coś czy nie?",
+              "maleVariant": "",
+              "stringId": "2169023306446196736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ech... No, biorę, no. Niech będzie \"Cheerleaderka Nimfomanka 7\".",
+              "maleVariant": "",
+              "stringId": "2169023995402571776"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale te dzieciaki naiwne.",
+              "maleVariant": "",
+              "stringId": "2167613373089075200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To te szkolne. Uliczniki są ogarnięte.",
+              "maleVariant": "",
+              "stringId": "2214561007262863360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale, żeby mnie, poważnego bandytę pytać o darmowe próbki dragów? Jakie kurwa darmo? Ocipieli? Kto im, kurwa, podsuwa takie durne pomysły?",
+              "maleVariant": "",
+              "stringId": "2229115825604104192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pewnie filmy.",
+              "maleVariant": "",
+              "stringId": "2229117406940598272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Albo media.",
+              "maleVariant": "",
+              "stringId": "2229117820901625856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A chuj wie.",
+              "maleVariant": "",
+              "stringId": "2229118006222753792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ta... W życiu, kurwa, nie ma nic za darmo.",
+              "maleVariant": "",
+              "stringId": "2229119472836644864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mordo, nie mnie to tłumacz.",
+              "maleVariant": "",
+              "stringId": "2229119634971660288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

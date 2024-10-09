@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co tu robisz?",
+              "maleVariant": "",
+              "stringId": "1806712999351279616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To co zwykle, naprawiam to, czego ty nie potrafisz.",
+              "maleVariant": "",
+              "stringId": "1806714468347535360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sam sobie poradzę.",
+              "maleVariant": "",
+              "stringId": "1806714710543425536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mama uważa inaczej.",
+              "maleVariant": "",
+              "stringId": "1806714939955077120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "…[cisza]",
+              "maleVariant": "",
+              "stringId": "1806715108163444736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No już, nie marszcz tak śmiesznie noska i bądź grzecznym gangsterem.",
+              "maleVariant": "",
+              "stringId": "1806715246944575488"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

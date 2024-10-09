@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, с лабораторией покончено. То, что доктор прописал.",
+              "maleVariant": "",
+              "stringId": "2328758690523099136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Само собой, «блестяшки» не исчезнут. Тут у меня нет иллюзий. Но мы больно ударили по тварям, которые их делают.",
+              "maleVariant": "",
+              "stringId": "2334853652173656064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кстати, Арати просила тебя поблагодарить, говорит, мы ей очень помогли. Как-то так. До связи.",
+              "maleVariant": "",
+              "stringId": "2334860713737424896"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

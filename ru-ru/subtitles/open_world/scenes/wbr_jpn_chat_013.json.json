@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Детка, послушай… Я… Я всё для тебя сделаю. Давай пошлём всё на хрен, а? Свалим на Каймановы острова или…",
+              "maleVariant": "",
+              "stringId": "2159534937545416704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну-ну. А жена твоя что скажет?",
+              "maleVariant": "",
+              "stringId": "2167899423378821120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да забудь про неё, солнышко… Я разберусь. Разведёмся с ней по-быстрому… А если не захочет по-быстрому, я что-нибудь придумаю. Понимаешь?",
+              "maleVariant": "",
+              "stringId": "2167900172062085120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Понимаю, понимаю. И это, не хочу тебя торопить, но время уже вышло.",
+              "maleVariant": "",
+              "stringId": "2167901599081746432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хорошо, я ещё час оплачу… Как там тебя звать? Кэнди? Мэнди? А, какая на хер разница…",
+              "maleVariant": "",
+              "stringId": "2167902374608556032"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привіт, маю замовника. Ну, насправді це лише син Ненсі, який хоче повернути дещо вкрадене в нього. І так, саме та Ненсі, що бемкала по клавішах в «Самураї».",
+              "maleVariant": "",
+              "stringId": "2328748527592960000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І ще одне. Якщо зможеш повернути його колісницю, буде просто чудово.",
+              "maleVariant": "",
+              "stringId": "2342910040040902656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То ти берешся? Якщо так, додаю подробиці.",
+              "maleVariant": "",
+              "stringId": "2342945016778166272"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

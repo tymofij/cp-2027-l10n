@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej, V. Tu Frank. Wiesz, z Arasaki.",
+              "maleVariant": "",
+              "stringId": "1822800113761656832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm. Kojarzę, uwierz. Takiej mendy, jak ty, długo się nie...",
+              "maleVariant": "",
+              "stringId": "1822802647440039936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Proszę, wysłuchaj to nagranie do końca.",
+              "maleVariant": "",
+              "stringId": "1822803091549724672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Abernathy robi czystkę w dziale. Wykańcza wszystkich, którzy nie są w 100% pewni.",
+              "maleVariant": "",
+              "stringId": "1822803529535725568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jestem na liście do odstrzału. Nie mam pojęcia, czemu. Ale wiesz, jak jest. Nie ma odwołań.",
+              "maleVariant": "",
+              "stringId": "1822803896772206592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie mam zamiaru siedzieć z założonymi rękami. Zbieram materiały na jej temat. Dossier, które rozpierdoli jej życie.",
+              "maleVariant": "",
+              "stringId": "1822804051693019136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Będziesz wiedziała, jak je wykorzystać.",
+              "maleVariant": "Będziesz wiedział, jak je wykorzystać.",
+              "stringId": "1822804282128080896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trzymam dokumenty w skrytce. Jeśli nie zdążę ich wykorzystać... Dostaniesz tę wiadomość. I koordynaty.",
+              "maleVariant": "",
+              "stringId": "1874799152169537536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cholera...",
+              "maleVariant": "",
+              "stringId": "1874801294016040960"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

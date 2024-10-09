@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне передали, что Логана Гарсию уже везут сюда на полной скорости.",
+              "maleVariant": "",
+              "stringId": "2328531507121479680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне тут передали, что Логан Гарсия уже прибыл к небесным вратам. Клиент доволен, и я тоже.",
+              "maleVariant": "",
+              "stringId": "2328535053858496516"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Душевное тебе спасибо, Ви. Заказ выполнен просто идеально.",
+              "maleVariant": "",
+              "stringId": "2334617013399044096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Заказ закрываю, деньги должны будут скоро тебе прийти.",
+              "maleVariant": "",
+              "stringId": "2334617911080763392"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты чего такой угрюмый?",
+              "maleVariant": "",
+              "stringId": "2160377451349319680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А, забей, ерунда.",
+              "maleVariant": "",
+              "stringId": "2180970024336199680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да говори уже.",
+              "maleVariant": "",
+              "stringId": "2180970103373664256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Никак не допрошусь, чтобы у нас из контейнеров мусор вывезли. Такая вонь стоит, даже здесь чувствуется.",
+              "maleVariant": "",
+              "stringId": "2180970233497751552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Говорят, мол, из-за «когтей» мусоровоз проехать не может.",
+              "maleVariant": "",
+              "stringId": "2180970864908275712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да… От «когтей» вообще лучше подальше держаться.",
+              "maleVariant": "",
+              "stringId": "2180972162474938368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм… И правда, даже здесь воняет.",
+              "maleVariant": "",
+              "stringId": "2180972604604911616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну а я о чём?",
+              "maleVariant": "",
+              "stringId": "2180973344413028352"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

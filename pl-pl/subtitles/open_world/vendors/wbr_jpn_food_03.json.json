@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co można tutaj zjeść?",
+              "maleVariant": "",
+              "stringId": "1884976962712518656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dajecie tutaj prawdziwe mięso?",
+              "maleVariant": "",
+              "stringId": "1884976962712518672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co można tutaj zjeść?",
+              "maleVariant": "",
+              "stringId": "1884976962762850308"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A zobacz sobie.",
+              "maleVariant": "",
+              "stringId": "1884976962762850316"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dajecie tutaj prawdziwe mięso?",
+              "maleVariant": "",
+              "stringId": "1884976962846736388"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co? W sensie, że od zwierząt? Weź nie żartuj!",
+              "maleVariant": "",
+              "stringId": "1884976962846736396"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

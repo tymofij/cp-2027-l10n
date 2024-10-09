@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Учора неподалік знайшов двох т’ких. В’ни ше навіть не розпухли. Обидва з кулями в довбешках.",
+              "maleVariant": "",
+              "stringId": "2179665325831348224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та й таке. Може, сьо’дні буде кращий улов.",
+              "maleVariant": "",
+              "stringId": "2211510122474303488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. Їх т’ер ніхто вже не шукатиме. Бо це точно справа рук банд.",
+              "maleVariant": "",
+              "stringId": "2212661038854369280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Позбирав усе, шо мені було тре, а жмуриків залишив на піску. Приплив має забрати їх.",
+              "maleVariant": "",
+              "stringId": "2212708700978868224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я вчора теж їдну ’найшов. Гола та з вирізаним хромом. Риби вже гризли потихеньку.",
+              "maleVariant": "",
+              "stringId": "2212709487243096064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Бляхарі»… Йобані стерв’ятники.",
+              "maleVariant": "",
+              "stringId": "2212715433390436352"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

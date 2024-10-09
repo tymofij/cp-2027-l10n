@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можна подивитись, що в тебе є?",
+              "maleVariant": "",
+              "stringId": "1882226030505508864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Щось багацько \"Тигрових кігтів\" тут.",
+              "maleVariant": "",
+              "stringId": "1882226030505508880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можна поглянути, що тут в тебе?",
+              "maleVariant": "",
+              "stringId": "1882226031327592452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прошу. Впевнений що знайдеш щось для себе.",
+              "maleVariant": "",
+              "stringId": "1882226031377924100"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дуже популярний заклад. Особливо \"Тигрових кігтів\" багато.",
+              "maleVariant": "",
+              "stringId": "1882226031428255748"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В житті є дуже різні шляхи, і багато.",
+              "maleVariant": "",
+              "stringId": "1882226031445032964"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу. Багато знаєш про них?",
+              "maleVariant": "",
+              "stringId": "1912580973309251584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тільки те, що вони не люблять зайвих питань.",
+              "maleVariant": "",
+              "stringId": "1912581215572250624"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

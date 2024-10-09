@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ludzie, pomóżcie! Nie mam co jeść! Poratujcie paroma eurodolarami!",
+              "maleVariant": "",
+              "stringId": "1963293836653404160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do fabryki, nierobie! Pracy se poszukaj!",
+              "maleVariant": "",
+              "stringId": "1969331705147539456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie mogę do fabryki! Za długo robiłem przy antenach.",
+              "maleVariant": "",
+              "stringId": "1969332172124569600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rozwaliło mi procesor neuralny. Jak tylko do nich podchodzę, dostaję padaczki!",
+              "maleVariant": "",
+              "stringId": "1969332485640404992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co za patola... Czego to oni nie wymyślą, byle się wymigać od roboty.",
+              "maleVariant": "",
+              "stringId": "1969332745066496000"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

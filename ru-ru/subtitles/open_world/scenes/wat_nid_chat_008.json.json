@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Фу, да что такое. Снова воняет. Эта хрень день за днём разъедает нам лёгкие. Скоро совсем сожжёт!",
+              "maleVariant": "",
+              "stringId": "1963287909145550848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мэри говорит, утечка с «Петрохема».",
+              "maleVariant": "",
+              "stringId": "1964955540303626240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да. У нас тут у одних дети играли на улице почти два часа, пока соседи не заметили.",
+              "maleVariant": "",
+              "stringId": "1964955780687577088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Самая мелкая так надышалась, что пена изо рта полезла. Сам видел.",
+              "maleVariant": "",
+              "stringId": "1964955966176477184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну родители… Понаделают детей, а потом не следят.",
+              "maleVariant": "",
+              "stringId": "1964956436727054336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Естественный отбор.",
+              "maleVariant": "",
+              "stringId": "1964956785592483840"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

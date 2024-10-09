@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На представителя власти залупаешься?",
+              "maleVariant": "",
+              "stringId": "1895369593175121924"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты у меня сгниёшь за решёткой!",
+              "maleVariant": "",
+              "stringId": "1895369593191899140"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лови, сука!",
+              "maleVariant": "Лови, урод!",
+              "stringId": "1895369593242230788"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну что, уже не такая крутая, а?!",
+              "maleVariant": "Ну что, уже не такой крутой, а?!",
+              "stringId": "1895369593326116868"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты охуела?",
+              "maleVariant": "Ты охуел?",
+              "stringId": "1895369593359671300"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На хер иди!",
+              "maleVariant": "",
+              "stringId": "1895369593410002948"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чёрт!",
+              "maleVariant": "",
+              "stringId": "1895369593426780164"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Осторожней.",
+              "maleVariant": "",
+              "stringId": "1895369593493889028"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй!",
+              "maleVariant": "",
+              "stringId": "1895369593510666244"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тебе хана! Слышишь меня?!",
+              "maleVariant": "",
+              "stringId": "1895369593946873860"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

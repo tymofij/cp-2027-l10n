@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Budowlańcy zastrajkowali, boją się pracować bo rano znaleźli narzędzia zaplamione krwią.",
+              "maleVariant": "",
+              "stringId": "2355036260620693504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Teren budowy to parking, na którym czasem spotykają się gangusy.",
+              "maleVariant": "",
+              "stringId": "2355048815044980736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może to jakieś porachunki, ale ja myślę że doszło do ataku cyberpsychozy.",
+              "maleVariant": "",
+              "stringId": "2360707291594579968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeśli mam rację, to postaraj się obezwładnić agresora, a ja to dalej załatwię.",
+              "maleVariant": "",
+              "stringId": "2360708074587250688"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

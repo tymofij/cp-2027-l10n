@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну что? Закругляемся?",
+              "maleVariant": "",
+              "stringId": "2159361653899501568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, всё сняли и отправили. Монтажёры уже работают.",
+              "maleVariant": "",
+              "stringId": "2199674145485287424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пусть маркетинг добавит ссылку на бабулю в галерее. Она кучу денег отвалила. Пусть получит пять секунд славы.",
+              "maleVariant": "",
+              "stringId": "2199680968846143488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, я им уже сказал. Ещё добавят ссылку на Деламейна. Там один во время съёмки проехал.",
+              "maleVariant": "",
+              "stringId": "2199683396861620224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, круто. Хоть с этим разобрались.",
+              "maleVariant": "",
+              "stringId": "2199694371325145088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как тебе интервью-то? Нормально?",
+              "maleVariant": "",
+              "stringId": "2199694651823419392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты правда переживаешь?",
+              "maleVariant": "",
+              "stringId": "2199694844828512256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха-ха! Ладно, шучу.",
+              "maleVariant": "",
+              "stringId": "2199695023891738624"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

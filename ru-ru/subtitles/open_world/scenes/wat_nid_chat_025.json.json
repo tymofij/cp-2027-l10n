@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Фу… Чувствуешь? Пиздец как воняет.",
+              "maleVariant": "",
+              "stringId": "2156430155730903040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чем на этот раз?",
+              "maleVariant": "",
+              "stringId": "2172014120025178112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мясом. Мерзким живым мясом. Нахрена весь этот хром, если тут кишки сплошь и рядом?",
+              "maleVariant": "",
+              "stringId": "2172014344705654784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, во-первых, это искусственные кишки. Во-вторых, их тут уже давно не производят.",
+              "maleVariant": "",
+              "stringId": "2172014616110678016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В-третьих, наши убеждения не относятся к работе.",
+              "maleVariant": "",
+              "stringId": "2172014776098209792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А в-четвёртых, жрать что-то надо.",
+              "maleVariant": "",
+              "stringId": "2172014986534830080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, вот это больше всего и бесит…",
+              "maleVariant": "",
+              "stringId": "2172015140113465344"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

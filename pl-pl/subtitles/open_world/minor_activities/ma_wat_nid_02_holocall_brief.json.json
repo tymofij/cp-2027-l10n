@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do wszystkich jednostek wspierających działania NCPD. Podejrzenie przestępczości zorganizowanej przy Richmond Street.",
+              "maleVariant": "",
+              "stringId": "2328562880095969284"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Członkowie gangu Maelstrom najprawdopodobniej prowadzą tam  nielegalny handel substancjami stymulującymi.",
+              "maleVariant": "",
+              "stringId": "2352126548168249344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na miejscu przebywa lider grupy – Tom Ayer, psuedonim \"Ymir\", wielokrotny morderca. Za zneutralizowanie zagrożenia władze Night City wypłacą nagrodę.",
+              "maleVariant": "",
+              "stringId": "2352137094359781376"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

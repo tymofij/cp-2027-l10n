@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ого! Схоже, що в тебе росте справжній снайпер!",
+              "maleVariant": "",
+              "stringId": "1973561824866508800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І що ти думаєш? Вони натрапили на патруль «Примар». Певна річ, вони стали стрілятися…",
+              "maleVariant": "",
+              "stringId": "1974813072954212352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, знову якусь картину намалював? Чи без дозволу катається на батьковій автівці?",
+              "maleVariant": "",
+              "stringId": "1974813095100137472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чула вже, який у мене малий талановитий?",
+              "maleVariant": "",
+              "stringId": "1974813112934318080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І мій малий поцілив одному з них просто межи очі!",
+              "maleVariant": "",
+              "stringId": "1974813160648720384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нє-а! Хлопці взяли його на розвідку, бо той ходив за ними хвостиком цілий тиждень.",
+              "maleVariant": "",
+              "stringId": "1974813185059569664"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

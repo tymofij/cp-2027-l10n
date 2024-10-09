@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гарна робота, хлопче. Так тримати, і невдовзі ти станеш керівником зміни.",
+              "maleVariant": "",
+              "stringId": "2167918149588766720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нє, це не для мене. Я тут лише хочу накопичити вдосталь грошей, щоби вступити до коледжу.",
+              "maleVariant": "",
+              "stringId": "2182257696601067520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Коледжу? Та ну. Нащо тобі той коледж? Усе, що ти з нього матимеш, то це цілу купу боргів.",
+              "maleVariant": "",
+              "stringId": "2182258314002616320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. І гарно оплачувану роботу в корпорації.",
+              "maleVariant": "",
+              "stringId": "2182258729792360448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пф-ф-ф. Ти думаєш, щоби грошики сипалися на тебе, тобі необхідний лише диплом? Цей світ не так влаштований, синку.",
+              "maleVariant": "",
+              "stringId": "2182258897447079936"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

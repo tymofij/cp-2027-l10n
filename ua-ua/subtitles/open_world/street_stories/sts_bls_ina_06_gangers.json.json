@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти бачив, як учорашня буря поїбала мою машину?",
+              "maleVariant": "",
+              "stringId": "1468919596504756224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скільки ще нам няньчити цю дівку з її сраною машиною?",
+              "maleVariant": "",
+              "stringId": "1468921072513888256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Братане, розслабся. Дихай глибше й не тиснися, бо тріснеш. Іди краще помий свою тачку.",
+              "maleVariant": "",
+              "stringId": "1468921318870528000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вона ж зайняла все місце в гаражі…",
+              "maleVariant": "",
+              "stringId": "1932950596875997184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, дякую.",
+              "maleVariant": "",
+              "stringId": "1932953601172066304"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

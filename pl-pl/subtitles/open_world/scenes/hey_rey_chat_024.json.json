@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Najlepiej, żeby takie martwe ciało pół roku w domu poleżało.",
+              "maleVariant": "",
+              "stringId": "2161917832024322048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, jak się długo sąsiady nie zorientują, to zasuszone już.",
+              "maleVariant": "",
+              "stringId": "2227530523127156736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tylko wiesz, ja we wtorek... nie czekaj, w środę! No, to w środę miałem ten niby najgorszy układ, bo wszedłem świeżo po policji na morderstwo.",
+              "maleVariant": "",
+              "stringId": "2227530659928576000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ciała już nie było, ale i tak sporo po człowieku zostało. W różnych zakamarkach. No to szoruję sobie bardzo dokładnie, nie?",
+              "maleVariant": "",
+              "stringId": "2227544008452050944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie śmierdzi i sprząta się szybko. Dobry pieniądz.",
+              "maleVariant": "",
+              "stringId": "2227544393656930304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I nagle pyk! Odskakuje mi deseczka w podłodze, a tam takie znalezisko, stary!",
+              "maleVariant": "",
+              "stringId": "2227546002776494080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co żeś znalazł!",
+              "maleVariant": "",
+              "stringId": "2227546580734808064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha! Ja cię powiem i zaraz ktoś po mnie będzie sprzątał! Nie jestem głupi!",
+              "maleVariant": "",
+              "stringId": "2227546685726625792"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але ж вони обіцяли нам дозвіл. Вони не можуть просто так узяти й дати задню!",
+              "maleVariant": "",
+              "stringId": "2161723149930016768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Авжеж, можуть. «Найткорп» відсипала більше грошенят.",
+              "maleVariant": "",
+              "stringId": "2176517464269766656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То так же ж, блядь, не робиться! У нас був контракт! Порушити контракт — це оголосити війну!",
+              "maleVariant": "",
+              "stringId": "2176517699670884352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так. Але це якщо обидва гравці в одній лізі.",
+              "maleVariant": "",
+              "stringId": "2176517798471909376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але нащо? Містові ж ніхріна не перепаде від цього. Ці інвестиції вигідні лише самому «Найткорпові».",
+              "maleVariant": "",
+              "stringId": "2176517898329899008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не знаю. Може, вони просто дурні. Не за всім же стоїть якась велика змова.",
+              "maleVariant": "",
+              "stringId": "2176518025836740608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Треба з тим щось робити.",
+              "maleVariant": "",
+              "stringId": "2176518132942487552"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

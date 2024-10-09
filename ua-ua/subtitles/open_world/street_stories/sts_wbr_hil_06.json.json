@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ого, а Ваєт вміло дереться кар’єрною драбиною.",
+              "maleVariant": "",
+              "stringId": "1318377528401293312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І не кажи. Ще й усе законно, усі документи на гараж є.",
+              "maleVariant": "",
+              "stringId": "1318383482752692224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Насправді? Який головастий чумба.",
+              "maleVariant": "",
+              "stringId": "1624225864327065600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шикардосна в тебе тачка, чумбо!",
+              "maleVariant": "",
+              "stringId": "1760773975902023680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Багато ризикуєш, багато виграєш.",
+              "maleVariant": "",
+              "stringId": "1760778456844759040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Покупець уже є?",
+              "maleVariant": "",
+              "stringId": "1760778658825662464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні, цю я залишу собі. Лише пофарбую та колеса заміню.",
+              "maleVariant": "",
+              "stringId": "1760778842250964992"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

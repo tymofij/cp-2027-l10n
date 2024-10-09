@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Te oczy, co teraz mam, to ja jebię! Zajebiste odświeżanie! Widzę wszystko. Każdy ruch. Nawet muchy!",
+              "maleVariant": "",
+              "stringId": "2276534109777076240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To ile masz klatek na sekundę?",
+              "maleVariant": "",
+              "stringId": "2276534109777076252"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dwa i pół tysiąca. Łeb tylko boli, jak cały dzień w wysokim klatkażu oglądasz. Mózg dostaje za dużo danych wizualnych.",
+              "maleVariant": "",
+              "stringId": "2276534109793853440"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

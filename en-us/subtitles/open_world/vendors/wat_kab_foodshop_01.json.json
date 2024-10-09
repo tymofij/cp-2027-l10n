@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I could go for a quick bite.",
+              "maleVariant": "",
+              "stringId": "1864894420312936448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That burger has a tail...",
+              "maleVariant": "",
+              "stringId": "1864894420312936464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got anything tasty and quick?",
+              "maleVariant": "",
+              "stringId": "1864894420329713668"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It's like they say. You either get tasty, or you get quick. Here you get full spread. Two in one! Hm-hm...",
+              "maleVariant": "",
+              "stringId": "1864894420346490880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Is it just me, or does that burger have a tail?",
+              "maleVariant": "",
+              "stringId": "1864894420363268100"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It's a kids' meal. Kids like surprises.",
+              "maleVariant": "",
+              "stringId": "1864894420363268108"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

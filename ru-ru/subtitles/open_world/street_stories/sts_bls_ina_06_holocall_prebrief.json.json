@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можно завести лошадь прямо в воду, но пить её не заставишь. Я годами пыталась наладить связь с Ирис Таннер, но она всё время отбрыкивалась.",
+              "maleVariant": "",
+              "stringId": "2328852677377044480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я уж и просила её, и деньги хорошие обещала — ничего не помогало. Ответ был всегда один: «Я с фиксерами не работаю».",
+              "maleVariant": "",
+              "stringId": "2333035102771855360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сегодня она вдруг сменила пластинку. Знаешь почему? Её похитили «Духи».",
+              "maleVariant": "",
+              "stringId": "2333035267540893696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, я нос воротить не буду. Может, теперь она наконец со мной подружится. Прочитай подробности.",
+              "maleVariant": "",
+              "stringId": "2333035532251807744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

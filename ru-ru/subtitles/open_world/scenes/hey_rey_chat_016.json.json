@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"No tiene que ver con la amistad. Nomás no quiero aburrirme toda la noche.\" t=\"Тут дело не в дружбе. Просто я не хочу скучать всю ночь.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2161809672315891712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Pueden ser gordas, delgadas, bonitas, un poco bonitas, hasta feas…\" t=\"Они могут быть толстые, худые, красивые, средние, даже страшненькие иногда.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2221389487602503680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, поди найди сейчас страшненькую.",
+              "maleVariant": "",
+              "stringId": "2221389665575211008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Mm, pues sí.\" t=\"Тоже правда.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2221389811335663616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Все, как одна, чёртовы модели.",
+              "maleVariant": "",
+              "stringId": "2221389920052023296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Todas tienen implantes y ni un solo defecto, pero a mí me gustan las imperfecciones. Como un diente irregular, un ojo torcido, quizá una chichi un poco más grande que la otra…\" t=\"После операций все на одно лицо, без недостатков. А я люблю, когда чего-то не хватает. Может, зуб криво растёт, или глаз косит, или одна сиська висит ниже, чем вторая.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2221390009172594688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, понимаю. Самые красивые все выглядят одинаково.",
+              "maleVariant": "",
+              "stringId": "2221390656336924672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"No parecen de verdad, chum. Es pinche raro, me pone los pelos de punta y se me van las ganas.\" t=\"Как ненастоящие, честное слово. У меня даже не встаёт уже на таких.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2221390824914391040"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

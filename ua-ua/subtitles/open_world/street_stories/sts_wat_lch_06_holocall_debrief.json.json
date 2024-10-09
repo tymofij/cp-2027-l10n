@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ба-бах! І нема лабораторії! Як по книжці.",
+              "maleVariant": "",
+              "stringId": "2328758690523099136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дурити себе не будемо, «блискітки» нікуди не дінуться. Однак ми завдали клятськи болючого удару.",
+              "maleVariant": "",
+              "stringId": "2334853652173656064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, і ще дещо — Араті просила подякувати тобі, бо вона дуже вдячна. Отже — дякую. Бувай.",
+              "maleVariant": "",
+              "stringId": "2334860713737424896"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

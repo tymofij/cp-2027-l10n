@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uszanowanie.",
+              "maleVariant": "",
+              "stringId": "2156465580253933568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm.",
+              "maleVariant": "",
+              "stringId": "2169334677264191488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sorry za tamto. Rozumiesz, klient, nasz pan. Nic osobistego.",
+              "maleVariant": "",
+              "stringId": "2169334893203738624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Odjebałeś mi pół ekipy.",
+              "maleVariant": "",
+              "stringId": "2169336814681509888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak mówię. Nic osobistego. Może postawię kolejkę? Tak na pojednanie?",
+              "maleVariant": "",
+              "stringId": "2169337336788471808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie dziś.",
+              "maleVariant": "",
+              "stringId": "2169337699293777920"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

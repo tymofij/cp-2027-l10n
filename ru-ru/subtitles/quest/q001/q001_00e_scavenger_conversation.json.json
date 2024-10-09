@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скока сегодня?",
+              "maleVariant": "",
+              "stringId": "1224324816753926144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Есть ещё корпоратка.",
+              "maleVariant": "",
+              "stringId": "1224327257369092096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Четыре. У двух, правда, подделки, но в Уотсоне кто-нибудь купит.",
+              "maleVariant": "",
+              "stringId": "1224353996222287872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Одна пойдёт на импланты для клиники.",
+              "maleVariant": "",
+              "stringId": "1224355326319972352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да для неё нужен свой покупатель.",
+              "maleVariant": "",
+              "stringId": "1224356847661142016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Такой хром стоит дохуя.",
+              "maleVariant": "",
+              "stringId": "1224358489513054208"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

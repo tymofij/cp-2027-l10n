@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Won't lie, V... I got a shit job for you. Political, meaning. You'll need to grab some dirty docs on Javier Alvarado – advisor to the mayor.",
+              "maleVariant": "",
+              "stringId": "2328719686200905728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Intel says you'll find them in the office of El Pinche Pollo. Valentino-run joint.",
+              "maleVariant": "",
+              "stringId": "2334320256794476544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Want more details, scan the attachment.",
+              "maleVariant": "",
+              "stringId": "2334320975161311232"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

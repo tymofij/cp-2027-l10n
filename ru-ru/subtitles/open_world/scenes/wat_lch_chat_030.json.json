@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты чего? Кто-то понравился?",
+              "maleVariant": "",
+              "stringId": "2156543523458150400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не, здесь просто моя знакомая работала.",
+              "maleVariant": "",
+              "stringId": "2221962247260422144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ну? И с каких пор у тебя такие знакомые?",
+              "maleVariant": "",
+              "stringId": "2221962898635833344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Забей. Это давно было.",
+              "maleVariant": "",
+              "stringId": "2221963350127493120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так что с ней стало? Умерла?",
+              "maleVariant": "",
+              "stringId": "2221963953469734912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет. Сменила работу и уехала. Потом вернулась.",
+              "maleVariant": "",
+              "stringId": "2221964444018753536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А, вот как. Знакомая, значит.",
+              "maleVariant": "",
+              "stringId": "2221964968289976320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочешь, зайдём? Поболтаете.",
+              "maleVariant": "",
+              "stringId": "2221985514423664640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

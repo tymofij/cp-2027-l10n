@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми щойно отримали повідомлення про надзвичайну подію — за межами Найт-Сіті розбилася ПТашка «Кан-Тао».",
+              "maleVariant": "",
+              "stringId": "1745883341299179520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Рушії літального судна вимкнулися від несподіваного розряду ЕМІ з пошкодженої електростанції в Санто-Домінґо. Спроба аварійного приземлення не мала успіху.",
+              "maleVariant": "",
+              "stringId": "1745883713468162048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пасажирів, яким вдалося вціліти під час падіння, перестріла банда кочівників.",
+              "maleVariant": "",
+              "stringId": "1745883970629328896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На щастя, вцілілі співробітники служби безпеки «Кан-Тао» змогли відбити напад та не допустити додавткових втрат.",
+              "maleVariant": "",
+              "stringId": "1745884119359348736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Компанія вже оголосила про потужну силову відповідь таборам кочівників.",
+              "maleVariant": "",
+              "stringId": "1745884264566153216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Після перерви: «Президентка Маєрс опублікувала заяву стосовно потоку біженців з Нідерландів.",
+              "maleVariant": "",
+              "stringId": "1745884564140122112"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

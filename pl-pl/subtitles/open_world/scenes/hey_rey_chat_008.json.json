@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz na co oni czekają?! Na widok siostry za pierdolonymi kratami. I co? Mamy, kurwa, cicho umierać?",
+              "maleVariant": "",
+              "stringId": "1833115977742147584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie kurwa! Sami dajemy sobie pracę! Pieprzyć to, czaisz?",
+              "maleVariant": "",
+              "stringId": "1833119357730414592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A mogę zapytać, gdzie szukaliście tej pracy? Macie CV?",
+              "maleVariant": "",
+              "stringId": "1833119583484633088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To jest, kurwa, moje CV! Widzisz te tatuaże? Musiałem na nie zasłużyć, nadążasz medialna kurwo?",
+              "maleVariant": "",
+              "stringId": "1833119773889257472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nadążam.",
+              "maleVariant": "",
+              "stringId": "1833120001472192512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słuchaj, to jest tak, skurwysyny nie chcą mnie zatrudnić, bo siedziałam za napad.",
+              "maleVariant": "",
+              "stringId": "1833120244909596672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A dlaczego kradłam? Bo nie dawali mi, kurwa, pracy.  I tak to się, kurwa, kręci.",
+              "maleVariant": "",
+              "stringId": "1833120452057882624"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

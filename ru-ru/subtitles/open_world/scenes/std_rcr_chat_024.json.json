@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне срочно нужна замена. Машина сломалась. Сло-ма-лась. Ты понимаешь?",
+              "maleVariant": "",
+              "stringId": "2167652664053878784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, на сто процентов. Села батарея.",
+              "maleVariant": "",
+              "stringId": "2217271112934055936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не буду я проверять уровень топлива! Машина не едет, потому что её нельзя даже завести!",
+              "maleVariant": "",
+              "stringId": "2217271553335975936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Батарея!",
+              "maleVariant": "",
+              "stringId": "2217272247677837312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хватит, позови мне человека! Меня заебало!",
+              "maleVariant": "",
+              "stringId": "2217272734099660800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кто угодно, только не этот говорящий тостер!",
+              "maleVariant": "",
+              "stringId": "2217273352105189376"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

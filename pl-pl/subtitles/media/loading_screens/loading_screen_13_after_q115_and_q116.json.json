@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobry wieczór, Night City. Zaczynamy dzisiaj od…",
+              "maleVariant": "",
+              "stringId": "1672055979443658752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na giełdzie wybuchła panika… Straty po załamaniu kursu wynoszą na chwilę obecną… 500 miliardów eurodolarów.",
+              "maleVariant": "",
+              "stringId": "1680737634739343360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kolejny brutalny atak na siedzibę Arasaki w Night City doprowadził do spadku kursu akcji japońskiej korporacji o 17%. I to nie koniec, analitycy przewidują dalsze spadki.",
+              "maleVariant": "",
+              "stringId": "1680738953109753856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wedle ustaleń NCPD, ataku dokonała bliżej niezidentyfikowana grupa terrorystów. Niestety, do tej pory nie wiadomo, kto był ich mocodawcą.",
+              "maleVariant": "",
+              "stringId": "1680739350595555328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W świetle tych wydarzeń rekomendacja może być tylko jedna, przyjaciele. Sprzedawajcie.",
+              "maleVariant": "",
+              "stringId": "1680740839439257600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sprzedawajcie, póki są chętni.",
+              "maleVariant": "",
+              "stringId": "1740382421442170880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "CEO korporacji, Yorinobu Arasaka, został ewakuowany do siedziby głównej w Tokio.",
+              "maleVariant": "",
+              "stringId": "1740387718814568448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zaczynamy od wiadomości z giełdy. Jak zawsze.",
+              "maleVariant": "",
+              "stringId": "1741429761951207424"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

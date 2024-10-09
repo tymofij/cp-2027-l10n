@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха, нормально вони наварюються. Цікаво, що про це думає їхній бос…",
+              "maleVariant": "",
+              "stringId": "1801268266674978816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "М-м, дай-но вгадаю. Страва дня — курка з п’ятьма гарнірами на вибір.",
+              "maleVariant": "",
+              "stringId": "1896778697201967104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я надивився у своєму житті на мутних чуваків, але ось цей… Уф, цей у моєму рейтингу — чемпіон.",
+              "maleVariant": "",
+              "stringId": "1896779374582063104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лахміття, пліснява, таргани, пацюче лайно та комплімент від шефа з лобкового волосся у в’язкому соусі.",
+              "maleVariant": "",
+              "stringId": "1902307781994926080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Помовч, тільки гірше робиш. І без того бридко.",
+              "maleVariant": "",
+              "stringId": "1902310238179348480"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я больше не могу это терпеть. Ты знаешь, о чём я.",
+              "maleVariant": "",
+              "stringId": "1963513715118292992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кому ты врёшь? Мы оба знаем, что ты ничего не сделаешь.",
+              "maleVariant": "",
+              "stringId": "1963524457871687680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаешь, раз ты работаешь на корпорацию, я тебя пальцем не трону?",
+              "maleVariant": "",
+              "stringId": "1963524845559595008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И это тоже. Но ещё я думаю, что я твоя сестра, а своих не предают!",
+              "maleVariant": "",
+              "stringId": "1963525119078547456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты хоть понимаешь, как матери от этого тяжело?!",
+              "maleVariant": "",
+              "stringId": "1963525468833169408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, вот маму ты давай сюда не впутывай. Она бы загнулась давно, если б не мои эдди.",
+              "maleVariant": "",
+              "stringId": "1963525743811739648"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Halo, wcześniej rozmawiałem z Candice, ale znowu zerwało połączenie!",
+              "maleVariant": "",
+              "stringId": "2156497193730613248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK, Nanda. Posłuchaj. Od godziny próbuję zgłosić reklamację.",
+              "maleVariant": "",
+              "stringId": "2178055527744073728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak, chodzi o generator adrenaliny. Wszczepiony w zeszłym tygodniu.",
+              "maleVariant": "",
+              "stringId": "2178055992372293632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, nie działa. Niczego nie generuje.",
+              "maleVariant": "",
+              "stringId": "2178057779112243200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Resetowałem... Resetowałem z dziesięć razy. Po prostu chcę złożyć reklamację, mam na to gwarancję.",
+              "maleVariant": "",
+              "stringId": "2178058116518834176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chwila. J-jak to nie obejmuje? Czego, kurwa, nie obejmuje? Awarii?!",
+              "maleVariant": "",
+              "stringId": "2178058829483405312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No i co z tego, że się leczę. Ale co ma depresja do waszego generatora?!",
+              "maleVariant": "",
+              "stringId": "2178059551574781952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie no, to jest po prostu skan... Halo? Halo!",
+              "maleVariant": "",
+              "stringId": "2178060214627135488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa. Tak, będę czekać na połączenie! Tak, kurwa, wcisnę \"jeden\", żeby się połączyć z konsultantem!",
+              "maleVariant": "",
+              "stringId": "2178060545356394496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja pierdolę, co za burdel.",
+              "maleVariant": "",
+              "stringId": "2178061219095834624"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

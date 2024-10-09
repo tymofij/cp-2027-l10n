@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мій брат найманець у великій корпорації! Він тобі покаже!",
+              "maleVariant": "",
+              "stringId": "1802410327454375936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Найманець у великій деградації, ха-ха-ха!",
+              "maleVariant": "",
+              "stringId": "1802410737304985600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Забери свої слова назад!",
+              "maleVariant": "",
+              "stringId": "1802411103165734912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Твій брат миє туалети в «Кіроші».",
+              "maleVariant": "",
+              "stringId": "1802411320933998592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не правда! Він виконує круті й небезпечні завдання для неї!",
+              "maleVariant": "",
+              "stringId": "1802411546335895552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Точняк! От із такими гігантськими какуляками! Ха-ха-ха!",
+              "maleVariant": "",
+              "stringId": "1802411749776416768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти брешеш! Забери свої слова!",
+              "maleVariant": "",
+              "stringId": "1802411932631293952"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

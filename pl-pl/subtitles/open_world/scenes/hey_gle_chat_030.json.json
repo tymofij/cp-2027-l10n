@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie czujesz? To powietrze...! Da się oddychać bez filtrów! Nie to, co w Santo Domingo.",
+              "maleVariant": "",
+              "stringId": "2161819553457319936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Da się tu też zarobić kulkę bez powodu. W Santo Domingo przynajmniej mówią ci, za co.",
+              "maleVariant": "",
+              "stringId": "2212571365205450752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "E, po prostu zazdrościsz. A wystarczyłoby, gdybyś trochę wcześniej wstawał, trochę ciężej pracował...",
+              "maleVariant": "",
+              "stringId": "2212869673048186880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wreszcie! Całe życie marzyłem, żeby się tu przeprowadzić.",
+              "maleVariant": "",
+              "stringId": "2212870011679514624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do Glen? Centrum to ja rozumiem, ale pieprzone Glen?!",
+              "maleVariant": "",
+              "stringId": "2212870412856303616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A gdybyś tak trochę się odpierdolił?",
+              "maleVariant": "",
+              "stringId": "2212886881858068480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zgoda. Czas przetestować bary. Nie przejmuj się, ja stawiam.",
+              "maleVariant": "",
+              "stringId": "2212908928747282432"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это что? Где нормальные креветки?",
+              "maleVariant": "",
+              "stringId": "1617093679285374976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А вы чего хотели? Мы в Кабуки, а не в Норт-Оуке.",
+              "maleVariant": "",
+              "stringId": "1617094766365085696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Много вы, кочевники, про Кабуки знаете!",
+              "maleVariant": "",
+              "stringId": "1617207474108338176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давайте без скандалов. Ну киньте туда ароматизатор для запаха!",
+              "maleVariant": "",
+              "stringId": "1617207686625333248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пятнадцать процентов скинешь — возьму!",
+              "maleVariant": "",
+              "stringId": "1617209364934135808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эх… И эти люди называют кочевников грабителями… Ладно, ладно, по рукам.",
+              "maleVariant": "",
+              "stringId": "1617209744652865536"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

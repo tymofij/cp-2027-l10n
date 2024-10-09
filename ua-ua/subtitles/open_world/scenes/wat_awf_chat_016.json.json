@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усе вірно. Жодних свідків.",
+              "maleVariant": "",
+              "stringId": "2156480143515754496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гадки не маю, що це було.",
+              "maleVariant": "",
+              "stringId": "2177948230854307840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, ми зібрали зразки та відвезли їх учора в біолабораторію.",
+              "maleVariant": "",
+              "stringId": "2177948541987778560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, так. Авжеж, про це знають лише ви, я та працівники біолабораторії.",
+              "maleVariant": "",
+              "stringId": "2177951371297484800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, мем. Усе правильно, з вогнеметом. Ніяких свідків — гарантую.",
+              "maleVariant": "",
+              "stringId": "2177952256614395904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

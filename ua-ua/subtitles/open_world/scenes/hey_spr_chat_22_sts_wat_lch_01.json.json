@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Брат, ти лучше туда нє падключайся. Паймают — так даже разґаварівать нє станут.",
+              "maleVariant": "",
+              "stringId": "2162145636835373056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Востаннє, коли я під’єднувався, сервер був наш, а не їхнім.",
+              "maleVariant": "",
+              "stringId": "2213047137121701888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Тигрові кігті».",
+              "maleVariant": "",
+              "stringId": "2218810156485283840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І шо? В’ни однаково дупля не ріжуть про локальні мережі. Тож піймати м’не їм не вдасться.",
+              "maleVariant": "",
+              "stringId": "2218817391743569920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мнє кажетса, ти старават для іґр в нєтраннера. Успакойся уже.",
+              "maleVariant": "",
+              "stringId": "2218819461431267328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Подорослішай»? Слух’, іди нахуй! Шо ти про мене знаєш?! Йобаний кацап…",
+              "maleVariant": "",
+              "stringId": "2218820854611283968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Проста… А, нєважна. Абіжайся, сколька хочеш.",
+              "maleVariant": "",
+              "stringId": "2218823208001703936"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

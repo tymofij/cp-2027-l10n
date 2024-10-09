@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ostatnio nie można jej odciągnąć od paśnika.",
+              "maleVariant": "",
+              "stringId": "2156550085547421696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A co, jakaś nowa gra?",
+              "maleVariant": "",
+              "stringId": "2222769755419918336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ta, jakieś gówno o tęczowych myszkach czy tam króliczkach.",
+              "maleVariant": "",
+              "stringId": "2222770172031746048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale rzeczywiście, aż takie to złe jest? Próbowałeś sam?",
+              "maleVariant": "",
+              "stringId": "2222771126219128832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie, bo bałem się, że mnie też wciągnie.",
+              "maleVariant": "",
+              "stringId": "2222771769658916864"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

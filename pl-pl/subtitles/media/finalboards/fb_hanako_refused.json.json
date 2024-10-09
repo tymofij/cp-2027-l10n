@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Witaj, V.",
+              "maleVariant": "",
+              "stringId": "1790692327141842948"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zostało ci niecałe pół roku życia.",
+              "maleVariant": "",
+              "stringId": "1800966060728107008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wiem, jak planujesz spędzić ten czas.",
+              "maleVariant": "",
+              "stringId": "1800966255226372096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może chcesz go poświęcić na przyjemności. Może na rozmyślania.",
+              "maleVariant": "",
+              "stringId": "1800966538291560448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A może chcesz robić to, co robiłaś do tej pory.",
+              "maleVariant": "A może chcesz robić to, co robiłeś do tej pory.",
+              "stringId": "1800966693732466688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeśli tak… Mój ojciec i ja chętnie skorzystamy z twoich usług. Cena nie gra roli.",
+              "maleVariant": "",
+              "stringId": "1800967466658807808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Te sześć miesięcy minie szybko… Szybciej, niż ci się wydaje.  Szkoda byłoby je zmarnować.",
+              "maleVariant": "",
+              "stringId": "1800967908251910144"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

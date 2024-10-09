@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie będę czarował. Mam dla ciebie gównianą robotę, to znaczy polityczną. Masz zdobyć kwity na Javiera Alvadaro, doradcę burmistrza.",
+              "maleVariant": "",
+              "stringId": "2328719686200905728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podobno znajdziesz je w biurze restauracji El Pinche Pollo należącej do Valentinosów.",
+              "maleVariant": "",
+              "stringId": "2334320256794476544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcesz dowiedzieć się na ten temat więcej, sprawdź załącznik.",
+              "maleVariant": "",
+              "stringId": "2334320975161311232"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

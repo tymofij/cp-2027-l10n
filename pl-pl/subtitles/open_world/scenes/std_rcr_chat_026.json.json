@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czemu jesteś taki przybity?",
+              "maleVariant": "",
+              "stringId": "2167684992423710720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Skurwysyn korp przejechał mi córkę. Na moich oczach... Ale płaci za to co miesiąc, i to słono.",
+              "maleVariant": "",
+              "stringId": "2198372816127746048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zapłaci, jak rozsmarujesz jego flaki na autostradzie.",
+              "maleVariant": "",
+              "stringId": "2198373788635848704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak go zabiję albo wydam glinom, to znowu będzie krucho z kasą. Poza tym typek ma powiązania z Grove Street.",
+              "maleVariant": "",
+              "stringId": "2198374283798601728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Myślisz, że tego chciałaby Lisa? Żeby jej śmierć poszła na marne?",
+              "maleVariant": "",
+              "stringId": "2198375332810809344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chyba cię pojebało. Edki ci się rzuciły na mózg. Musisz dorwać typa i rozwiesić nad grillem!",
+              "maleVariant": "",
+              "stringId": "2198375610272407552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chyba z 6th Street. Już ci się wszystko pierdoli. Przestań kalkulować i załatw go.",
+              "maleVariant": "",
+              "stringId": "2227316616891949056"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

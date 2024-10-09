@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що? Тобі соромно?",
+              "maleVariant": "",
+              "stringId": "2157382750437666816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вона ж твоя сестра.",
+              "maleVariant": "",
+              "stringId": "2182525368056496128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Минув уже цілий рік. Вона, мабуть, думає, що я заробила стільки грошви, що вже переїхала аж у Норт-Оук.",
+              "maleVariant": "",
+              "stringId": "2182526142610227200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти їй не казала, що сталося?",
+              "maleVariant": "",
+              "stringId": "2182527082956406784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні, бо… Бо це все тимчасово, ця квартира і… Усе решта.",
+              "maleVariant": "",
+              "stringId": "2182531160910413824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А, ту так. Ти заслуговуєш на краще.",
+              "maleVariant": "",
+              "stringId": "2182535536576118784"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

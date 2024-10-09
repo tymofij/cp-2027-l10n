@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет, было супер. Пока его копы не приняли.",
+              "maleVariant": "",
+              "stringId": "2172185211490250752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. Мы просто сидели, ели. Тут они вломились, надели ему наручники и увезли.",
+              "maleVariant": "",
+              "stringId": "2188315842730889216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я откуда знаю? Это было первое свидание. На первом свидании не спрашивают, типа: «А тебя случайно не ищет полиция?»",
+              "maleVariant": "",
+              "stringId": "2188315875865890816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, Марта, может, и пора.",
+              "maleVariant": "",
+              "stringId": "2188315943796838400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу. Ага. Рада, что тебя повеселила.",
+              "maleVariant": "",
+              "stringId": "2188350119354929152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Конечно, я ему позвоню. Мне пришлось оплатить счёт. Он мне денег должен.",
+              "maleVariant": "",
+              "stringId": "2188350317762285568"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

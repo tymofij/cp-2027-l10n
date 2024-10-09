@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Po co ci samobójcy skaczą na tory, co? Nie lepiej sobie w łeb palnąć?",
+              "maleVariant": "",
+              "stringId": "2162102246139736064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A daj spokój, w zeszłym tygodniu trzy razy spóźniłem się przez nich do pracy. Te skurwysny niedługo mnie wpędzą do grobu.",
+              "maleVariant": "",
+              "stringId": "2213002326738046976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale, że się nie boją? To boleć przecież musi, poza tym nie ma pewności, że zginiesz. A kulka? Strzał i światło gaśnie.",
+              "maleVariant": "",
+              "stringId": "2218479991645376512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dokładnie. Zamiast, kurwa, zostać w domu i nikomu kłopotu nie robić, to blokują całą linię metra.",
+              "maleVariant": "",
+              "stringId": "2218490505473658880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ehhh... nie rozumiem.",
+              "maleVariant": "",
+              "stringId": "2218491848154255360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ja rozumiem. To jebani egoiści!",
+              "maleVariant": "",
+              "stringId": "2218492120062595072"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

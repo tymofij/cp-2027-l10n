@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pani z dzieciakiem przechodzi. Pan zaczeka tutaj z nami.",
+              "maleVariant": "",
+              "stringId": "2178243834931568640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A-ale o co chodzi?",
+              "maleVariant": "",
+              "stringId": "2182332323065454592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niezapłacone mandaty.",
+              "maleVariant": "",
+              "stringId": "2182343683354615808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O czym ty mówisz, człowieku?!",
+              "maleVariant": "",
+              "stringId": "2182349234918612992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spokojnie. Jaka kwota? Zapłacimy od ręki.",
+              "maleVariant": "",
+              "stringId": "2182349498354458624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mandaty płaci się w ratuszu miejskim albo na posterunku policji właściwym dla miejsca zamieszkania.",
+              "maleVariant": "",
+              "stringId": "2182349868292071424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Autobus nam ucieknie!",
+              "maleVariant": "",
+              "stringId": "2182351892580622336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oni mogą iść. Pan zostaje z nami.",
+              "maleVariant": "",
+              "stringId": "2182352528168673280"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

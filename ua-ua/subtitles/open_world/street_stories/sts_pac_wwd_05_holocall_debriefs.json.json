@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Маю інфу, що той Лоґан Ґарсія уже їде до мене.",
+              "maleVariant": "",
+              "stringId": "2328531507121479680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привіт. Мені тут переказали, що Лоґан Ґарсія вже прибув до небесних воріт. Клієнт задоволений, і я теж.",
+              "maleVariant": "",
+              "stringId": "2328535053858496516"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Просто неймовірне тобі дякую. Замовлення виконано на відмінно, Ві.",
+              "maleVariant": "",
+              "stringId": "2334617013399044096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Закриваю контракт. Євдики невдовзі будуть у тебе.",
+              "maleVariant": "",
+              "stringId": "2334617911080763392"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

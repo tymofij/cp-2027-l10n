@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Иди давай, мне нянька не нужна.",
+              "maleVariant": "",
+              "stringId": "1895364174687911940"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В последний раз мне так наваляли в шестьдесят шестом. Когда против Мура вышел.",
+              "maleVariant": "",
+              "stringId": "1895364174721466372"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Закончим начатое.",
+              "maleVariant": "",
+              "stringId": "1895364174838906880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй, ты далеко?",
+              "maleVariant": "",
+              "stringId": "1895364174855684100"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Закроем тему раз и навсегда.",
+              "maleVariant": "",
+              "stringId": "1895364174906015748"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А, ты вернулась.",
+              "maleVariant": "А, ты вернулся.",
+              "stringId": "1895364174939570180"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Решай, только побыстрее.",
+              "maleVariant": "",
+              "stringId": "1895364174973124612"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Долго тут стоять будем?",
+              "maleVariant": "",
+              "stringId": "1895364175006679044"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хватит хернёй страдать.",
+              "maleVariant": "",
+              "stringId": "1895364175258337284"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это приглашение на спарринг?",
+              "maleVariant": "",
+              "stringId": "1895364175291891716"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

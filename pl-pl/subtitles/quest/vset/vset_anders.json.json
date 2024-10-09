@@ -1,0 +1,91 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak?",
+              "maleVariant": "",
+              "stringId": "1796854789669109760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słucham.",
+              "maleVariant": "",
+              "stringId": "1796854789685886980"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Potrzebujesz małej przerwy?",
+              "maleVariant": "",
+              "stringId": "1796854789769773060"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wrócimy do tego później.",
+              "maleVariant": "",
+              "stringId": "1796854789803327492"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do rzeczy.",
+              "maleVariant": "",
+              "stringId": "1796854789853659140"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No więc?",
+              "maleVariant": "",
+              "stringId": "1796854789870436356"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie chcę cię pospieszać, ale...",
+              "maleVariant": "",
+              "stringId": "1796854789903990788"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mam wrażenie, że tracimy czas.",
+              "maleVariant": "",
+              "stringId": "1796854789920768004"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uważaj.",
+              "maleVariant": "",
+              "stringId": "1796854790122094596"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ostrożnie.",
+              "maleVariant": "",
+              "stringId": "1796854790155649024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znowu odpływasz? Rusz dupę.",
+              "maleVariant": "",
+              "stringId": "2238867316719067136"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

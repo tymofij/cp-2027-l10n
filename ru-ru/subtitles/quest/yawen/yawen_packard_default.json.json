@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кстати… Что ты знаешь о биочипах? Вот о биочипе «Арасаки», например.",
+              "maleVariant": "Кстати… Что ты знаешь про биочипы? Вот биочип «Арасаки», например.",
+              "stringId": "1987755068515913728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он предназначен для хранения нейронной энграммы. Ну, если по-простому… на него копируют память и личность человека.",
+              "maleVariant": "",
+              "stringId": "1987759630492602368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что ты знаешь про биочип «Арасаки»?",
+              "maleVariant": "",
+              "stringId": "1987799977012727812"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, это я понимаю. Мне вот что интересно: может ли записанная энграмма заменить собой личность носителя?",
+              "maleVariant": "Да, это я понимаю. Мне вот что интересно: может записанная энграмма заменить собой личность носителя чипа?",
+              "stringId": "2005649229918375936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Заменить личность… Я… не уверена, что это возможно…",
+              "maleVariant": "",
+              "stringId": "2005649542360469504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А откуда вопрос?",
+              "maleVariant": "",
+              "stringId": "2005649745180233728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да так просто, из любопытства. Спасибо.",
+              "maleVariant": "",
+              "stringId": "2005649966488489984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

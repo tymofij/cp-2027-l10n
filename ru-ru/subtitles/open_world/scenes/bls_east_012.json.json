@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Еле вчера вернулась после этой доставки.",
+              "maleVariant": "",
+              "stringId": "2178186366543011840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха, радуйся, что вообще довезла. На меня уже два раза нападали. Приехал с пустым кузовом.",
+              "maleVariant": "",
+              "stringId": "2188329559561822208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это ещё что. У меня выхлопную трубу так скрутило, я по дороге чуть не задохнулась.",
+              "maleVariant": "",
+              "stringId": "2188349236451172352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Механик, сволочь, опять подсунул какое-то альдекальдовское говно. А взял как за новую.",
+              "maleVariant": "",
+              "stringId": "2188353532374769664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да… Механик тебя всегда два раза прокатит: один раз на запчастях, а другой раз на тягаче.",
+              "maleVariant": "",
+              "stringId": "2188354571740078080"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

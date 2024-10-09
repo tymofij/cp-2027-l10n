@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это вип-зона.",
+              "maleVariant": "",
+              "stringId": "1712566134284513280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты глухая, что ли? Катись на хер отсюда!",
+              "maleVariant": "Ты глухой, что ли? Катись на хер отсюда!",
+              "stringId": "1712566134318067712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу поговорить с твоим шефом.",
+              "maleVariant": "",
+              "stringId": "1712566134334844928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Босс у себя?",
+              "maleVariant": "",
+              "stringId": "1712566134586503168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, а я хочу нюхать кокс у Лиззи Уиззи с буферов. Иди отсюда.",
+              "maleVariant": "",
+              "stringId": "1712566134586503176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У себя, а что?",
+              "maleVariant": "",
+              "stringId": "1925706191955349504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу с ним поговорить.",
+              "maleVariant": "",
+              "stringId": "1925706438479761408"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

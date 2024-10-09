@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What's your poison?",
+              "maleVariant": "",
+              "stringId": "1796864074633428996"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What'll it be? Cold brew or something stronger?",
+              "maleVariant": "",
+              "stringId": "1796864074650206212"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, I'm talking to you.",
+              "maleVariant": "",
+              "stringId": "1796864074734092292"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wasn't finished talking.",
+              "maleVariant": "",
+              "stringId": "1796864074750869508"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hm, welcome back.",
+              "maleVariant": "",
+              "stringId": "1796864074834755588"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "See? All roads lead back to this here counter-top.",
+              "maleVariant": "",
+              "stringId": "1796864074868310020"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well?",
+              "maleVariant": "",
+              "stringId": "1796864074901864452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You gonna say something?",
+              "maleVariant": "",
+              "stringId": "1796864074918641668"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Watch your step.",
+              "maleVariant": "",
+              "stringId": "1796864075136745472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, after you.",
+              "maleVariant": "",
+              "stringId": "1796864075153522692"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

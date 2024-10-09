@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мені повідомили про успішність операції та про твій видатний професіоналізм.",
+              "maleVariant": "",
+              "stringId": "2328618844492914688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Операцію важко назвати успішною. Ти мене підвела, Ві. Буває. Але не роби це звичкою.",
+              "maleVariant": "Операцію важко назвати успішною. Ти мене підвів, Ві. Буває. Але не роби це звичкою.",
+              "stringId": "2328620321626120196"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Інакше я втрачу довіру до тебе. А коли я втрачаю довіру, я перестаю телефонувати. Не забувай, Ві.",
+              "maleVariant": "",
+              "stringId": "2343097402704367616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чудова робота, Ві. Нехай так буде і надалі. Я закриваю контракт та надсилаю винагороду.",
+              "maleVariant": "",
+              "stringId": "2343104436870942720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

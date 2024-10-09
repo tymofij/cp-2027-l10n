@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ech, człowieku... Powiem ci, że się chyba starzeję.",
+              "maleVariant": "",
+              "stringId": "2161735494471331840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie ma co narzekać. Jak boli, to znaczy że jeszcze żyjesz.",
+              "maleVariant": "",
+              "stringId": "2176554386006458368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nic mnie nie boli, kretynie. Mówię o młodzieży. Kiedyś Valentinosi mieli zasady.",
+              "maleVariant": "",
+              "stringId": "2176554719420071936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szanowaliśmy Santa Muerte, a ona się nami opiekowała. Dbaliśmy o rodzinę, o swoich.",
+              "maleVariant": "",
+              "stringId": "2176555158060384256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A teraz to już niby nie dbają? Rzeczywiście, niezły ramol się z ciebie zrobił.",
+              "maleVariant": "",
+              "stringId": "2176555328231686144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja swoje wiem. Teraz liczy się tylko forsa i suplementy.",
+              "maleVariant": "",
+              "stringId": "2176555598009319424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powoli, lecz nieubłaganie zmieniamy się... w korporację.",
+              "maleVariant": "",
+              "stringId": "2176555929023791104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Eee, nie przesadzaj.",
+              "maleVariant": "",
+              "stringId": "2176556126021861376"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

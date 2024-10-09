@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, даже не знаю. Как-то стрёмно.",
+              "maleVariant": "",
+              "stringId": "1973554521173958656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да нормально всё будет. Проводник проверенный. Проведёт через тоннель под стеной.",
+              "maleVariant": "",
+              "stringId": "1978984026157142016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты понимаешь, что с тобой сделают южане, если поймают? Пулю в лоб и привет.",
+              "maleVariant": "",
+              "stringId": "1978985077971144704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ты хочешь торчать здесь и ждать смерти? Ха, нет уж, спасибо.",
+              "maleVariant": "",
+              "stringId": "1978986875062636544"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Открой в себе мультимиллиардера» или «Твой внутренний бриллиант». Это я сам написал. Прочитай и сразу поймёшь, как выбраться из нищеты.",
+              "maleVariant": "",
+              "stringId": "2172194262596956160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Уважаемый, вы бы мне лучше пару эдди подкинули.",
+              "maleVariant": "",
+              "stringId": "2189508480305827840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лучше научить человека ловить рыбу…",
+              "maleVariant": "",
+              "stringId": "2189508506058854400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А у вас есть рыба?",
+              "maleVariant": "",
+              "stringId": "2189509129634418688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что?.. Нет-нет. Это метафора.",
+              "maleVariant": "",
+              "stringId": "2189509207782690816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты должен изменить свой взгляд на мир. Начни с маленьких целей и добивайся их, это поможет тебе встать на ноги. Понимаешь?",
+              "maleVariant": "",
+              "stringId": "2189516522950856704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага-ага. Так вы мне мелочь дадите?",
+              "maleVariant": "",
+              "stringId": "2189517041853370368"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

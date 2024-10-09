@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stary, proszę cię. Jesteśmy kumplami. Nie chcę wzywać ochrony.",
+              "maleVariant": "",
+              "stringId": "1963259367192043520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale co to komu szkodzi, że podpieprzę trochę śmieci? Nikt nie straci, a ja mogę zyskać.",
+              "maleVariant": "",
+              "stringId": "1966208582348947456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz, jak się kończy okradanie Petrochemu?",
+              "maleVariant": "",
+              "stringId": "1966209531687714816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To są śmieci! A co się robi ze śmieciami? Wyjebuje się w cholerę! Pomyśl trochę!",
+              "maleVariant": "",
+              "stringId": "1966209868473548800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie płacą mi za myślenie.",
+              "maleVariant": "",
+              "stringId": "1966210127094333440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Właśnie, kurwa, widzę!",
+              "maleVariant": "",
+              "stringId": "1966210277401411584"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

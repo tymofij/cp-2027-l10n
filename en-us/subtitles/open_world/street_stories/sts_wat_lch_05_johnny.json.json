@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ha. House is rakin' it in. Wonder what the boss has to say about it.",
+              "maleVariant": "",
+              "stringId": "1801268266674978816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hmm, lemme guess. Chicken daily special comes with five different sides.",
+              "maleVariant": "",
+              "stringId": "1896778697201967104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Seen a lot of shady mugs in my time, but that guy right there... Phwoo. That one takes the cake.",
+              "maleVariant": "",
+              "stringId": "1896779374582063104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dirty rags, mold, roaches, rat shit, and chef's own pube salad with \"special\" ranch dressing.",
+              "maleVariant": "",
+              "stringId": "1902307781994926080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Don't make this any worse than it has to be, all right?",
+              "maleVariant": "",
+              "stringId": "1902310238179348480"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

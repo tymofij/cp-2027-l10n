@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кажу ж тобі, я весь кейс перерив: повний нуль. Нічого нема. Ти хоч знаєш, що зі мною тепер зроблять?",
+              "maleVariant": "",
+              "stringId": "1416857405787238400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дуже на це сподіваюся. У мене завтра зустріч просто зрання.",
+              "maleVariant": "",
+              "stringId": "1430104245827563520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, так, запиши до витрат. Усе, я пішов.",
+              "maleVariant": "",
+              "stringId": "1430106745683079168"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

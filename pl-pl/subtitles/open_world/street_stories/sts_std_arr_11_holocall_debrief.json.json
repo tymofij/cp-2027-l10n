@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pełna profeska! 6th Streeci dwa razy się zastanowią, zanim znów zaczną odpierdalać na moim terenie.",
+              "maleVariant": "",
+              "stringId": "2328827457029398528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej, 6th Street dostali nauczkę…  Szkoda, że nie mogę tego powiedzieć o Luciusie Thoranie.",
+              "maleVariant": "",
+              "stringId": "2328841105059733504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie będę jednak wybrzydzał, prawda? Robota wykonana, zamykam kontrakt. Tylko wiesz, następnym razem daj z siebie troszkę więcej.",
+              "maleVariant": "",
+              "stringId": "2341892900517154816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ta akcja z Luciusem Thoranem? Czyste złoto! Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2341896652724736000"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

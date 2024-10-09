@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй, куда это ты так спешишь, красотка?",
+              "maleVariant": "Куда это ты так спешишь, красавчик?",
+              "stringId": "1917045481570361348"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, показывай.",
+              "maleVariant": "",
+              "stringId": "1917045481603915776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прямо здесь, на обочине?",
+              "maleVariant": "",
+              "stringId": "1917045481603915792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лучший массаж, говоришь? Ну, тебе повезло. Я люблю самое лучшее.",
+              "maleVariant": "",
+              "stringId": "1917045481637470212"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот и правильно, уважаю. Идём.",
+              "maleVariant": "",
+              "stringId": "1917045481637470220"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прямо здесь? «Массаж» на обочине?",
+              "maleVariant": "",
+              "stringId": "1917045481654247428"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет-нет, такое стоит дороже.",
+              "maleVariant": "",
+              "stringId": "1917045481671024640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Притормози, не так быстро. Давай ты разрешишь себе сегодня немного по-раз-вле-чь-ся.",
+              "maleVariant": "",
+              "stringId": "1969136400467714048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тебе такой массаж не сделают ни в Найт-Сити, ни за его пределами.",
+              "maleVariant": "",
+              "stringId": "1969145933818716160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Показывай, что умеешь.",
+              "maleVariant": "",
+              "stringId": "1969206421453758464"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej, wiem już, że Hal jest bezpieczny - ale nie obyło się bez problemów. Oczekuję od ciebie profesjonalizmu, V.",
+              "maleVariant": "",
+              "stringId": "2329256372747673600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ładnie, ładnie. Hal bardzo zadowolony, wypowiada się o tobie w samych superlatywach.",
+              "maleVariant": "",
+              "stringId": "2329256889989242880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Proszę, bez podobnych numerów następnym razem. Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2339445848403185664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Będzie jeszcze o tobie głośno, V. Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2339447006702178304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hal nie żyje. Próbował uciec na własną rękę, ale ta biedna dziewczyna z cyberpsychozą go dopadła.",
+              "maleVariant": "",
+              "stringId": "2358917713850572800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To twoja wina. Zostawiłaś go tam, V. Samego sobie. Zapamiętam to.",
+              "maleVariant": "To twoja wina. Zostawiłeś go tam, V. Samego sobie. Zapamiętam to.",
+              "stringId": "2362391609075929088"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

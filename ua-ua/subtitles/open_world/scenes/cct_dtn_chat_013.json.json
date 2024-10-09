@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу іноземця, але перекладацького чипа. Я не хочу, щоби він мене розумів, і я не хочу його розуміти.",
+              "maleVariant": "",
+              "stringId": "2172133188044566528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Жодних розмов. Від минулого в мене ледь голова не тріснула.",
+              "maleVariant": "",
+              "stringId": "2182570066402709504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якісь побажання щодо зовнішності?",
+              "maleVariant": "",
+              "stringId": "2182572439892234240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гм, років двадцяти, пристойне тіло, але не надто складене. Має приємно пахнути. Буде непогано, якщо теж здаватиметься розумним, але це не обов’язково.",
+              "maleVariant": "",
+              "stringId": "2182572623502086144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу. А розмір? Якесь спеціальне обладнання? Щось нове, незвичне?",
+              "maleVariant": "",
+              "stringId": "2182573897496760320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нічого незвичного. Цього разу без цікавинок. Нехай він буде просто хорошим.",
+              "maleVariant": "",
+              "stringId": "2182574109007122432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Здається, у мене саме те, що потрібно. Певен, ваш круїз на двох буде неймовірним.",
+              "maleVariant": "",
+              "stringId": "2182577887789813760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Краще б йому таким бути, бо плачу я пристойно.",
+              "maleVariant": "",
+              "stringId": "2182578808238215168"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

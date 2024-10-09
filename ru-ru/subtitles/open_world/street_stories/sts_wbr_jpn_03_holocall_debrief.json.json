@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты появилась и исчезла, как дух, Ви. В храме до сих пор ничего не подозревают.",
+              "maleVariant": "Ты появился и исчез, как дух, Ви. В храме до сих пор ничего не подозревают.",
+              "stringId": "2328866891067273216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нужно было сделать всё тихо, а тихо не было. Теперь весь город знает, что случилось в храме.",
+              "maleVariant": "",
+              "stringId": "2328867270702116864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Твоя небрежность отразится на твоём гонораре. Закрываю контракт.",
+              "maleVariant": "",
+              "stringId": "2343078450154541056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Очень хорошо. Закрываю заказ и перевожу твою оплату.",
+              "maleVariant": "",
+              "stringId": "2343080627468079104"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

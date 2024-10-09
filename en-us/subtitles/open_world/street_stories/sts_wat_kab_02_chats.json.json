@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fuck. Still got Hans' Chinese takeout all over me...",
+              "maleVariant": "",
+              "stringId": "983714023834091520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah choom, they fuckin' gutted him, but he just stood there, givin' 'em hell!",
+              "maleVariant": "",
+              "stringId": "983720057994706944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That's Hans, man. Choom can't be stopped.",
+              "maleVariant": "",
+              "stringId": "1375048606130999296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ripper better sew 'im up fast!",
+              "maleVariant": "",
+              "stringId": "1456005601566232576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "'Course she better. Right, go unload.",
+              "maleVariant": "",
+              "stringId": "1456015373606686720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You got it!",
+              "maleVariant": "",
+              "stringId": "1456015547250872320"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

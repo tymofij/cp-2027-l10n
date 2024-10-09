@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, fucha jest. Klientowi ktoś zajebał sporą ilość Beta Acid.",
+              "maleVariant": "",
+              "stringId": "2328588232751656960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wiesz, co to? Nieistotne. Ważne, że jest sporo warte i klient chce, żeby to do niego wróciło.",
+              "maleVariant": "",
+              "stringId": "2334622692453105664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I tu wchodzisz ty, z giwerą w ręku. Więcej info w załączniku.",
+              "maleVariant": "",
+              "stringId": "2334622821587337216"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

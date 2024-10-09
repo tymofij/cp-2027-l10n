@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Внимание, дамы и господа! Перед вами — знаменитые трущобы Виста-дель-Рей. Пожалуйста, не отставайте от группы.",
+              "maleVariant": "",
+              "stringId": "1833121940549263360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А снимать-то можно? У меня премиальный пакет.",
+              "maleVariant": "",
+              "stringId": "1833124183361052672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можно? Ха-ха, нужно! Только осторожнее с местными детьми, они ловкие воришки.",
+              "maleVariant": "",
+              "stringId": "1833124353767235584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ух ты! Кейт увидит — обалдеет!",
+              "maleVariant": "",
+              "stringId": "1833124593043890176"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

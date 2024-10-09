@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет, время местных новостей. Совсем скоро начнётся фестиваль Аратама-мацури.",
+              "maleVariant": "",
+              "stringId": "1743081712336031744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В честь него по улицам Найт-Сити проедут потрясающие многоэтажные телеги даси.",
+              "maleVariant": "",
+              "stringId": "1743083012352167936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Программа фестиваля также включает музыкальные выступления виртуозов, играющих на биве, и представления традиционных театров Но.",
+              "maleVariant": "",
+              "stringId": "1743083347997151232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спонсором фестиваля является корпорация «Арасака». И, что не может не удивлять, сама Ханако Арасака сообщила, что лично примет участие в параде даси.",
+              "maleVariant": "",
+              "stringId": "1743084074937143296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу от имени «Дабл-ю-эн-эс» пожелать вам весёлого и мирного праздника.",
+              "maleVariant": "",
+              "stringId": "1743085065044545536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Повеселись, Найт-Сити!",
+              "maleVariant": "",
+              "stringId": "1743085467999719424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "После паузы: киберпсихоз — это миф или реальность? Узнаем.",
+              "maleVariant": "",
+              "stringId": "1743087757468946432"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

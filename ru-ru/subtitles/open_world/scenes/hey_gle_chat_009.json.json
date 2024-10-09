@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пусть ты в штате, пусть ты хоть какой гениальный стратег. Но на этом всё. Лицом кампании ты не будешь.",
+              "maleVariant": "",
+              "stringId": "1832762598201352192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знаю, как добиться результата.",
+              "maleVariant": "",
+              "stringId": "1832764961221894144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знаю, что ты знаешь. Но тебе не хватает… искры. Того, на что люди ведутся.",
+              "maleVariant": "",
+              "stringId": "1832765131930066944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С поддержкой Томпсона я могу получить место в совете. И я не отступлюсь.",
+              "maleVariant": "",
+              "stringId": "1832765298896920576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Томпсон сейчас с «Арасакой».",
+              "maleVariant": "",
+              "stringId": "1832767069799178240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что?",
+              "maleVariant": "",
+              "stringId": "1832767235692290048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что слышала. Успехов.",
+              "maleVariant": "",
+              "stringId": "1832767383868661760"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не буду брехати, Ві… Маю для тебе брудну роботу. Ідеться про політику. Тобі треба буде знайти компромат на Хав’єра Альварадо, радника мера.",
+              "maleVariant": "",
+              "stringId": "2328719686200905728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мої люди кажуть, що знайти їх можна в «Ель Пінче Пойо». Це ресторан «Валентинос».",
+              "maleVariant": "",
+              "stringId": "2334320256794476544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якщо потрібні подробиці, то дивися прикріплення до листа.",
+              "maleVariant": "",
+              "stringId": "2334320975161311232"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

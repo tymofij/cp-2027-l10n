@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це машина Тревора. Нормально її так продірявили.",
+              "maleVariant": "",
+              "stringId": "1702386683464822784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Глянь, куди ведуть ці криваві сліди.",
+              "maleVariant": "",
+              "stringId": "1702388445626150912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, запихай його в багажник.",
+              "maleVariant": "",
+              "stringId": "1702393621044965376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти диви що тут у нас.",
+              "maleVariant": "",
+              "stringId": "1704330265184612352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ходімо додому, Треворе.",
+              "maleVariant": "",
+              "stringId": "1711318608166432768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джонні, я не сліпа. Дякую.",
+              "maleVariant": "Джонні, я не сліпий. Дякую.",
+              "stringId": "1721411666438434816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, разом із Тревором.",
+              "maleVariant": "",
+              "stringId": "1730240126418071552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мені не потрібне шосте чуття, щоби побачити кров.",
+              "maleVariant": "",
+              "stringId": "1928465244954054656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чудово… Просто чудово.",
+              "maleVariant": "",
+              "stringId": "2531468711088320512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Треба озирнутися навколо.",
+              "maleVariant": "",
+              "stringId": "2531475028263792640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

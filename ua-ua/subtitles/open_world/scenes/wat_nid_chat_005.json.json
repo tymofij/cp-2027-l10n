@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що?.. Де я?.. І хто я?..",
+              "maleVariant": "",
+              "stringId": "1802526152370806784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та байдуже хто ти, бовдуре, головне, що ти з нами.",
+              "maleVariant": "",
+              "stringId": "1802526595809402880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я-я нічого не пам’ятаю…",
+              "maleVariant": "",
+              "stringId": "1802526840085667840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Після ініціації таке буває.",
+              "maleVariant": "",
+              "stringId": "1802527248225001472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ініціації?",
+              "maleVariant": "",
+              "stringId": "1802527489565253632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чуй’, він роздуплиться?",
+              "maleVariant": "",
+              "stringId": "1802527678879358976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А хуй його знає. Моторика, якщо чесно, теж виглядаєш усрато.",
+              "maleVariant": "",
+              "stringId": "1802527960233271296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, у гіршому випадку, Він приглянеться Бляхарям».",
+              "maleVariant": "",
+              "stringId": "1802528252727255040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тож так.",
+              "maleVariant": "",
+              "stringId": "1802528441957474304"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spróbuj jeszcze raz!",
+              "maleVariant": "",
+              "stringId": "1410871175026286592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Korporacyjni blokują sieć na osiedlu, ile razy mam ci to, kurwa, powtarzać?!",
+              "maleVariant": "",
+              "stringId": "1410876397438083072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale to moje dzieci!",
+              "maleVariant": "",
+              "stringId": "1486691292000129024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mam prawo do własnego życia!",
+              "maleVariant": "",
+              "stringId": "1486693183211802624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do swojego życia? Chyba swojego kurwienia!",
+              "maleVariant": "",
+              "stringId": "1486693683810373632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Było trzeba z nimi siedzieć, a nie się szlajać po mieście!",
+              "maleVariant": "",
+              "stringId": "1488162315916644352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pieprzony pijak!",
+              "maleVariant": "",
+              "stringId": "1934494580713295872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

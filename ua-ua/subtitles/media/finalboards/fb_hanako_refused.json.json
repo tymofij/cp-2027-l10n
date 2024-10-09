@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вітаю, Ві.",
+              "maleVariant": "",
+              "stringId": "1790692327141842948"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як я розумію, тобі лишилося не більше ніж шість місяців.",
+              "maleVariant": "",
+              "stringId": "1800966060728107008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не знаю, як ти плануєш провести цей час.",
+              "maleVariant": "",
+              "stringId": "1800966255226372096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можливо, тобі захочеться задерти ноги догори, відпочити, розмірковуючи про сенс буття…",
+              "maleVariant": "",
+              "stringId": "1800966538291560448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Або, можливо, захочеш продовжити робити те, що гарно вмієш.",
+              "maleVariant": "",
+              "stringId": "1800966693732466688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У такому випадку… ми з батьком із радістю скористаємося твоїми послугами. Винагорода буде щедрою.",
+              "maleVariant": "",
+              "stringId": "1800967466658807808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шість місяців промайнуть швидше, аніж ти собі думаєш. Було б прикро змарнувати цей час.",
+              "maleVariant": "",
+              "stringId": "1800967908251910144"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

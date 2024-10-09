@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добрый вечер, Найт-Сити. Сегодня мы начинаем…",
+              "maleVariant": "",
+              "stringId": "1672055979443658752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Биржевой рынок охватила паника. Ущерб от падения курса составил пятьсот миллиардов евродолларов…",
+              "maleVariant": "",
+              "stringId": "1680737634739343360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "После очередного нападения на штаб-квартиру «Арасаки» в Найт-Сити… э-э-э… курс акций японского гиганта упал на семнадцать процентов. По словам аналитиков, его падение продолжится.",
+              "maleVariant": "",
+              "stringId": "1680738953109753856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Полиция Найт-Сити сообщает нам, что нападение было совершено группой террористов, но пока неизвестно, кто и с какой целью его заказал.",
+              "maleVariant": "",
+              "stringId": "1680739350595555328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В свете этих событий могу вам посоветовать только одно, друзья мои. Продавайте.",
+              "maleVariant": "",
+              "stringId": "1680740839439257600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Продавайте. Пока ещё можете.",
+              "maleVariant": "",
+              "stringId": "1740382421442170880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гендиректор компании Ёринобу Арасака уже эвакуирован из американского офиса в токийский.",
+              "maleVariant": "",
+              "stringId": "1740387718814568448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы начнём с новостей биржи. Как всегда.",
+              "maleVariant": "",
+              "stringId": "1741429761951207424"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

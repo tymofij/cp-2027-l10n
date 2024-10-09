@@ -1,0 +1,91 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"もしもし、Vか\" t=\"Алло, Ви?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1790682030662393860"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Перед тем, как сделать сэппуку, самурай сочинял дзисэй. Предсмертные стихи.",
+              "maleVariant": "",
+              "stringId": "1790682030712725508"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я звоню, чтобы попрощаться.",
+              "maleVariant": "",
+              "stringId": "1790922098093641728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Арасака-сама… дал мне новое задание. Мне придётся уйти, как вы это говорите… в подполье.",
+              "maleVariant": "",
+              "stringId": "1790922338477592576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Для тебя будет лучше, если наши пути не пересекутся.",
+              "maleVariant": "",
+              "stringId": "1790922521399578624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я надеюсь, что ты найдёшь свой путь в жизни.",
+              "maleVariant": "",
+              "stringId": "1790922941131968512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"達者でな\" t=\"Будь здорова.\" b=\"\" a=\"\"/>",
+              "maleVariant": "<kiroshi l=\"jpn\" o=\"達者でな\" t=\"Будь здоров.\" b=\"\" a=\"\"/>",
+              "stringId": "1790923083771858944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он делился последними мыслями. О жизни. О смерти.",
+              "maleVariant": "",
+              "stringId": "1790924310018576384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я прочитал много таких. Некоторые — настоящие шедевры.",
+              "maleVariant": "",
+              "stringId": "1790924510388867072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "К сожалению, я не самурай, поэтому я попрощаюсь с тобой по-простому.",
+              "maleVariant": "",
+              "stringId": "1790924744598802432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"jpn\" m=\"kuso-ama\" b=\"Гори в аду, \" a=\".\"/>",
+              "maleVariant": "<mothertongue l=\"jpn\" m=\"kuso-yarou\" b=\"Гори в аду, \" a=\".\"/>",
+              "stringId": "1790925161076412416"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

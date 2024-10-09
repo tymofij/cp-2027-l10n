@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ej. Ty masz jutro test. Nie idziesz się uczyć?",
+              "maleVariant": "",
+              "stringId": "2167632358018928640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I tak nie mam szans na maksa. Więc po co się męczyć?",
+              "maleVariant": "",
+              "stringId": "2196939676842680320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wygrasz z tymi, co do kucia łykają całą tablicę Mendelejewa.",
+              "maleVariant": "",
+              "stringId": "2196949074348564480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przecież sam tym handlujesz. Możesz coś zarzucić.",
+              "maleVariant": "",
+              "stringId": "2196950680985100288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Właśnie dlatego nie biorę... Dobra, zjeżdżam. Muszę się przebrać bo idę na obiad do matki.",
+              "maleVariant": "",
+              "stringId": "2196952940976758784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wyglądasz okej.",
+              "maleVariant": "",
+              "stringId": "2196960642624872448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiem, ale matka mi przywiozła ubrania po ciotce. Będzie pytała czemu nie noszę.",
+              "maleVariant": "",
+              "stringId": "2196962506892337152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Po co masz nosić znoszone szmaty? Przecież masz tyle kasy z dilerki.",
+              "maleVariant": "",
+              "stringId": "2196963073509253120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Będzie pierdoliła, że mi się w dupie poprzewracało.",
+              "maleVariant": "",
+              "stringId": "2196963865460957184"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

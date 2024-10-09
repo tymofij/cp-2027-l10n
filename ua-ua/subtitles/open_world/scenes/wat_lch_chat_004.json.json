@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти свої гімнодави к’ли востаннє міняв?",
+              "maleVariant": "",
+              "stringId": "1802405955932643328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шо?",
+              "maleVariant": "",
+              "stringId": "1802406554308829184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чуваче, якшо ти живеш на вулиці, то за ногами тре слідкувати.",
+              "maleVariant": "",
+              "stringId": "1802406652673646592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чумбо, та всьо там нормас. Пару грамульок байдзю на ноги, і будь-який грибок чи інша срань пройде.",
+              "maleVariant": "",
+              "stringId": "1802406848816078848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я серйозно! Ти ці шкари, походу, ніколи й не скидав. Якшо ти з цим шось не зробиш, то скопитишся точно не від голодухи.",
+              "maleVariant": "",
+              "stringId": "1802407055276498944"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

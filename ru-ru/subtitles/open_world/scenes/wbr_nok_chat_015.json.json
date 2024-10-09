@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Почему нам нельзя с ней поговорить?",
+              "maleVariant": "",
+              "stringId": "2159358707921035264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Потому что мама тяжело заболела и ей пришлось уйти. Но она смотрит на тебя с небес и очень тебя любит.",
+              "maleVariant": "",
+              "stringId": "2199701479479242752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А Престон сказал, что его папа умер, но с ним всё равно можно разговаривать.",
+              "maleVariant": "",
+              "stringId": "2199702592412643328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Просто папа Престона… не попал на небеса, как наша мама.",
+              "maleVariant": "",
+              "stringId": "2199706122087231488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Престон сказал, что его папа попал в «Арасаку». Там лучше, чем на небесах.",
+              "maleVariant": "",
+              "stringId": "2199707602273890304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Солнышко…",
+              "maleVariant": "",
+              "stringId": "2199707949344157696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И ещё он сказал, что моя мама тоже могла бы туда попасть, если бы у нас были деньги.",
+              "maleVariant": "",
+              "stringId": "2199708169981325312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И тогда мы могли бы говорить с ней каждый день.",
+              "maleVariant": "",
+              "stringId": "2199709154065707008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прости, доченька…",
+              "maleVariant": "",
+              "stringId": "2199709491489075200"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

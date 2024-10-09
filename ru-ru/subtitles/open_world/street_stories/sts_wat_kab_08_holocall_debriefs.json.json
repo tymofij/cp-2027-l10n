@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Жаль девочку, если честно. Я думала, ты решишь вопрос… по-другому. При помощи слов, например. Эх… Ладно, заказ закрыт.",
+              "maleVariant": "",
+              "stringId": "2328595150718607360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да у тебя прямо дар убеждения. Рада, что у нас всё получилось. Заказ закрыт.",
+              "maleVariant": "",
+              "stringId": "2328595234906677248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я разве не говорила, что тебе надо просто убедить её закрыть расследование?",
+              "maleVariant": "",
+              "stringId": "2328595363957022720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если бы мне надо было кого-нибудь избить до полусмерти, я бы послала «Животных». Ладно… Заказ закрыт.",
+              "maleVariant": "",
+              "stringId": "2331926207950852096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви, хочешь совет? Заканчивай начатое.",
+              "maleVariant": "",
+              "stringId": "2362380566429798400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я тебя просила убедить Анну, что надо бросить расследование, а ты сделала прямо противоположное.",
+              "maleVariant": "Я тебя просила убедить Анну, что надо бросить расследование, а ты сделал прямо противоположное.",
+              "stringId": "2362381410592198656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "При её упрямстве это ничем хорошим не кончится. Понимаешь?",
+              "maleVariant": "",
+              "stringId": "2362382262254014464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Надеюсь, понимаешь, потому что её жизнь на твоей совести.",
+              "maleVariant": "",
+              "stringId": "2362382907455410176"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

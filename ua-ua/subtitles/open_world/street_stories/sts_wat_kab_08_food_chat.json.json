@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це хіба креветки?",
+              "maleVariant": "",
+              "stringId": "1617093679285374976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ви чого хотіли? Це вам не Норт-Оук, а Кабукі.",
+              "maleVariant": "",
+              "stringId": "1617094766365085696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та що ти, кочовику, знаєш про Кабукі?",
+              "maleVariant": "",
+              "stringId": "1617207474108338176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давайте без оцього, а. Хочете — ароматизатор туди киньте, та й годі.",
+              "maleVariant": "",
+              "stringId": "1617207686625333248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Візьму тільки зі знижкою в п’ятнадцять відсотків!",
+              "maleVariant": "",
+              "stringId": "1617209364934135808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І ці люди називають грабіжниками кочівників! Добре, добре, буде.",
+              "maleVariant": "",
+              "stringId": "1617209744652865536"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

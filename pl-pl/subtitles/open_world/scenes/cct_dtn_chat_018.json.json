@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A jak znajdą?",
+              "maleVariant": "",
+              "stringId": "2172181539393875968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie znajdą.",
+              "maleVariant": "",
+              "stringId": "2182615270883168256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jesteś pewien?",
+              "maleVariant": "",
+              "stringId": "2182632890701287424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Człowieku, każdy tu wchodzi z dragami i każdy ćpa. Wszyscy to wiedzą.",
+              "maleVariant": "",
+              "stringId": "2182632959437541376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No dobra, ale jak te karki z ochrony coś przy mnie znajdą, to mnie nie wpuszczą.",
+              "maleVariant": "",
+              "stringId": "2182633391366967296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, słuchaj, zasada jest taka. Temat chowasz, albo do gaci, albo do skarpetek. Tam nigdy nie sprawdzają.",
+              "maleVariant": "",
+              "stringId": "2182633523202330624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oni udają, że nie wiedzą, że coś masz, a ty udajesz... no udajesz, że nic nie masz.",
+              "maleVariant": "",
+              "stringId": "2182634255175487488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niby nie wolno, ale każdy wie, że wolno. Myślisz, że ktoś by się tu utrzymał, gdyby na serio zabronili dragów?",
+              "maleVariant": "",
+              "stringId": "2182635449730043904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

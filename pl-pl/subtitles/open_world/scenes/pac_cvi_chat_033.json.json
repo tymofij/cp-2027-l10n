@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zniknęło parę osób. Ludzie gadają, że to znowu Kosiarze.",
+              "maleVariant": "",
+              "stringId": "2179569491437187072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co się dzieje z Voodoo Boysami? Powinni być bardziej stanowczy. W końcu to ich teren.",
+              "maleVariant": "",
+              "stringId": "2182551396966711296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ich teren, ale nie ich sprawa. Mają własne problemy.",
+              "maleVariant": "",
+              "stringId": "2182551648457179136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak nie ich sprawa? Kosiarze włażący z butami do Pacifiki to nie ich sprawa?",
+              "maleVariant": "",
+              "stringId": "2182551809518452736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dziś porwą parę osób, jutro ogłoszą się jebanymi królami dzielnicy!",
+              "maleVariant": "",
+              "stringId": "2182551977290612736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa... strach z domu wychodzić. Jakbyśmy tu mieli za mało problemów.",
+              "maleVariant": "",
+              "stringId": "2182552115803308032"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

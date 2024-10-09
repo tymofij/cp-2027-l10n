@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Потерпишь ещё сорок восемь часов?",
+              "maleVariant": "",
+              "stringId": "1973548165494775808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кэнди в лагере?",
+              "maleVariant": "",
+              "stringId": "1976304540075184128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вы с ней разминулись. Вот только вчера уехала.",
+              "maleVariant": "",
+              "stringId": "1976304558177800192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чёрт. Она меня хоть помнит? Помнит, как её парень выглядит?!",
+              "maleVariant": "",
+              "stringId": "1976304580457943040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха, больше она никому не даёт, если ты об этом.",
+              "maleVariant": "",
+              "stringId": "1976304604130594816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Откуда… тебе-то откуда знать?",
+              "maleVariant": "",
+              "stringId": "1976304630386937856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, потому что я подкатывал. Тебя не было два месяца, чувак.",
+              "maleVariant": "",
+              "stringId": "1976304652264427520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И она тебе не… Ладно. Если поеду сейчас, успею её догнать?",
+              "maleVariant": "",
+              "stringId": "1976304717762678784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Остынь, Ромео. Она через пару дней вернётся.",
+              "maleVariant": "",
+              "stringId": "1976307209833566208"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

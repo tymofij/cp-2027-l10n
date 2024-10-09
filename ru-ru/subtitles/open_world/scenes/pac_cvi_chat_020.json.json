@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Господи Боже, защити сына моего, Антуана.",
+              "maleVariant": "",
+              "stringId": "2179432460069400576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Помоги ему отыскать путь в темноте. Помоги ему найти силы, чтобы одолеть все преграды.",
+              "maleVariant": "",
+              "stringId": "2182403161657233408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прошу тебя, Господи, дай ему шанс на хорошую жизнь, подальше от Пасифики, от банд, от наркотиков. Молю тебя, Господи, смилуйся над нами.",
+              "maleVariant": "",
+              "stringId": "2182403825397452800"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What's cooking?",
+              "maleVariant": "",
+              "stringId": "1863299347169820672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Is there a risk of food poisoning?",
+              "maleVariant": "",
+              "stringId": "1863299347169820688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So, what's cooking?",
+              "maleVariant": "So what's cooking?",
+              "stringId": "1863299347220152324"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Depends. What're you cravin'?",
+              "maleVariant": "",
+              "stringId": "1863299347220152332"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "There a risk of food poisonin' here?",
+              "maleVariant": "Is there a risk of food poisoning here?",
+              "stringId": "1863299347270483972"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That depends. If you keep it up with those kinds of question... who knows?",
+              "maleVariant": "",
+              "stringId": "1863299347270483980"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Only the good stuff. What can I get you?",
+              "maleVariant": "",
+              "stringId": "1974706148871557120"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

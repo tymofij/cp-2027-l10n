@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Щось готується?",
+              "maleVariant": "",
+              "stringId": "1863299347169820672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я тут не отруюся?",
+              "maleVariant": "",
+              "stringId": "1863299347169820688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То що готується?",
+              "maleVariant": "",
+              "stringId": "1863299347220152324"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Залежить від того що ти бажаєш.",
+              "maleVariant": "",
+              "stringId": "1863299347220152332"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я можу отруїтися?",
+              "maleVariant": "",
+              "stringId": "1863299347270483972"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хто зна. Залежить від того чи продовжуватимеш ставити дурні запитання.",
+              "maleVariant": "",
+              "stringId": "1863299347270483980"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тільки найкращі страви. Що принести?",
+              "maleVariant": "",
+              "stringId": "1974706148871557120"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

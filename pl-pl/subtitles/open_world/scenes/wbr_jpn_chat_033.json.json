@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej, tobie wystarczy na dzisiaj.",
+              "maleVariant": "",
+              "stringId": "2160398028084649984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przeciwnie! Dobre sake jeszcze nikomu nie zaszkodziło.",
+              "maleVariant": "",
+              "stringId": "2196820055193657344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz, jak to mówią Japończycy? \"Przy pierwszym toaście człowiek pije sake, przy drugim – sake pije sake, przy trzecim – sake pije człowieka\".",
+              "maleVariant": "",
+              "stringId": "2196820815134433280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co to za pierdolenie? Znam lepsze przysłowie...",
+              "maleVariant": "",
+              "stringId": "2196822989847502848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"Przy pierwszym toaście ja stawiam sake, przy drugim - ty stawiasz sake, a przy trzecim - sake w promocji na koszt baru\"!",
+              "maleVariant": "",
+              "stringId": "2196824330414170112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ten bar należy do Tyger Claws, idioto. Tu nie ma niczego gratis.",
+              "maleVariant": "",
+              "stringId": "2196825220663582720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tyger Claws...? O w... Może lepiej już chodźmy...",
+              "maleVariant": "",
+              "stringId": "2196828154394681344"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

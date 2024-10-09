@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты уже слышала, что в пятой квартире?",
+              "maleVariant": "",
+              "stringId": "1802455374480662528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что, опять он её отмудохал?",
+              "maleVariant": "",
+              "stringId": "1802455951197462528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не-е-е! Она его убила. Застрелила нахер.",
+              "maleVariant": "",
+              "stringId": "1802456146383593472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ладно! Точно?",
+              "maleVariant": "",
+              "stringId": "1802456317897072640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне эта, из шестой квартиры рассказала. Она видела.",
+              "maleVariant": "",
+              "stringId": "1802456509576765440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ой, ну эта тебе ещё не то расскажет.",
+              "maleVariant": "",
+              "stringId": "1802457849992437760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да я серьёзно! Пули стену насквозь пробили! Она своими глазами труп видела!",
+              "maleVariant": "",
+              "stringId": "1802458864158367744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

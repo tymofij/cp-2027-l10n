@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Joder…\" b=\"\" a=\" Ты глянь, Ви. Тут всё серьёзно.\"/>",
+              "maleVariant": "",
+              "stringId": "2302765878827323392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Этим мужикам мало не покажется.",
+              "maleVariant": "",
+              "stringId": "2304051954604752900"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как-то не похоже на обычную облаву…",
+              "maleVariant": "",
+              "stringId": "2304051970056568832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё, спектакль окончен. Просто не надо было нарываться.",
+              "maleVariant": "",
+              "stringId": "2304051973110022144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так потому что это не обычные копы. Это «Макс-так», охотничьи псы нашей полиции.",
+              "maleVariant": "",
+              "stringId": "2304055012436918272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Их вызывают, только когда ситуация выходит из-под контроля. Хотя вот эти мужики им так, на один зуб.",
+              "maleVariant": "",
+              "stringId": "2304055484128346112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давай из машины! Реще!",
+              "maleVariant": "",
+              "stringId": "2304151246296236032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А мне сколько ещё тут ждать?",
+              "maleVariant": "",
+              "stringId": "2304152437445017600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бля, они уже тут!",
+              "maleVariant": "",
+              "stringId": "2304152714034200576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Стреляй давай!",
+              "maleVariant": "",
+              "stringId": "2304153266910576640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co mogę u ciebie zamówić?",
+              "maleVariant": "",
+              "stringId": "1826989355775062016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nawet fajną muzykę tu gracie.",
+              "maleVariant": "",
+              "stringId": "1826989355791839240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co mogę u ciebie zamówić?",
+              "maleVariant": "",
+              "stringId": "1826989355825393664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Głównie alkohol. Ale nie tylko.",
+              "maleVariant": "",
+              "stringId": "1826989355825393672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nawet fajną muzykę tu gracie.",
+              "maleVariant": "",
+              "stringId": "1826989355842170884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak? Nie mam pojęcia. Ja sobie odfiltrowuję wszystko poza ludzkim głosem. Inaczej bym tu ogłuchł.",
+              "maleVariant": "",
+              "stringId": "1826989355842170892"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

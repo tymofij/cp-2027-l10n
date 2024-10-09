@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кілько чувакі пропало. Люди ка’уть, шо то все «Бляхарі».",
+              "maleVariant": "",
+              "stringId": "2179569491437187072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А де ж «Вудуїсти» ділися? Це ж їхна територія, нє? Якшо зайняли її, то тре дивитися за нею.",
+              "maleVariant": "",
+              "stringId": "2182551396966711296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, їхна територія, але не їхне діло. Мают’ своїх проблем повно.",
+              "maleVariant": "",
+              "stringId": "2182551648457179136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тобто, не їхне діло? «Бляхарі» лізут’ у Пацифіку, а ці ка’уть: «не їхне діло»?",
+              "maleVariant": "",
+              "stringId": "2182551809518452736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нині кількох хапнуть, а завтра ска’уть, шо те’р вони тут начальники?",
+              "maleVariant": "",
+              "stringId": "2182551977290612736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пиздець… Лячно навіть із хати виходити. Ніби в нас проблем мало.",
+              "maleVariant": "",
+              "stringId": "2182552115803308032"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

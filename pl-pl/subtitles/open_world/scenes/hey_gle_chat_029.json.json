@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę zaszantażować tatusia, żeby nam przelał kasę na suplementy, które opchniemy gangusom za broń...",
+              "maleVariant": "",
+              "stringId": "2161812406312972288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A na koniec chcę się wbić do siedziby Kosiarzy i zrobić tam, kurwa, porządek!",
+              "maleVariant": "",
+              "stringId": "2211251664009404416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ambitny plan, he, he, he. Ale właściwie po co?",
+              "maleVariant": "",
+              "stringId": "2211251784687919104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bo chcę, żeby się o tym mówiło.",
+              "maleVariant": "",
+              "stringId": "2211252653764485120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę wyrwać córkę komendanta NCPD, pieprzyć się z nią na jego biurku i nakręcić z tego ostry materiał BD...",
+              "maleVariant": "",
+              "stringId": "2228628751934398464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę podmienić składniki wegańskich koktajli na szczurze mięso...",
+              "maleVariant": "",
+              "stringId": "2228650484015931392"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The fuck did I just say? It ain't workin', all right?",
+              "maleVariant": "",
+              "stringId": "1508143809060843520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You about done there, Phil?",
+              "maleVariant": "",
+              "stringId": "1731533950570377216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, it's a scorcher, all right. Once you're finished, start bringing them inside, hm?",
+              "maleVariant": "",
+              "stringId": "1906939400655646720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, just about. Sorry, heat's slowin' me down a bit...",
+              "maleVariant": "",
+              "stringId": "1916875776071217152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure thing, boss.",
+              "maleVariant": "",
+              "stringId": "1916876500209414144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What? No, it doesn't shoot, doesn't turn, doesn't do fuck-all!",
+              "maleVariant": "",
+              "stringId": "1934323803014615040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Turn off and-- Are you fucking kidding me?!",
+              "maleVariant": "",
+              "stringId": "1934324151997485056"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

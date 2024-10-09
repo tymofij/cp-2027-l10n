@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzisiejszy serwis rozpoczynamy od wiadomości z ostatniej chwili. Historia nastolatków uprowadzonych przez Anthony'ego Harrisa, zwanego także \"Piotrusiem Panem\", znalazła szczęśliwy finał.",
+              "maleVariant": "",
+              "stringId": "1792303370716749824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzięki pomocy anonimowego informatora NCPD dotarła do nich na czas. Stan uratowanych określany jest jako krytyczny, ale stabilny.",
+              "maleVariant": "",
+              "stringId": "1802326798860271616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Harris przez dwa tygodnie więził i torturował nastolatków na terenie opuszczonej farmy.",
+              "maleVariant": "",
+              "stringId": "1802327150644936704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ta przerażająca sprawa potwierdza jedynie tezę, że Night City chyli się ku moralnemu upadkowi.",
+              "maleVariant": "",
+              "stringId": "1802327792474112000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przestępczość w Night City jest dwa razy większa niż na terenie NUSA. W tym wypadku wydaje się niemal pewne, że podpisanie nowego traktatu akcesyjnego z Unią stanowczo poprawiłoby niespokojną sytuację w mieście.",
+              "maleVariant": "",
+              "stringId": "1802328018630983680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Więcej informacji na ten temat po przerwie.",
+              "maleVariant": "",
+              "stringId": "1802328337398087680"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

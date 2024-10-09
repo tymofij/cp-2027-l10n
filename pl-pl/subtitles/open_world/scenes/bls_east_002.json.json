@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Patrzyłem. Ale nie wiem, jak bardzo jesteś zdesperowany.",
+              "maleVariant": "",
+              "stringId": "1973539329958518784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Idziemy wieczorem się napić?",
+              "maleVariant": "",
+              "stringId": "1976242292912836608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niby gdzie? Widzisz tu jakieś knajpy?",
+              "maleVariant": "",
+              "stringId": "1976242322826612736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No wiesz, weźmiemy skrzynkę piwa, siądziemy sobie...",
+              "maleVariant": "",
+              "stringId": "1976242349418500096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I no... będziemy podziwiać widoki.",
+              "maleVariant": "",
+              "stringId": "1976242599852003328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty mnie teraz podrywasz czy co?",
+              "maleVariant": "",
+              "stringId": "1976242627903508480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Weź popatrz w lustro, stary.",
+              "maleVariant": "",
+              "stringId": "1976242647482519552"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

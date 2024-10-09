@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да не буду я ничего покупать. Тут цены такие, что разориться можно.",
+              "maleVariant": "",
+              "stringId": "2179581872452169728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Покупай, не выпендривайся. Дешевле точно не найдёшь, по крайней мере, в этом городе.",
+              "maleVariant": "",
+              "stringId": "2188233163283349504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я думал, в Лос-Анджелесе дорого… Откуда такие цены-то?",
+              "maleVariant": "",
+              "stringId": "2188233299094913024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Свободный район в свободном городе, значит, и рынок свободный.",
+              "maleVariant": "",
+              "stringId": "2188233454267383808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зачем мы вообще сюда приехали? Все деньги потратить?",
+              "maleVariant": "",
+              "stringId": "2188233699617390592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но заработать. Палка о двух концах.",
+              "maleVariant": "",
+              "stringId": "2188234057693511680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно-ладно. Куплю. Только потом с тебя пиво, потому что у меня будет по нулям.",
+              "maleVariant": "",
+              "stringId": "2188234204007612416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Договорились.",
+              "maleVariant": "",
+              "stringId": "2188234342788743168"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

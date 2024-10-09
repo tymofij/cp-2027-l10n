@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ебать… Пустой!",
+              "maleVariant": "",
+              "stringId": "2161804398262562816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чё? Только что был полный!",
+              "maleVariant": "",
+              "stringId": "2211233515172110336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё пропало!",
+              "maleVariant": "",
+              "stringId": "2211233896065245184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Когда?! Не пизди мне тут, сука!",
+              "maleVariant": "",
+              "stringId": "2211234763229208576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты был в Хрустальном дворце? Ну теперь понятно, куда весь запас ушёл!",
+              "maleVariant": "",
+              "stringId": "2211236444960563200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дай сюда эту хуйню! Может, на дне ещё что осталось…",
+              "maleVariant": "",
+              "stringId": "2211236871621943296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это ты всё заюзал! Все блестяшки! Пока я был в этом… в Хрустальном дворце!",
+              "maleVariant": "",
+              "stringId": "2212856833813880832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я же говорил оставить на потом!",
+              "maleVariant": "",
+              "stringId": "2212858088363761664"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

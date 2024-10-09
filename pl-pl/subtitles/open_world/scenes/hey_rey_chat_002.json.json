@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Myślałem, żeby szarpnąć się na nową chemoskórę.",
+              "maleVariant": "",
+              "stringId": "1833083872609951744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Coś nie tak ze starą?",
+              "maleVariant": "",
+              "stringId": "1833091159290404864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jest nudna. Czasem zmienia kolor na niebieski i tyle.",
+              "maleVariant": "",
+              "stringId": "1833091293441024000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A niektórych klientów kręcą lamparcie cętki i takie tam.",
+              "maleVariant": "",
+              "stringId": "1833091456247128064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ktoś oprócz Animalsów lubi takie rzeczy?",
+              "maleVariant": "",
+              "stringId": "1833091620110196736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty nowa jesteś, czy co?",
+              "maleVariant": "",
+              "stringId": "1964786365518036992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trzeba być elastycznym. Dosłownie i w przenośni.",
+              "maleVariant": "",
+              "stringId": "1964786787901227008"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О чём я думала, когда переезжала в этот сраный город?",
+              "maleVariant": "",
+              "stringId": "2178297681288880128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О том же, о чём все. Что здесь исполнятся твои мечты, вот это всё.",
+              "maleVariant": "",
+              "stringId": "2182451169291124736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да сколько лет мне тогда было? Девятнадцать, двадцать? Глупая была просто.",
+              "maleVariant": "",
+              "stringId": "2182451371439800320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как и мы все. Я вот, представь себе, хотела стать актрисой брейндансов и жить в Норт-Оуке.",
+              "maleVariant": "",
+              "stringId": "2182451868011839488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А вместо этого чищу толчки и живу в вонючем хостеле.",
+              "maleVariant": "",
+              "stringId": "2182452170572152832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мечта кончилась, даже не начавшись.",
+              "maleVariant": "",
+              "stringId": "2182452340491796480"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

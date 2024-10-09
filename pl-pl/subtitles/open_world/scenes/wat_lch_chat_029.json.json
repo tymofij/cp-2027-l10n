@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wypijesz wszystkiego, co ci stawiają przez całą noc. Nawet jeśli masz ten fikuśny wszczep filtrujący.",
+              "maleVariant": "",
+              "stringId": "2156541085661556736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale bar musi zarabiać. Szefowa mówiła, że mamy naciągać klientów na drinki.",
+              "maleVariant": "",
+              "stringId": "2172254098906923008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bardzo mądrze mówiła. Idziesz z drinkiem do łazienki, wypierdzielasz go do kibla i nalewasz sobie soku.",
+              "maleVariant": "",
+              "stringId": "2172254557377904640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nawet, jeśli kupią mi Chateau Piquette?",
+              "maleVariant": "",
+              "stringId": "2172254697216000000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słuchaj, pod pewnymi względami to robota, jak każda inna. A w robocie się nie pije.",
+              "maleVariant": "",
+              "stringId": "2172255166759944192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale Chateau Piquette...!",
+              "maleVariant": "",
+              "stringId": "2172255484570746880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, jednego można.",
+              "maleVariant": "",
+              "stringId": "2172255827882917888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

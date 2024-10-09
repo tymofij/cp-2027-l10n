@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lookin' for an energy boost.",
+              "maleVariant": "",
+              "stringId": "1783744180071976960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What's that I smell?",
+              "maleVariant": "",
+              "stringId": "1783744180088754176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lookin' for a pick-me-up. Got any ChroManticore?",
+              "maleVariant": "",
+              "stringId": "1783744180105531396"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Boy, do I, chief! What don't I have? Wouldn't touch that stuff myself, but hey, hey, customer is king, am I right?",
+              "maleVariant": "",
+              "stringId": "1783744180105531404"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What is that smell? Is that fruit...? Or wait... dish soap?",
+              "maleVariant": "What's that smell? Is that fruit...? Or wait... dish soap?",
+              "stringId": "1783744180122308612"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ah, speciality of the house! My little apricot surprise! When she ferments right, she's actually a local favorite.",
+              "maleVariant": "",
+              "stringId": "1783744180122308620"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

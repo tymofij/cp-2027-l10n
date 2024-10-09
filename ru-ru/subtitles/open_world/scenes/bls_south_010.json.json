@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что за корни тут сплетены? Что за стебли… пробиваются среди камней?",
+              "maleVariant": "",
+              "stringId": "1973558502138880000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сын человеческий… ты нем и глуп, ибо созерцал лишь… осколки видимого…",
+              "maleVariant": "",
+              "stringId": "1973813572860190720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Где палит солнце… и не укрыться под мёртвым древом… где не поют сверчки… где сохнет земля… и не журчит вода…",
+              "maleVariant": "",
+              "stringId": "1973814796120563712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И только лишь… кхе-кхе… лишь тень скалы багровой…",
+              "maleVariant": "",
+              "stringId": "1973816109055156224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Встань в тень багровой скалы!",
+              "maleVariant": "",
+              "stringId": "1973818192600834048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И я покажу тебе нечто иное… нежели тень твоя утром, что за тобой шагает… или тень твоя вечером, что встречает тебя!",
+              "maleVariant": "",
+              "stringId": "1973818876305940480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я покажу тебе страх, таящийся в горсти праха!",
+              "maleVariant": "",
+              "stringId": "1973819968485924864"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

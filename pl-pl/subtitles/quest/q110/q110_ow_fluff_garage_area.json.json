@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wystarczy tego? Oni wszyscy bez przerwy żrą z nudów.",
+              "maleVariant": "",
+              "stringId": "1653504655092637696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Najwyżej za parę dni przywieziemy więcej.",
+              "maleVariant": "",
+              "stringId": "1653506503555964928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Parę dni? To ile mamy tu jeszcze siedzieć?",
+              "maleVariant": "",
+              "stringId": "1653508123832377344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dwóch ich tam siedzi.",
+              "maleVariant": "",
+              "stringId": "1703684761597267968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I co?",
+              "maleVariant": "",
+              "stringId": "1703684761597267984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I nic. Patrzą.",
+              "maleVariant": "",
+              "stringId": "1703684761597268000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Heh, i chuj im z tego przyjdzie.",
+              "maleVariant": "",
+              "stringId": "1703684761597268016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Temu tam na górze chyba coś kiepsko idzie.",
+              "maleVariant": "",
+              "stringId": "1714196674373816320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może się przeciągnąć.",
+              "maleVariant": "",
+              "stringId": "1714198917168828416"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Witam. Nazywam się Arif Iqbal, a to są WNS News.",
+              "maleVariant": "",
+              "stringId": "1792240161548836864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powróćmy do szokującego tematu: ataku cyberpsychopaty na burmistrza Luciusa Rhyne'a.",
+              "maleVariant": "",
+              "stringId": "1796858381269188608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szaleniec zaatakował burmistrza w trakcie konferencji prasowej. Na szczęście był tam oficer NCPD, detektyw River Ward, który zareagował, zanim doszło do tragedii.",
+              "maleVariant": "",
+              "stringId": "1796859723714904064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Obwołany przez prasę \"supergliną\", Ward otrzymał od burmistrza medal zasługi.",
+              "maleVariant": "",
+              "stringId": "1796860063570968576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Atak cyberspychopaty może być swoistym szczęściem w nieszczęściu dla ubiegającego się o reelekcją burmistrza Night City, Luciusa Rhyne'a.",
+              "maleVariant": "",
+              "stringId": "1796865065446260736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Według sondaży przeprowadzonych po ataku, przewaga Rhyne'a nad kontrkandydatem Peralezem wzrosła z dwunastu do dziewiętnastu punktów procentowych.",
+              "maleVariant": "",
+              "stringId": "1796865310376837120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Więcej wiadomości lokalnych – po przerwie.",
+              "maleVariant": "",
+              "stringId": "1796865549821263872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

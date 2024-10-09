@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сколько ты в итоге вписала в рапорт? Мне надо что-то принять, а то собраться не могу.",
+              "maleVariant": "",
+              "stringId": "2161794101766336512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подожди. У меня не было времени все образцы осматривать.",
+              "maleVariant": "",
+              "stringId": "2177948568914739200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну так найди, блядь, время. Мне ещё троих «мусорщиков» допрашивать, а я не могу, у меня руки дрожат!",
+              "maleVariant": "",
+              "stringId": "2177948985795002368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сколько ты вписала в рапорт?",
+              "maleVariant": "",
+              "stringId": "2177949212874620928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эх… Двенадцать. Из пятнадцати найденных.",
+              "maleVariant": "",
+              "stringId": "2177949875373326336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поменяй на десять.",
+              "maleVariant": "",
+              "stringId": "2177950053346033664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты ебанулся? Не дам я тебе пять граммов.",
+              "maleVariant": "",
+              "stringId": "2177950204995289088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно, ладно. Пусть будет три. Только быстрей!",
+              "maleVariant": "",
+              "stringId": "2177950500827938816"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

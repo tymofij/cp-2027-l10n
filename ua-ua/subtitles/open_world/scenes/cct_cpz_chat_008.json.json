@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чумбо, ти справді думаєш, що зможеш підірвати дві боєголовки без наслідків?",
+              "maleVariant": "",
+              "stringId": "1963276207758811136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та це було мільйон років тому.",
+              "maleVariant": "",
+              "stringId": "1967873587908780032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, розкажи це радіації.",
+              "maleVariant": "",
+              "stringId": "1967874043460526080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гаразд, годі патякати. Скільки там?",
+              "maleVariant": "",
+              "stringId": "1967875457310072832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ов, їбать… Майже два мікрозіверта!",
+              "maleVariant": "",
+              "stringId": "1967875785707298816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бляха… Ц-це багато?",
+              "maleVariant": "",
+              "stringId": "1967876045435379712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нормально так. Щож, ходімо, ти винен мені обід.",
+              "maleVariant": "",
+              "stringId": "1967876381097140224"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

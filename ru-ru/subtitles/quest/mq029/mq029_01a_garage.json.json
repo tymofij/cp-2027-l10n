@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Клёвый байк. У меня был такой, только без кочевничьих прибамбасов.",
+              "maleVariant": "",
+              "stringId": "1821466168323067904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Во-первых, не хами. А во-вторых, брюнетка.",
+              "maleVariant": "",
+              "stringId": "1821466807367225344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так-так…",
+              "maleVariant": "",
+              "stringId": "1831628381640077316"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу. Вместо них небось была сисястая блондинка на боку.",
+              "maleVariant": "",
+              "stringId": "1922946147673231360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Н-да… Не починишь. Это металлолом.",
+              "maleVariant": "",
+              "stringId": "1922946801732997120"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

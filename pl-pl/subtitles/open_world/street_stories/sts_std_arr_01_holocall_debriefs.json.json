@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No dobra, mamy ten Beta Acid, ale nadal nie wiem co stało się z Bookerem. Słabo, V. Słabiutko. Zamykam kontrakt z lekkim fochem.",
+              "maleVariant": "",
+              "stringId": "2328604563744043008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czyli Beta Acid zabezpieczony? Doskonale.",
+              "maleVariant": "",
+              "stringId": "2328606991809851396"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Za rozwiązanie zagadki dotyczącej losów pana Bookera daję ci 10 dodatkowych punktów. Brawo. Zamykam kontrakt i ślę całuski.",
+              "maleVariant": "",
+              "stringId": "2369272698218319872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

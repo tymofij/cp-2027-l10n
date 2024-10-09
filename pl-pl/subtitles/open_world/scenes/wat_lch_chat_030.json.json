@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co się tak na nie gapisz?",
+              "maleVariant": "",
+              "stringId": "2156543523458150400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Moja znajoma kiedyś tu pracowała.",
+              "maleVariant": "",
+              "stringId": "2221962247260422144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Serio? Skąd niby masz takie znajomości?",
+              "maleVariant": "",
+              "stringId": "2221962898635833344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z dawnych czasów. Nieważne.",
+              "maleVariant": "",
+              "stringId": "2221963350127493120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I co się z nią stało? Umarła?",
+              "maleVariant": "",
+              "stringId": "2221963953469734912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie, zmieniła branżę. I wyjechała. Na jakiś czas.",
+              "maleVariant": "",
+              "stringId": "2221964444018753536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A-haa… To taka znajoma.",
+              "maleVariant": "",
+              "stringId": "2221964968289976320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To co? Chcesz do nich podejść, pogadać o dawnych czasach?",
+              "maleVariant": "",
+              "stringId": "2221985514423664640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

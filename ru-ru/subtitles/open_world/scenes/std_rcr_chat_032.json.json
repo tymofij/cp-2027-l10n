@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да… Да, я понимаю. Конечно. Не беспокойтесь.",
+              "maleVariant": "",
+              "stringId": "2167937955276804096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да. Ваша дочь делает большие успехи. Да. Каждый день.",
+              "maleVariant": "",
+              "stringId": "2182343982779256832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, простите, это невозможно. Вы можете её испугать, а сильные негативные эмоции замедляют процесс восстановления.",
+              "maleVariant": "",
+              "stringId": "2182344381540126720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Конечно, вы можете подать жалобу. Оставьте сообщение после сигнала.",
+              "maleVariant": "",
+              "stringId": "2182344926061449216"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

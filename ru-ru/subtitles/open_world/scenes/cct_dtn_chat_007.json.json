@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну как тебе, бро? Ничего такие, а?",
+              "maleVariant": "",
+              "stringId": "1963566167490281472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сладенькие такие, что можно помереть от сахарного передоза!",
+              "maleVariant": "",
+              "stringId": "1963576588272123904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не знаешь, что и хочешь — то ли трахать их, то ли съесть.",
+              "maleVariant": "",
+              "stringId": "1963577269292875776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха! А какая разница, если всё равно трогать нельзя?",
+              "maleVariant": "",
+              "stringId": "1963578916144398336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У них, наверно, кровь сладкая, как шоколад… или мёд…",
+              "maleVariant": "",
+              "stringId": "1963579191542398976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Э-э… По ходу, у тебя уже и правда передоз.",
+              "maleVariant": "",
+              "stringId": "1963579583357501440"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

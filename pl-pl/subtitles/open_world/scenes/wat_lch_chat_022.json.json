@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podrzucisz też fałszywe dokumenty. Mają być przekonani, że to on cię na nich nasłał.",
+              "maleVariant": "",
+              "stringId": "2156517410442866688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tylko nie przesadzaj z trupami. Nie mam ochoty sprzątać po tobie więcej, niż to konieczne.",
+              "maleVariant": "",
+              "stringId": "2172410176877608960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To chyba tyle. Wszystko jasne?",
+              "maleVariant": "",
+              "stringId": "2172410311112114176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak słońce. Problem w tym, że cholernie ciężko tam wejść niezauważonym. A ja nie lubię robić za tarczę strzelniczą.",
+              "maleVariant": "",
+              "stringId": "2172410810133626880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Będziesz musiał zapłacić ekstra. Do takiej roboty trzeba podrasować sprzęt.",
+              "maleVariant": "",
+              "stringId": "2172411132004515840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niech będzie. Jutro prześlę zaliczkę.",
+              "maleVariant": "",
+              "stringId": "2172411304591736832"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

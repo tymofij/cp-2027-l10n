@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шо за… Йобаний ти нахуй, де я?..",
+              "maleVariant": "",
+              "stringId": "2167677503812685824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сука, тільки не знову… Серед усіх їбаних місць у цьому сраному Найт-Сіті, мене занесло саме на територію «Шісток…",
+              "maleVariant": "",
+              "stringId": "2198320166120153088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Агх, блядь, моя голова… Мабуть, попався галімий ш-тир…",
+              "maleVariant": "",
+              "stringId": "2198321151529934848"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

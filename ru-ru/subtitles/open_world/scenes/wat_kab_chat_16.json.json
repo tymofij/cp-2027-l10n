@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Здравствуйте. Мне должна была прийти посылка. Заказ номер сорок восемь.",
+              "maleVariant": "",
+              "stringId": "2156410557224689664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сейчас проверю… Сорок восемь? Точно? Там целая коробка…",
+              "maleVariant": "",
+              "stringId": "2169119529870086144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тс-с-с! Да-да. Сорок восемь, точно.",
+              "maleVariant": "",
+              "stringId": "2169119752805732352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я думал, монахи воздерживаются от земных удовольствий…",
+              "maleVariant": "",
+              "stringId": "2169119985103065088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Конечно. Это для друга. Помогаю ближнему своему.",
+              "maleVariant": "",
+              "stringId": "2169120384686018560"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

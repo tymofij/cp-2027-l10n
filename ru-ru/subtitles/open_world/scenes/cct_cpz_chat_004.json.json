@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты меня вообще слушаешь?",
+              "maleVariant": "",
+              "stringId": "1963274269587709952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "П-прости. Я… я сегодня что-то не в ресурсе…",
+              "maleVariant": "",
+              "stringId": "1966154191168323584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добро пожаловать в реальный мир, солнышко. Таблетки принимаешь?",
+              "maleVariant": "",
+              "stringId": "1966154541610811392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я… я сперва хотела выяснить, что входит в состав, но что-то… Короче, пока нет.",
+              "maleVariant": "",
+              "stringId": "1966154832024420352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если хочешь работать здесь и дальше, советую начать принимать.",
+              "maleVariant": "",
+              "stringId": "1966155093363113984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На твоё место желающих много. Понимаешь меня?",
+              "maleVariant": "",
+              "stringId": "1966155307440390144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, я понимаю…",
+              "maleVariant": "",
+              "stringId": "1966155614278893568"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То скільки ти вказала у звіті? Мені треба щось прийняти, бо ледве на очі бачу.",
+              "maleVariant": "",
+              "stringId": "2161794101766336512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Почекай трохи. У мене ще не було часу оглянути всі зразки.",
+              "maleVariant": "",
+              "stringId": "2177948568914739200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну то знайди той їбаний час. Мені ще трьох «Сміттярів» допитувати, а я не можу — руки трясуться!",
+              "maleVariant": "",
+              "stringId": "2177948985795002368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, то скільки ти вказала у звіті?",
+              "maleVariant": "",
+              "stringId": "2177949212874620928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ех… Дванадцять. З п’ятнадцяти знайдених.",
+              "maleVariant": "",
+              "stringId": "2177949875373326336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поміняй на десять.",
+              "maleVariant": "",
+              "stringId": "2177950053346033664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти шо довбойоб? Не дам я тобі аж п’ять грамів.",
+              "maleVariant": "",
+              "stringId": "2177950204995289088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Блядь, ну добре, нехай буде три… Тільки скоріше!",
+              "maleVariant": "",
+              "stringId": "2177950500827938816"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

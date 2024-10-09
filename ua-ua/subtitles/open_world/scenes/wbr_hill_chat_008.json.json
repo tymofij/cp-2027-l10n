@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти чула? Брат Джеймса кинув роботу.",
+              "maleVariant": "",
+              "stringId": "1806803052031238144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А чому? На акціях піднявся?",
+              "maleVariant": "",
+              "stringId": "1806806565431926784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні. Зірвав куш в казино у квартарі япошок. Усі кажуть, що йому допоміг мережник, але хтозна, може то просто чутки.",
+              "maleVariant": "",
+              "stringId": "1806806700555624448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Оце везучий сучий син. І що він робитиме з усією цією грошвою?",
+              "maleVariant": "",
+              "stringId": "1806806869116313600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та напевно поїде на якусь… Сицилію? Там якась Модіка, чи щось таке.",
+              "maleVariant": "",
+              "stringId": "1806807055209193472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це взагалі в якому боці світу?",
+              "maleVariant": "",
+              "stringId": "1806807222025052160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха, та звідки я в біса маю знати? Він постійно торочив якісь нісенітниці про свого прадіда чи про ще когось, звідки пішли його коріння…",
+              "maleVariant": "",
+              "stringId": "1806807622010658816"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Możesz być w sztabie, możesz być dobrym strategiem, ale to wszystko. Twarzą kampanii nie zostaniesz.",
+              "maleVariant": "",
+              "stringId": "1832762598201352192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiem, jak to robić.",
+              "maleVariant": "",
+              "stringId": "1832764961221894144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Też wiem, że wiesz, ale nie masz w sobie tego czegoś, co przyciąga ludzi.",
+              "maleVariant": "",
+              "stringId": "1832765131930066944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z poparciem Thompsona mam duże szanse na miejsce w radzie. Nie zamierzam rezygnować.",
+              "maleVariant": "",
+              "stringId": "1832765298896920576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thompson ma już posadę w Arasace.",
+              "maleVariant": "",
+              "stringId": "1832767069799178240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słucham?",
+              "maleVariant": "",
+              "stringId": "1832767235692290048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No właśnie. Powodzenia.",
+              "maleVariant": "",
+              "stringId": "1832767383868661760"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

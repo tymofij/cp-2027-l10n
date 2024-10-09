@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey... that Quadra they brought last night, think she still runs, or... nah?",
+              "maleVariant": "",
+              "stringId": "1612404701302009856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I don't know... Can hammer out the body no problem, but the engine won't pull. Needs a new crankshaft.",
+              "maleVariant": "",
+              "stringId": "1693636844824473600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Crankshaft, huh? Saw one around here somewhere. Over there, by the fence I think.",
+              "maleVariant": "",
+              "stringId": "1693646471154806784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Seriously? C'mon, let's go look.",
+              "maleVariant": "",
+              "stringId": "1693647049129897984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

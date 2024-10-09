@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Надо же, вот так встреча. Да мы с ним в одной части служили.",
+              "maleVariant": "",
+              "stringId": "1918422143395975168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты его узнал?",
+              "maleVariant": "",
+              "stringId": "1925818834502340608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "По татуировке. Ну и по вечному ужасу в глазах.",
+              "maleVariant": "",
+              "stringId": "1925818920233914368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Там, в Мексике, мы все такие были… Такого насмотрелись… Через такое прошли…",
+              "maleVariant": "",
+              "stringId": "1925819108692381696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сойдёшь тут с ума, дело обычное.",
+              "maleVariant": "",
+              "stringId": "1925819939986657280"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

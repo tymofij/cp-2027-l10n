@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вітаю, я Ґіліан Джордан. Трансляцію ми почнемо тривожними новинами з державного кордону.",
+              "maleVariant": "",
+              "stringId": "1792204460723707904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Доповідають, що Південна Каліфорнія розстріляла мігрантів, які намагалися перебратися крізь стіну.",
+              "maleVariant": "",
+              "stringId": "1796567487378866176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Загинуло двадцять сім осіб, а сорок сім — поранено. Уцілілих мігрантів утримують на невідомому об’єкті.",
+              "maleVariant": "",
+              "stringId": "1796567872315310080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це ще одна подія з низки за цей рік. Уряд Південної Каліфорнії досі утримується від коментарів.",
+              "maleVariant": "",
+              "stringId": "1796568242487803904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Цей трагічний випадок вчергове показує, що існує потреба об’єднання під очільництвом президентки Маєрс. Лише завдяки впливу та настановам уряду НСША можна оминути майбутнього кровопролиття.",
+              "maleVariant": "",
+              "stringId": "1796568551507345408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Щоби підписати петицію до ради Найт-Сіті стосовно возз’єднання, переходьте за посиланням, яке бачите внизу екрана.",
+              "maleVariant": "",
+              "stringId": "1796568796303704064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не перемикайтеся. Після перерви будуть нові новини.",
+              "maleVariant": "",
+              "stringId": "1796569056971309056"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

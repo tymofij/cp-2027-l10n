@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу щось придбати.",
+              "maleVariant": "",
+              "stringId": "1863331944444870656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як бізнес?",
+              "maleVariant": "",
+              "stringId": "1863331944461647884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мені дещо потрібно.",
+              "maleVariant": "",
+              "stringId": "1863331944545533956"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дещо? Кажи вже, не соромся.",
+              "maleVariant": "",
+              "stringId": "1863331944545533964"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як йдуть справи?",
+              "maleVariant": "",
+              "stringId": "1863331944612642820"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ем, недуже. Клієнтів цілком достатньо, проте… Постійно хтось мені докучає. Ну знаєш, віруни чи люди з мерії. Порушує громадську мораль, кажуть.",
+              "maleVariant": "",
+              "stringId": "1863331944612642828"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Божевілля, чи не так? Ти можеш торгувати зброєю на кожному кроці й всім байдуже. А варто поставити вітрину з вібраторами й відчиняється портал у пекло! Арр!",
+              "maleVariant": "",
+              "stringId": "1975117007708016640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

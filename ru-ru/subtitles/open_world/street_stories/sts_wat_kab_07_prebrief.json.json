@@ -1,0 +1,37 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаешь, кто такой Дзётаро Сёбо? Абсолютный психопат. Пытает кукол, снимает это на видео и продаёт таким же уродам, как он сам.",
+              "maleVariant": "",
+              "stringId": "2328554531266732032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Шельмы» наконец его отследили. У тебя есть возможность воздать этой гниде по заслугам и заодно немного подзаработать. Все подробности в письме.",
+              "maleVariant": "",
+              "stringId": "2331828236928258048"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

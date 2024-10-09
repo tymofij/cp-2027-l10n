@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What can I order?",
+              "maleVariant": "",
+              "stringId": "1826989355775062016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Like the music here.",
+              "maleVariant": "",
+              "stringId": "1826989355791839240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Whaddaya got here?",
+              "maleVariant": "",
+              "stringId": "1826989355825393664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Booze mostly. But not entirely.",
+              "maleVariant": "",
+              "stringId": "1826989355825393672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nice tunes. Good work music.",
+              "maleVariant": "",
+              "stringId": "1826989355842170884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah? Wouldn't know. I've filtered out music and other ambients since I started here. Be deaf already if I hadn't.",
+              "maleVariant": "",
+              "stringId": "1826989355842170892"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

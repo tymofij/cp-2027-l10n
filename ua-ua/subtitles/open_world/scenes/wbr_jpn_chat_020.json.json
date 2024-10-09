@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чиста й проста робота, я тобі ка’у. Стволи є, і лягавим уже заплачено. Заходимо, хапаємо все, що треба, і валимо нахуй звідти. То шо, ти в грі?",
+              "maleVariant": "",
+              "stringId": "2160323573585059840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Звучить не погано. А Вакако дала добро?",
+              "maleVariant": "",
+              "stringId": "2169430319558873088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А нахуя? Ми ж будемо в масках, нас стопудово ніхто не впізнає.",
+              "maleVariant": "",
+              "stringId": "2169431743055319040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пф-ф, ні-ні-ні. Від неї ти нічо’ не приховаєш, багато хто вже перевірив це. Не знаю як, але в’на завжди все знає, завжди. Січеш? Заступиш їй стежку, і ти труп.",
+              "maleVariant": "",
+              "stringId": "2169432328915701760"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

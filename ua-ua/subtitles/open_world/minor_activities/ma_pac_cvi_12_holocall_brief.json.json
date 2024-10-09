@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Увага всім підрядникам поліції. Надійшло повідомлення про потенційну злочинну діяльність поблизу парку атракціонів на Едемському пляжі.",
+              "maleVariant": "",
+              "stringId": "2328577190692728832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Припускається, що на місці злочину — Станіслав Збишко. Він є одним із ватажків серед «бляхарів» із численними судимостями за контрабандну діяльність.",
+              "maleVariant": "",
+              "stringId": "2352351736222814208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Владою міста Найт-Сіті оголошено винагороду за нейтралізацію загрози з боку злочинної групи Збишко.",
+              "maleVariant": "",
+              "stringId": "2352351751792070656"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

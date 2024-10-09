@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хватит уже мечтать. Ну не пройдём мы. Без шансов.",
+              "maleVariant": "",
+              "stringId": "2178293551208062976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давай поспорим?",
+              "maleVariant": "",
+              "stringId": "2182404667176894464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты видел эту Китайскую стену? Ни одной щёлочки. Там мышь не проскочит, не то что мы.",
+              "maleVariant": "",
+              "stringId": "2182404870130876416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слушай, эту стену построили люди. А людям свойственно ошибаться.",
+              "maleVariant": "",
+              "stringId": "2182405080567496704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Граница, она неровная. Землю не поделишь, и небо тоже.",
+              "maleVariant": "",
+              "stringId": "2182405361887854592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну не знаю. Я вот вижу цельный кусок бетона.",
+              "maleVariant": "",
+              "stringId": "2182405481610067968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Потерпи. Скоро поймёшь, о чём речь.",
+              "maleVariant": "",
+              "stringId": "2182405680252305408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Оглянуться не успеешь, мы будем на той стороне.",
+              "maleVariant": "",
+              "stringId": "2182405930685808640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

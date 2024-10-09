@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Night City is still in a state of mourning following the death of Arasaka CEO Saburo Arasaka.",
+              "maleVariant": "",
+              "stringId": "1743075249131671552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Flags on all city buildings were lowered to half-mast and all major public events have been postponed until further notice.",
+              "maleVariant": "",
+              "stringId": "1743077386448326656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Daughter and heiress, Hanako Arasaka, recently arrived in the city in the wake of the tragedy.",
+              "maleVariant": "",
+              "stringId": "1743077839198277632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A wake will be held at Arasaka Headquarters tomorrow at noon, after which the late CEO's remains will be transported to their final resting place back in his native Japan.",
+              "maleVariant": "",
+              "stringId": "1743078341826891776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"ご冥福をお祈りいたします\" t=\"Rest in peace.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1743078834137518080"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

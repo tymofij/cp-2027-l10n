@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Покажи, что у вас есть.",
+              "maleVariant": "",
+              "stringId": "1783748166422384640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это же тут «Самурай» сыграл впервые?",
+              "maleVariant": "",
+              "stringId": "1783748166439161860"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Покажите, что у вас есть.",
+              "maleVariant": "",
+              "stringId": "1783748166439161884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И-и-иха-а! Момент, партнёр!",
+              "maleVariant": "",
+              "stringId": "1783748166439161892"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Погоди… Это же тут «Самурай» сыграл впервые?",
+              "maleVariant": "",
+              "stringId": "1783748166472716292"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ах, какая ночь была! До сих пор легенды ходят. Звуком все окна повышибало… А ещё с тех пор у нас тут правило: голых клиентов не обслуживаем.",
+              "maleVariant": "",
+              "stringId": "1783748166472716300"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Есть специальное блюдо для фанатов «Самурая». Рёбрышки а-ля Сильверхенд. Недёшево, зато пальчики оближешь.",
+              "maleVariant": "",
+              "stringId": "1976545601390956544"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

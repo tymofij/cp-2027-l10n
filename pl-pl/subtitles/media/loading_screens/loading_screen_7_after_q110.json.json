@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ej, ty! Tak, do ciebie mówię! Łączysz się z siecią, co? Cóż, na twoim miejscu bym tego nie robił.",
+              "maleVariant": "",
+              "stringId": "1672015204399882240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Korporacje mówią, że nowa sieć jest dobrze zabezpieczona. Powtarzają, że nauczyli się na błędach.",
+              "maleVariant": "",
+              "stringId": "1680676070711676928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z tych ich przeszklonych gabinetów wygląda to na pewno zajebiście. Ale nie daj się zwieść. Internet to po prostu zgniła łajba pociągnięta świeżą farbą. Gówno z kokardką w ozdobnym opakowaniu.",
+              "maleVariant": "",
+              "stringId": "1680676361376944128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Demony, które wypuściliśmy do Sieci, wciąż tam egzystują. Zabójcze wirusy, sztuczne inteligencje, których jedynym celem jest sianie chaosu. Netrunnerzy, którzy wpadli w zawiłe objęcia Sieci i w jej czeluściach postradali zmysły.",
+              "maleVariant": "",
+              "stringId": "1680676833420693504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czy słyszeliście o więzieniu dusz? O Alt Cunningham i o Soulkillerze? Nie? No to zapnijcie pasy, bo to co teraz…",
+              "maleVariant": "",
+              "stringId": "1680677405389541376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ha. NetWatch nigdy nie śpi.",
+              "maleVariant": "",
+              "stringId": "1680677987978366976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mikoshi. Musisz nas tam jakoś przemycić, V. Jak najszybciej.",
+              "maleVariant": "",
+              "stringId": "1680678577848504320"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

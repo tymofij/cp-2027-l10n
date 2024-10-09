@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Извините, не подскажете? Где здесь можно перекусить?",
+              "maleVariant": "",
+              "stringId": "1802364343957446656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На хуй пошёл.",
+              "maleVariant": "",
+              "stringId": "1802374897027637248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Простите?..",
+              "maleVariant": "",
+              "stringId": "1802375562059702272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Проваливай отсюда, чумба.",
+              "maleVariant": "",
+              "stringId": "1802375889282523136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Грёбаные туристы. «Где перекусить? А как пройти?» Да на хуй пройди, вот и всё!",
+              "maleVariant": "",
+              "stringId": "1802376218719936512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чё дома-то не сидится…",
+              "maleVariant": "",
+              "stringId": "1802376652545187840"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

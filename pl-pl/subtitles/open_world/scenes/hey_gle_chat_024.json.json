@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To jest kpina. Kpina, kurwa! Wysyłać glinę do takiej dzielnicy... rok przed emeryturą!",
+              "maleVariant": "",
+              "stringId": "2161791634458619904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie kpina, tylko egzekucja. Lena jest na skraju załamania.",
+              "maleVariant": "",
+              "stringId": "2178018288229662720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Parę miesięcy w North Industrial District i strzeli sobie w łeb.",
+              "maleVariant": "",
+              "stringId": "2178018458082197504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To dobra dziewczyna. I ma serce na właściwym miejscu. Czemu jej to robią?",
+              "maleVariant": "",
+              "stringId": "2178018587149320192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oszczędność. Lepiej przenieść tam kogoś, kto i tak zaraz przestanie być potrzebny.",
+              "maleVariant": "",
+              "stringId": "2178018743177428992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, jakim trzeba być chujem, żeby myśleć w ten sposób o Lenie... o kimkolwiek?",
+              "maleVariant": "",
+              "stringId": "2178018888417787904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Taki system. Lepszego nie mamy.",
+              "maleVariant": "",
+              "stringId": "2178019049495838720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

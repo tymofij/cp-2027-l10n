@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You take the older one.",
+              "maleVariant": "",
+              "stringId": "2172097639878352896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, you take him. You're the one who wanted a natural child. And you got one. A natural, slow son.",
+              "maleVariant": "",
+              "stringId": "2207215055103430656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He's not \"slow,\" he's just not the perfect, vat-grown specimen you wanted from the lab.",
+              "maleVariant": "",
+              "stringId": "2207238080808980480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "'Cause you didn't want him to be perfect. And now what? He'll never get a corp job, never get an education. I'm sure as hell not taking him.",
+              "maleVariant": "",
+              "stringId": "2207238270307635200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uh-huh. So I get the shit end of everything, right? I gotta give you the apartment and the youngest?! This is all a game to you, isn't it?",
+              "maleVariant": "",
+              "stringId": "2207240677368369152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And it's not to you?! Psssh... Please. You can have the fucking apartment, but I want custody of the youngest.",
+              "maleVariant": "",
+              "stringId": "2207242121031028736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fine... But I want that extra alimony each month – under the table.",
+              "maleVariant": "",
+              "stringId": "2207242622736896000"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

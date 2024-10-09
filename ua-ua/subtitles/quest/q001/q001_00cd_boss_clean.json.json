@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лови його!",
+              "maleVariant": "",
+              "stringId": "1650497555567460352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми більше не маємо куди йти! Баґ, ти розібралася з планом цієї діри?",
+              "maleVariant": "",
+              "stringId": "1653073643615272960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В його кімнаті є балкон.",
+              "maleVariant": "",
+              "stringId": "1653073643615272976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, Ві! Приверни його увагу, решту я сам!",
+              "maleVariant": "",
+              "stringId": "1653073643632050176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зліва є вікно. Секунду, зараз його відчиню.",
+              "maleVariant": "",
+              "stringId": "1653076167042777088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На датчиках руху все тихо. Схоже, ви його прибрали. Проходьте.",
+              "maleVariant": "",
+              "stringId": "1653096651570528256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зараза, де наша ціль?",
+              "maleVariant": "",
+              "stringId": "1653098456983519232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шукайте. Вона має бути десь тут.",
+              "maleVariant": "",
+              "stringId": "1653098618749435904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Обережно, я відчиняю двері.",
+              "maleVariant": "",
+              "stringId": "1703910314692734976"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всем вспомогательным группам полиции. Поступило сообщение о преступной активности на южной Скайлайн.",
+              "maleVariant": "",
+              "stringId": "2328559804983881728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Замечены члены банды «Валентино» во главе с Зои Алонсо. Она уже привлекалась за вооружённое ограбление, вымогательство, похищение и убийство первой степени.",
+              "maleVariant": "",
+              "stringId": "2358398281930084352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Властями Найт-Сити назначено вознаграждение за устранение преступной группы Алонсо.",
+              "maleVariant": "",
+              "stringId": "2358398341002661888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

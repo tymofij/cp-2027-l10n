@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Па-а-ап… Ну пожалуйста! Один хот-дог! Или хотя бы «Мунчис»!",
+              "maleVariant": "",
+              "stringId": "2161769665046589440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты же слышала, что мама сказала. Она уже приготовила ужин.",
+              "maleVariant": "",
+              "stringId": "2177813109035220992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, конечно! Синторис и биосмесь. Классный ужин.",
+              "maleVariant": "",
+              "stringId": "2177813561130860544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Почему мы всё время едим какую-то тошнотную херню?",
+              "maleVariant": "",
+              "stringId": "2177813831982235648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй! Это что за выражения? Со своими подружками будешь так разговаривать!",
+              "maleVariant": "",
+              "stringId": "2177814097448124416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно-ладно, извини. Просто я не могу уже это есть.",
+              "maleVariant": "",
+              "stringId": "2177814258224185344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знаю. Потерпи ещё немного. Скоро я найду хорошую работу и поведу вас всех в «Пеппер энд спайс». Окей?",
+              "maleVariant": "",
+              "stringId": "2177815004223094784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну… Окей.",
+              "maleVariant": "",
+              "stringId": "2177815628889178112"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

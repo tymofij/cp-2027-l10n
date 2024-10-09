@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти забереш старшого.",
+              "maleVariant": "",
+              "stringId": "2172097639878352896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні, сама його бери. Це ти хотіла натуральну дитину. Ось і маєш. Відсталий син, зате натуральний.",
+              "maleVariant": "",
+              "stringId": "2207215055103430656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Він не «відсталий», просто не ідеальний, як молодший, котрий вирощений із пробірки в лабораторії.",
+              "maleVariant": "",
+              "stringId": "2207238080808980480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бо ти не хотіла ідеального. І що тепер? Роботу в корпорації йому ніколи не дадуть, освіту він не здобуде. Тож брати його із собою я точно не буду.",
+              "maleVariant": "",
+              "stringId": "2207238270307635200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага… А я тоді з чим залишаюся? Віддам тобі квартиру й молодшого, і, думаєш, по справі?! Для тебе це все, схоже, гра, так?",
+              "maleVariant": "",
+              "stringId": "2207240677368369152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А для тебе ні? Пф-ф… Коротше… Забирай собі ту йобану квартиру, але опіка над молодшим буде в мене.",
+              "maleVariant": "",
+              "stringId": "2207242121031028736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чудово… Але крім щомісячних аліментів, ти ще доплачуватимеш мені — у конверті.",
+              "maleVariant": "",
+              "stringId": "2207242622736896000"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

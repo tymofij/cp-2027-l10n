@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привіт, красуню. Слухай, у мене скоро зміна закінчиться, може я… заїду?",
+              "maleVariant": "",
+              "stringId": "1496406152395059200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тобто «навіщо»? Та ну, кицю, ти ж розумієш.",
+              "maleVariant": "",
+              "stringId": "1496410457781006336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що, голова болить? Хе-хе, ну, як кажуть, є в мене від цього одна панацея…",
+              "maleVariant": "",
+              "stringId": "1496410611242201088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та чого ти завелася, га?.. Я ж просто… Ох, та йоб його…",
+              "maleVariant": "",
+              "stringId": "1496410742742020096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

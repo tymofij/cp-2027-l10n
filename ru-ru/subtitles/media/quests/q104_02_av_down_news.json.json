@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Только что нам в студию пришло срочное сообщение: ави корпорации «Кан тао» разбился за пределами Найт-Сити.",
+              "maleVariant": "",
+              "stringId": "1745883341299179520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Двигатели аппарата отключились из-за внезапного электромагнитного импульса, который был вызван неполадками на станции в Санто-Доминго. Попытка аварийной посадки не увенчалась успехом.",
+              "maleVariant": "",
+              "stringId": "1745883713468162048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Выжившие в крушении пассажиры подверглись нападению кочевников.",
+              "maleVariant": "",
+              "stringId": "1745883970629328896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "К счастью, уцелевшие сотрудники службы безопасности «Кан тао» сумели отбить внезапную атаку и не допустили новых потерь.",
+              "maleVariant": "",
+              "stringId": "1745884119359348736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Компания уже заявила о том, что готовит силовой ответ, направленный на кочевников.",
+              "maleVariant": "",
+              "stringId": "1745884264566153216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "После рекламы: президент Майерс выступила с заявлением о проблеме потока беженцев из Нидерландов.",
+              "maleVariant": "",
+              "stringId": "1745884564140122112"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

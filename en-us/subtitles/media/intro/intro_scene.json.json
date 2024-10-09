@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Good morning, Night City!",
+              "maleVariant": "",
+              "stringId": "2039066195769614336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yesterday's body-count lottery rounded out to a solid 'n' sturdy thirty! Ten outta Heywood – thanks to unabated gang wars!",
+              "maleVariant": "",
+              "stringId": "2039101856863416320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "One officer down, so I guess you're all screwed. 'Cause the NCPD will NOT let that go.",
+              "maleVariant": "",
+              "stringId": "2039101945061240832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got another blackout in Santo Domingo. Netrunners at it again, pokin' holes in the power grid!",
+              "maleVariant": "",
+              "stringId": "2039102328538066944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "While over in Westbrook, Trauma Team's scrapin' cyberpsycho victims off the pavement.",
+              "maleVariant": "",
+              "stringId": "2039102416819777536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And in Pacifica...",
+              "maleVariant": "",
+              "stringId": "2039102495404257280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well... Pacifica is still Pacifica.",
+              "maleVariant": "",
+              "stringId": "2039102603684409344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This has been your man, Stan. Join me for another day in our City of Dreams!",
+              "maleVariant": "",
+              "stringId": "2039102697200611328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "In the City Center corpofiends're high as ever!",
+              "maleVariant": "",
+              "stringId": "2150458461520850944"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

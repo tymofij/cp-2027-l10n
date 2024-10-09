@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Живіт болить так, наче мене хтось ріже. І це відколи я вживив той блокатор кортизолу. Срані шарлатани з Кабукі.",
+              "maleVariant": "",
+              "stringId": "2276536375305216016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То поверни його. Навіть підпільні різарі дають гарантії, хіба ні?",
+              "maleVariant": "",
+              "stringId": "2276536375305216028"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гарантії? Ха, ми про те саме місто говоримо взагалі? Тим більше якщо я їм скажу: «коли я думаю про свою колишню, то вже не злюся, але не можу посрати». Вони ж помруть там від сміху.",
+              "maleVariant": "",
+              "stringId": "2276536375305216040"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

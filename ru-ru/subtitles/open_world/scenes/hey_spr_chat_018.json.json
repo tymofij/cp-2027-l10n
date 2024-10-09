@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Найди меню «Кироси», выбери вкладку «Переводчик» и нажми «Обновить драйверы».",
+              "maleVariant": "",
+              "stringId": "2162108800612151296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"え？ キロシ？ 全然わからない\" t=\"«Кироси»? Что? Я не понимаю.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2213021445466198016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, я хотя бы нормально тебя слышу. Попробуй сбросить настройки.",
+              "maleVariant": "",
+              "stringId": "2218601229344673792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"え？ もう、何言ってるの？ 翻訳されないんだってば！\" t=\"Что? Я ничего не могу понять, он не переводит!\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2218601463453945856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не кричи на меня! Я не виноват, что ты выбрала такого хуёвого рипера. Поставил тебе какую-то несовместимую херь…",
+              "maleVariant": "",
+              "stringId": "2218601713082142720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так… Спокойно. НАЙ-ДИ МЕ-НЮ «КИ-РО-СИ»…",
+              "maleVariant": "",
+              "stringId": "2218604317510045696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"ロ・シ・ア・語・は・話せませーん\" t=\"Я НЕ ГО-ВО-РЮ ПО-РУС-СКИ.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2218604652769153024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сука, блядь!..",
+              "maleVariant": "",
+              "stringId": "2218605092466429952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"スーカブリャーチはそっちでしょ！\" t=\"Сам ты «сука блядь»!\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2218605717149290496"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

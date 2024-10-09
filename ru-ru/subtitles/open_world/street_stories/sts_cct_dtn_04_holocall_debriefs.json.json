@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я слышал, Кох больше нет. Отлично. Всегда приятно работать с настоящим профи.",
+              "maleVariant": "",
+              "stringId": "2328541762800967680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне тут сказали, что Джоанна уже едет. Я обеспечу ей самый тёплый приём.",
+              "maleVariant": "",
+              "stringId": "2328548195739230208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну это просто пиздец, Ви. Кох выжила, да ещё и узнала, что на неё кто-то охотится. Теперь она будет вдвойне осторожной.",
+              "maleVariant": "",
+              "stringId": "2328662887673487360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Работа выполнена, деньги летят к тебе.",
+              "maleVariant": "",
+              "stringId": "2333237877287927808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спасибо за помощь, Ви. Закрываю заказ.",
+              "maleVariant": "",
+              "stringId": "2333238985389490176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Очень советую тебе взяться за ум, Ви. Иначе быстро останешься без заказов.",
+              "maleVariant": "",
+              "stringId": "2333241064724086784"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всем вспомогательным группам полиции. Поступило сообщение о преступной активности на Сейдж-Галч-роуд.",
+              "maleVariant": "",
+              "stringId": "2328989029368246272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Выдан ордер на арест Руфуса МакБрайда. Подозреваемый ведёт врачебную практику без лицензии. В прошлом изувечил троих и имитировал самоубийство одного пациента.",
+              "maleVariant": "",
+              "stringId": "2358876231829917696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Преступник скрывается среди членов банды «Духи». За устранение угрозы со стороны МакБрайда и его подельников назначено вознаграждение.",
+              "maleVariant": "",
+              "stringId": "2358876272615329792"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

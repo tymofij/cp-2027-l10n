@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Або заводимо дитину, або нам не дають кредит.",
+              "maleVariant": "",
+              "stringId": "2162064838484537344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Йобані підараси. Вони ж не можуть…",
+              "maleVariant": "",
+              "stringId": "2209904225093521408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, виявляється, що можуть.",
+              "maleVariant": "",
+              "stringId": "2217404931216084992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але я не хочу дитину.",
+              "maleVariant": "",
+              "stringId": "2217405001026080768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаєш, я хочу? У нас немає вибору. Якщо ми хочемо отримати гроші на нове житло, то в нас має бути хтось, хто візьме на себе наш борг у разі чого.",
+              "maleVariant": "",
+              "stringId": "2217405477499015168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ех-х-х… Ну то як?",
+              "maleVariant": "",
+              "stringId": "2217407536164081664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу жити в Японському кварталі.",
+              "maleVariant": "",
+              "stringId": "2217410879510908928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, я теж.",
+              "maleVariant": "",
+              "stringId": "2217411771807141888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

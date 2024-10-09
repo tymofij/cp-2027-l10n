@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Możesz mi strzelić korpogadkę?",
+              "maleVariant": "",
+              "stringId": "2172015214120787968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"Jesteśmy już na ostatniej prostej, prosimy was o jeszcze trochę wysiłku\".",
+              "maleVariant": "",
+              "stringId": "2189931340874747904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dawaj więcej.",
+              "maleVariant": "",
+              "stringId": "2189933610211315712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"Zakończymy projekt przed deadlinem, ale teraz walczymy o jakość, dlatego nie zwalniamy tempa\".",
+              "maleVariant": "",
+              "stringId": "2189933679484440576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mmm... pyszna. To chyba korpogadka rocznik 2076... wyczuwam bukiet nadgodzin z projektu \"Modernizacja M251s\"...",
+              "maleVariant": "",
+              "stringId": "2189935892197904384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zgadza się. To masz jeszcze jedną \"nie podoba się? Nie zapominaj, że na twoje miejsce jest tysiące chętnych\".",
+              "maleVariant": "",
+              "stringId": "2189936601152720896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ooo, nie przestawaj, zaraz dojdę!",
+              "maleVariant": "",
+              "stringId": "2189938042114248704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"Owocowe środy\"!",
+              "maleVariant": "",
+              "stringId": "2189942507303178240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aaaa!",
+              "maleVariant": "",
+              "stringId": "2189944267166027776"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

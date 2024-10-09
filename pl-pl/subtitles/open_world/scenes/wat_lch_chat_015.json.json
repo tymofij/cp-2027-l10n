@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słuchaj, jakie ty masz ubezpieczenie w Traumie? Złote?",
+              "maleVariant": "",
+              "stringId": "2156387886174597120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha. Złote.",
+              "maleVariant": "",
+              "stringId": "2169308549417848832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ulepsz się do platyny, dobrze radzę. Możesz wtedy zabrać do ambulansu do dwóch innych osób.",
+              "maleVariant": "",
+              "stringId": "2169308652463509504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pamiętasz jak ostrzelali moje auto? No? W siedemdziesiątym piątym? Tylko dlatego mogłem zabrać żonę i córkę. Niani już nie wzięli. Wykrwawiła się.",
+              "maleVariant": "",
+              "stringId": "2169309017149853696"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

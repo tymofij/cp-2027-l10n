@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так перестань им платить.",
+              "maleVariant": "",
+              "stringId": "1806820807778361344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Перестану платить, они перестанут работать.",
+              "maleVariant": "",
+              "stringId": "1806821301716377600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да? И куда пойдут? Учиться, что ли? Дипломы получать?",
+              "maleVariant": "",
+              "stringId": "1806821546697285632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, не уйдут, но начнут говниться.",
+              "maleVariant": "",
+              "stringId": "1806821731213107200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, поговнятся. Дальше что?",
+              "maleVariant": "",
+              "stringId": "1806821901887725568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не знаю…",
+              "maleVariant": "",
+              "stringId": "1806822175222128640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ничего. Приползут обратно. И знаешь, чему это их научит?",
+              "maleVariant": "",
+              "stringId": "1806823683544178688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мысли, что без тебя они говно. Уважать тебя станут. Вот тогда и платить начнёшь.",
+              "maleVariant": "",
+              "stringId": "1806824014894194688"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

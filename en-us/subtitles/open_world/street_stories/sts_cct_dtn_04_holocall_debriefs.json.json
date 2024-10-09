@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got word Joanne Koch bit the dust. Preem. Nothin' I love more than workin' with pros.",
+              "maleVariant": "",
+              "stringId": "2328541762800967680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Heard our girl Joanne's already on her way. Oooh, she's in for a warm welcome.",
+              "maleVariant": "",
+              "stringId": "2328548195739230208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You fucked up, V. Joanne Koch's still breathin' – plus she knows someone's after her, so now she's gonna be extra careful.",
+              "maleVariant": "",
+              "stringId": "2328662887673487360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gig's closed. The eddies are on their way.",
+              "maleVariant": "",
+              "stringId": "2333237877287927808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thanks for the help, V. Closin' the gig.",
+              "maleVariant": "",
+              "stringId": "2333238985389490176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Better be the last time you pull shit like this, V. The city don't tolerate mediocrity.",
+              "maleVariant": "",
+              "stringId": "2333241064724086784"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

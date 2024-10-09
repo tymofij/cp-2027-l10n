@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мамцю, а чому «Травма Тім» не допомогла дядькові Теду?",
+              "maleVariant": "",
+              "stringId": "1963294235783372800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, моя маленька, у твого дядька не було страхового поліса. Щоби лікарі тобі допомагали, їм треба платити.",
+              "maleVariant": "",
+              "stringId": "1969369902875394048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Коли ми йдемо в магазин і ти хочеш «Лілу Бінс», ми платимо за них, правда? От і з медициною так само.",
+              "maleVariant": "",
+              "stringId": "1969370240835633152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але… Але якщо я не куплю «Лілу Бінс», я ж не помру. А він помер.",
+              "maleVariant": "",
+              "stringId": "1969370409010446336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Просто так влаштований світ, моя рибонько. Деякі речі — для багатих, а деякі — для нас.",
+              "maleVariant": "",
+              "stringId": "1969370583392829440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Коли я виросту, то стану багатою.",
+              "maleVariant": "",
+              "stringId": "1969370734001897472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Авжеж, будеш, моя маленька.",
+              "maleVariant": "",
+              "stringId": "1969370985794355200"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

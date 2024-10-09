@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"No tiene que ver con la amistad. Nomás no quiero aburrirme toda la noche.\" t=\"Nie chodzi w tym o przyjaźń. Po prostu noc ma się nie dłużyć.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2161809672315891712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Pueden ser gordas, delgadas, bonitas, un poco bonitas, hasta feas...\" t=\"Mogą być grube, chude, ładne, średnio ładne, a czasem nawet brzydkie.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2221389487602503680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tylko weź teraz znajdź brzydką.",
+              "maleVariant": "",
+              "stringId": "2221389665575211008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Mm, pues sí.\" t=\"Też prawda.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2221389811335663616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystkie, kurwa, modelki.",
+              "maleVariant": "",
+              "stringId": "2221389920052023296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Todas tienen implantes y ni un solo defecto, pero a mí me gustan las imperfecciones. Como un diente irregular, un ojo torcido, quizá una chichi un poco más grande que la otra...\" t=\"Porobione tak, że skazy nie znajdziesz. A ja lubię, żeby było trochę zepsute. Żeby coś nie pasowało. Jakiś ząb krzywy, lekki zezik, cycuszek jeden niżej niż drugi.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2221390009172594688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiem, o czym mówisz. Te najpiękniejsze to wszystkie tak samo wyglądają.",
+              "maleVariant": "",
+              "stringId": "2221390656336924672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"No parecen de verdad, chum. Es pinche raro, me pone los pelos de punta y se me van las ganas.\" t=\"Wyglądają nieludzko stary. Nieludzko. Aż chuja straszą.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2221390824914391040"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

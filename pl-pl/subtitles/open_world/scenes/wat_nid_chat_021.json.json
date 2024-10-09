@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oczy jak oczy. Moim zdaniem wyglądają w porządku, nawet jeśli są z drugiej ręki.",
+              "maleVariant": "",
+              "stringId": "2156418799921258496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trzymajcie mnie...! \"Wyglądają w porządku\", bo oczy ci wysiadły!",
+              "maleVariant": "",
+              "stringId": "2170674148630315008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To jakiś przedpotopowy model... Entropistyczne wszczepy to przy nim szczyt elegancji.",
+              "maleVariant": "",
+              "stringId": "2170674562289352704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No bardzo mi przykro, że nie stać mnie na oczy czwartej generacji!",
+              "maleVariant": "",
+              "stringId": "2170675087063891968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Między wszczepami czwartej generacji a tym złomem jest jeszcze całe spektrum.",
+              "maleVariant": "",
+              "stringId": "2170675257268748288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ten gabinet śmierdzi mi zawirusowanym sprzętem. Dziś dasz sobie to zainstalować, jutro zastrzeli cię Max-Tac.",
+              "maleVariant": "",
+              "stringId": "2170676182532210688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A jaką niby mam alternatywę? Oślepnąć?",
+              "maleVariant": "",
+              "stringId": "2170676759416782848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie dramatyzuj. Mamy w tym mieście jeszcze paru innych ripperów.",
+              "maleVariant": "",
+              "stringId": "2170677036173737984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

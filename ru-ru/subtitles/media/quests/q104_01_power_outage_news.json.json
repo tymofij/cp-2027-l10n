@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вернёмся к основной новости дня — к нападению на электростанцию в Санто-Доминго.",
+              "maleVariant": "",
+              "stringId": "1744501745799192576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Боевики, до сих пор неопознанные, прорвались на станцию и повредили систему охлаждения, что привело к скачку электромагнитных импульсов.",
+              "maleVariant": "",
+              "stringId": "1744506598827024384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Практически сразу после атаки многие местные жители пожаловались на критические сбои в работе имплантов.",
+              "maleVariant": "",
+              "stringId": "1744506840989360128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Импульсы были настолько мощными, что город на несколько часов остался без электроэнергии.",
+              "maleVariant": "",
+              "stringId": "1744507208863375360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Полиция Найт-Сити предполагает, что за этим нападением стоят кочевники, и сейчас разрабатывает ответные меры.",
+              "maleVariant": "",
+              "stringId": "1744507349540331520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы будем и дальше сообщать вам о развитии ситуации.",
+              "maleVariant": "",
+              "stringId": "1744507582273871872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "К счастью, густонаселённые районы города не сильно от этого пострадали. Учитывая масштаб происшествия, человеческие жертвы сведены к минимуму.",
+              "maleVariant": "",
+              "stringId": "1902236446178463744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

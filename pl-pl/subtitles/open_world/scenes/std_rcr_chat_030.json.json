@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dla mnie będzie dwa razy dziewiątka, raz ekstra duża, raz mała...",
+              "maleVariant": "",
+              "stringId": "2167932552526712832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha, aha... Co jeszcze?",
+              "maleVariant": "",
+              "stringId": "2182266711452209152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do tego szóstka z ekstra dipem, dwa razy czterdzieści pięć, siódemka, i jeszcze duża NiCola.",
+              "maleVariant": "",
+              "stringId": "2182266931418288128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z ekstra syropem glukozowo-fruktozowym?",
+              "maleVariant": "",
+              "stringId": "2182267795377803264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A, co mi tam. Niech będzie.",
+              "maleVariant": "",
+              "stringId": "2182267946104311808"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

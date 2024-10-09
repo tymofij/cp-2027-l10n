@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I told him – Kostya, don't take anything out of Leningrad. And guess what happen? They catch him at the border, ass crammed with drugs.",
+              "maleVariant": "",
+              "stringId": "2276535761930199056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You know how kids are. Hasn't seen his pops in twenty years. Prolly just wanted to impress you.",
+              "maleVariant": "",
+              "stringId": "2276535761930199068"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, he impressed me, all right – with his fucking stupidity. Now we'll have to find someone else for the job...",
+              "maleVariant": "",
+              "stringId": "2276535761930199080"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobry Boże, weź pod swoją opiekę mojego syna, Antoine'a.",
+              "maleVariant": "",
+              "stringId": "2179432460069400576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pomóż mu znaleźć drogę pośród ciemności. Pomóż mu znaleźć siłę, by pokonać przeszkody, które spotka na swojej drodze.",
+              "maleVariant": "",
+              "stringId": "2182403161657233408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Daj mu szansę na lepsze życie, z dala od Pacifiki, od gangów, od narkotyków. Błagam cię, Panie. Zlituj się nad nami.",
+              "maleVariant": "",
+              "stringId": "2182403825397452800"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

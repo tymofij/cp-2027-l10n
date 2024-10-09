@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне бы подкачаться.",
+              "maleVariant": "",
+              "stringId": "1977670673930682372"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тут приятно.",
+              "maleVariant": "",
+              "stringId": "1977671024037625856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне бы подзарядиться.",
+              "maleVariant": "",
+              "stringId": "1977671305727082496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тут приятно. Прямо… расслабляет.",
+              "maleVariant": "",
+              "stringId": "1977671774952259584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зелень успокаивает тело и душу. Даже импланты быстрее приживаются. Жаль, что не все об этом знают.",
+              "maleVariant": "",
+              "stringId": "1977675585276116992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это можно устроить.",
+              "maleVariant": "",
+              "stringId": "1979534063945105408"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

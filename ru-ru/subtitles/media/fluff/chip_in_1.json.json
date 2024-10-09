@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет, Найт-Сити! Программа «Чипуйся!» сегодня вас порадует! Тестируем свежайший продукт — «Свалинн», синтекожа от «Милитеха»!",
+              "maleVariant": "",
+              "stringId": "1771997587861053440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Свалинн девять-ЭФ» всего месяц как вышла на рынок, но — раскрою вам тайну — лично я давно её ношу.",
+              "maleVariant": "",
+              "stringId": "1790981493011828736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как и предыдущие модели этой линии, «девятка» выдерживает температуру от минус ста сорока до трёхсот семидесяти градусов Цельсия, а также обладает повышенной износостойкостью.",
+              "maleVariant": "",
+              "stringId": "1790982297093459968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эта синтекожа идеально подойдёт активным фанатам мотоспорта… и любителям поиграть с огнём!",
+              "maleVariant": "",
+              "stringId": "1790982653441527808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Минусы? «Девять-ЭФ» непригодна для пирсинга. За это мы лишаем её одной звезды. И что в итоге? Четыре из пяти!",
+              "maleVariant": "",
+              "stringId": "1790983058510630912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На сегодня всё, Найт-Сити! И помните, чипуйтесь по полной!",
+              "maleVariant": "",
+              "stringId": "1790983481279696896"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

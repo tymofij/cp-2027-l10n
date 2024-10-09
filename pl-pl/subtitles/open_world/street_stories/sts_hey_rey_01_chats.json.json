@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "...bo nie jesteśmy jebaną instytucją charytatywną, młody!",
+              "maleVariant": "",
+              "stringId": "1537267379824193536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może to go nauczy spłacać długi w terminie. A jak nie, to przynajmniej nie spieprzy tak łatwo z miasta.",
+              "maleVariant": "",
+              "stringId": "1538589567070081024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie panikuj i tnij. Ścięgno Achillesa to to grube, nad piętą.",
+              "maleVariant": "",
+              "stringId": "1669105726039576576"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

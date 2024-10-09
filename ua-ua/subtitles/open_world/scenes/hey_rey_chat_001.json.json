@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Понавозив їм танків на мільйони євдо, і от що я з того маю? Глянь на мене!",
+              "maleVariant": "",
+              "stringId": "1833075916770238464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Розумію, чумбо. Усі ми щось утратили.",
+              "maleVariant": "",
+              "stringId": "1833081588475879424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. І хоч би хто мені оплатив імпланти…",
+              "maleVariant": "",
+              "stringId": "1833081747725213696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І мені, чумбо.",
+              "maleVariant": "",
+              "stringId": "1833081894710403072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаєш, а мені Тревіс казав дещо інше.",
+              "maleVariant": "",
+              "stringId": "1833082103284752384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Справді? І що, ти тепер на мене гніваєшся?",
+              "maleVariant": "",
+              "stringId": "1833082277801353216"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

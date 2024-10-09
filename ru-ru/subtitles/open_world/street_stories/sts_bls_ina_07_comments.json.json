@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ещё один идиот решил, что судьба ему улыбнулась…",
+              "maleVariant": "",
+              "stringId": "1715417790770753536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну так, может, и улыбнулась бы, если б не передоз.",
+              "maleVariant": "Ну так, может, и улыбнулась бы, если бы не передоз.",
+              "stringId": "1715417790770753544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви, у нас гости.",
+              "maleVariant": "",
+              "stringId": "1793797746051166208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А где-то в Альбукерке, наверно, ждёт девчонка и не знает, что у малыша Джеро мозги уже превратились в кисель…",
+              "maleVariant": "",
+              "stringId": "1935565825497493504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А чего ещё ждать от мальстрёмовского говна? Оно по мозгам даёт крепко. Это только для их выжженных синапсов — в самый раз…",
+              "maleVariant": "",
+              "stringId": "1987782885774061568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чёрт…",
+              "maleVariant": "",
+              "stringId": "2472136561751674884"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

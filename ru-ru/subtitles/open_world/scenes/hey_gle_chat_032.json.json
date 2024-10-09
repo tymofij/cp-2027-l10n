@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты что-то сказала, дорогая?",
+              "maleVariant": "",
+              "stringId": "2161836388907036672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я говорю, когда выбираешь место, всегда доверяй носу.",
+              "maleVariant": "",
+              "stringId": "2211342441179881472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А здесь… Здесь просто воняет.",
+              "maleVariant": "",
+              "stringId": "2211342487484997632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, не «Угли», конечно, так и ты больше не такая модница.",
+              "maleVariant": "",
+              "stringId": "2211342696998871040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С одним контрактом тебе повезло, с другим не очень.",
+              "maleVariant": "",
+              "stringId": "2211342834051948544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я твоя бывшая секретарша, дорогая. Послушай моего совета.",
+              "maleVariant": "",
+              "stringId": "2211343084904882176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы, смертные, доверяем не носу, а своему грёбаному кошельку.",
+              "maleVariant": "",
+              "stringId": "2211343246905679872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привыкай. В тот мир ты уже не вернёшься.",
+              "maleVariant": "",
+              "stringId": "2211343491886587904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

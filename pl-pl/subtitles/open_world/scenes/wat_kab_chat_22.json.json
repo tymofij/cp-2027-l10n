@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I ja się pytam: co było złego w dostosowywaniu osobowości?",
+              "maleVariant": "",
+              "stringId": "2156501492402987008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Brało się kryminalistę, grzebało mu się w mózgu i znajdywało odpowiedni przełącznik.",
+              "maleVariant": "",
+              "stringId": "2212585113999745024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pstryk - i już nie kradniesz. Pstryk - i już nie napadasz na sąsiadów.",
+              "maleVariant": "",
+              "stringId": "2212607527638900736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pstryk - i jesteś, kurwa, porządnym obywatelem.",
+              "maleVariant": "",
+              "stringId": "2212618008214740992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tobie by to nie pomogło... Pstryk, pstryk, pstryk - a dalej jesteś starym faszystą.",
+              "maleVariant": "",
+              "stringId": "2212618774983843840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Faszystą?! Ja tylko bym chciał mieć porządek.",
+              "maleVariant": "",
+              "stringId": "2212620889852583936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Implanty wygnania też były dobre... Komu to przeszkadzało, się pytam?",
+              "maleVariant": "",
+              "stringId": "2212633064524587008"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

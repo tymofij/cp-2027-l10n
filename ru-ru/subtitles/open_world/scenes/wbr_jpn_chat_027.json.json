@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вы меняете себе глаза, но не учитесь видеть.",
+              "maleVariant": "",
+              "stringId": "2160361409076043776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Меняете себе ноги, но вам некуда бежать.",
+              "maleVariant": "",
+              "stringId": "2179730189113987072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Меняете себе сердца, но ничего не чувствуете.",
+              "maleVariant": "",
+              "stringId": "2179730455133523968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вы убедили себя, что деньги помогают преодолевать любые трудности.",
+              "maleVariant": "",
+              "stringId": "2179733249563398144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но даже миллиарды евродолларов не заполнят пустоту внутри вас. Люди, это путь в никуда.",
+              "maleVariant": "",
+              "stringId": "2179744788227919872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хватит быть рабами своей плоти. Отриньте пустое и начните думать. Больше разговаривайте. Любите друг друга.",
+              "maleVariant": "",
+              "stringId": "2179745037872893952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тот, кто рядом, не враг вам, но ваша отрада. Тот, кто рядом, вас дополняет.",
+              "maleVariant": "",
+              "stringId": "2179745209671585792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отношения с этим человеком суть счастье. Ибо счастливы те, кто может заботиться о ближнем своём.",
+              "maleVariant": "",
+              "stringId": "2179754241434161152"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

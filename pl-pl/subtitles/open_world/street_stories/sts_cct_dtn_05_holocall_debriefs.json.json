@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiedziałem, że nie spierdolisz. Klient jest bardzo zadowolony, mówi, że nagrania z radną Cole są bardzo ciekawe.",
+              "maleVariant": "",
+              "stringId": "2328962489325232128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej, zaliczam tę robotę, ale warunkowo i na lekkim wkurwie.",
+              "maleVariant": "",
+              "stringId": "2329014969195077632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzięki, V. Zamykam kontrakcik.",
+              "maleVariant": "",
+              "stringId": "2334286800223977472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzwonię do klienta, że mamy nagrania z panną Cole. Kontrakt zamknięty.",
+              "maleVariant": "",
+              "stringId": "2334288190954520576"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

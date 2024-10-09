@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Granice trzeba w końcu zamknąć. Straszne chamstwo się tu zjeżdża z całego świata, nie idzie wytrzymać.",
+              "maleVariant": "",
+              "stringId": "2168045994895659008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tyle samo ludzi wyjeżdża. Pewnie nie mogą słuchać takich jak ty.",
+              "maleVariant": "",
+              "stringId": "2211137010426142720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W sumie wychodzimy na zero.",
+              "maleVariant": "",
+              "stringId": "2212906131312566272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gratuluję logiki. Jakbyśmy zamknęli granicę, to nikt by nie wyjechał chyba, nie?",
+              "maleVariant": "",
+              "stringId": "2212906778007134208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszyscy byśmy się podusili w twoim jadzie.",
+              "maleVariant": "",
+              "stringId": "2212907477281497088"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

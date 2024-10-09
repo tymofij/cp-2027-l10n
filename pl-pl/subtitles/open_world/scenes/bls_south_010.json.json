@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jakie korzenie tu tkwią... Jakie gałęzie rosną... Z tych kamiennych rumowisk...?",
+              "maleVariant": "",
+              "stringId": "1973558502138880000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O, synu człowieka... Rzec nie potrafisz... Ni zgadnąć, bo ty znasz jedynie... Stos pokruszonych obrazów...",
+              "maleVariant": "",
+              "stringId": "1973813572860190720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I słońce tam pali... I martwe drzewo nie daje schronienia... Ulgi świerszcz... Ni suchy kamień... Dźwięku wody....",
+              "maleVariant": "",
+              "stringId": "1973814796120563712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cień...! Ekhe, ekhe! Cień jest tylko tam, pod czerwoną skałą...",
+              "maleVariant": "",
+              "stringId": "1973816109055156224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wejdźże w ten cień pod czerwoną skałą!",
+              "maleVariant": "",
+              "stringId": "1973818192600834048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja pokażę ci coś... co różni się tak samo  od twego cienia, który rankiem podąża za tobą... I od cienia, który wieczorem wstaje na twoje spotkanie!",
+              "maleVariant": "",
+              "stringId": "1973818876305940480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pokażę ci strach w garstce popiołu!",
+              "maleVariant": "",
+              "stringId": "1973819968485924864"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

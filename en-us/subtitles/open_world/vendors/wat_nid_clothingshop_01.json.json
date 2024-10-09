@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hunting for a new look.",
+              "maleVariant": "",
+              "stringId": "1979313499457167364"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Don't look like a Watson native.",
+              "maleVariant": "",
+              "stringId": "1979314081240686592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Been thinkin' about a new jacket. Whaddaya recommend?",
+              "maleVariant": "",
+              "stringId": "1979316089590882304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What's it matter? Just pick something.",
+              "maleVariant": "",
+              "stringId": "1979317868864970752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Huh... With that look, I doubt you're from around Watson.",
+              "maleVariant": "",
+              "stringId": "1979330263419166720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I am now.",
+              "maleVariant": "",
+              "stringId": "1979330947208159232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wanna change my look.",
+              "maleVariant": "",
+              "stringId": "3775202941002969088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I'd like to use your services.",
+              "maleVariant": "",
+              "stringId": "3836255736078135312"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

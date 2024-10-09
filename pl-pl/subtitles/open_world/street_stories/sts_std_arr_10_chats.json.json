@@ -1,0 +1,91 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz, jaki jest twój problem, Diaz?",
+              "maleVariant": "",
+              "stringId": "1562039153359024128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiem, sir.",
+              "maleVariant": "",
+              "stringId": "1562044224289337344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rozumiem, proszę pana.",
+              "maleVariant": "",
+              "stringId": "1562046089630543872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeszcze jedna taka wpadka jak w zeszłym tygodniu i wylatujesz.",
+              "maleVariant": "",
+              "stringId": "1832938095933419520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wystarczy jedno moje słowo i znikasz z systemu. I nawet nie zauważę, że cię nie ma, bo na twoje miejsce od razu wskoczy ktoś nowy, pewnie taki sam jak ty.",
+              "maleVariant": "",
+              "stringId": "1832939049634263040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No ale dzisiaj poszło dobrze. Wracaj do roboty.",
+              "maleVariant": "",
+              "stringId": "1832939448227360768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znikniesz ty, zniknie ubezpieczenie dla twojej rodziny, zniknie dopłata do tej waszej klitki.",
+              "maleVariant": "",
+              "stringId": "1923069242860236800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Takich jak ty jest w tym mieście w bród. Tysiące przeciętniaków, zdolnych do wykonywania jedynie prostych poleceń.",
+              "maleVariant": "",
+              "stringId": "1923073173610950656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dziękuję.",
+              "maleVariant": "",
+              "stringId": "1923076514860625920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dodatkowa kontrola? Ale jeśli za godzinę nie będę na miejscu, stracę tę robotę!",
+              "maleVariant": "",
+              "stringId": "1996765512871145472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znajdź kogoś, kogo to obchodzi.",
+              "maleVariant": "",
+              "stringId": "1996765961946886144"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

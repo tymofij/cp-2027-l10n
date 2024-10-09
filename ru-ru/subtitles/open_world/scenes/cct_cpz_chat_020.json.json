@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Послушай, я понимаю, что это твоя премьера, но я сегодня правда не могу. Мне сказали сидеть допоздна.",
+              "maleVariant": "",
+              "stringId": "2172038560925474816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Милый, зачем мне тебя обманывать?",
+              "maleVariant": "",
+              "stringId": "2189968923314982912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я эгоист? Ну спасибо. А чего ты от меня ждал? Что я уволюсь с работы?",
+              "maleVariant": "",
+              "stringId": "2192352748829511680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Не в этом дело»? Нет, именно в этом дело. Тебе нравится квартира в Джапан-тауне? Думаешь, мы её снимаем на твоё актёрство?",
+              "maleVariant": "",
+              "stringId": "2192353163595845632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ох… Ладно, прости меня. Алло? Алло?",
+              "maleVariant": "",
+              "stringId": "2192378931487019008"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

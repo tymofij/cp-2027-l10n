@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę skorzystać z twoich usług.",
+              "maleVariant": "",
+              "stringId": "1979367548869124096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To... To jest sklep medyczny?",
+              "maleVariant": "",
+              "stringId": "1979368038478618624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę skorzystać z twoich usług.",
+              "maleVariant": "",
+              "stringId": "1979368703812673536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znaczy... Znaczy, co dokładnie mam zrobić?",
+              "maleVariant": "",
+              "stringId": "1979370498035261440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Eee... To jest sklep medyczny? Na pewno?",
+              "maleVariant": "",
+              "stringId": "1979381452450013184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No... Od niedawna. Wcześniej sprzedawałem używaną elektronikę, ale interes słabo się kręcił, to zmieniłem profil.",
+              "maleVariant": "",
+              "stringId": "1979382140768854016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale ten, wszystko jest legitnie. Skończyłem internetowy kurs pierwszej pomocy i włożyłem sobie drzazgę z podstawami farmacji. Możesz walić, jak w dym.",
+              "maleVariant": "",
+              "stringId": "1979470839527297024"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

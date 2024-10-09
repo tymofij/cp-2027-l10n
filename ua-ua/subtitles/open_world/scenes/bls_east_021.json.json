@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нам треба забиратися звідси. Іще трохи, і ми пустимо тут коріння.",
+              "maleVariant": "",
+              "stringId": "2178265220515176448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А що, ці краєвиди тобі вже набридли?",
+              "maleVariant": "",
+              "stringId": "2181079985345511424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не гони. Ліворуч вітряки, праворуч вітряки. Я би для різноманітності на гори поглянув, чи що.",
+              "maleVariant": "",
+              "stringId": "2181080266951081984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, можна поїхати в Аппалачі. Кажуть, радіація вже трохи всілася.",
+              "maleVariant": "",
+              "stringId": "2181080589325287424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А знаєш, я би не відмовилася від вилазки за здобиччю.",
+              "maleVariant": "",
+              "stringId": "2181080800583991296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та хоч, що завгодно, аби якнайдалі від цих вітряків.",
+              "maleVariant": "",
+              "stringId": "2181080969715105792"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

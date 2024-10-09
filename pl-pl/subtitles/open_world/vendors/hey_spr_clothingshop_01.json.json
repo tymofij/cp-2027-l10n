@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fajny styl. Kupiłabym coś.",
+              "maleVariant": "Fajny styl. Kupiłbym coś.",
+              "stringId": "1740348629291868164"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powinnaś zrzucić trochę wagi.",
+              "maleVariant": "",
+              "stringId": "1740348757520130048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niezła stylówa. Chyba coś kupię.",
+              "maleVariant": "",
+              "stringId": "1740370914904088576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jakie znowu \"chyba\"? Skarbeńku! Nie zastanawiaj się, tylko bierz... i błyszcz!",
+              "maleVariant": "",
+              "stringId": "1740371606846808064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Te spodnie leżałyby na tobie dużo lepiej, gdybyś zrzuciła trochę wagi.",
+              "maleVariant": "",
+              "stringId": "1740371878822256640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A skąd! Jest idealnie. Więcej pięknego ciałka do przykrycia pięknym ciuszkiem.",
+              "maleVariant": "",
+              "stringId": "1740373423802523648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę popracować nad swoim wizerunkiem.",
+              "maleVariant": "",
+              "stringId": "3775234946210066432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Potrzebuję nowych ciuchów.",
+              "maleVariant": "",
+              "stringId": "3836287888589189132"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"bastardo\" b=\"Какой же всё-таки этот Хулио  \" a=\"!\"/>",
+              "maleVariant": "",
+              "stringId": "1963298421765873664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот бы Санта Муэрте его навестила, что ли. Хе-хе.",
+              "maleVariant": "",
+              "stringId": "1966203539990233088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй! Думай, что говоришь!",
+              "maleVariant": "",
+              "stringId": "1966315462878543872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чё? Чумба, ты чё?",
+              "maleVariant": "",
+              "stringId": "1966315844207886336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"mamá\" b=\"Тебя \" a=\" ничему не учила? Санта Муэрте — это не шутки!\"/>",
+              "maleVariant": "",
+              "stringId": "1966316107006197760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Она всё слышит. И если уж выбрала кого, то всё.",
+              "maleVariant": "",
+              "stringId": "1966317552313024512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если она тебя услышит, кровь Хулио будет на твоих руках!",
+              "maleVariant": "",
+              "stringId": "1966317763320070144"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

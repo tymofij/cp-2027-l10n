@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "NiCola or Cirrus... Cirrus. No. NiCola.",
+              "maleVariant": "",
+              "stringId": "2179618285604691968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Get both.",
+              "maleVariant": "",
+              "stringId": "2211184156483477504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What'm I, made of cred? NiCola... Cirrus?",
+              "maleVariant": "",
+              "stringId": "2217194786818580480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Choom, just choose. You're chuggin' all the same chem anyway.",
+              "maleVariant": "",
+              "stringId": "2217195386134290432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lemme focus, OK? I'm thirsty, can't think.",
+              "maleVariant": "",
+              "stringId": "2217195703190118400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cirrus, ok... Or maybe NiCola?",
+              "maleVariant": "",
+              "stringId": "2217196095592423424"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

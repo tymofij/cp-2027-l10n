@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Gen yon grenn pwoblèm, yo vle ekzakteman menm bagay avè nou.\" t=\"Беда в том, что им нужно то же, что нам.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1963304057987702784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Fanm lan? Li konnen sa nap chache a?\" t=\"Баба-то? А они знают, что мы её ищем?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1964733260058349568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Wi, yo konnen.\" t=\"Знают, конечно.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1964733980958543872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Ou kwè NetWatch gen moun nan mitan nou?\" t=\"Думаешь, у «Дозора» здесь свои люди?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1964735227572801536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Se Plasid ki ta sipoze nan GIM nan.\" t=\"Это Пласид должен быть в ГИМе.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1964738648262594560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Mwen panse netrènèz pa yo bon men jan ak pa nou, si yo pa pi bon menm.\" t=\"Я думаю, что нетраннеры у них не хуже наших. А то и получше.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1964744896064278528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Men mwen pap janm di sa pou Brigitte.\" t=\"Но Брижитт я этого в жизни не скажу.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1964745243134545920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Brigitte kapab degaje li pou kont li.\" t=\"Брижитт справится сама.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1964747242961915904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Wi, gade kijan bagay yo pase, hm?\" t=\"Ну да, ну да. Поглядим, что из этого выйдет.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1964749197222367232"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

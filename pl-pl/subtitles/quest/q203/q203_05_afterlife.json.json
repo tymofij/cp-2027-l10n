@@ -1,0 +1,973 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej, V.",
+              "maleVariant": "",
+              "stringId": "1715685417732919296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wypiję za Johnny'ego.",
+              "maleVariant": "",
+              "stringId": "1715691388744093696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wypiję za Jackiego.",
+              "maleVariant": "",
+              "stringId": "1715691590221680640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wypiję za Rogue.",
+              "maleVariant": "",
+              "stringId": "1715691640771432448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A mój drink? Wypiję za mnie.",
+              "maleVariant": "",
+              "stringId": "1715691750578311168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zrób mi Silverhanda. Wypiję za Johnny'ego.",
+              "maleVariant": "",
+              "stringId": "1715692801872220160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V. Czekałem na ten moment. Spojrzeć w oczy nowej legendzie Afterlife – przyznaję, to pewne przeżycie.",
+              "maleVariant": "",
+              "stringId": "1715698509615321088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cieszę się, że nie jesteś rozczarowany.",
+              "maleVariant": "",
+              "stringId": "1715699657462108160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wycieki z Arasaki się potwierdziły. Kasyno rzeczywiście jest w trakcie testów nowych systemów zabezpieczeń.",
+              "maleVariant": "",
+              "stringId": "1715700198510546944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znam go tylko ze słyszenia, ale... Byłby zachwycony, gdyby wiedział, co planujesz. Kurwa, byłby wniebowzięty.",
+              "maleVariant": "",
+              "stringId": "1715774636534910976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szefowo.",
+              "maleVariant": "Szefie.",
+              "stringId": "1730130817202114560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej. Wszystko w porządku?",
+              "maleVariant": "",
+              "stringId": "1730132208838627328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Napijesz się czegoś?",
+              "maleVariant": "",
+              "stringId": "1730154586926862336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[usiądź] Jakie wieści?",
+              "maleVariant": "",
+              "stringId": "1730238423849619460"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W idealnym. Twoja loża jest już przygotowana.",
+              "maleVariant": "",
+              "stringId": "1795324919281217536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[oprzyj się] To, co zwykle.",
+              "maleVariant": "",
+              "stringId": "1795331219159379972"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[oprzyj się] Nie, dzięki.",
+              "maleVariant": "",
+              "stringId": "1795331419982655488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To, co zwykle.",
+              "maleVariant": "",
+              "stringId": "1795333140100280320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jasne.",
+              "maleVariant": "",
+              "stringId": "1795333631353942016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ludzie czują, że coś się szykuje. Nie ukryjesz tego dłużej.",
+              "maleVariant": "",
+              "stringId": "1795334285950578688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie będzie trzeba. Dzisiaj lecę.",
+              "maleVariant": "",
+              "stringId": "1795336090340159488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzisiaj?...",
+              "maleVariant": "",
+              "stringId": "1795336225228976128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dla mnie nic, dzięki.",
+              "maleVariant": "",
+              "stringId": "1795337100328562688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rozumiem. To już dzisiaj, prawda? Spotykasz się z nim?",
+              "maleVariant": "",
+              "stringId": "1795337493972381696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm.",
+              "maleVariant": "",
+              "stringId": "1795337918150733824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Więc ja po prostu wypije za twoje zdrowie, V. I za powodzenie akcji.",
+              "maleVariant": "",
+              "stringId": "1795340042179833856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiem.",
+              "maleVariant": "",
+              "stringId": "1795342932072067072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powodzenia, V.",
+              "maleVariant": "",
+              "stringId": "1795343125697916928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zrób mi Wellesa. Wypiję za Jackiego.",
+              "maleVariant": "",
+              "stringId": "1795344828686004224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Brakuje ci go pewnie, co?",
+              "maleVariant": "",
+              "stringId": "1795345795271749632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm... Jackie marzył o tym miejscu, wiesz? Chciał, żebyśmy stali się legendami Afterlife.",
+              "maleVariant": "",
+              "stringId": "1795346162390790144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No to spełniłaś jego marzenie.",
+              "maleVariant": "No to spełniłeś jego marzenie.",
+              "stringId": "1795346876982751232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powodzenia, V.",
+              "maleVariant": "",
+              "stringId": "1795346995748663296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wypiję za Rogue.",
+              "maleVariant": "",
+              "stringId": "1795348508701224960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spodobałoby się jej, że to właśnie ty zajmujesz teraz jej lożę.",
+              "maleVariant": "",
+              "stringId": "1795349234231930880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Myślisz?",
+              "maleVariant": "",
+              "stringId": "1795350527704952832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pamiętam, jak pierwszy raz prosiłaś ją o pomoc. Nie było lekko, co?",
+              "maleVariant": "Pamiętam, jak pierwszy raz prosiłeś ją o pomoc. Nie było lekko, co?",
+              "stringId": "1795352046563094528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale wiesz, co mi powiedziała? \"To nasza krew, krew Afterlife. Dlatego to miasto jej ulegnie. Albo ją zabije. U takich jak ona trzecia droga nie istnieje\".",
+              "maleVariant": "Ale wiesz, co mi potem powiedziała? \"To nasza krew, krew Afterlife. Dlatego to miasto mu ulegnie. Albo go zabije. U takich jak on trzecia droga nie istnieje\".",
+              "stringId": "1795352444082450432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dlatego wtedy zdecydowała ci się pomóc. No i co, miała rację.",
+              "maleVariant": "",
+              "stringId": "1795356541716131840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Heh, miała rację...",
+              "maleVariant": "",
+              "stringId": "1795356656354848768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A co z moim drinkiem? Wypijmy za mnie. Przyda się.",
+              "maleVariant": "",
+              "stringId": "1795358674402275328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Musiałabyś zginąć, żeby w Afterlife pojawił się drink na twoją cześć. Znasz reguły.",
+              "maleVariant": "Musiałbyś zginąć, żeby w Afterlife pojawił się drink na twoją cześć. Znasz reguły.",
+              "stringId": "1795359538059800576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Och, ale ja umarłam, Claire.",
+              "maleVariant": "Och, ale ja umarłem, Claire.",
+              "stringId": "1795359669979049984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie będziesz zawiedziony. Jestem najlepsza.",
+              "maleVariant": "Nie będziesz zawiedziony. Jestem najlepszy.",
+              "stringId": "1795371768281165828"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz wątpliwości?",
+              "maleVariant": "",
+              "stringId": "1795371984287821824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie będziesz zawiedziony. Wynająłeś do tej roboty najlepszego człowieka.",
+              "maleVariant": "",
+              "stringId": "1795377420693008384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz jakieś wątpliwości? Chyba nie chcesz się teraz wycofać?",
+              "maleVariant": "",
+              "stringId": "1795378485677125632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak słyszałem. Chciałbym się jeszcze o tym przekonać.",
+              "maleVariant": "",
+              "stringId": "1795378935860162560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wycofać? Na tym etapie? O, nie. To nie byłoby... opłacalne.",
+              "maleVariant": "",
+              "stringId": "1795382939944087552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Swoją drogą... Jeszcze nikt nie zrobił takiej akcji jak ta.",
+              "maleVariant": "",
+              "stringId": "1795384639509622784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jest z tym jakiś problem?",
+              "maleVariant": "",
+              "stringId": "1809661701225312256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie. Ale w takim razie potrzebujesz czegoś specjalnego.",
+              "maleVariant": "",
+              "stringId": "1809665156140625920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rogue miała swój mały zwyczaj. Przed każdą dużą akcją wypijała szklaneczkę tequili, tej samej, którą pijał Silverhand.",
+              "maleVariant": "",
+              "stringId": "1809668463433216000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kiedyś zapytałam, czy to na szczęście. Wiesz, co mi powiedziała?",
+              "maleVariant": "",
+              "stringId": "1809671895162417152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Że chodzi o wspomnienia. Że pamięć o Johnnym pomaga jej się skupić na tym, co najważniejsze.",
+              "maleVariant": "",
+              "stringId": "1809673582967123968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oni wszyscy się mylą.",
+              "maleVariant": "",
+              "stringId": "1873363209342808068"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dlatego zleciłeś ten skok mnie.",
+              "maleVariant": "",
+              "stringId": "1873363809044393984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dlatego zleciłeś ten skok mnie.",
+              "maleVariant": "",
+              "stringId": "1873364021578166272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A wiesz dlaczego? Bo jesteś kimś, kto zrobi wszystko, by zyskać choć cień szansy na przeżycie.",
+              "maleVariant": "",
+              "stringId": "1873364335832199168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oni wszyscy się mylą.",
+              "maleVariant": "",
+              "stringId": "1873365548472594432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jestem gotowa.",
+              "maleVariant": "Jestem gotów.",
+              "stringId": "1873687262833405956"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Panie przodem.",
+              "maleVariant": "Siadaj, siadaj.",
+              "stringId": "1903882771434827776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Weyland. Już na posterunku?",
+              "maleVariant": "",
+              "stringId": "1976712403576541184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej. Już na posterunku?",
+              "maleVariant": "",
+              "stringId": "1976712619331538948"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Więc pomyślałam, że może zwyczajem Afterlife zrobię ci jeden z naszych sławnych drinków. Tylko powiedz, czyj.",
+              "maleVariant": "",
+              "stringId": "2009531033890451456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oookej...? To... to coś ci przygotuję.",
+              "maleVariant": "",
+              "stringId": "2009557366116839424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I powodzenia, V.",
+              "maleVariant": "",
+              "stringId": "2009558298376400896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz, Rogue miała taki zwyczaj. Przed każdą dużą akcją wypijała szklaneczkę tequili, tej samej, którą pijał Silverhand.",
+              "maleVariant": "",
+              "stringId": "2009559665820168192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I rzeczywiście dzisiaj na moment je wyłączą. Zakładam, że wiesz już, jak to wykorzystać.",
+              "maleVariant": "",
+              "stringId": "2009569466465775616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jakie wieści?",
+              "maleVariant": "",
+              "stringId": "2009601230986932224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tam, skąd pochodzę, mówią, że to po prostu nie może się udać.",
+              "maleVariant": "",
+              "stringId": "2009606624375336960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pewność siebie godna legendy. Lub kogoś, kto za chwilę może stracić wszystko.",
+              "maleVariant": "",
+              "stringId": "2009609542050639872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pamiętam. Ja nie zapominam. Powodzenia.",
+              "maleVariant": "",
+              "stringId": "2009610536905994240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jutro o tej porze dane wszystkich klientów kasyna trafią do ciebie.",
+              "maleVariant": "",
+              "stringId": "2009611779560828928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale pamiętaj, co mi obiecałeś.",
+              "maleVariant": "",
+              "stringId": "2009613931255558144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nawet jeśli na końcu tej drogi czekać będzie... tylko śmierć.",
+              "maleVariant": "",
+              "stringId": "2009638840170049536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hmm, ale ty już wiesz, jak to jest stracić wszystko. Jak to jest walczyć o jeszcze jeden oddech. Widzę to.",
+              "maleVariant": "",
+              "stringId": "2009652173879242752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wyglądasz jak nowy.",
+              "maleVariant": "",
+              "stringId": "2009655891995521024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, ładnie cię poskładali. Weyland jak nowy.",
+              "maleVariant": "",
+              "stringId": "2009656169708777472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zwarty i gotowy.",
+              "maleVariant": "",
+              "stringId": "2009659264484372480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale to, co ty chcesz dziś odjebać, V... No, pełny szacun. Tego to już chyba nic nie przebije.",
+              "maleVariant": "",
+              "stringId": "2009662342767964160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He he, trzymaj się tam! I powodzenia.",
+              "maleVariant": "",
+              "stringId": "2009663025298665472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzięki.",
+              "maleVariant": "",
+              "stringId": "2009663187433680896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He he. Dali radę. Ale już miałem dość grzania dupy w tej klinice. Tu mi znacznie lepiej.",
+              "maleVariant": "",
+              "stringId": "2009664975784243200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Opowiedziałeś już wszystkim, jakie salto wywinąłeś w Arasaka Tower?",
+              "maleVariant": "",
+              "stringId": "2009668234909446144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No a co myślisz. Claire słyszała to już trzy razy.",
+              "maleVariant": "",
+              "stringId": "2009669081538097152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przynajmniej możesz opowiadać wszystkim, jak było w Arasaka Tower, co?",
+              "maleVariant": "",
+              "stringId": "2009670066260013056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No a jak!",
+              "maleVariant": "",
+              "stringId": "2009670769493798912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej.",
+              "maleVariant": "",
+              "stringId": "2050595512664190980"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[napij się]",
+              "maleVariant": "",
+              "stringId": "2169634013014913028"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[wstań]",
+              "maleVariant": "",
+              "stringId": "2170548781791834116"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Siadaj, porozmawiajmy.",
+              "maleVariant": "",
+              "stringId": "2232849145293631488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chciałbym wiedzieć, o czym myślisz, V.",
+              "maleVariant": "",
+              "stringId": "2232850298341355520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystko w porządku?",
+              "maleVariant": "",
+              "stringId": "2232851514152644608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V...?",
+              "maleVariant": "",
+              "stringId": "2232853090724409344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szefowo?",
+              "maleVariant": "Szefie?",
+              "stringId": "2232863366500773888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To na co masz ochotę?",
+              "maleVariant": "",
+              "stringId": "2232864293676838912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej, szefowo.",
+              "maleVariant": "Hej, szefie.",
+              "stringId": "2232866513503842304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak życie?",
+              "maleVariant": "",
+              "stringId": "2232867747602296832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej, Rogue. I jak tam? Wszystko dobrze?",
+              "maleVariant": "",
+              "stringId": "2251555151481597952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej. Jak sytuacja?",
+              "maleVariant": "",
+              "stringId": "2251556229082181632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cześć. Widzę, że klient już jest.",
+              "maleVariant": "",
+              "stringId": "2251556931560992768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej. Widzę, że klient już czeka.",
+              "maleVariant": "",
+              "stringId": "2251557460898934784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty mi to powiedz. Afterlife to teraz twoja domena.",
+              "maleVariant": "",
+              "stringId": "2251558769555337216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Siadaj, pogadajmy chwilę, zanim stąd znikniesz.",
+              "maleVariant": "",
+              "stringId": "2251558894595928064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O, nie, nie. Sytuacja nie jest taka jak zwykle.",
+              "maleVariant": "",
+              "stringId": "2251563033635778560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzisiaj lecisz. I dobrze wiesz, o jaką stawkę tym razem chodzi.",
+              "maleVariant": "",
+              "stringId": "2251564103267184640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie musisz mi przypominać.",
+              "maleVariant": "",
+              "stringId": "2251564761051492352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz, że przed każdą dużą akcją wypijałam szklaneczkę tequili, ulubionej tequili Johnny'ego?",
+              "maleVariant": "",
+              "stringId": "2251564832606318592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Każdy ma swoje sposoby na zaklinanie szczęścia.",
+              "maleVariant": "",
+              "stringId": "2251566981851574272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tu nie chodzi o szczęście, tylko o wspomnienia. Pamięć o Johnnym... dzięki niej wiedziałam, po co to wszystko. Po co ja w tym wszystkim.",
+              "maleVariant": "",
+              "stringId": "2251568095959379968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rogue...",
+              "maleVariant": "",
+              "stringId": "2251568890779987968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uszanuj zwyczaj Afterlife. Claire zrobi ci jeden z firmowych drinków. Tylko powiedz, czyj.",
+              "maleVariant": "",
+              "stringId": "2251569519623598080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wypiję za Johnny'ego.",
+              "maleVariant": "",
+              "stringId": "2251572984018038784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wypiję za Jackiego.",
+              "maleVariant": "",
+              "stringId": "2251572984018038808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A mój drink? Wypiję za mnie.",
+              "maleVariant": "",
+              "stringId": "2251572984034816008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak go znam, to poleciałby z tobą. Nie odmówiłby sobie takiej akcji.",
+              "maleVariant": "",
+              "stringId": "2251575208358113300"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiem.",
+              "maleVariant": "",
+              "stringId": "2251575208358113316"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Brakuje ci go?",
+              "maleVariant": "",
+              "stringId": "2251575802640658468"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jackie marzył o tym miejscu. Chciał pracować z takimi fixerami jak ty. Z legendami.",
+              "maleVariant": "",
+              "stringId": "2251575802640658484"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No to spełniłaś jego marzenie.",
+              "maleVariant": "No to spełniłeś jego marzenie.",
+              "stringId": "2251575802657435652"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może w końcu pora na drinka V? Wypijmy za mnie. Przyda się.",
+              "maleVariant": "",
+              "stringId": "2251576361321951260"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Musiałabyś zginąć, żeby w Afterlife pojawił się drink na twoją cześć. Znasz reguły.",
+              "maleVariant": "Powolutku, kolego. Znasz reguły. Musiałbyś zginąć, żeby w Afterlife pojawił się drink na twoją cześć.",
+              "stringId": "2251576361321951276"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystko się zgadza. Ja umarłam, Rogue.",
+              "maleVariant": "Wszystko się zgadza. Ja umarłem, Rogue.",
+              "stringId": "2251576361338728460"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[napij się]",
+              "maleVariant": "",
+              "stringId": "2251576888092979200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powodzenia, V. Jeśli komuś to ma się udać, to właśnie tobie.",
+              "maleVariant": "",
+              "stringId": "2251577551396990976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[wstań] Dzięki.",
+              "maleVariant": "",
+              "stringId": "2251578122510200832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pamiętam ten jego uśmiech, za każdym razem, gdy świat chwiał się w posadach. Tym razem też by się uśmiechał.",
+              "maleVariant": "",
+              "stringId": "2251646316474200064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No tak. Żywa legenda Afterlife.",
+              "maleVariant": "",
+              "stringId": "2251677011447836672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No to najwyraźniej zmartwychwstałaś. I chyba trochę ci odwaliło.",
+              "maleVariant": "No to najwyraźniej zmartwychwstałeś. I chyba trochę ci odwaliło.",
+              "stringId": "2251677119275003904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chciał, żeby wszyscy w Afterlife nas znali. \"Pierwsza liga, V, liczy się tylko pierwsza liga\".",
+              "maleVariant": "",
+              "stringId": "2251703887524458496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ktoś taki zasługuje na coś specjalnego, Claire.",
+              "maleVariant": "",
+              "stringId": "2252986653444599808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To długa historia, może jeszcze zdążę ci ją kiedyś opowiedzieć.",
+              "maleVariant": "",
+              "stringId": "2252989992228024320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O, i za to chętnie wypiję. Claire, podaj nam coś na taką okazję.",
+              "maleVariant": "",
+              "stringId": "2252990746397437952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzięki, Rogue.",
+              "maleVariant": "",
+              "stringId": "2252992202609455104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm. Przed tobą ważne spotkanie, rozumiem.",
+              "maleVariant": "",
+              "stringId": "2252994920988209204"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzisiaj lecę, Rogue.",
+              "maleVariant": "",
+              "stringId": "2252994920988209220"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W ten sposób zaklinałaś szczęście? Nie wiem, czy to by mi pomogło.",
+              "maleVariant": "",
+              "stringId": "2252994921004986372"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dlatego mów, co chcesz, ale ja za ciebie wypiję.",
+              "maleVariant": "",
+              "stringId": "2252994921004986420"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pij. Przyda ci się, a czas leci.",
+              "maleVariant": "",
+              "stringId": "2253001053597528064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trudny wybór?",
+              "maleVariant": "",
+              "stringId": "2253001991175467008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Siadaj, pogadajmy.",
+              "maleVariant": "",
+              "stringId": "2253002691355799552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trzymaj się tam i powodzenia. I wracaj tu. Afterlife to twój dom. Twoja przestrzeń.",
+              "maleVariant": "",
+              "stringId": "2253033502897532928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystko gra?",
+              "maleVariant": "",
+              "stringId": "2253046357499768836"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej. Wszystko gra?",
+              "maleVariant": "",
+              "stringId": "2253046658885677056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cześć. Klient już jest?",
+              "maleVariant": "",
+              "stringId": "2253069653939253248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej. Klient już jest?",
+              "maleVariant": "",
+              "stringId": "2253070618494955520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hm... Jest, jest. Waruje pod lożą.",
+              "maleVariant": "",
+              "stringId": "2253073078924013568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czeka. I jeszcze chwilę niech poczeka.",
+              "maleVariant": "",
+              "stringId": "2253074152011526144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Heh, dużo zależy od mojej rozmowy z klientem.",
+              "maleVariant": "",
+              "stringId": "2253076830326288384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiem. Czeka na ciebie. Ale pogadajmy chwilę. Zanim znikniesz.",
+              "maleVariant": "",
+              "stringId": "2253078486187175936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He he, czekam na swoją chwilę. I już mnie trochę dupa od tego czekania boli.",
+              "maleVariant": "",
+              "stringId": "2253098355813183488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słyszałem, że szykuje się gruba akcja. Powodzenia, V.",
+              "maleVariant": "",
+              "stringId": "2253100375991316480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzięki.",
+              "maleVariant": "",
+              "stringId": "2253101370544680960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No cóż, V... Twój wyczyn w Mikoshi znokautował Arasakę. Przyniósł ci fortunę i wpływy w tym mieście. Ale nie tylko.",
+              "maleVariant": "",
+              "stringId": "2303786710141693952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sparaliżowane systemy Japończyków pozwoliły moim ludziom skorzystać z paru nowych furtek.",
+              "maleVariant": "",
+              "stringId": "2303789378222354432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czyli nasza akcja jest aktualna.",
+              "maleVariant": "",
+              "stringId": "2303790937429700608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówią, że podejmujesz zbyt duże ryzyko. Że, poetycko ujmując, chcesz spalić się w słońcu.",
+              "maleVariant": "",
+              "stringId": "2303794015176421376"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

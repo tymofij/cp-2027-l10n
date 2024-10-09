@@ -1,0 +1,91 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С чёрного хода припаркуй.",
+              "maleVariant": "",
+              "stringId": "1656617804154314752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У тебя для нас что-то есть?",
+              "maleVariant": "",
+              "stringId": "1656626781374160896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сергей предупреждал?",
+              "maleVariant": "",
+              "stringId": "1656629202695528452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сергей передаёт привет.",
+              "maleVariant": "",
+              "stringId": "1656629970488041472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сергей про меня предупреждал?",
+              "maleVariant": "Сергей предупреждал про меня?",
+              "stringId": "1656630829783490560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сергей передаёт привет.",
+              "maleVariant": "",
+              "stringId": "1656630909005504512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это не твоё дело. Тебе уже пора.",
+              "maleVariant": "",
+              "stringId": "1656633501370589184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот идиотка…",
+              "maleVariant": "Ну ведь клоун…",
+              "stringId": "1656636522443874304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Беги к Шу, скажи, посылка доставлена.",
+              "maleVariant": "",
+              "stringId": "1656638485378146304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, только что сообщение пришло.",
+              "maleVariant": "",
+              "stringId": "1925848600335372288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что… И всё? Сергей может выдохнуть?",
+              "maleVariant": "",
+              "stringId": "1925852722262462464"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

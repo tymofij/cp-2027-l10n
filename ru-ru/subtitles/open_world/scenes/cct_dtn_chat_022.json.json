@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну? Долго мне ещё ждать, пока ваша милость соизволит сходить?",
+              "maleVariant": "",
+              "stringId": "2172211025015451648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Рот закрой. Гениев торопить нельзя.",
+              "maleVariant": "",
+              "stringId": "2178091326430232576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, конечно. Из тебя такой же гений, как из меня, сука, Ричард Найт.",
+              "maleVariant": "",
+              "stringId": "2178091716232069120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, пока что счёт 3:0. Ещё что-нибудь скажешь?",
+              "maleVariant": "",
+              "stringId": "2178091840249249792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно-ладно. Посмотрим, как ты будешь умничать, когда я с тебя последнюю банку сниму.",
+              "maleVariant": "",
+              "stringId": "2178092036442013696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха! Тебе бы только языком трепать.",
+              "maleVariant": "",
+              "stringId": "2178092138749476864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это часть стратегии. Я сначала тебя отвлеку, а потом такую карту сыграю, что у тебя челюсть отвиснет.",
+              "maleVariant": "",
+              "stringId": "2178092638542741504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давай-давай, играй!",
+              "maleVariant": "",
+              "stringId": "2178092858861142016"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

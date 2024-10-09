@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну что такое? Что опять не так?",
+              "maleVariant": "",
+              "stringId": "2178224416110252032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ничего.",
+              "maleVariant": "",
+              "stringId": "2178224719777861632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если ты не скажешь, я сам не догадаюсь.",
+              "maleVariant": "",
+              "stringId": "2178224793060741120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну и ладно.",
+              "maleVariant": "",
+              "stringId": "2178224863374053376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты издеваешься, что ли?",
+              "maleVariant": "",
+              "stringId": "2178226291467456512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот, опять крики! Наорать — это запросто! А вот свозить меня куда-нибудь — это из разряда фантастики!",
+              "maleVariant": "",
+              "stringId": "2178226467309457408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Никто на тебя не орёт! Ты сама говорила, что здесь всё есть: друзья, кафе, магазины!",
+              "maleVariant": "",
+              "stringId": "2178226564734750720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И тебе этого достаточно? Окей, всё ясно с тобой.",
+              "maleVariant": "",
+              "stringId": "2178226815755456512"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

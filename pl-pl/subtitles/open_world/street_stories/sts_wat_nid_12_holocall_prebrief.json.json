@@ -1,0 +1,37 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Max Jones potrzebuje pomocy. Jemu oczywiście wydaje się, że nie, ale jeśli jej nie udzielisz, to ten uparty osioł zginie.",
+              "maleVariant": "",
+              "stringId": "2328836340497272836"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Max to dziennikarz i mój znajomy sprzed lat. Przyprowadź go do mnie, a jakby się opierał, użyj siły. Przypominam - jest uparty. Szczegóły w załączniku.",
+              "maleVariant": "",
+              "stringId": "2340208327672565760"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

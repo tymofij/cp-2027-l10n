@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No tak, oczywiście!",
+              "maleVariant": "",
+              "stringId": "1806855581997850624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tylko na chwilkę.",
+              "maleVariant": "",
+              "stringId": "1806856496708444160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zaufałem ci. Miałaś iść do sklepu i wrócić prosto do domu!",
+              "maleVariant": "",
+              "stringId": "1806856641848139776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz pieniądze?",
+              "maleVariant": "",
+              "stringId": "1806856805711208448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A co z pieniędzmi na zakupy?!",
+              "maleVariant": "",
+              "stringId": "1806856959910600704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słuchaj, już za chwilę się odegram, czuję to, potrzebuję tylko momencik.",
+              "maleVariant": "",
+              "stringId": "1806857168015187968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przestań!",
+              "maleVariant": "",
+              "stringId": "1806857406754971648"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

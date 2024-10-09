@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мам, мам! Хочу «Кироси»!",
+              "maleVariant": "",
+              "stringId": "1806832832411721728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет.",
+              "maleVariant": "",
+              "stringId": "1806834059245641728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А Кэйко купили! И Сакуре тоже! Даже у тупой Кейт есть! Ну ма-а-ам!",
+              "maleVariant": "",
+              "stringId": "1806834237168017408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм, а если Кэйко, Сакура и Кейт с крыши прыгнут, ты тоже прыгнешь?",
+              "maleVariant": "",
+              "stringId": "1806834455389265920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну ма-а-ам! Они пишут урок и могут послушать заново! А надо мной все смеются, потому что мне зубрить приходится!",
+              "maleVariant": "",
+              "stringId": "1806834614319833088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У тебя же есть ноутбук.",
+              "maleVariant": "",
+              "stringId": "1806834854452125696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это другое!",
+              "maleVariant": "",
+              "stringId": "1806835050728775680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А если имплант сломается, что делать будешь? Знания надо держать в голове.",
+              "maleVariant": "",
+              "stringId": "1806835239371792384"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

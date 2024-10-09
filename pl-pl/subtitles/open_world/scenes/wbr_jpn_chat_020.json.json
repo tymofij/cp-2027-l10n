@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czysta robota, mówię ci. Klamka jest, psy opłacone. Wchodzimy, bierzemy, spierdalamy. To jak, wchodzisz w to?",
+              "maleVariant": "",
+              "stringId": "2160323573585059840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Brzmi dobrze. A Wakako się zgodziła?",
+              "maleVariant": "",
+              "stringId": "2169430319558873088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie. I nie musi. Założymy maski, nikt nas nie rozpozna.",
+              "maleVariant": "",
+              "stringId": "2169431743055319040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O, nie, nie, nie. Przed nią się nie ukryjesz. Nie mam pojęcia, jak ona to robi, ale wie wszystko. Wszystko, kumasz? A jeśli ją wkurzysz, huh... jesteś trupem.",
+              "maleVariant": "",
+              "stringId": "2169432328915701760"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

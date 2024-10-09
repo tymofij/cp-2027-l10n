@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak przy okazji... Co wiesz o biochipach? Chodzi mi o Relic Arasaki.",
+              "maleVariant": "",
+              "stringId": "1987755068515913728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ma służyć do przechowywania śladu pamięciowego. Wiesz... chodzi tak jakby o czyjąś osobowość zapisaną na biochipie.",
+              "maleVariant": "",
+              "stringId": "1987759630492602368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co wiesz o Relicu Arasaki?",
+              "maleVariant": "",
+              "stringId": "1987799977012727812"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak, wiem. Ale co w przypadku, gdy engram zacznie się nadpisywać na osobowość nosiciela?",
+              "maleVariant": "",
+              "stringId": "2005649229918375936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nadpisywać? Nie wiem nawet czy to możliwe...",
+              "maleVariant": "",
+              "stringId": "2005649542360469504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A czemu cię to interesuje?",
+              "maleVariant": "",
+              "stringId": "2005649745180233728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nieważne... To nic takiego. Dzięki.",
+              "maleVariant": "",
+              "stringId": "2005649966488489984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

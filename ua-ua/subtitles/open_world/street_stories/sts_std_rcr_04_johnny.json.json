@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тільки загониш у кут одну блядоту, як зростають рейтинги в іншої! У політиці, блядь, усе як завжди.",
+              "maleVariant": "",
+              "stringId": "1918462827203420160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ось тобі ще одна причина знову скинути на це місто ядерку.",
+              "maleVariant": "",
+              "stringId": "1925428901852082176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так? Зате голови гідрам рубити — ось на це в нас час завжди є.",
+              "maleVariant": "",
+              "stringId": "1925431081631870976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вибач, Джонні, але зараз мені не до твоїх ігор в анархістів.",
+              "maleVariant": "",
+              "stringId": "1925432832418246656"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

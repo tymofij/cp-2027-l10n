@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Э-э. Что это? Херня какая-то…",
+              "maleVariant": "",
+              "stringId": "1816999226980081664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О-о! Это планшет от «Зетатеха». Крутая была штука в своё время.",
+              "maleVariant": "",
+              "stringId": "1817076610177605632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В «Посмертии» есть нетраннер, как там его, Никс? Он вроде любит старинные игрушки.",
+              "maleVariant": "",
+              "stringId": "1843072635970572288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не меньше. У меня такой был, кстати. Навороченная модель, считалось…",
+              "maleVariant": "",
+              "stringId": "1843074024754958336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ого! Планшет от «Зетатеха»… Этой хреновине лет пятьдесят! Это как минимум.",
+              "maleVariant": "О бля! Планшет от «Зетатеха»… Да этой хреновине, блядь, лет пятьдесят!",
+              "stringId": "1843075924070027264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если хочешь выудить что-то из этой рухляди, тебе к нему.",
+              "maleVariant": "",
+              "stringId": "1843084489425997824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отнеси его Никсу.",
+              "maleVariant": "",
+              "stringId": "1892462086408425472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Открыть.]",
+              "maleVariant": "",
+              "stringId": "2146297219442974724"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Взять.]",
+              "maleVariant": "",
+              "stringId": "2148997357420584960"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

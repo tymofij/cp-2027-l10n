@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что с уровнем загрязнения? Высокий?",
+              "maleVariant": "",
+              "stringId": "1963247775511519232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну-у… стандартный для здешних мест. Багровый.",
+              "maleVariant": "",
+              "stringId": "1967813427649105920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Плохо. Арендаторы будут часто меняться. Болеть, умирать, съезжать…",
+              "maleVariant": "",
+              "stringId": "1967813920446271488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зато в рабочих никогда недостатка нет. Они к нам в очередь выстраиваются, на коленях просят.",
+              "maleVariant": "",
+              "stringId": "1967814742798290944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм. Что ж, убедили.",
+              "maleVariant": "",
+              "stringId": "1967815396774170624"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

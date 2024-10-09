@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты думаешь, что можешь зарабатывать на говне, но сам возиться в говне ты не хочешь.",
+              "maleVariant": "",
+              "stringId": "2161904328059940864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй, о чём она говорит?",
+              "maleVariant": "",
+              "stringId": "2227410684245020672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не гляди на меня, приятель, я просто охранник.",
+              "maleVariant": "",
+              "stringId": "2227411668614615040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты думаешь, что ты лучше нас, потому что не пачкаешься. Так вот, готовься к тому, что я тебя затяну в такое говно, что в жизни не отмоешься.",
+              "maleVariant": "",
+              "stringId": "2227411956243206144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хватит.",
+              "maleVariant": "",
+              "stringId": "2227412958027550720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет, не хватит. Меняем правила игры. Или ты даёшь нам доступ к своим данным и ездишь с нами на все дела, или… ну, ты сам знаешь. Мы друг друга поняли?",
+              "maleVariant": "",
+              "stringId": "2227413064613203968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Все ясно, мистер фиксер?",
+              "maleVariant": "",
+              "stringId": "2227492232185090048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да. Ясно, как божий день.",
+              "maleVariant": "",
+              "stringId": "2227492476343914496"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

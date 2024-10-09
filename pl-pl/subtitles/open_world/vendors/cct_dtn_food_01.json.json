@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Daj coś do picia.",
+              "maleVariant": "",
+              "stringId": "1979191361760894976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jakie piwo polecasz?",
+              "maleVariant": "",
+              "stringId": "1979191702573260800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Daj coś do picia.",
+              "maleVariant": "",
+              "stringId": "1979192270549131264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pewnie. Co tylko chcesz.",
+              "maleVariant": "",
+              "stringId": "1979193755081089024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Polecasz jakieś konkretne piwo?",
+              "maleVariant": "",
+              "stringId": "1979195265936498688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hm... Calavera Feliz jest fajne, z taką słodową nutą. Albo Abydos, ma taki niecodzienny ziołowy posmak.",
+              "maleVariant": "",
+              "stringId": "1979196494079041536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Za to unikałbym Brosepha. Spienione siki, serio.",
+              "maleVariant": "",
+              "stringId": "1979196930689310720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

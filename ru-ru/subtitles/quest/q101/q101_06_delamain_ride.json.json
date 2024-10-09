@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подключите её.",
+              "maleVariant": "Подключите его.",
+              "stringId": "1651833571497889792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Личный порт повреждён.",
+              "maleVariant": "",
+              "stringId": "1651835426001014784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пожалуйста, вставьте штекер чуть ниже уха, но не слишком глубоко.",
+              "maleVariant": "",
+              "stringId": "1651835543290531840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если я поврежу вену, она умрёт.",
+              "maleVariant": "Если я поврежу вену, он умрёт.",
+              "stringId": "1651976446402940928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как и в случае, если вы ей не поможете.",
+              "maleVariant": "Как и в случае, если вы ему не поможете.",
+              "stringId": "1651977667314503680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кажется, я нашёл порты.",
+              "maleVariant": "",
+              "stringId": "1651994664748240896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Над вами кабель, подключите его.",
+              "maleVariant": "",
+              "stringId": "1651996370387128320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что дальше?",
+              "maleVariant": "",
+              "stringId": "1652000628125782016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дальше я справлюсь сам.",
+              "maleVariant": "",
+              "stringId": "1652001223616286720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Между лимфоузлами под мышцей должны быть дополнительные нейропорты.",
+              "maleVariant": "",
+              "stringId": "1764721937822015488"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

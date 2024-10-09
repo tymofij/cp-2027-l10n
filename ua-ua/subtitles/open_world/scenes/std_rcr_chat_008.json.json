@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Агов, діду! А де Ларс? І шо ти робиш у його хаті?",
+              "maleVariant": "",
+              "stringId": "1963294577585594368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ларса хапнув кіберпсихоз. «Макс-Так» його забрав минулого тижня. А зараз я тут мешкаю.",
+              "maleVariant": "",
+              "stringId": "1969389514669146112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якого… І шо він, типу, не повернеться?",
+              "maleVariant": "",
+              "stringId": "1969389843653574656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Наскі’ки мені відомо, він х’тів з’їсти сусідку. Тож ні, гадаю, уже не повернеться.",
+              "maleVariant": "",
+              "stringId": "1969390122675453952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та шо за хуйня?.. У чумби навіть і хрому толком не було! Ті’ки одне око від «Кіроші»!",
+              "maleVariant": "",
+              "stringId": "1969390325897871360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не пощастило, синку, не пощастило.",
+              "maleVariant": "",
+              "stringId": "1969390486556491776"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

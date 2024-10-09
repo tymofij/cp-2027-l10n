@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Капець, минулої ночі я ледве не всрався. Курив, напевно, до четвертої ранку і заснув в якійсь трубі… Н-ага, типу, каналізаційної… Бля, чувак, як же мене спина болит’…",
+              "maleVariant": "",
+              "stringId": "2178222126977589248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, да, нормас, тіки прокидатися тре було рано, бо, ну… Ти ж знаєш, у мене дитина.",
+              "maleVariant": "",
+              "stringId": "2228592536150446080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, ага, кажуть, що не можна нажиратися, коли в тебе є діти, але це все туфта. Кури, пий с’іки хоч’, головне зраня прокидатися.",
+              "maleVariant": "",
+              "stringId": "2228594071852912640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То називається відповідальність.",
+              "maleVariant": "",
+              "stringId": "2228594876622409728"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

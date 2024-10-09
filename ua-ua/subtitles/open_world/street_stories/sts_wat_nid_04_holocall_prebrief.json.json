@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, для тебе є робота, але ліпше б її взагалі не було. У проповідника з «Н54», Брайса Стоуна, убили сина. Жорстоко.",
+              "maleVariant": "",
+              "stringId": "2328604850818359296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Єдиний спосіб спіймати цю гниль — отримати оригінальний мозкограй із записом цього убивства.",
+              "maleVariant": "",
+              "stringId": "2339571511948840960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, на жаль, ти все вірно зрозуміла. Більше інформації про це все в листі.",
+              "maleVariant": "Так, на жаль, ти все вірно зрозумів. Більше інформації про це все в листі.",
+              "stringId": "2339571795198578688"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

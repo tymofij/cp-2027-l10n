@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, I have. The mirror doesn't tell me how desperate you are.",
+              "maleVariant": "",
+              "stringId": "1973539329958518784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So – are we drinking tonight?",
+              "maleVariant": "",
+              "stringId": "1976242292912836608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Huh? You see a watering hole around these parts?",
+              "maleVariant": "",
+              "stringId": "1976242322826612736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, I mean – we grab a crate of beer, hunker down somewhere...",
+              "maleVariant": "",
+              "stringId": "1976242349418500096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And enjoy the view.",
+              "maleVariant": "",
+              "stringId": "1976242599852003328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What... is this a date or something?",
+              "maleVariant": "",
+              "stringId": "1976242627903508480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hah – go look in a mirror, man.",
+              "maleVariant": "",
+              "stringId": "1976242647482519552"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

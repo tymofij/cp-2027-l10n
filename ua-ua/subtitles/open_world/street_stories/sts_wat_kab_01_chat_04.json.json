@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що ж, значить, я тут надовго…",
+              "maleVariant": "",
+              "stringId": "1410807266953109504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага-ага… Шкода, що ти, розумнику, додумався до цього тільки коли тебе вже звільнили!",
+              "maleVariant": "",
+              "stringId": "1486653806918078464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Алло? Ти що, паскудо, слухавку кинув?!",
+              "maleVariant": "",
+              "stringId": "1486654139778043904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та я ж казала тобі! «Мілітех» перекрив прохід!",
+              "maleVariant": "",
+              "stringId": "1488132715052371968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мудило!",
+              "maleVariant": "",
+              "stringId": "1491149012820398080"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

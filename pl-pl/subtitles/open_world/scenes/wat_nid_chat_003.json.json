@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uwielbiam niszczyć tych śmieci!",
+              "maleVariant": "",
+              "stringId": "1802510207875145728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lubię jak się orientują, że to już koniec. Jak się kurwy poddają.",
+              "maleVariant": "",
+              "stringId": "1802510776069120000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "E tam. Nie może być za łatwo.",
+              "maleVariant": "",
+              "stringId": "1802512292377124864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pierdolisz.",
+              "maleVariant": "",
+              "stringId": "1802512551601889280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co to za przyjemność dojeżdżać frajera? Taką pizdę podległą. Zero wyzwania.",
+              "maleVariant": "",
+              "stringId": "1802512644564443136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Frajer, twardziel - co za różnica. Ważne, żeby im oczy gasły.",
+              "maleVariant": "",
+              "stringId": "1802512836395130880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

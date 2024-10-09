@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja pierdolę, tak zjebać robotę... Myślałam, że go stamtąd wyciągniemy.",
+              "maleVariant": "",
+              "stringId": "2172268298303680512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, jak on krwawił...! Przecież nam nie darują. Miałyśmy go przyprowadzić żywego!",
+              "maleVariant": "",
+              "stringId": "2180750530634825728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie udało się. Nie pierwszy raz, nie ostatni. Jesteśmy tylko ludźmi.",
+              "maleVariant": "",
+              "stringId": "2180750733857243136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Skasują nas, zobaczysz. Może za godzinę, może za tydzień...",
+              "maleVariant": "",
+              "stringId": "2180750875289174016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie panikuj. Dopóki tu jesteśmy, nic nam nie zrobią.",
+              "maleVariant": "",
+              "stringId": "2180750987545526272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie chcę psuć twojego wykurwiście genialnego planu, ale kiedyś będziemy musiały stąd wyjść!",
+              "maleVariant": "",
+              "stringId": "2180751121998135296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I wyjdziemy. Ale najpierw spokojnie zastanowimy się, co zrobić.",
+              "maleVariant": "",
+              "stringId": "2180751226687963136"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

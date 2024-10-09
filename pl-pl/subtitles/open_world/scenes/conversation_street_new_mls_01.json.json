@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Najłatwiej werbować tanie kurwy, skazańców, dzieciaki, co dopiero przyjechały do miasta, no i gliniarzy, na których jest wyrok.",
+              "maleVariant": "",
+              "stringId": "2276533709036494864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przypartych do muru skurwysynów.",
+              "maleVariant": "",
+              "stringId": "2276533709036494876"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dokładnie. Urabiasz ich krok po kroku, odbierasz wszystko. Wszystko, rozumiesz? A potem inicjacja.",
+              "maleVariant": "",
+              "stringId": "2276533709036494888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Look who it is!",
+              "maleVariant": "",
+              "stringId": "1796890166039658500"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ah, V!",
+              "maleVariant": "",
+              "stringId": "1796890166073212932"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You're busy, I understand...",
+              "maleVariant": "",
+              "stringId": "1796890166157099012"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"¿A dónde te me vas?\" t=\"Where are you zipping off to?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1796890166173876228"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, since you're here...",
+              "maleVariant": "",
+              "stringId": "1796890166240985092"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Where were you? Listen...",
+              "maleVariant": "",
+              "stringId": "1796890166274539524"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Rayito de sol\" b=\"\" a=\", what's wrong?\"/>",
+              "maleVariant": "",
+              "stringId": "1796890166291316740"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Are you getting enough sleep?",
+              "maleVariant": "",
+              "stringId": "1796890166324871172"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Where are your manners?!",
+              "maleVariant": "",
+              "stringId": "1796890166526197764"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You're a big girl. You don't need to hang on to me.",
+              "maleVariant": "You're a big boy. You don't need to hang on to me.",
+              "stringId": "1796890166660415492"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hello? V...? Maybe disconnected...",
+              "maleVariant": "",
+              "stringId": "1966188492791619588"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V...?",
+              "maleVariant": "",
+              "stringId": "1966188492841951236"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

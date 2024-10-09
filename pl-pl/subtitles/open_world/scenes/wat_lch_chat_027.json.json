@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak się nie robi. W ogóle nie myślą o ludziach!",
+              "maleVariant": "",
+              "stringId": "2156532550940782592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ledwo sypiam od tego hałasu. Czy im się wydaje, że AV-ki nie wydają dźwięku?",
+              "maleVariant": "",
+              "stringId": "2172120706013970432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "U mnie to samo. Dzieciaki śpią jak zabite, ale ja już ledwo wytrzymuję.",
+              "maleVariant": "",
+              "stringId": "2172121053604331520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To chyba kwestia wieku. Poszedłem się poskarżyć do administracji. Wie pani, co mi powiedzieli?",
+              "maleVariant": "",
+              "stringId": "2172121474527903744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"Niech se pan zainstaluje wszczepy wytłumiające i nie zawraca mi głowy\"!",
+              "maleVariant": "",
+              "stringId": "2172121682833817600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czasem drżą mi szyby, kiedy przelatują za blisko. Ciekawe, czy na to też wymyślą jakieś wszczepy!",
+              "maleVariant": "",
+              "stringId": "2172121878523265024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cholerne lądowisko...",
+              "maleVariant": "",
+              "stringId": "2172122344795652096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

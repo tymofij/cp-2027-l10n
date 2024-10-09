@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не подобається мені це. Чому її досі немає? Вона ж казала, що все пройшло на ура…",
+              "maleVariant": "",
+              "stringId": "2156520533437739008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Заспокойся. Якби щось пішло не так, то вони би вже прийшли за нами.",
+              "maleVariant": "",
+              "stringId": "2172367324411838464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Разом із тим, вона є кращою з кращих. Ти ж знав, що це вона обнулила того їбанька з наглядової ради?",
+              "maleVariant": "",
+              "stringId": "2172367493761056768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та мене якось не обходять її «рахунки». Якщо Браун дізнається про це замовлення, він…",
+              "maleVariant": "",
+              "stringId": "2172367622089981952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Його слово проти нашого. Вони нічого не доведуть.",
+              "maleVariant": "",
+              "stringId": "2172367788234752000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хіба якщо вони її не схопили.",
+              "maleVariant": "",
+              "stringId": "2172367899115372544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А навіть якщо й так, то вона мовчатиме. Бо балакучим найманцям гріш ціна.",
+              "maleVariant": "",
+              "stringId": "2172368028232826880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

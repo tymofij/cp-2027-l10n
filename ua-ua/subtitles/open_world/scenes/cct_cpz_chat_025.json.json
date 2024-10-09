@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А в якому році стався цей теракт?",
+              "maleVariant": "",
+              "stringId": "2205812533449035776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У 2023-му.",
+              "maleVariant": "",
+              "stringId": "2205812658976165888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Правильно. Тепер уважно подивіться на те, що ви бачите тут. Це місце спогадів, і для того, щоби пам’ятати, вам потрібно відчувати та розуміти.",
+              "maleVariant": "",
+              "stringId": "2205812731302744064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спробуйте уявити собі той день. Ту трагедію. Подумайте про те, що відчували жертви, про їхній страх і безпомічність.",
+              "maleVariant": "",
+              "stringId": "2205815856394768384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подумайте також і про терористів. Якими ж бездумними й егоїстами треба було бути, щоби підірвати ядерну бомбу посеред цілого міста?",
+              "maleVariant": "",
+              "stringId": "2205816600246194176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подумайте про те, якими жорстокими дикунами вони були. І ніколи в житті не забувайте про це місце та жорстокий теракт, який було вчинено саме там, де ви зараз ходите.",
+              "maleVariant": "",
+              "stringId": "2205817327169409024"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

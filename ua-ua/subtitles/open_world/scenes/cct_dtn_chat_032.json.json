@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зберися, чумбо! Мусимо роз’їбати на концерті! Іншої нагоди не буде!",
+              "maleVariant": "",
+              "stringId": "2172281829514260480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тож роз’їбемо, роз’їбемо. Почнемо нову епоху.",
+              "maleVariant": "",
+              "stringId": "2180821017675153408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не почнемо, якщо ти знову, блядь, струганеш на сцені.",
+              "maleVariant": "",
+              "stringId": "2180821237825781760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добре, мамцю. Більше так не буду. Обіцяю.",
+              "maleVariant": "",
+              "stringId": "2180821358336524288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можеш хоч раз мене послухати? Я серйозно.",
+              "maleVariant": "",
+              "stringId": "2180821847677583360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ти можеш хоч раз до мене не дойобуватися? Марк, ондо, теж іноді виробляє якусь хуйню.",
+              "maleVariant": "",
+              "stringId": "2180821958289768448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Щойно він перейде на вокал і раптом стругане, не доспівавши й першого куплету — я до нього теж доїбуся.",
+              "maleVariant": "",
+              "stringId": "2180822253837205504"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

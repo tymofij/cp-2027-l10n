@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну что тут сказать, Ви… Хванбо пострадал, а вместе с ним и моя репутация.",
+              "maleVariant": "",
+              "stringId": "2328461726368391168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Безупречная работа. Хванбо говорит, тебя надо прозвать Бешеной Львицей — видимо, он всем доволен.",
+              "maleVariant": "Безупречная работа. Хванбо говорит, тебя надо прозвать Бешеным Львом — видимо, он всем доволен.",
+              "stringId": "2328472824983314436"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я недовольна. Надеюсь, больше такого не повторится. Заказ закрываю.",
+              "maleVariant": "",
+              "stringId": "2339566199225290752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сейчас закрою заказ и вышлю тебе твои деньги.",
+              "maleVariant": "",
+              "stringId": "2339569079537733632"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rany, mamo... Weź mi tu nie wyjeżdżaj z dwudziestowiecznymi argumentami!",
+              "maleVariant": "",
+              "stringId": "2156416211431710720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie chodzi o modę. To jest sposób wyrażania siebie. Nie mogę się wyrazić, jeśli czegoś mi zakazujesz!",
+              "maleVariant": "",
+              "stringId": "2170615755093819392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, takie wkładki chemiczne. Implementują je pod kilka warstw skóry. Emitują pochłonięte wcześniej światło.",
+              "maleVariant": "",
+              "stringId": "2170616557464174592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A czemu nie jedno i drugie? Kuzynka mojej koleżanki jest agentką Microtechu i jakoś nikt nie ma z tym problemu.",
+              "maleVariant": "",
+              "stringId": "2170616882539511808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na starość? Daj spokój, i tak nie dożyję. A nawet jeśli zdążę zmienić zdanie, to po prostu wymienię sobie skórę.",
+              "maleVariant": "",
+              "stringId": "2170617485445545984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Serio, nie rozumiem, gdzie tu problem.",
+              "maleVariant": "",
+              "stringId": "2170618013709746176"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

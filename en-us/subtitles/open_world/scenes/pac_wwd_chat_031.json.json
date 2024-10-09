@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Found two of 'em yesterday. Right 'round here, not even swole up yet. Lead to the skull.",
+              "maleVariant": "",
+              "stringId": "2179665325831348224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Way it is. Maybe today we'll get a better catch.",
+              "maleVariant": "",
+              "stringId": "2211510122474303488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yep. Gangs got 'em. Ain't nobody gonna come for 'em after.",
+              "maleVariant": "",
+              "stringId": "2212661038854369280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Grabbed a few things off 'em, then left 'em on the sand. Tide should wash 'em out.",
+              "maleVariant": "",
+              "stringId": "2212708700978868224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Found one yesterday, too. Naked, gutted for chrome. Fishes already gnawin' at the holes in 'er.",
+              "maleVariant": "",
+              "stringId": "2212709487243096064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Scavs. Fucking vultures.",
+              "maleVariant": "",
+              "stringId": "2212715433390436352"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

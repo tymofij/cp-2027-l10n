@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stary, ale ci gały wyjebało... Weź może jakieś soczewki czy coś, bo się jeszcze góra dowie.",
+              "maleVariant": "",
+              "stringId": "2172056382439284736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Góra? A myślisz, że od kogo dostaję towar?",
+              "maleVariant": "",
+              "stringId": "2192573717917569024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wydawało mi się, że akurat tego nie pozwalają nam brać.",
+              "maleVariant": "",
+              "stringId": "2198357636038365184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ta, z nieznanych źródeł, to nie pozwalają.",
+              "maleVariant": "",
+              "stringId": "2198357764082077696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A nerki?",
+              "maleVariant": "",
+              "stringId": "2198357845938114560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W nocy robią mi dializy, a w dzień zamieniam się w napierdalacza tasków. Korpo-skurwiel. Nie do powstrzymania.",
+              "maleVariant": "",
+              "stringId": "2198357939353653248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To się odbije na twoim zdrowiu, w pewnym momencie to już ci nawet wszczepy nie pomogą.",
+              "maleVariant": "",
+              "stringId": "2198360104050724864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"W pewnym momencie to już ci nawet wszczepy nie pomogą\" - nie bądź pizda.",
+              "maleVariant": "",
+              "stringId": "2198360370909122560"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

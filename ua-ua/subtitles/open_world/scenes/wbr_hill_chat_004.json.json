@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Крихітко, я завжди тобі казав: хто не ризикує, той не виграє.",
+              "maleVariant": "",
+              "stringId": "1806742988473884672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, я знаю. Слухай, може, завтра з’їздимо до моєї сестри?",
+              "maleVariant": "",
+              "stringId": "1806743579317100544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От я, наприклад, учора зіграв на зниження, а сьогодні фіксую 17% прибутку!",
+              "maleVariant": "",
+              "stringId": "1806743791163006976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу. Добре, забий. Я сама з’їжджу.",
+              "maleVariant": "",
+              "stringId": "1806744038056517632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Га?.. А, ну так, з’їздь, авжеж. Я однаково буду зайнятим. До речі, смакує?",
+              "maleVariant": "",
+              "stringId": "1806744357058502656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу.",
+              "maleVariant": "",
+              "stringId": "1806744877689069568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Щось не так?",
+              "maleVariant": "",
+              "stringId": "1806745086649294848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні.",
+              "maleVariant": "",
+              "stringId": "1806745318090989568"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

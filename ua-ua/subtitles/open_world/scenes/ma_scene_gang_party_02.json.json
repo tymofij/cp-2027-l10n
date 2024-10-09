@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха-ха! Мене аж щойно взяло! Пішли ви всі нахуй! Ха-ха!",
+              "maleVariant": "",
+              "stringId": "2007003522984443904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це наше місто! А всякі позери хай подавляться та здохнуть!",
+              "maleVariant": "",
+              "stringId": "2007003768552554496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хвойд ми купляєм! Крадіїв поважаєм! А в стукачів стріляєм! Ха-ха-ха!",
+              "maleVariant": "",
+              "stringId": "2007003849385181184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну шо ви, лузери? Чого такі кислі? Невже вам страшно? І правильно!",
+              "maleVariant": "",
+              "stringId": "2007003943538917376"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

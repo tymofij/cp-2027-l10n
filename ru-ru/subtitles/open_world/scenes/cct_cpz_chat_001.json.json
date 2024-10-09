@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С чего он вообще вдруг заговорил про Морриса?",
+              "maleVariant": "",
+              "stringId": "1963272610757255168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Моррис? Не припомню такого.",
+              "maleVariant": "",
+              "stringId": "1965118425461932032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А-а, точно. Ты ж к нам только через месяц пришёл. К тому времени Морриса уже упекли в больницу.",
+              "maleVariant": "",
+              "stringId": "1965118740336721920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Короче, Моррис всюду совал свой нос. Следил за нами из окошка, стучал… крысёныш…",
+              "maleVariant": "",
+              "stringId": "1965119318395699200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Жрал таблетки, как леденцы, чтоб не спать на ходу… Ну, в общем, оказалось — фатальная бессонница.",
+              "maleVariant": "",
+              "stringId": "1965119740443344896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знать не знал, что таблетки только ускоряют процесс. Заснул на прошлой неделе, да так и не проснулся.",
+              "maleVariant": "",
+              "stringId": "1965120148398129152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Наконец-то. Сраный хорёк… Невелика потеря.",
+              "maleVariant": "",
+              "stringId": "1965120546907340800"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

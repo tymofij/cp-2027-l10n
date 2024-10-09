@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, как там наш корпоративный царь?",
+              "maleVariant": "",
+              "stringId": "2161935480598589440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нормально.",
+              "maleVariant": "",
+              "stringId": "2227630222672760832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Условия хорошие? Вода достаточно водянистая?",
+              "maleVariant": "",
+              "stringId": "2227630290301718528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё отлично.",
+              "maleVariant": "",
+              "stringId": "2227630408010665984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А обед? Вы уже распробовали нашу кухню? Почувствовали этот… неповторимый букет запахов?",
+              "maleVariant": "",
+              "stringId": "2227630527347003392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, круто.",
+              "maleVariant": "",
+              "stringId": "2227630706393452544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха! Я же говорил, что на «Милитехе» свет клином не сошёлся, а ты не верил. Теперь ты бы уже и жить-то не захотел бы в своём корпоратском апартаменте.",
+              "maleVariant": "",
+              "stringId": "2227630985012678656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Конечно, нет.",
+              "maleVariant": "",
+              "stringId": "2227632256339775488"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що в меню?",
+              "maleVariant": "",
+              "stringId": "1979199944430952452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу побалакати з менеджером.",
+              "maleVariant": "",
+              "stringId": "1979202558304428032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Музика тут просто жахлива.",
+              "maleVariant": "",
+              "stringId": "1979202635865497600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Музика тут просто жахлива.",
+              "maleVariant": "",
+              "stringId": "1979204222990131200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А мені подобається. Не дає задрімати.",
+              "maleVariant": "",
+              "stringId": "1979204932347600896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що в тебе є хороше?",
+              "maleVariant": "",
+              "stringId": "1979205486868144128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сама поглянь.",
+              "maleVariant": "Сам поглянь.",
+              "stringId": "1979206603123433472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу з твоїм босом поговорити. Він тут?",
+              "maleVariant": "",
+              "stringId": "1979208885126799360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ох, тобі не пощастило. Він неговіркий.",
+              "maleVariant": "",
+              "stringId": "1979209470433533952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мені байдуже говіркий він чи ні. Я спитала чи він тут.",
+              "maleVariant": "Мені байдуже говіркий він чи ні. Я спитав чи він тут.",
+              "stringId": "1979209914543218688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ем, звичайно. Він нагорі у ВІП-кімнаті. Просто не очікуй гостинної зустрічі.",
+              "maleVariant": "",
+              "stringId": "1979210323387195392"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę kupić trochę żelastwa.",
+              "maleVariant": "",
+              "stringId": "1866067841231114240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Macie tu problemy z Kosiarzami?",
+              "maleVariant": "",
+              "stringId": "1866067841231114256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę kupić trochę nowego żelastwa.",
+              "maleVariant": "",
+              "stringId": "1866067841247891460"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ależ proszę, kurwa, bardzo.",
+              "maleVariant": "",
+              "stringId": "1866067841247891468"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kosiarze bardzo wam się tu dają we znaki?",
+              "maleVariant": "",
+              "stringId": "1866067841264668676"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jednym bardzo, innym nie. Jeśli chodzi o mnie, to wiedzą, żeby się nie zbliżać.",
+              "maleVariant": "",
+              "stringId": "1866067841264668684"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

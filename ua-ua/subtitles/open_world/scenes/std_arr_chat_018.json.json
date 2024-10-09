@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Órale, esa mesa es de los Calle 6.\" t=\"Агов, це столик «Шостої вулиці».\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2167925460681805824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знаю.",
+              "maleVariant": "",
+              "stringId": "2214493555875221504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Pero podrían aparecer en cualquier momento.\" t=\"Але ж вони вот-от вернуться.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2221658101366755328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну я надіюся. Мені подобаються такі поганці.",
+              "maleVariant": "",
+              "stringId": "2221658188574724096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Eh, estás casada.\" t=\"Так ти ж заміжня.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2221658314202517504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, ніхто ж не ідеальний.",
+              "maleVariant": "",
+              "stringId": "2221658616477618176"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

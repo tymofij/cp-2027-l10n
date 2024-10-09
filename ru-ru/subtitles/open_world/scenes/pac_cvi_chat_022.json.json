@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, они охраняют всё побережье, но они нетраннеры, а не солдаты.",
+              "maleVariant": "",
+              "stringId": "2179447526193917952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хотят они того или нет, куча людей лезет на их территорию. «Мусорщики» и «Животные» тут как у себя дома.",
+              "maleVariant": "",
+              "stringId": "2211194910394793984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Придумают что-нибудь. Иногда мозги важнее, чем мускулы.",
+              "maleVariant": "",
+              "stringId": "2212603361100546048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, конечно. Должно же быть равновесие. Иначе их раздавят.",
+              "maleVariant": "",
+              "stringId": "2212603492415815680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм… Ну если так… тогда скоро тут будет жарко.",
+              "maleVariant": "",
+              "stringId": "2212603603296436224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не просто жарко, тут будет ещё одна боевая зона. Сто процентов.",
+              "maleVariant": "",
+              "stringId": "2212603709563322368"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

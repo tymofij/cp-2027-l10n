@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Быстро в лифт.",
+              "maleVariant": "",
+              "stringId": "1199713875651371008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пошли.",
+              "maleVariant": "",
+              "stringId": "1780446051313819648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, ты ещё им дверь подержишь?",
+              "maleVariant": "",
+              "stringId": "1789366170710614016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давай, давай!",
+              "maleVariant": "",
+              "stringId": "1789367420999081984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Заходи!",
+              "maleVariant": "",
+              "stringId": "1789372393531023364"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лифт, скорее всего, забит. Приготовься, а то тебя быстро уложат.",
+              "maleVariant": "",
+              "stringId": "2233328576890486784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Надо сваливать отсюда. Скорее.",
+              "maleVariant": "",
+              "stringId": "2233356649551708160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спускаемся?",
+              "maleVariant": "",
+              "stringId": "2237419660830654464"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

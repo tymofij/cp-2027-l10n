@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я вже п’ять років гарую, як дурний. П’ять років, і хоч би хуй, а цю сучку вдруге вже підвищують.",
+              "maleVariant": "",
+              "stringId": "2156523842609377280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, у тебе два варіанти: або змиритися, або усунути конкурентів.",
+              "maleVariant": "",
+              "stringId": "2172343915632115712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Типу… Застрелити її, чи що?",
+              "maleVariant": "",
+              "stringId": "2172344289814364160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Також варіант, і не найгірший причому. Так ти навіть продемонструєш керівництву, що готовий на все.",
+              "maleVariant": "",
+              "stringId": "2172344537865502720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І ти так робив?",
+              "maleVariant": "",
+              "stringId": "2172344688961110016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нє-а, зацсикотно. Я у свій час змирився, і всі перестали в мені бачити потенційну загрозу.",
+              "maleVariant": "",
+              "stringId": "2172344917936553984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ех… Вибір, то завжди важко…",
+              "maleVariant": "",
+              "stringId": "2172345079014604800"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

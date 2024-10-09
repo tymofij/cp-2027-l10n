@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кхе-кхе-кхе.",
+              "maleVariant": "",
+              "stringId": "2162076589666054144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это что такое? Ты фильтрами против смога пользуешься?",
+              "maleVariant": "",
+              "stringId": "2209932055038758912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это не смог. Это я вчера попил… Кхе-кхе-кхе…",
+              "maleVariant": "",
+              "stringId": "2217586485489930240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Извини… Попил вчера воды из-под крана, и что-то в горло попало, кхе-кхе… Дерёт страшно.",
+              "maleVariant": "",
+              "stringId": "2217587775070638080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Из-под крана?!",
+              "maleVariant": "",
+              "stringId": "2217589334126989312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "По радио говорили, что можно.",
+              "maleVariant": "",
+              "stringId": "2217590374045945856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, в Норт-Оуке и можно, но у нас тут Уэллспрингс вообще-то! Иди-ка лучше к риперу, а то потом всё горло переустанавливать придётся.",
+              "maleVariant": "",
+              "stringId": "2217591236529065984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

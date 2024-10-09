@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bujasz, nie przejedziemy. Nie ma szans.",
+              "maleVariant": "",
+              "stringId": "2178293551208062976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A chcesz się założyć?",
+              "maleVariant": "",
+              "stringId": "2182404667176894464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widziałeś ten jebany Mur Chiński? Nawet jednej dziury. Mysz się nie prześlizgnie, a co dopiero my.",
+              "maleVariant": "",
+              "stringId": "2182404870130876416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ten mur zbudowali ludzie. A dzieła rąk ludzkich mają to do siebie, że nie są idealne.",
+              "maleVariant": "",
+              "stringId": "2182405080567496704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Granice są szczególnie nietrwałe. Nie podzielisz ziemi, tak jak nie podzielisz nieba.",
+              "maleVariant": "",
+              "stringId": "2182405361887854592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No nie wiem, ja tam widzę całkiem solidny kawał betonu.",
+              "maleVariant": "",
+              "stringId": "2182405481610067968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cierpliwości. Niedługo zrozumiesz, o co mi chodzi.",
+              "maleVariant": "",
+              "stringId": "2182405680252305408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ani się obejrzysz, jak będziemy po drugiej stronie.",
+              "maleVariant": "",
+              "stringId": "2182405930685808640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

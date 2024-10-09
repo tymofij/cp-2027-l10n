@@ -1,0 +1,91 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви? Я провёл разведку местности.",
+              "maleVariant": "",
+              "stringId": "1712754532066279424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, всё готово.",
+              "maleVariant": "",
+              "stringId": "1720104092217249792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм. По голосу слышу, что всё получилось.",
+              "maleVariant": "",
+              "stringId": "1720104672323047424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я высылаю тебе координаты. Приходи, как только сможешь.",
+              "maleVariant": "",
+              "stringId": "1720105466875219968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви?",
+              "maleVariant": "",
+              "stringId": "1904250206757601284"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Надо встретиться.",
+              "maleVariant": "",
+              "stringId": "1904250206791155712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На уличном рынке в южной части Джапан-тауна.",
+              "maleVariant": "",
+              "stringId": "1904250206824710144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он на пешеходном мосту над улицей. Поднимись на лифте, там легко потеряться.",
+              "maleVariant": "",
+              "stringId": "1904250206858264576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я сейчас иду туда. Не заставляй меня ждать.",
+              "maleVariant": "",
+              "stringId": "1904250206875041792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сведения, которые дала нам Окада… очень пригодились. Кроме того, я и сам кое-что узнал.",
+              "maleVariant": "",
+              "stringId": "1996734695352377344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Где на этот раз? На заводе по утилизации отходов? На заброшенной станции МОСТа?",
+              "maleVariant": "",
+              "stringId": "2012772198345678848"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

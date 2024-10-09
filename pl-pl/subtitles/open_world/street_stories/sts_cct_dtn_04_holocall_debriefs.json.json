@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dostałem cynk, że Joanne Koch została załatwiona. Sztos. Lubię pracować z profesjonalistami.",
+              "maleVariant": "",
+              "stringId": "2328541762800967680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dostałem cynk, że Joanne już do mnie jedzie. Szykuję jej gorące powitanie.",
+              "maleVariant": "",
+              "stringId": "2328548195739230208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zjebałaś, V. Joanne Koch wciąż żyje i wie, że ktoś chce ją sprzatnąć, więc w przyszłości będzie bardziej czujna.",
+              "maleVariant": "Zjebałeś, V. Joanne Koch wciąż żyje i wie, że ktoś chce ją sprzatnąć, więc w przyszłości będzie bardziej czujna.",
+              "stringId": "2328662887673487360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kontrakt zamknięty, kasa już pędzi na twoje konto.",
+              "maleVariant": "",
+              "stringId": "2333237877287927808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzięki za pomoc, V. Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2333238985389490176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oby to była ostatnia taka akcja z twojej strony. To miasto nie toleruje miernot.",
+              "maleVariant": "",
+              "stringId": "2333241064724086784"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

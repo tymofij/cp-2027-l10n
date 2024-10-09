@@ -1,0 +1,91 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę obejrzeć, co masz na sprzedaż.",
+              "maleVariant": "",
+              "stringId": "1751768568234586112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Polecasz jakąś fajną broń?",
+              "maleVariant": "",
+              "stringId": "1751768568234586128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę obejrzeć, co masz na sprzedaż.",
+              "maleVariant": "",
+              "stringId": "1751768568268140544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pewnie. Nie spiesz się.",
+              "maleVariant": "",
+              "stringId": "1751768568268140552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Polecisz jakąś fajną broń? Coś nietypowego?",
+              "maleVariant": "",
+              "stringId": "1751768568301694976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hmm... Może Quasar DR12? To pistolet elektromagnetyczny. Lekki, niewielki... Ale zabójczy. I do tego cichy.",
+              "maleVariant": "",
+              "stringId": "1751768568301694984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z klasyki sugeruję Crushera. Tu naprawdę czuć moc, odrzut jest taki, że aż cię cofa. No i ta sylwetka... Cholera, dziś już się takich cacek nie robi.",
+              "maleVariant": "",
+              "stringId": "1976257049499324416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, a jeśli szukasz czegoś bardziej uniwersalnego... To może Dian od Kang-Tao? Możesz niego strzelać z zamkniętymi oczami, ma zajebistą funckję samonaprowadzania pocisków.",
+              "maleVariant": "",
+              "stringId": "1976262380476485632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co nowego w okolicy?",
+              "maleVariant": "",
+              "stringId": "1976265534962192384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co nowego słychać w okolicy?",
+              "maleVariant": "",
+              "stringId": "1976267316467650560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Głównie syreny. Powiem ci, mieszkać koło komendy policji to słaby interes. Radiowozy jeżdżą w te i wewte... A w nocy niesie się wycie biedaków, których gliny wzięły na spytki.",
+              "maleVariant": "",
+              "stringId": "1976267781632741376"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

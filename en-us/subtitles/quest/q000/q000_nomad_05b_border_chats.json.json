@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Those little shits imagine Night City as some kind of paradise.",
+              "maleVariant": "",
+              "stringId": "1826840345187471360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What can you do? Young, naïve – which is just a euphemism for ignorant.",
+              "maleVariant": "",
+              "stringId": "1826845102048301056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hands – on your head! Hit the ground, flat on your gut! Only saying this once!",
+              "maleVariant": "",
+              "stringId": "1885222865276522496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What'd I do...?!",
+              "maleVariant": "",
+              "stringId": "1885223767538421760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Leave him alone!",
+              "maleVariant": "",
+              "stringId": "1885223825117827072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "On the ground! That's not negotiable!",
+              "maleVariant": "",
+              "stringId": "1885224014482264064"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привіт і радий вітати вас боком новин на «Каналі 54». Ми почнемо з тривожних подій у Пустці.",
+              "maleVariant": "",
+              "stringId": "1792314718506885120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На гуманітарну колону «Мілітеху» напала жорстока банда кочівників.",
+              "maleVariant": "",
+              "stringId": "1802524310112026624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Корпоративні служби безпеки відкрили вогонь у відповідь лише тоді, коли втратили усі шляхи до відступу.",
+              "maleVariant": "",
+              "stringId": "1802524495986802688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Попри те, що кілька вантажівок «Мілітеху» зазнали шкоди, кочівники так і не змогли їх розкрити.",
+              "maleVariant": "",
+              "stringId": "1802524682130014208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Підкріплення, прибувши на місце події, змогло відбити напад та захистити вантаж.",
+              "maleVariant": "",
+              "stringId": "1802525109210824704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На жаль, понад десяток працівників загинули під час нападу, включно з Ліндою Нопс, ветеранкою Єднальної війни та власницею відзнаки «Багряне серце». Колектив новин «Каналу 54» висловлює ширі співчуття сім’ям загиблих.",
+              "maleVariant": "",
+              "stringId": "1802525344242843648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Мілітех» у співпраці з поліцією Найт-Сіті вже оголосили про удар у відповідь по найближчім таборам кочівників.",
+              "maleVariant": "",
+              "stringId": "1802525640461369344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми продовжимо після перерви.",
+              "maleVariant": "",
+              "stringId": "1802525923945988096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

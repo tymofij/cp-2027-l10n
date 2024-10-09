@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да сколько ж можно гнить в этой жопе мира…",
+              "maleVariant": "",
+              "stringId": "1650635782160347136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ты бы хотел куда-нибудь в горячую точку?",
+              "maleVariant": "",
+              "stringId": "1650638960050270208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А хоть бы и так. И время быстрей, и денег прибавится.",
+              "maleVariant": "",
+              "stringId": "1934203350185484288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ла-адно. Отправить бы тебя на две недели в Мексику. Прибавится только говна в штанах.",
+              "maleVariant": "",
+              "stringId": "1934208430628478976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А мы тут, считай, на курорте, так что не ной.",
+              "maleVariant": "",
+              "stringId": "1934212375019069440"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

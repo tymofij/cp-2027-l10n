@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ничего не изменилось.",
+              "maleVariant": "",
+              "stringId": "1949136005979983872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Могли бы смотреть какие хочешь брейндансы, но нет, им подавай жёсткую наркоту. По старинке.",
+              "maleVariant": "",
+              "stringId": "1949191773495857152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну… Иногда гигиена перестаёт быть приоритетом.",
+              "maleVariant": "",
+              "stringId": "1949193347618148352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага… Господи, как же тут воняет.",
+              "maleVariant": "Ну да… Господи, как же тут воняет.",
+              "stringId": "1949202215685427200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дня два пролежал, не меньше.",
+              "maleVariant": "",
+              "stringId": "1949269826641170432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эх… Глупый пацан… «Блестяшки»? Видимо, этим он себя и обнулил.",
+              "maleVariant": "",
+              "stringId": "1949270059643146240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А эти так удолбались, что и не заметили.",
+              "maleVariant": "",
+              "stringId": "1949273548783980544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мёртвый.",
+              "maleVariant": "",
+              "stringId": "1949299030002864128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это он.",
+              "maleVariant": "",
+              "stringId": "1949299058842898432"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie bądź taki! No weź mnie na akcję! Weeeź!",
+              "maleVariant": "",
+              "stringId": "1963262113051877376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ocipiałaś? Za mała gówniara jesteś na żołnierkę. Karabinu to nawet przez pięć sekund nie utrzymasz.",
+              "maleVariant": "",
+              "stringId": "1966497025691992064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A-ale pistolet utrzymam!",
+              "maleVariant": "",
+              "stringId": "1966497183129387008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ta. I pewnie sobie niechcący dupę odstrzelisz czy coś.",
+              "maleVariant": "",
+              "stringId": "1966497338536738816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie ma opcji, młoda. Matka mnie zajebie, jeśli coś ci się stanie.",
+              "maleVariant": "",
+              "stringId": "1966497499698675712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kiedy ja też chcę strzelać do Maelstromowców!",
+              "maleVariant": "",
+              "stringId": "1966497634386165760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ja chcę, żeby Lizzy Wizzy zrobiła mi loda. Ale nie można mieć wszystkiego.",
+              "maleVariant": "",
+              "stringId": "1966497858261336064"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

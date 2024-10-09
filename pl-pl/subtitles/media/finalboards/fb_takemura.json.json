@@ -1,0 +1,91 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"もしもし、Vか\" t=\"Dobry wieczór, V.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1790682030662393860"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nim samurajowie popełniali seppuku, spisywali jisei. Wiersz śmierci.",
+              "maleVariant": "",
+              "stringId": "1790682030712725508"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzwonię, żeby się pożegnać.",
+              "maleVariant": "",
+              "stringId": "1790922098093641728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Arasaka-sama... Ma dla mnie nowe zadania. Zadania, które wymagają, bym ukrył się w cieniu.",
+              "maleVariant": "",
+              "stringId": "1790922338477592576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Życzę ci, aby nasze drogi już się nie przecinały.",
+              "maleVariant": "",
+              "stringId": "1790922521399578624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Życzę ci, żebyś sama decydowała o swoim losie.",
+              "maleVariant": "Życzę ci, żebyś sam decydował o swoim losie.",
+              "stringId": "1790922941131968512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"達者でな\" t=\"Żegnaj, V.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1790923083771858944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zawierali w nim swoje ostatnie przemyślenia. O życiu. O śmierci.",
+              "maleVariant": "",
+              "stringId": "1790924310018576384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sporo ich ostatnio czytałem. Niektóre z nich są naprawdę piękne.",
+              "maleVariant": "",
+              "stringId": "1790924510388867072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale ja nie jestem samurajem, więc pożegnam się prostymi słowami.",
+              "maleVariant": "",
+              "stringId": "1790924744598802432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niech cię piekło pochłonie, suko.",
+              "maleVariant": "Niech cię piekło pochłonie, skurwysynu.",
+              "stringId": "1790925161076412416"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

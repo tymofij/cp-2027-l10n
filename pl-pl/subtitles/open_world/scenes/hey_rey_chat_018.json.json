@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I to też podrożało? Poszaleliście już z tymi cenami.",
+              "maleVariant": "",
+              "stringId": "2161828864410808320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Panie, a to ja sobie te ceny wymyślam? Sam ledwo wiążę koniec z końcem.",
+              "maleVariant": "",
+              "stringId": "2221476507465125888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To wina korporacji. Sztucznie zawyżają, a kto potem to wszystko płaci? Najbiedniejsi.",
+              "maleVariant": "",
+              "stringId": "2221477520003665920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może i ma pan rację. Paliwo też podrożało. Mówią, że zmniejszono produkcję.",
+              "maleVariant": "",
+              "stringId": "2221477767501156352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wie pan, jak to z nimi jest. Raz mówią jedno, raz drugie, a jak nie wiadomo, o co chodzi, to wiadomo, że chodzi o pieniądze.",
+              "maleVariant": "",
+              "stringId": "2221480675210792960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale tak po prawdzie, to stanowisko na bazarze też się tańsze nie robi.",
+              "maleVariant": "",
+              "stringId": "2221484901710270464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Valentinosi?",
+              "maleVariant": "",
+              "stringId": "2221485742986989568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Taa... wszędzie pijawki, a ty biedny człowieku haruj tylko.",
+              "maleVariant": "",
+              "stringId": "2221485819742752768"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

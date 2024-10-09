@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wanna buy something...",
+              "maleVariant": "",
+              "stringId": "1863331944444870656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How's business?",
+              "maleVariant": "",
+              "stringId": "1863331944461647884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wanna get somethin'...",
+              "maleVariant": "",
+              "stringId": "1863331944545533956"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Somethin'...? Out with it, don't be shy!",
+              "maleVariant": "",
+              "stringId": "1863331944545533964"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How's biz treatin' ya?",
+              "maleVariant": "",
+              "stringId": "1863331944612642820"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Egh, not so kindly. I mean, there's no shortage of customers, but... someone's always harassin' me. Y'know, Jesus-freaks or people from the mayor's office. \"Offends public decency.\"",
+              "maleVariant": "",
+              "stringId": "1863331944612642828"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Crazy, right? You can sell guns on every corner and nobody bats an eyelid. But put up a stall with vibrators and all hell breaks loose! Ugh!",
+              "maleVariant": "",
+              "stringId": "1975117007708016640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

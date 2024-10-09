@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cały czas myślę o tamtym domu. I tamtym korytarzu. Było tak ciemno, i te dziwne odgłosy, i ten chłód...",
+              "maleVariant": "",
+              "stringId": "2276536542439841808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"rus\" o=\"Всё в этой стране не слава богу. Даже архитектура.\" t=\"Wszystko w tym kraju jest pojebane. Nawet architektura.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2276536542439841820"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale tego korytarza tam nie powinno być! Widziałam plany! A jeśli... dom był nawiedzony?",
+              "maleVariant": "",
+              "stringId": "2276536542439841832"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "М-м-м-м-м-м! Обожнюю мочити цих покидьків.",
+              "maleVariant": "",
+              "stringId": "1802510207875145728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А найцікавіше, коли вони бачать, їм скоро пиздець. Щойно до них доходить, починають здаватися, як сучки.",
+              "maleVariant": "",
+              "stringId": "1802510776069120000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ой, та годі тобі. Який із того кайф, якшо гра занадто проста?",
+              "maleVariant": "",
+              "stringId": "1802512292377124864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не пиздри.",
+              "maleVariant": "",
+              "stringId": "1802512551601889280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От який прикол кокошити лошар, по типу цього? Геть не цікаво.",
+              "maleVariant": "",
+              "stringId": "1802512644564443136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лошара, не лошара — яка в сраку різниця? Головне, як швидко в них гаснуть очі.",
+              "maleVariant": "",
+              "stringId": "1802512836395130880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

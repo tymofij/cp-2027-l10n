@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ну, надевать галстук, тащиться в офис… У меня на такую работу аллергия.",
+              "maleVariant": "",
+              "stringId": "2156483003242553344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ладно. Тебя бы выучили.",
+              "maleVariant": "",
+              "stringId": "2177971215657005056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В смысле, я бы там и месяца не выдержал. Там жизни нет.",
+              "maleVariant": "",
+              "stringId": "2177971759507238912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет у тебя амбиций. А я вот не хочу здесь торчать всю жизнь.",
+              "maleVariant": "",
+              "stringId": "2177973417398169600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что, думаешь карьеру в корпорации сделать? Не обижайся, чумба, но ты же ноль.",
+              "maleVariant": "",
+              "stringId": "2177974101086498816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Даже если тебя в костюм одеть, ты так и будешь ноль в костюме. Вместо того чтоб тут стоять, будешь там кофе варить.",
+              "maleVariant": "",
+              "stringId": "2177976209378570240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Только денег вдвое больше.",
+              "maleVariant": "",
+              "stringId": "2177976584651337728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не в деньгах счастье.",
+              "maleVariant": "",
+              "stringId": "2177976683989233664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Для тебя, может, и нет.",
+              "maleVariant": "",
+              "stringId": "2177976844480081920"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

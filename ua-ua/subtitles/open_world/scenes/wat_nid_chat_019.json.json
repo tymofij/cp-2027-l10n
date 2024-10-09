@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мішель! Мішель, ти тут?.. Скажи бодай щось, Мішель! Прошу!",
+              "maleVariant": "",
+              "stringId": "2156413510719365120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вони нічого тобі заподіяти. Вони не могли. У тебе ж проблеми з нирками… Нащо їм хворі нирки?",
+              "maleVariant": "",
+              "stringId": "2170759751522828288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Навіть… Це не жарт, ти чуєш? Скажи щось… Бодай що-небудь.",
+              "maleVariant": "",
+              "stringId": "2170760212694941696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тоді я зможу тебе знайти… І ми поїдемо додому.",
+              "maleVariant": "",
+              "stringId": "2170760391472955392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сходимо в кіно, як ти й хотіла. Вибереш що завгодно! Але, будь ласка… Скажи хоч щось!",
+              "maleVariant": "",
+              "stringId": "2170760449723449344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прошу, Мішель!",
+              "maleVariant": "",
+              "stringId": "2170760503158882304"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

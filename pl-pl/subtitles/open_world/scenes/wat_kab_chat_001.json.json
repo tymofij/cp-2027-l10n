@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Znaleźliśmy kasę. Jest zabezpieczona.",
+              "maleVariant": "",
+              "stringId": "1802435321311911936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gdzie?",
+              "maleVariant": "",
+              "stringId": "1802437166755340288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "N-na posterunku… gość, który ją przywiózł był biały... skąd mogliśmy wiedzieć, no?",
+              "maleVariant": "",
+              "stringId": "1802437348083490816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty chyba nie rozumiesz, w co, kurwa, gramy!",
+              "maleVariant": "",
+              "stringId": "1802437612811182080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No spokojnie, wszystko ogarnę...",
+              "maleVariant": "",
+              "stringId": "1802437892806139904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kiedy?",
+              "maleVariant": "",
+              "stringId": "1802438215582998528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Góra dwa dni. Naprawdę. Muszę je tylko  wyciągnąć...",
+              "maleVariant": "",
+              "stringId": "1802438387532685312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie spierdol tego, bo z pensji na pewno nie oddasz.",
+              "maleVariant": "",
+              "stringId": "1802438793709084672"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

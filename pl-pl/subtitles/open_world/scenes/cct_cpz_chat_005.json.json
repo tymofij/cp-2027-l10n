@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Moja matka walczyła na wojnie. Nigdy nie chciała o tym opowiadać.",
+              "maleVariant": "",
+              "stringId": "1963274831959990272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kto dowodził po stronie Arasaki? Yorinobu?",
+              "maleVariant": "",
+              "stringId": "1966168316728557568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Żartujesz? W tamtych czasach Yorinobu nie chciał mieć nic wspólnego z imperium ojca.",
+              "maleVariant": "",
+              "stringId": "1966169661153984512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rozkazy wydawał Kei Arasaka. Przynajmniej oficjalnie.",
+              "maleVariant": "",
+              "stringId": "1966169943061544960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dziś już mało kto pamięta, że Saburo miał jeszcze jednego syna.",
+              "maleVariant": "",
+              "stringId": "1966170574371405824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm. Świat idzie do przodu.",
+              "maleVariant": "",
+              "stringId": "1966170758920781824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nieustannie.",
+              "maleVariant": "",
+              "stringId": "1966171010042150912"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

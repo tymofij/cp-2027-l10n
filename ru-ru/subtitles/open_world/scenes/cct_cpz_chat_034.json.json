@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ом-м-м…",
+              "maleVariant": "",
+              "stringId": "2172148285126074368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ом-м-м…",
+              "maleVariant": "",
+              "stringId": "2208492400590295040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ом-м-м…",
+              "maleVariant": "",
+              "stringId": "2208492723753029632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У тебя не раскрыта Вишуддха! Очисти меридианы на нёбе!",
+              "maleVariant": "",
+              "stringId": "2208493017152983040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Помните, когда мы поём, мы стимулируем энергетические каналы.",
+              "maleVariant": "",
+              "stringId": "2208498522260869120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отбросьте всё, что вас ограничивает, и сосредоточьтесь на освобождающих вас вибрациях.",
+              "maleVariant": "",
+              "stringId": "2208527479299477504"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

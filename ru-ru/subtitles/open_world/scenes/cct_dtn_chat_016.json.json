@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Es lo mismo con Emilio. Siempre me ayuda con las compras.\" t=\"Эмилио тоже. Всегда мне помогает нести пакеты.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2172172634114732032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А уж мальчишкам тем более.",
+              "maleVariant": "",
+              "stringId": "2181106406106959872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот-вот. Золото, а не мальчики, все до единого. Ну нашалят иногда, что ж теперь, мальчишки и есть мальчишки.",
+              "maleVariant": "",
+              "stringId": "2181123114301493248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Si no lo haces mientras eres joven, entonces ¿cuándo?\" t=\"Молодость, она на то и дана.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2181123232127881216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Y te diré una cosa, esos agentes prefieren acosar a nuestros muchachos en lugar de ocuparse de los criminales de verdad.\" t=\"Честное слово, полицейские бы лучше преступников ловили, чем к нашим цепляться.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2181123659493904384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"El otro día, un policía me dijo que Emilio estaba con los Valentinos. ¿Lo puedes creer?\" t=\"Недавно один офицер мне сказал, что Эмилио состоит в этих самых «Валентино». Ты представляешь?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2181124645708992512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ой, да глупости это всё. Они просто играют.",
+              "maleVariant": "",
+              "stringId": "2181124829067186176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Recuerdo cuando Emilio tenía cinco años, era un angelito. No mataba ni a una mosca.\" t=\"Вот я помню, когда Эмилио было пять лет, каким он был заинькой. Он и мухи не обидит!\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2181128622076956672"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

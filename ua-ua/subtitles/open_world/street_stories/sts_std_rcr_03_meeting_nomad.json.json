@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Відвеземо тебе до різаря, гаразд? Це близько, пара хвилин. Потерпиш?",
+              "maleVariant": "",
+              "stringId": "1724016503437045760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На задньому.",
+              "maleVariant": "",
+              "stringId": "1724018074925314052"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ззаду він, кров’ю стікає.",
+              "maleVariant": "",
+              "stringId": "1724018870685446144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Агов, агов! Сюди!",
+              "maleVariant": "",
+              "stringId": "1724019187070185472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І де клієнт?",
+              "maleVariant": "",
+              "stringId": "1724020370719551488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Трясця… Якщо помре, мені не заплатять.",
+              "maleVariant": "",
+              "stringId": "1724021120476557312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Наче в мене є вибір… Арх-х…",
+              "maleVariant": "",
+              "stringId": "1724022098420477952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вилізай із тачки. Швидко, давай!",
+              "maleVariant": "",
+              "stringId": "1724025692754456576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це вже не моя проблема. Я своє зробила.",
+              "maleVariant": "Це вже не моя проблема. Я своє зробив.",
+              "stringId": "1943108840254132224"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

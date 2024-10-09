@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спасибо, что сделала всё тихо и аккуратно, прямо как мы с тобой и договаривались.",
+              "maleVariant": "Спасибо, что сделал всё тихо и аккуратно, прямо как мы с тобой и договаривались.",
+              "stringId": "2328696270354821120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет, спасибо, что вытащила Брюса. Хотя я надеялась, что ты доставишь его к Арчибальду.",
+              "maleVariant": "Привет, спасибо, что вытащил Брюса. Хотя я надеялась, что ты доставишь его к Арчибальду.",
+              "stringId": "2328697285728710656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Брюс спасён и доставлен к Арчибальду. И я знаю, что ты устроила всё это без лишнего кровопролития.",
+              "maleVariant": "Брюс спасён и доставлен к Арчибальду. И я знаю, что ты устроил всё это без лишнего кровопролития.",
+              "stringId": "2332995324261154816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Оплата сейчас поступит на твой счёт. Заказ выполнен.",
+              "maleVariant": "",
+              "stringId": "2332999702443442176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слава богу, всё обошлось испорченными нервами. Пусть теперь «Милитех» ищет ветра в поле.",
+              "maleVariant": "",
+              "stringId": "2333010505980690432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Проверь свой счёт — деньги должны быть уже там.",
+              "maleVariant": "",
+              "stringId": "2333010574666612736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я же просила не устраивать бойню. Из головы вылетело?",
+              "maleVariant": "",
+              "stringId": "2333013215853395968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, работа и выполнена, но твои методы вызывают вопросы. В следующий раз делай как говорят, м?",
+              "maleVariant": "",
+              "stringId": "2333021198419214336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "По факту, конечно, работа сделана. Ты спасла Брюса, но поднимать такой шум не стоило. До связи.",
+              "maleVariant": "По факту, конечно, работа сделана. Ты спас Брюса, но поднимать такой шум не стоило. До связи.",
+              "stringId": "2333023907251732480"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

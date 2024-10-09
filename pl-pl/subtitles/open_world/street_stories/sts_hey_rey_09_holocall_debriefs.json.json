@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spisałaś sie kochana. Brawo. Jak to się mówi - będziemy w kontakcie. Kontrakt zamknięty.",
+              "maleVariant": "Spisałeś sie kochany. Brawo. Jak to się mówi - będziemy w kontakcie. Kontrakt zamknięty.",
+              "stringId": "2328779755594993668"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zginął człowiek, co - nie oszukujmy się - od czasu do czasu się zdarza. Wiesz na czym polega prawdziwy problem?",
+              "maleVariant": "",
+              "stringId": "2328779755628548100"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zawiodłaś mnie, a to znaczy, że jesteś lekkomyślna. Wszyscy moi mężowie byli lekkomyślni i wszyscy nie żyją. Do widzenia, V.",
+              "maleVariant": "Zawiodłeś mnie, a to znaczy, że jesteś lekkomyślny. Wszyscy moi mężowie byli lekkomyślni i wszyscy nie żyją. Do widzenia, V.",
+              "stringId": "2340929764586786816"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

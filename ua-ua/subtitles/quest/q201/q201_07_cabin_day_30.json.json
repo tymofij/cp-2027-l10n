@@ -1,0 +1,817 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чуєш, як тебе звати?",
+              "maleVariant": "",
+              "stringId": "1673415053142888448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Доброго ранку. Будь ласка, прокиньтеся.",
+              "maleVariant": "",
+              "stringId": "1680502215467884544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Доброго ранку.",
+              "maleVariant": "",
+              "stringId": "1680502340407812096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От кого-кого, а тебе не очікувала тут побачити.",
+              "maleVariant": "От кого-кого, а тебе не очікував тут побачити.",
+              "stringId": "1680502455298187264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Сісти] Доброго ранку.",
+              "maleVariant": "",
+              "stringId": "1680502559769911300"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Сісти] Андерс Гельман. Хто б міг подумати…",
+              "maleVariant": "",
+              "stringId": "1680504270441963520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Сісти] Уже ранок?",
+              "maleVariant": "",
+              "stringId": "1680507014959620096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха. Що, уже ранок?",
+              "maleVariant": "",
+              "stringId": "1680507434171916288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хе-хе. Життя сповнене несподіванок.",
+              "maleVariant": "",
+              "stringId": "1680508892833406976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Рівно дві години тому сонце зійшло над Найт-Сіті.",
+              "maleVariant": "",
+              "stringId": "1680509711293112320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Декому не завадило б поприбирати.",
+              "maleVariant": "",
+              "stringId": "1680512680709349376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чого тобі?",
+              "maleVariant": "",
+              "stringId": "1680513650231107584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мене просили поговорити з тобою.",
+              "maleVariant": "",
+              "stringId": "1680513909522980864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отже, ти тут поговорити зі мною. Про що саме?",
+              "maleVariant": "",
+              "stringId": "1680514399786786816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Схоже, ти повернувся в корпорацію.",
+              "maleVariant": "",
+              "stringId": "1680514555311579136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гм, бачу, ти повернувся до «Арасаки». Цього разу назавжди?",
+              "maleVariant": "",
+              "stringId": "1680517539256885248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гаразд. Що ти маєш мені сказати?",
+              "maleVariant": "",
+              "stringId": "1680518018196070400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тобі ще не остогидла вся ця їбанута родина?",
+              "maleVariant": "",
+              "stringId": "1680520431497928704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Арасака» завжди отримує своє. А їхній новий проєкт чудово підходить до моїх умінь і відповідає амбіціям.",
+              "maleVariant": "",
+              "stringId": "1680520748234989568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чому відправили саме тебе?",
+              "maleVariant": "",
+              "stringId": "1680527260915359744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Цікаво, чому вони відправили саме тебе.",
+              "maleVariant": "",
+              "stringId": "1680527578273177600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У мене погані новини. Настільки погані, що ліпше тобі їх почути від когось знайомого.",
+              "maleVariant": "",
+              "stringId": "1680529463747043328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так вийшло, що я — єдиний знайомий у межах сотень тисяч кілометрів.",
+              "maleVariant": "",
+              "stringId": "1680530578274279424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Боюся, що приніс погані новини.",
+              "maleVariant": "",
+              "stringId": "1680531684731674624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але він завдав неймовірної шкоди, на генетичному рівні змінив ДНК… щось таке робить променева хвороба.",
+              "maleVariant": "",
+              "stringId": "1680532169777766400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Послухай мене…",
+              "maleVariant": "",
+              "stringId": "1680557721662283776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На жаль, це смертельно.",
+              "maleVariant": "",
+              "stringId": "1680558369749360640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отже, я помру.",
+              "maleVariant": "",
+              "stringId": "1680558764685025284"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не вірю тобі.",
+              "maleVariant": "",
+              "stringId": "1680561833170722816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пиздець.",
+              "maleVariant": "",
+              "stringId": "1680562012116508672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отже, ти кажеш, що я помру.",
+              "maleVariant": "",
+              "stringId": "1680562450521939968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні, я не вірю тобі.",
+              "maleVariant": "",
+              "stringId": "1680562590091599872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бля. Пиздець!",
+              "maleVariant": "",
+              "stringId": "1680562800159121408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Операція пройшла успішно. Ми вилучили біочип.",
+              "maleVariant": "",
+              "stringId": "1680571882219790336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Результати обстеження однозначні.",
+              "maleVariant": "",
+              "stringId": "1680574338890752000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можливо, ви помиляєтеся.",
+              "maleVariant": "",
+              "stringId": "1680575583290417152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На твоєму місці я б на це не сподівався.",
+              "maleVariant": "",
+              "stringId": "1680577772566110208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, справи кепські. Але ми не здаємося.",
+              "maleVariant": "",
+              "stringId": "1680579236445315072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ще є варіанти?",
+              "maleVariant": "",
+              "stringId": "1680579692231942144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скільки мені залишилося?",
+              "maleVariant": "",
+              "stringId": "1680580143404834816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу поговорити з Ханакою Арасака.",
+              "maleVariant": "",
+              "stringId": "1680580334178557952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скільки мені лишилося?",
+              "maleVariant": "",
+              "stringId": "1680580627259744256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу поговорити з Ханакою Арасака.",
+              "maleVariant": "",
+              "stringId": "1680580859775180800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Які ще варіанти? Я вже пережила операцію.",
+              "maleVariant": "Які ще варіанти? Я вже пережив операцію.",
+              "stringId": "1680581072258621440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Десь зо шість місяців. Потім стане раптово гірше.",
+              "maleVariant": "",
+              "stringId": "1680593767544414208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Останні дні перед смертю будуть найобтяжливіші.",
+              "maleVariant": "",
+              "stringId": "1680593916677087232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Боюся, це неможливо.",
+              "maleVariant": "",
+              "stringId": "1680596951826456576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми домовлялися.",
+              "maleVariant": "",
+              "stringId": "1680597106512388096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І обидві сторони виконали свої домовленості. Ти і твої справи вже не цікаві Ханако.",
+              "maleVariant": "",
+              "stringId": "1680597241099214848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ханако Арасака обіцяла врятувати мені життя.",
+              "maleVariant": "",
+              "stringId": "1680599349827493888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Саме тому вона відправила мене обговорити з тобою можливі варіанти.",
+              "maleVariant": "",
+              "stringId": "1680599667202088960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Корпорація «Арасака» може ошукати смерть. Усе, що треба від тебе, так це лише дрібка довіри.",
+              "maleVariant": "",
+              "stringId": "1680602697687392256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я вже довірилася вам раз, нічого доброго з цього не вийшло.",
+              "maleVariant": "Я вже довірився вам раз, нічого доброго з цього не вийшло.",
+              "stringId": "1680665358676549632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти можеш долучитися до нашої пілотної програми «Збережи свою душу».",
+              "maleVariant": "",
+              "stringId": "1680667781675638784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми ще маємо розв’язати проблему сумісності.",
+              "maleVariant": "",
+              "stringId": "1680671550895316992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не піду у в’язницю душ «Арасаки».",
+              "maleVariant": "",
+              "stringId": "1680679322756079616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Звідки мені знати, що це не пастка?",
+              "maleVariant": "",
+              "stringId": "1680679500024143872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Звідки мені знати, що це не один із ваших підступів?",
+              "maleVariant": "",
+              "stringId": "1680680165492416512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, то це твоя особиста помста. Справа всього твого життя зробила із Сабуро бога, а сам ти залишився звичайним смертним.",
+              "maleVariant": "",
+              "stringId": "1680680642636439552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мій роботодавець запропонував тобі угоду. Повернімося до неї.",
+              "maleVariant": "",
+              "stringId": "1680681333790629888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тобто я маю погодитися піти у в’язницю душ «Арасаки» та віддатися на ласку корпорації? Навіть не питатиму, у чому тут сіль.",
+              "maleVariant": "",
+              "stringId": "1680682277307703296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У цьому ми схожі. Навіщо мені карати товариша по нещастю?",
+              "maleVariant": "",
+              "stringId": "1680682789432221696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усі гарантії та умови викладені в контракті. Якщо хочеш жити, то треба лише поставити підпис.",
+              "maleVariant": "",
+              "stringId": "1680686627824361472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гм. Виходить, що я дійсно померла та потрапила в пекло.",
+              "maleVariant": "Гм. Виходить, що я дійсно помер і потрапив у пекло.",
+              "stringId": "1681156544390520832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хаджіме.",
+              "maleVariant": "",
+              "stringId": "1682654691327500288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я запитаю дещо в тебе, Хаджіме. Щоби ти сказав особі, яка сідає до в’язниці найзапеклішого ворога, щоб урятувати життя?",
+              "maleVariant": "",
+              "stringId": "1682654873494511616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гм. Я б сказав: «Добре, але не забудь дорогу додому».",
+              "maleVariant": "",
+              "stringId": "1682660766273527808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сабуро Арасака повернувся.",
+              "maleVariant": "",
+              "stringId": "1683580861397098496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отже, Сабуро Арасака повернувся. У тілі Йорінобу.",
+              "maleVariant": "",
+              "stringId": "1683592745470943232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми живемо в дивні часи.",
+              "maleVariant": "",
+              "stringId": "1683597848311521280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тебе це не лякає та не хвилює?",
+              "maleVariant": "",
+              "stringId": "1683598185181241344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пів життя я працював над тим, щоби Сабуро Арасака став безсмертним. У процесі я звик до думки про його… воскресіння.",
+              "maleVariant": "",
+              "stringId": "1683598328106344448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це якось не вкладається в моїй голові.",
+              "maleVariant": "",
+              "stringId": "1683599745445552132"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сабуро Арасака вже давно має гризти землю.",
+              "maleVariant": "",
+              "stringId": "1683600081426079744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шкода Йорінобу.",
+              "maleVariant": "",
+              "stringId": "1683600290319196160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Справа не лише в безсмерті. Сабуро викрав тіло власного сина.",
+              "maleVariant": "",
+              "stringId": "1683601778156265472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сабуро Арасака має гризти землю, горіти в пеклі.",
+              "maleVariant": "",
+              "stringId": "1683602090095042560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шкода Йорінобу. Він загинув найгіршим можливим способом — від рук власного кошмару.",
+              "maleVariant": "",
+              "stringId": "1683602331670175744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сабуро — це перша людина, яка досягнула божественності. Боги перебувають за межею добра та зла.",
+              "maleVariant": "",
+              "stringId": "1683604917777358848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гм. Собака гавкає — караван іде.",
+              "maleVariant": "",
+              "stringId": "1683605859046285312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Без сумнівів, трагічна постать.",
+              "maleVariant": "",
+              "stringId": "1683608278773817344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Він тобі ніколи не подобався.",
+              "maleVariant": "",
+              "stringId": "1683608485133574144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Про мертвих або добре, або ніяк.",
+              "maleVariant": "",
+              "stringId": "1683608618327891968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Підвестися] До зустрічі.",
+              "maleVariant": "",
+              "stringId": "1715818197974069248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Підписати контракт] Я хочу жити.",
+              "maleVariant": "",
+              "stringId": "1720143812227313664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Не підписувати контракт] Я повертаюся на Землю.",
+              "maleVariant": "",
+              "stringId": "1720143812227313680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Розумію, рішення не з простих. Ретельно все обдумай.",
+              "maleVariant": "",
+              "stringId": "1721002059368837120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ще є кілька варіантів про запас.",
+              "maleVariant": "",
+              "stringId": "1721037999588061184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Узяти кубик]",
+              "maleVariant": "",
+              "stringId": "1721559632979505152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тут немає жодних підводних каменів чи дрібного шрифту. Тобі нічого боятися.",
+              "maleVariant": "",
+              "stringId": "1722569427203207168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як і всі.",
+              "maleVariant": "",
+              "stringId": "1722725833151688704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Здатися «Арасаці»]",
+              "maleVariant": "",
+              "stringId": "1730085601029730304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні. Альт Каннінгем була першою.",
+              "maleVariant": "",
+              "stringId": "1730422819343851520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Неочікуване порівняння. Але багато в чому влучне.",
+              "maleVariant": "",
+              "stringId": "1730424218379116544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Боюся, що твоє тіло вже ні до чого не придатне, ти маєш покинути його.",
+              "maleVariant": "",
+              "stringId": "1730449312849616896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Немає сенсу зволікати. Можемо починати вже зараз.",
+              "maleVariant": "",
+              "stringId": "1730457598378401792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "До зустрічі… у майбутньому. Сподіваюся.",
+              "maleVariant": "",
+              "stringId": "1730458234016784384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Наш працівник проведе тебе.",
+              "maleVariant": "",
+              "stringId": "1730458434554847232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу жити.",
+              "maleVariant": "",
+              "stringId": "1730459257846390784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я вирішила.",
+              "maleVariant": "Я вирішив.",
+              "stringId": "1730463623076667392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я повертаюся на Землю, додому.",
+              "maleVariant": "",
+              "stringId": "1730465133344874496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти помреш там.",
+              "maleVariant": "",
+              "stringId": "1730465375758868480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прощавай, Андерсе. Пропозиція твоя — гівно, але ти дав мені дещо ліпше.",
+              "maleVariant": "",
+              "stringId": "1730465824029302784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Донині смерть була для мене неминучою. Але ти дозволив мені прийняти її на власних умовах.",
+              "maleVariant": "",
+              "stringId": "1730466095182667776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Про що це ти?",
+              "maleVariant": "",
+              "stringId": "1730470807835533312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Він прямо пов’язаний із тобою.",
+              "maleVariant": "",
+              "stringId": "1730478544665468928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Підступів?",
+              "maleVariant": "",
+              "stringId": "1732729487985500160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми створимо енграму твого розуму та помістимо в «Мікоші».",
+              "maleVariant": "",
+              "stringId": "1732965978498162688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Помістите? Чому я не можу просто отримати нове тіло?",
+              "maleVariant": "",
+              "stringId": "1732966308673773568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не схоже, що ви мали таку із Сабуро Арасака.",
+              "maleVariant": "",
+              "stringId": "1732968765126631424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти не маєш ані дітей, ані цілої лікарні, яка займається лише тобою.",
+              "maleVariant": "",
+              "stringId": "1732968880285442048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Паскудне місце. Я ненавиджу його. Тут будь-хто збожеволіє.",
+              "maleVariant": "",
+              "stringId": "1735919949344956416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Родина Арасака стала подібна богам. Ти для них — ніщо.",
+              "maleVariant": "",
+              "stringId": "1736037829772337152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Може, «Арасака» хоче покарати злодія, через якого вони мали купу клопотів. Чи, може, Сабуро хоче ще одну душу до своєї колекції?",
+              "maleVariant": "",
+              "stringId": "1736039672296529920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так. До зустрічі.",
+              "maleVariant": "",
+              "stringId": "1736051116790538240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Сісти]",
+              "maleVariant": "",
+              "stringId": "1741995088799293444"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Узяти документи]",
+              "maleVariant": "",
+              "stringId": "1744472205147463684"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Оскільки за законом енграма не є особою, то в угоді міститься пункт про відмову від права власності. Тимчасово, звісно.",
+              "maleVariant": "",
+              "stringId": "1744473385072287784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні. Я не хочу стати власністю «Арасаки».",
+              "maleVariant": "",
+              "stringId": "1744473385072287800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У цій програмі беруть участь усі знані та впливові люди. Ще ніхто не скаржився.",
+              "maleVariant": "",
+              "stringId": "1744473385089064960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А якщо я відмовлюся?",
+              "maleVariant": "",
+              "stringId": "1744473385089064976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Твої речі зібрані. Човник доправить на Землю. Ти помреш ще до зими.",
+              "maleVariant": "",
+              "stringId": "1744473385089064992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Показати середній палець]",
+              "maleVariant": "",
+              "stringId": "1760502584401276944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Повернутися на Землю]",
+              "maleVariant": "",
+              "stringId": "1760519992440598528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Підвестися]",
+              "maleVariant": "",
+              "stringId": "1862341356661989376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«A thing of beauty will never fade away».",
+              "maleVariant": "",
+              "stringId": "1865108574663565312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«I see your eyes, I know you see me, you're like a ghost how you're everywhere».",
+              "maleVariant": "",
+              "stringId": "1865138045219201024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Узяти сумку]",
+              "maleVariant": "",
+              "stringId": "2066574925973393412"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тобі ліпше таки прокинутися.",
+              "maleVariant": "",
+              "stringId": "2221730121913823232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві?",
+              "maleVariant": "",
+              "stringId": "2221730236955193344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ось, подивися.",
+              "maleVariant": "",
+              "stringId": "2221730355335229440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну як, вирішила?",
+              "maleVariant": "Ну то як, вирішив?",
+              "stringId": "2221730490693808128"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

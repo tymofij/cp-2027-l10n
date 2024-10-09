@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, з «Василіском» ми закінчили.",
+              "maleVariant": "",
+              "stringId": "1787031423702290432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хто ж не хоче.",
+              "maleVariant": "",
+              "stringId": "1787031612479524868"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поки не можу.",
+              "maleVariant": "",
+              "stringId": "1787032303818264576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А хто ж не хоче! Скоро буду.",
+              "maleVariant": "",
+              "stringId": "1787032929474203652"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зараз не зможу, Панам. Заїду, як буду вільна.",
+              "maleVariant": "Зараз не зможу, Панам. Заїду, як буду вільний.",
+              "stringId": "1787033082180423684"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Блядь, Ві, який він суперовий!",
+              "maleVariant": "",
+              "stringId": "1787034871353069568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добре, звісно. Ми тебе чекаємо.",
+              "maleVariant": "",
+              "stringId": "1787036031011016704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не хочеш покататися?",
+              "maleVariant": "",
+              "stringId": "1806985522639605760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я здогадалася.",
+              "maleVariant": "Я здогадався.",
+              "stringId": "1806987150063112192"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

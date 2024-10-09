@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поганец! Мою дочь уволить! Мою девочку!",
+              "maleVariant": "",
+              "stringId": "2161763308260110336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тс-с-с, тише, тебя услышат. Есть же правила…",
+              "maleVariant": "",
+              "stringId": "2177785666794668032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В гробу я видала их правила и их войнушки идиотские! Как эти правила соблюдать прикажешь?",
+              "maleVariant": "",
+              "stringId": "2177786824556789760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Человек должен есть и работать, а для работы нужны импланты!",
+              "maleVariant": "",
+              "stringId": "2177786937031245824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И что, девушке надо отказывать, когда ей «Шестая улица» предлагает подработать на стороне?",
+              "maleVariant": "",
+              "stringId": "2177787200097992704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Она могла спросить «Валентино». Это же их земля. Понятно, почему на неё разозлились.",
+              "maleVariant": "",
+              "stringId": "2177787597936115712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Радуйся, что её просто выкинули из бара. А могли и того… Ну, понимаешь. Могло быть хуже.",
+              "maleVariant": "",
+              "stringId": "2177787972940447744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да шло бы оно всё!",
+              "maleVariant": "",
+              "stringId": "2177788119489429504"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

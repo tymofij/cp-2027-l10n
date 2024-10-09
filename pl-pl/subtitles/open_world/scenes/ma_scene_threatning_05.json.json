@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zrobię ci straszne kuku. Będzie dużo twojego krzyku i dużo mojego śmiechu.",
+              "maleVariant": "",
+              "stringId": "2007218398956748800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Najpierw cię potnę, a potem zhandluję. Pójdziesz, kurwo, na części.",
+              "maleVariant": "",
+              "stringId": "2007218456133500928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To już twój koniec. Finito. Twój los jest w moich rączkach.",
+              "maleVariant": "",
+              "stringId": "2007218523460468736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To ja cię zabiję. Postanowione. Już nie ma odwrotu, rozumiesz?",
+              "maleVariant": "",
+              "stringId": "2007218580704329728"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

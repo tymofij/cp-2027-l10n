@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mamo, ja chcę Kiroshi!",
+              "maleVariant": "",
+              "stringId": "1806832832411721728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie.",
+              "maleVariant": "",
+              "stringId": "1806834059245641728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale Keiko ma! I Sakura!  Nawet ta głupia Kate!",
+              "maleVariant": "",
+              "stringId": "1806834237168017408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie musisz być taka jak one.",
+              "maleVariant": "",
+              "stringId": "1806834455389265920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale one sobie wszystko nagrywają  i odtwarzają, i się śmieją,  że się nie muszą uczyć, a ja muszę!",
+              "maleVariant": "",
+              "stringId": "1806834614319833088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz już laptop.",
+              "maleVariant": "",
+              "stringId": "1806834854452125696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To nie to samo.",
+              "maleVariant": "",
+              "stringId": "1806835050728775680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lepiej mieć wiedzę w głowie niż polegać na wszczepie.",
+              "maleVariant": "",
+              "stringId": "1806835239371792384"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

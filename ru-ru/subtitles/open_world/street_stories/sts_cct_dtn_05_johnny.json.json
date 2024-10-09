@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Полюбуйся. Люди жрут консервы из дерьма, спят на улице, а у этих… золотые унитазы.",
+              "maleVariant": "",
+              "stringId": "1918542684152213504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Им не стыдно? Где, блядь, совесть у них?",
+              "maleVariant": "",
+              "stringId": "1924377343921803264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, не знаю, Джонни. Когда встречу миллиардера, обязательно передам, что Джонни Сильверхенд спрашивал: «Где, блядь, совесть?»",
+              "maleVariant": "Не знаю, Джонни. Когда встречу миллиардера, обязательно передам, что Джонни Сильверхенд спрашивал про его совесть.",
+              "stringId": "1924383785785544704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не надо ничего спрашивать. Просто в рожу плюнь как следует.",
+              "maleVariant": "",
+              "stringId": "1924385458138435584"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

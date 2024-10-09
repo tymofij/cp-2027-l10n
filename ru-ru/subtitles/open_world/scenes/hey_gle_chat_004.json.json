@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Захлебнулся собственной кровью, прикинь? Весь посинел, кашлял, булькал, ревел… Как животное.",
+              "maleVariant": "",
+              "stringId": "1832711855796772864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха, и никто ему не помог?",
+              "maleVariant": "",
+              "stringId": "1832714307250020352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы пытались, а чем поможешь? Ему все импланты вырубили, и хана.",
+              "maleVariant": "",
+              "stringId": "1832715178574733312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кейт сказала, что он работал на «Петрохем».",
+              "maleVariant": "",
+              "stringId": "1832715323261444096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. Этот кнопочку нажал без лишних слов, и всё… Лёгкие, ноги… Даже глаза, прикинь?!",
+              "maleVariant": "",
+              "stringId": "1832715493969616896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А это не он отвечал за контракт с Аргентиной?",
+              "maleVariant": "",
+              "stringId": "1832715650232606720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. Он самый.",
+              "maleVariant": "",
+              "stringId": "1832715794902540288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nigdy nie myślałaś, żeby to rzucić?",
+              "maleVariant": "",
+              "stringId": "1963406447706095616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Równie dobrze możesz zapytać szefa, czy nie chciałby zostać pacyfistą.",
+              "maleVariant": "",
+              "stringId": "1963484169367175168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tyle się mówi o wypadkach w Cyberprzestrzeni... Nie boisz się, że któregoś dnia usmaży ci mózg?",
+              "maleVariant": "",
+              "stringId": "1963484598612246528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A, bałabym się, gdybym robiła to w domu. Ale kiedy pracujesz dla Militechu, zmieniasz się w sieciowy czołg.",
+              "maleVariant": "",
+              "stringId": "1963484777943908352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tyle, że sieć to tylko jedna strona medalu.",
+              "maleVariant": "",
+              "stringId": "1963486999079534592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słyszałem, że jeśli ktoś jest podpięty i zginie w prawdziwym świecie... utknie tam na zawsze.",
+              "maleVariant": "",
+              "stringId": "1963487528534917120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm. Absolutnie. A potem wyrastają mu macki i mutuje w demona.",
+              "maleVariant": "",
+              "stringId": "1963488107449532416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Za stary jesteś, żeby wierzyć w bajki.",
+              "maleVariant": "",
+              "stringId": "1963488332650102784"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви, есть заказ, но такой, что лучше бы его не было. Может, помнишь Брайса Стоуна? Его сына зверски убили.",
+              "maleVariant": "",
+              "stringId": "2328604850818359296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Единственная возможность поймать тварь, которая это сделала, — найти брейнданс с записью убийства.",
+              "maleVariant": "",
+              "stringId": "2339571511948840960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, ты всё верно поняла, к сожалению. Подробная инфа в письме.",
+              "maleVariant": "Да, ты всё верно понял, к сожалению. Подробная инфа в письме.",
+              "stringId": "2339571795198578688"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

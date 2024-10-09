@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слушай, я в курсе, что золотой век виртов прошёл, но это реально новый уровень.",
+              "maleVariant": "",
+              "stringId": "1963242833007329280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да брось, чумба, все знают, что это фейк!",
+              "maleVariant": "",
+              "stringId": "1963245719477010432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты его не пережил, откуда тебе знать? Такое просто нельзя подделать!",
+              "maleVariant": "",
+              "stringId": "1963245999186755584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нельзя съехать на байке вниз по отвесной стене и выжить!",
+              "maleVariant": "",
+              "stringId": "1963246445058048000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это крутили по новостям! По телику фейков крутить не станут! Им-то в чём профит…",
+              "maleVariant": "",
+              "stringId": "1963247034408091648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Охренеть… Кажись, это она!",
+              "maleVariant": "Охренеть… Кажись, это он!",
+              "stringId": "1963247994333282304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, автограф попросить?",
+              "maleVariant": "",
+              "stringId": "1964622555163377664"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

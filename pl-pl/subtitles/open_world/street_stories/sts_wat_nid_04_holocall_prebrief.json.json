@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, mam dla ciebie zadanie, którego wolałabym nie mieć. Syn kaznodziei Bryce'a Stone’a został brutalnie zamordowany.",
+              "maleVariant": "",
+              "stringId": "2328604850818359296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jedyną szansą na schwytanie oprawcy tego dzieciaka jest zdobycie oryginalnego nagrania braindansowego z tego zdarzenia.",
+              "maleVariant": "",
+              "stringId": "2339571511948840960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak, takie niestety powstało. Więcej o całej sprawie w załączniku.",
+              "maleVariant": "",
+              "stringId": "2339571795198578688"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что-то за эту неделю маловато вышло.",
+              "maleVariant": "",
+              "stringId": "2159444640469065728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это почему? Я делал вид, что всё нормально. Как всегда.",
+              "maleVariant": "",
+              "stringId": "2199601391759192064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На машину «стилеты» напали. Мы от них отбились, но кое-что потеряли.",
+              "maleVariant": "",
+              "stringId": "2199603648479293440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне это нехило так по карману ударит.",
+              "maleVariant": "",
+              "stringId": "2199605527007391744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не бойся, ты своё получишь. Через месяц приедет груз из Сакраменто. На тысячи эдди.",
+              "maleVariant": "",
+              "stringId": "2199607514755166208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я тебе ещё сверху накину.",
+              "maleVariant": "",
+              "stringId": "2199608061608521728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А, ну тогда никаких проблем. Рад, что мы всё решили.",
+              "maleVariant": "",
+              "stringId": "2199608539138420736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так что, всё нормально?",
+              "maleVariant": "",
+              "stringId": "2199609173971496960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пока что да. Нормально.",
+              "maleVariant": "",
+              "stringId": "2199609279483408384"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

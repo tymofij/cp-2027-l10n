@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Боже ж мій! З вами Хуаніта! Сьогоднішня новина — просто вибух супернови! Керрі Євродайн — вийшов на сцену! Люди, я серйозно!",
+              "maleVariant": "",
+              "stringId": "1792269305569517568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаєте з ким? З тими зашибезними гарнюнями з «Попагри»! Вони разом виконали культовий хіт «Без повідця», АЛЕ з новими дикими елементами!",
+              "maleVariant": "",
+              "stringId": "1802311699667861504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я бачила це наживо і вау… Просто «вау». Несамовита енергетика! Схоже, що чутки про депресію Керрі були просто пустими балачками. Той хлопак неймовірно запалював!",
+              "maleVariant": "",
+              "stringId": "1802311927653449728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Офіційна прем’єра нового сингла «Попагри» за участі Керрі буде завтра опівночі.",
+              "maleVariant": "",
+              "stringId": "1802312161880162304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якщо не придбаєте, то ви мені не друзі! Фух! Після павзи — Лінда Оз розповість все про свого колишнього! Охо-хох!",
+              "maleVariant": "",
+              "stringId": "1802312558090895360"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

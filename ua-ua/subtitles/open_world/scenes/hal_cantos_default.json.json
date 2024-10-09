@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[en_us][db_db]how things are going.",
+              "maleVariant": "",
+              "stringId": "1895193552314990596"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як воно, Геле?",
+              "maleVariant": "",
+              "stringId": "1895196570569703424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я тобі зараз скажу як — ніхуяк, Ві. Ніхто, блядь, не дзвоне!",
+              "maleVariant": "",
+              "stringId": "1895196786375032832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Шибайки» від мене відрізали всю роботу. Геть усю! Нуль! І, певно, що це через ту дівку з бару «У Ліззі».",
+              "maleVariant": "",
+              "stringId": "1953332743595749376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ще один порожній місяць і доведеться кланятися тим прибацаним ЧМГ уїбанам із Кабукі. Ну, йобанийврот.",
+              "maleVariant": "",
+              "stringId": "1953334778621718528"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, предки были умнее нас. У моего друга бабуля везде таскает фиолетовый камушек и прикладывает, если что заболит.",
+              "maleVariant": "",
+              "stringId": "1806811334204579840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И как, помогает?",
+              "maleVariant": "",
+              "stringId": "1806813826409684992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А то! Лучше докторов! Мы её даже на программу приглашали, уж не знаю почему это не пошло в эфир…",
+              "maleVariant": "",
+              "stringId": "1806815241752403968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну ясное дело, кто же правду в эфир пустит! Люди тогда начнут лечить себя сами, и корпорации разорятся.",
+              "maleVariant": "",
+              "stringId": "1806815365702475776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот именно! А как заболеют корпораты — сразу по-другому запоют.",
+              "maleVariant": "",
+              "stringId": "1806815628467232768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Точно. Сейчас везде сплошные технологии. Поэтому мы все и больные, нельзя идти против природы.",
+              "maleVariant": "",
+              "stringId": "1806815923796566016"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

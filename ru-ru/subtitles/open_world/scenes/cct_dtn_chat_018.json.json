@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А если найдут?",
+              "maleVariant": "",
+              "stringId": "2172181539393875968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не найдут.",
+              "maleVariant": "",
+              "stringId": "2182615270883168256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты уверен?",
+              "maleVariant": "",
+              "stringId": "2182632890701287424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чумба, сюда все заходят с бустерами, все ширяются. И все про это знают.",
+              "maleVariant": "",
+              "stringId": "2182632959437541376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно, но если охрана что-то при мне найдёт, меня же не пустят.",
+              "maleVariant": "",
+              "stringId": "2182633391366967296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Уф, слушай, давай так. Прячь или в трусы, или в носки. Там никогда не проверяют.",
+              "maleVariant": "",
+              "stringId": "2182633523202330624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Они делают вид, что не знают, что у тебя что-то есть. А ты делаешь вид, что у тебя ничего нет.",
+              "maleVariant": "",
+              "stringId": "2182634255175487488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Каждый знает, что нельзя, но все знают, что можно. Думаешь, сюда бы кто-нибудь ходил, если бы стафф реально запретили?",
+              "maleVariant": "",
+              "stringId": "2182635449730043904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

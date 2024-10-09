@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он ему пол-лица раздавил. Хорошо ещё у парня была лицевая панель, а то этот урод раскрошил бы весь череп.",
+              "maleVariant": "",
+              "stringId": "2161756884465430528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поймали его?",
+              "maleVariant": "",
+              "stringId": "2176659187822215168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, можно и так сказать. Объяснили ему, что умникам с нелегальными боксёрскими имплантами лучше съёбывать подальше.",
+              "maleVariant": "",
+              "stringId": "2176659314758631424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А он что?",
+              "maleVariant": "",
+              "stringId": "2176659469377454080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ничего. Съебал, конечно. Да и хорошо, а то никому с ним махаться не улыбалось.",
+              "maleVariant": "",
+              "stringId": "2176659666157420544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не понимаю я этих ребят. Ты ведь дерёшься, чтобы проверить свою, сука, силу, а не блядский хром.",
+              "maleVariant": "",
+              "stringId": "2176659887096578048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, а что поделать? Честные партнёры для спарринга сейчас редкость.",
+              "maleVariant": "",
+              "stringId": "2176660080068116480"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

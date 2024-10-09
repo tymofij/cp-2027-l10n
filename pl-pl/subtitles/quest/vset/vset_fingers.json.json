@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słucham?",
+              "maleVariant": "",
+              "stringId": "1796860334069235716"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Już, moment, moment.",
+              "maleVariant": "",
+              "stringId": "1796860334086012932"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej, mówię do ciebie.",
+              "maleVariant": "",
+              "stringId": "1796860334169899012"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Śpieszy ci się gdzieś?",
+              "maleVariant": "",
+              "stringId": "1796860334203453444"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czego jeszcze chcesz?",
+              "maleVariant": "",
+              "stringId": "1796860334253785092"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zapomniałaś czegoś?",
+              "maleVariant": "Zapomniałeś czegoś?",
+              "stringId": "1796860334270562308"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co jest?",
+              "maleVariant": "",
+              "stringId": "1796860334304116740"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Język ci nie działa?",
+              "maleVariant": "",
+              "stringId": "1796860334320893956"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co jest?!",
+              "maleVariant": "",
+              "stringId": "1796860334538997764"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trochę szacunku!",
+              "maleVariant": "",
+              "stringId": "1796860334555774980"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

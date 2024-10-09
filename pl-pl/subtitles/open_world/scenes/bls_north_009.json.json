@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ech... Jebana pustynia.",
+              "maleVariant": "",
+              "stringId": "1973569779229827072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ta, jak każdy inny. Tylko słońce napierdala, a jedyna rozrywka to wydłubywanie piachu spomiędzy zębów.",
+              "maleVariant": "",
+              "stringId": "1975078611001786368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zaraz zesłali... Granicy też ktoś musi pilować. Posterunek, jak każdy inny.",
+              "maleVariant": "",
+              "stringId": "1975078621588209664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ciebie za co tu zesłali?",
+              "maleVariant": "",
+              "stringId": "1975078634590552064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Opychałem je na czarnym rynku za trzy czwarte ceny. Miałem forsy, jak lodu.",
+              "maleVariant": "",
+              "stringId": "1975078648029102080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przyłapali mnie na podkradaniu Crusherów z magazynu.",
+              "maleVariant": "",
+              "stringId": "1975078657759887360"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

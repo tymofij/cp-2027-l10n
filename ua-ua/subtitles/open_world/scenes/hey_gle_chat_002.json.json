@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То ти вже думала, ким станеш, коли виростеш?",
+              "maleVariant": "",
+              "stringId": "1807017843261825024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу бути бойовим медиком! Як по телевізорі!",
+              "maleVariant": "",
+              "stringId": "1807023236482457600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Оце так, дорогенька! Рятувати життя — це чудово.",
+              "maleVariant": "",
+              "stringId": "1807023407274516480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага! І хочу перестріляти всіх кіберпсихів! Вони ж це теж роблять! Я бачила таке в улюбленому шоу татка!",
+              "maleVariant": "",
+              "stringId": "1807023619338526720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але я їх не лікуватиму. Це ж тупо: спершу стріляти в когось, а потім рятувати!",
+              "maleVariant": "",
+              "stringId": "1807023792345178112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, тобі доведеться дуже старанно попрацювати, щоби потрапити до «Травма Тім». Ти ж знаєш, що вони беруть лише кращих із кращих.",
+              "maleVariant": "",
+              "stringId": "1807023990265995264"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

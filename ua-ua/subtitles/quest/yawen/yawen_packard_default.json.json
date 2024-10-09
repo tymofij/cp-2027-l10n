@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "До речі, а що ти знаєш про біочипи? Зокрема про реліквію Арасаки.",
+              "maleVariant": "",
+              "stringId": "1987755068515913728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаю, що вона призначена для зберігання нейронної енграми людини. Тобто на неї копіюють пам’ять та особистість людини.",
+              "maleVariant": "",
+              "stringId": "1987759630492602368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що ти знаєш про реліквію Арасаки?",
+              "maleVariant": "",
+              "stringId": "1987799977012727812"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, я це все знаю. Мене більше цікавить, що буде, якщо ця енграма починає переписувати особистість носія чипа.",
+              "maleVariant": "",
+              "stringId": "2005649229918375936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Переписувати? Я навіть не знаю, чи таке взагалі можливо…",
+              "maleVariant": "",
+              "stringId": "2005649542360469504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А чому питаєш?",
+              "maleVariant": "",
+              "stringId": "2005649745180233728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та ні, просто цікаво було… Дякую.",
+              "maleVariant": "",
+              "stringId": "2005649966488489984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

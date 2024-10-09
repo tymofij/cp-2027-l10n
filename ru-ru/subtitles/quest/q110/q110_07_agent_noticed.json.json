@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"creo\" m=\"kamyonèt\" b=\"Быстрей. Проверь \" a=\".\"/>",
+              "maleVariant": "",
+              "stringId": "1533040390586781696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не лезь. Наблюдай. Оставь их в покое. Работай.",
+              "maleVariant": "",
+              "stringId": "1682206415859814400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поработаешь тут. Они меня засекли.",
+              "maleVariant": "Да хуй там. Они меня засекли.",
+              "stringId": "1682207867072221184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй, что это было?",
+              "maleVariant": "Что это было?",
+              "stringId": "1695430519820406784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ничего. Наш нетраннер хотел в тебя вселиться.",
+              "maleVariant": "",
+              "stringId": "1695430908498169856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И как, смог?",
+              "maleVariant": "",
+              "stringId": "1695637209064214528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я поставил тебе хороший лёд, должно хватить.",
+              "maleVariant": "",
+              "stringId": "1695637620458328064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То есть он знает, что я тут.",
+              "maleVariant": "",
+              "stringId": "1695638000680374272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не страшно. Просто не подключайся к сети, и всё.",
+              "maleVariant": "",
+              "stringId": "1695638492017922048"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

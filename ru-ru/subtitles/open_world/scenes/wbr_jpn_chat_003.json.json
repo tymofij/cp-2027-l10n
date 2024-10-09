@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Простите, сэр. Можно вас отвлечь на минутку?",
+              "maleVariant": "",
+              "stringId": "1806839159435419648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спасибо!",
+              "maleVariant": "",
+              "stringId": "1806846761443647488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спасибо!",
+              "maleVariant": "",
+              "stringId": "1806846888933711872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну? Что на этот раз?",
+              "maleVariant": "",
+              "stringId": "1806850354787770368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У нас трубу прорвало…",
+              "maleVariant": "",
+              "stringId": "1806850473704677376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Козлы из городской администрации до сих пор не шлют нам сантехника…",
+              "maleVariant": "",
+              "stringId": "1806850593980538880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "За языком следи! Не видишь, с кем разговариваешь?!",
+              "maleVariant": "",
+              "stringId": "1806851069849493504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну-ну, хватит. Чем вам помочь?",
+              "maleVariant": "",
+              "stringId": "1806851225760161792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну это, нам бы трубу починить хотя бы… И, может, в паре квартир кое-что подлатать, а то ведь залило всё…",
+              "maleVariant": "",
+              "stringId": "1806851433344655360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно. Это я устрою.",
+              "maleVariant": "",
+              "stringId": "1806851570397732864"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

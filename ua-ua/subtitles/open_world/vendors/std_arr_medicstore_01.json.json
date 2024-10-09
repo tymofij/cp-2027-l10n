@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чим торгуєш?",
+              "maleVariant": "",
+              "stringId": "1783753696176001024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кажуть люди в Арройо багато хворіють.",
+              "maleVariant": "",
+              "stringId": "1783753696176001040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що маєш на продаж? Багатий асортимент? Щось варте уваги?",
+              "maleVariant": "",
+              "stringId": "1783753696192778244"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Маю… речі.",
+              "maleVariant": "",
+              "stringId": "1783753696209555460"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це правда, що в Арройо все більше хворих?",
+              "maleVariant": "",
+              "stringId": "1783753696226332676"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Люди повідомляють про дивні симптоми. Спонтанні опіки, напади, майже епілептичні. Всі підозрюють електростанцію.",
+              "maleVariant": "",
+              "stringId": "1783753696226332684"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz co? Mam wrażenie że ten syf wokół kręci cię bardziej niż ja.",
+              "maleVariant": "",
+              "stringId": "2189664249187098624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Założę się, że w błyszczących apartamentach w mieście widujesz gorszy syf.",
+              "maleVariant": "",
+              "stringId": "2189665512125587456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie rozumiem, czemu nie mogliśmy zostać w samochodzie.",
+              "maleVariant": "",
+              "stringId": "2189667913565954048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ten bajzel przypomina mi randki z byłą żoną. Zresztą podobnie jak twoje zrzędzenie.",
+              "maleVariant": "",
+              "stringId": "2189668509610106880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

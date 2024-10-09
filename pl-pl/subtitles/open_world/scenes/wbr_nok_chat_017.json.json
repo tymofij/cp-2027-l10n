@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mamy to? Na pewno?",
+              "maleVariant": "",
+              "stringId": "2159361653899501568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak, poszło, nasi już to obrabiają.",
+              "maleVariant": "",
+              "stringId": "2199674145485287424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niech dział reklam podepnie link na tej babeczce z galerii. Prosto na wirtual. Zapłaciła fortunę.",
+              "maleVariant": "",
+              "stringId": "2199680968846143488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dałem im znać. I wrzucą w tle link do Delamaina. Jeden akurat przejeżdżał, jak kręciliśmy.",
+              "maleVariant": "",
+              "stringId": "2199683396861620224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobrze, przynajmniej to mamy z głowy.",
+              "maleVariant": "",
+              "stringId": "2199694371325145088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No a sam wywiad? Dało się tego słuchać?",
+              "maleVariant": "",
+              "stringId": "2199694651823419392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Serio pytasz?",
+              "maleVariant": "",
+              "stringId": "2199694844828512256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Proszę cię.",
+              "maleVariant": "",
+              "stringId": "2199695023891738624"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Блядь, не можу їсти цю хуйню.",
+              "maleVariant": "",
+              "stringId": "2157369755393355776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То ти ж сама таке вибрала. Моє було нормальне.",
+              "maleVariant": "",
+              "stringId": "2179366090072211456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, то певна річ. Ти ж їси абищо, нє?",
+              "maleVariant": "",
+              "stringId": "2179390661345230848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну та’, але… Але крім спаржі. Не люблю спаржу.",
+              "maleVariant": "",
+              "stringId": "2179392738767224832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та ти шо? Ти коли востаннє спаржу бачив?!",
+              "maleVariant": "",
+              "stringId": "2179394347668684800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А шо тобі ше не подобається, га? Може, білі трюфелі?",
+              "maleVariant": "",
+              "stringId": "2222875721322807296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не знаю… Просто не люблю спаржу. Шо тут такого?",
+              "maleVariant": "",
+              "stringId": "2222884428949569536"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

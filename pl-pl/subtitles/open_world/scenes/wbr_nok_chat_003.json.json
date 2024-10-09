@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oddźwięk na nowy obraz Kulikowskiego jest niesamowity.",
+              "maleVariant": "",
+              "stringId": "1963354641663131648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zero oryginalności.",
+              "maleVariant": "",
+              "stringId": "1979123150852820992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słucham?",
+              "maleVariant": "",
+              "stringId": "1979123253126729728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kulikowski jest wtórny. Tworzy już tylko kolejne iteracje tej samej idei.",
+              "maleVariant": "",
+              "stringId": "1979123360786124800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To ja muszę zainterweniować. Chyba nie do końca rozumiesz, co chciał przekazać.",
+              "maleVariant": "",
+              "stringId": "1979123493376462848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tym razem skupił się przedstawieniu narzędziowości narzędzia, jakim jest samo płótno.",
+              "maleVariant": "",
+              "stringId": "1979123841822461952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dokładnie. To dzieło to jednocześnie pytanie: \"Jak łączymy desygnat z jego odniesieniem?\"",
+              "maleVariant": "",
+              "stringId": "1979124855434743808"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

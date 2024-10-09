@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну шо? Дістала ліки? Ані гіршає.",
+              "maleVariant": "",
+              "stringId": "1973555053196255232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Феліксе… Караван так і не прийшов. Вони підірвалися на міні неподалік Каюкоса.",
+              "maleVariant": "",
+              "stringId": "1978991564630052864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Холера… І шо… Тобі нічого не вдалося врятувати?",
+              "maleVariant": "",
+              "stringId": "1978998992775991296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нічого особливого. Фургон згоріла дотла. Усе, що мені вдалося знайти — трохи аспірину та вітамінів.",
+              "maleVariant": "",
+              "stringId": "1978999893678936064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Жовтій гарячці це не зарадить.",
+              "maleVariant": "",
+              "stringId": "1979001050182766592"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

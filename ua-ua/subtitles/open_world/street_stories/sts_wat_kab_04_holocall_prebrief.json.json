@@ -1,0 +1,37 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як ти вже знаєш, у Кабукі новий справник, десь із СРСР. Уже кілька тижнів займається там якимось великим ділом. Ще не знаю, яким саме, але для цього ти мені й потрібна.",
+              "maleVariant": "Як ти вже знаєш, у Кабукі новий справник, десь із СРСР. Уже кілька тижнів займається там якимось великим ділом. Ще не знаю, яким саме, але для цього ти мені й потрібен.",
+              "stringId": "2328784116614721536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Треба буде поцупити в нього скіпку з усіма даними. Уся інформація про цього товариша в листі.",
+              "maleVariant": "",
+              "stringId": "2331535184816869376"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слухай, а може би то… Замість оцих усіх бездушних технологій, ми могли би, як двоє нормальних людей, оце, ну… Ти і я, знаєш…",
+              "maleVariant": "",
+              "stringId": "2156373511487594496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хіба тільки в мріях. Братимете шось чи ні?",
+              "maleVariant": "",
+              "stringId": "2169023306446196736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ех… Та беру, беру… Ну, сьогодні нехай буде «Чирлідерка-німфоманка 7»…",
+              "maleVariant": "",
+              "stringId": "2169023995402571776"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

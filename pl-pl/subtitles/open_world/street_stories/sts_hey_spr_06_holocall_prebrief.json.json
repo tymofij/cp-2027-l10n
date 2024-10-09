@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Równowaga. Bez niej wszyscy już dawno rzucilibyśmy się sobie do gardeł: korpy, gangi, najemnicy. Wiesz, jaka jest w tym rola fixerów?",
+              "maleVariant": "",
+              "stringId": "2334576991216058368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeśli jedna ze stron konfliktu zaczyna wyraźnie dominować, profesjonalny fixer dyskretnie pomaga tej drugiej.",
+              "maleVariant": "",
+              "stringId": "2334577127312834560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W ten sposób zabezpiecza swoje interesy. Dlaczego o tym mówię?",
+              "maleVariant": "",
+              "stringId": "2334577258309337088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bo czas na niewielką interwencję. Sprawdź załącznik.",
+              "maleVariant": "",
+              "stringId": "2334577449989029888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

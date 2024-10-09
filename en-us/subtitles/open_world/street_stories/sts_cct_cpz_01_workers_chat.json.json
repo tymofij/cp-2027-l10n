@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And?",
+              "maleVariant": "",
+              "stringId": "1537104554696454144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Twist it again. Harder this time.",
+              "maleVariant": "",
+              "stringId": "1537107185045155840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "For cryin' out-- Argh... OK, I'm going.",
+              "maleVariant": "",
+              "stringId": "1537107612360847360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That should do it.",
+              "maleVariant": "",
+              "stringId": "1987941981348007936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, that the anti-surge, no? Check B-link, see what happens.",
+              "maleVariant": "",
+              "stringId": "1987942503253643264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fucking wireheads.",
+              "maleVariant": "",
+              "stringId": "1987942814135455744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Probably some kids tryin' to break into our subnet. Got nothing else to do, huh?",
+              "maleVariant": "",
+              "stringId": "1987943805719252992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got somethin' they could do right here...",
+              "maleVariant": "",
+              "stringId": "1987944908670210048"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

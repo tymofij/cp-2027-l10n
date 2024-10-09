@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jakieś ostatnie słowa, zanim ropierdolę cię jak kurwę, którą jesteś?",
+              "maleVariant": "",
+              "stringId": "2007151579533279232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No i co teraz kurwa? Skończyło się śmieszkowanie? Kurwo ty!",
+              "maleVariant": "",
+              "stringId": "2007151653504024576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Już ci chłopaki nie pomogą. W dupie jesteś. Frajersko skończysz!",
+              "maleVariant": "",
+              "stringId": "2007151734269542400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie ma cię kurwo. Nie ma. Nigdy cię nie było.",
+              "maleVariant": "",
+              "stringId": "2007151808324173824"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

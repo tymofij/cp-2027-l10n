@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Етот хуй єщьо мнє угрожаєт! Какіє-то імєна називаєт! А єслі он правда знаєт іх всєх?",
+              "maleVariant": "",
+              "stringId": "2276537882486415364"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, блєфуєт просто?",
+              "maleVariant": "",
+              "stringId": "2276537882486415376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Мозєт, он бьіфуіт?». Может, ти начньош уже что-то дєлать, чтоби єго проверіть?",
+              "maleVariant": "",
+              "stringId": "2276537882486415388"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

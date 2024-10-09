@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, але ти її хоч кохаєш?",
+              "maleVariant": "",
+              "stringId": "2182436363483582464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дуже… Хочу, щоби вона була щасливою.",
+              "maleVariant": "",
+              "stringId": "2182438099187240960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Хочу, щоби вона була щасливою»? Якщо в цьому вся суть кохання, то я можу сказати, що кохаю тебе.",
+              "maleVariant": "",
+              "stringId": "2182438386966827008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну ти ж розумієш.",
+              "maleVariant": "",
+              "stringId": "2182439129996169216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так… на жаль, я розумію.",
+              "maleVariant": "",
+              "stringId": "2182439809674743808"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

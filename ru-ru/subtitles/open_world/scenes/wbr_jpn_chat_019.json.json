@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что же они с тобой сделали-то?.. Так нельзя. Это ужасно. Сделай что-нибудь.",
+              "maleVariant": "",
+              "stringId": "2160321036534456320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что сделать? Я никто, и всем на меня глубоко насрать.",
+              "maleVariant": "",
+              "stringId": "2169418993813999616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Неправда. Сходи к «Шельмам». Расскажи им всё. Они помогут.",
+              "maleVariant": "",
+              "stringId": "2169420308879298560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С чего бы? Из любви к людям?",
+              "maleVariant": "",
+              "stringId": "2169420991779098624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У нас тоже есть достоинство. Мы должны уметь за себя постоять.",
+              "maleVariant": "",
+              "stringId": "2169421595372998656"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

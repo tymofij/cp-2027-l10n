@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Coś dawno nie widziałem Travisa.",
+              "maleVariant": "",
+              "stringId": "1833110024850366464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To ty nic nie wiesz? Parę dni temu odwalił kitę.",
+              "maleVariant": "",
+              "stringId": "1833112568897069056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zeżarł jakieś świństwo z nieoznakowanej puszki.",
+              "maleVariant": "",
+              "stringId": "1833112701856505856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówiłam mu: \"Travis, gadają na mieście, że ktoś rozprowadza lewe mięso.\"",
+              "maleVariant": "",
+              "stringId": "1833113186080514048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale nie posłuchał i zeżarł.",
+              "maleVariant": "",
+              "stringId": "1833113591954923520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z tego Travisa to był chojrak.",
+              "maleVariant": "",
+              "stringId": "1833113824118038528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"Co, jeśli to jakiś organiczny szajs? Jakieś szczury, albo nawet króliki?\"",
+              "maleVariant": "",
+              "stringId": "1964791856902160384"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

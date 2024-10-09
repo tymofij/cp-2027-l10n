@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что есть хорошего?",
+              "maleVariant": "",
+              "stringId": "1885146511026044928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты смотришь всё, что продаёшь?",
+              "maleVariant": "",
+              "stringId": "1885146511026044944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что есть хорошего?",
+              "maleVariant": "",
+              "stringId": "1885146511076376580"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты сам-то смотришь те вирты, которые продаёшь?",
+              "maleVariant": "",
+              "stringId": "1885146511210594308"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну а как же! Не буду же я продавать непроверенный товар! Сперва надо каждый испытать.",
+              "maleVariant": "",
+              "stringId": "1885146511210594316"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С твоей прошлой покупкой ничего не сравнится.",
+              "maleVariant": "",
+              "stringId": "1983737469952811008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но ты выбирай.",
+              "maleVariant": "",
+              "stringId": "1983737469952811020"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У меня всё качественное.",
+              "maleVariant": "",
+              "stringId": "1983756461727768576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, давай посмотрим.",
+              "maleVariant": "",
+              "stringId": "1983758703449038848"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

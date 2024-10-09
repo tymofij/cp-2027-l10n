@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не понимаю, что со мной творится. Весь кайф куда-то ушёл.",
+              "maleVariant": "",
+              "stringId": "1963336118992355328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Раньше я прямо жить не мог без брейндансов. А теперь…",
+              "maleVariant": "",
+              "stringId": "1963336656484024320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тебе надо поднять градус. Попробуй что-то другого уровня. Ещё спасибо скажешь.",
+              "maleVariant": "",
+              "stringId": "1963337465011617792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поверь, я пережил всё. Меня уже ничем не удивить.",
+              "maleVariant": "",
+              "stringId": "1963338303956303872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как насчёт сожжения заживо?",
+              "maleVariant": "",
+              "stringId": "1963338610526371840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "...",
+              "maleVariant": "",
+              "stringId": "1963340557958496256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подробнее.",
+              "maleVariant": "",
+              "stringId": "1963340761667452928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У стен есть уши. Лучше заходи ко мне завтра.",
+              "maleVariant": "",
+              "stringId": "1966387211162861568"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

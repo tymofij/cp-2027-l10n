@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa... Pusto!",
+              "maleVariant": "",
+              "stringId": "2161804398262562816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak...?! Dopiero co było pełne!",
+              "maleVariant": "",
+              "stringId": "2211233515172110336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystko zeszło!",
+              "maleVariant": "",
+              "stringId": "2211233896065245184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kiedy?! Nie leć ze mną w chuja!",
+              "maleVariant": "",
+              "stringId": "2211234763229208576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Byłeś w Crystal Palace? No to już wiem, kto wpierdolił cały zapas!",
+              "maleVariant": "",
+              "stringId": "2211236444960563200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, dawaj mi to gówno! Może jest coś jeszcze na dnie...",
+              "maleVariant": "",
+              "stringId": "2211236871621943296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wyjebałeś cały Błyszczyk! Jak byłem... w tym... w Crystal Palace!",
+              "maleVariant": "",
+              "stringId": "2212856833813880832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A mówiłem, że trzeba coś zostawić na czarną godzinę!",
+              "maleVariant": "",
+              "stringId": "2212858088363761664"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй. А эта «Квадра», что вчера привезли, она на ходу? Или как?",
+              "maleVariant": "",
+              "stringId": "1612404701302009856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А то я знаю… Железо выстучать нетрудно, но двигатель не потянет. И шатун нужен новый.",
+              "maleVariant": "",
+              "stringId": "1693636844824473600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шатун, говоришь? Был тут один, валялся вон там, у ограды.",
+              "maleVariant": "",
+              "stringId": "1693646471154806784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ну? Идём-ка, поищем.",
+              "maleVariant": "",
+              "stringId": "1693647049129897984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

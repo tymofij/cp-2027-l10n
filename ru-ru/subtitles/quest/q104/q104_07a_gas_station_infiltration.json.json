@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вижу машины кочевников. Людей нет.",
+              "maleVariant": "",
+              "stringId": "1641739873595183104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я внутри.",
+              "maleVariant": "",
+              "stringId": "1641743311095746560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей. Я тебя прикрою.",
+              "maleVariant": "",
+              "stringId": "1641745439738580992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Радиобашня. Двое охранников.",
+              "maleVariant": "",
+              "stringId": "1641746755491745792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. Узнаю. Наши, клановые.",
+              "maleVariant": "",
+              "stringId": "1641749635485421568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поняла. Хелльман должен быть тут.",
+              "maleVariant": "",
+              "stringId": "1641752003035811840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Смотри в оба.",
+              "maleVariant": "",
+              "stringId": "1641773404522303488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вы тут все поляжете, уёбки.",
+              "maleVariant": "",
+              "stringId": "1767636926003568640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я узнала, где держат Хелльмана. Иду туда. На заправку.",
+              "maleVariant": "Я узнал, где держат Хелльмана. Иду туда. На заправку.",
+              "stringId": "1773383462876504064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей. Я тебя прикрою.",
+              "maleVariant": "",
+              "stringId": "1773417475257004032"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

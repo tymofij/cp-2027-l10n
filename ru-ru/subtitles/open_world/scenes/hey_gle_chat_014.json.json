@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эх, чумба… Старый я стал.",
+              "maleVariant": "",
+              "stringId": "2161735494471331840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нечего жаловаться. Если болит, значит, ещё живой.",
+              "maleVariant": "",
+              "stringId": "2176554386006458368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ничего у меня не болит, кретин. Я про молодёжь говорю. Когда-то у «Валентино» были принципы.",
+              "maleVariant": "",
+              "stringId": "2176554719420071936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы уважали Санта Муэрте, а она нам помогала. Мы заботились о семье, о своих.",
+              "maleVariant": "",
+              "stringId": "2176555158060384256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А теперь что, не заботимся? Да ты и правда говоришь, как старый хрен.",
+              "maleVariant": "",
+              "stringId": "2176555328231686144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что вижу, то и говорю. Теперь всем главное только бабки и всякие «угощения».",
+              "maleVariant": "",
+              "stringId": "2176555598009319424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сам погляди, мы становимся… ебучей мегакорпорацией.",
+              "maleVariant": "",
+              "stringId": "2176555929023791104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не преувеличивай.",
+              "maleVariant": "",
+              "stringId": "2176556126021861376"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

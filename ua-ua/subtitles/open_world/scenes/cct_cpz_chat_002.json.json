@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Говорив із Міґелем. «Валентинос» прийняли наші умови.",
+              "maleVariant": "",
+              "stringId": "1963273134877483008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А Стівенсон? Він дасть нам код від камери? Бо минулого разу ми ледве не спіймали.",
+              "maleVariant": "",
+              "stringId": "1966137044216037376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ключове слово — «ледве». З ким завгодно буває.",
+              "maleVariant": "",
+              "stringId": "1966137389910573056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На щастя, Стівенсон дає нам другий шанс. Окрім того, якщо все пройде, як по маслу, він отримає хороший «бонус».",
+              "maleVariant": "",
+              "stringId": "1966137709231325184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, а якщо нас спіймають, то він тут ні до чого, і нас не витягатиме.",
+              "maleVariant": "",
+              "stringId": "1966138107539210240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, він не втрачає нагоди нагадати нам про це.",
+              "maleVariant": "",
+              "stringId": "1966138517725364224"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

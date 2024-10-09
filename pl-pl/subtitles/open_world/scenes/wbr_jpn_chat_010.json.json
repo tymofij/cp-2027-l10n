@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To jednak całkiem znośny spektakl.",
+              "maleVariant": "",
+              "stringId": "1807004728293974016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tylko dlaczego protagonista jest taki naiwny?",
+              "maleVariant": "",
+              "stringId": "1807007364917354496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Według ciebie chęć spełnienia marzeń to przejaw naiwności?",
+              "maleVariant": "",
+              "stringId": "1807008229128527872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeszcze pytasz? W korporacji nie można sobie pozwolić na snucie marzeń.",
+              "maleVariant": "",
+              "stringId": "1807008395642396672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ty co niby robisz w Kiroshi?",
+              "maleVariant": "",
+              "stringId": "1807008582238593024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Realizuję ambicje.",
+              "maleVariant": "",
+              "stringId": "1807008737947934720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

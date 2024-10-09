@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę coś kupić...",
+              "maleVariant": "",
+              "stringId": "1863331944444870656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak idzie biznes?",
+              "maleVariant": "",
+              "stringId": "1863331944461647884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę coś kupić...",
+              "maleVariant": "",
+              "stringId": "1863331944545533956"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No? Co takiego? No dalej, nie wstydź się.",
+              "maleVariant": "",
+              "stringId": "1863331944545533964"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak idzie biznes?",
+              "maleVariant": "",
+              "stringId": "1863331944612642820"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ech... Mogłoby być lepiej. Znaczy, klientów odpukać nie brakuje... Ale ciągle ktoś mi robi problemy. Albo dewotki, albo ludzie od burmistrza. Obraza obyczajów, rozumiesz.",
+              "maleVariant": "",
+              "stringId": "1863331944612642828"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zabawne, co? Broń możesz kupić na każdym rogu i to dla nikogo nie jest problem, ale postaw stragan z wibratorami i afera murowana.",
+              "maleVariant": "",
+              "stringId": "1975117007708016640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

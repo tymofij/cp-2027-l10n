@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, the Basilisk – it's ready.",
+              "maleVariant": "",
+              "stringId": "1787031423702290432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure thing.",
+              "maleVariant": "",
+              "stringId": "1787031612479524868"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I can't now.",
+              "maleVariant": "",
+              "stringId": "1787032303818264576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure! Be there soon.",
+              "maleVariant": "",
+              "stringId": "1787032929474203652"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Can't now, Panam. Swing around soon as I can.",
+              "maleVariant": "I can't now, Panam. I'll swing around soon as I can.",
+              "stringId": "1787033082180423684"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fuck, V. It is awesome!",
+              "maleVariant": "",
+              "stringId": "1787034871353069568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure. We'll be waiting.",
+              "maleVariant": "",
+              "stringId": "1787036031011016704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Would you like drive it?",
+              "maleVariant": "",
+              "stringId": "1806985522639605760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So I hear.",
+              "maleVariant": "",
+              "stringId": "1806987150063112192"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

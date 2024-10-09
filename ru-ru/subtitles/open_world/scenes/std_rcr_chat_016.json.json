@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет, малыш. Прости, сегодня не получится… Ха-ха-ха, да, ночь была классная.",
+              "maleVariant": "",
+              "stringId": "2167591200337186816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да как обычно, у меня тут… куча корпоративных дел, собрания с директорами, ну ты понимаешь… Где работаю? Ну… На площади Корпораций… Нет, нет, не приезжай, давай потом договоримся.",
+              "maleVariant": "",
+              "stringId": "2228882546149920768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что, прости? Э-э-э… На мне… очень дорогой костюм, туфли из крокодиловой кожи… А на тебе? О-о-о… Ага, а ещё что? О-о-о, да ты у нас непослушная девочка… Ха-ха-ха…",
+              "maleVariant": "",
+              "stringId": "2228923230043082752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Конечно, устрою. Кем ты хочешь быть в «Арасаке»? Секретаршей?! Малыш, ты себя недооцениваешь. Как насчёт генерального директора? Хе-хе…",
+              "maleVariant": "",
+              "stringId": "2228925246664445952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Конечно, малыш. Я тебя научу. Ни у кого в Найт-Сити нет таких связей, как у меня.",
+              "maleVariant": "",
+              "stringId": "2228928024669425664"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

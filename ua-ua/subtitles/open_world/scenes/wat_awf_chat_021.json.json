@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми маємо поговорити з відділом кадрів. Ми не бачили нашу доньку вже цілий місяць!",
+              "maleVariant": "",
+              "stringId": "2156499635201417216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми ж обидвоє знали, що цей проєкт забере в нас увесь час.",
+              "maleVariant": "",
+              "stringId": "2196800482004103168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але яким коштом? Ти ж навіть не знаєш як у Мелоді справи!",
+              "maleVariant": "",
+              "stringId": "2196804421025984512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я би волів самому запитати в Мелоді, що вона їла на вечерю, а не читати це в якихось дурних звітах. А ти ні?",
+              "maleVariant": "",
+              "stringId": "2196804889429078016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А, тобто, ти вважаєш, що я погана мати?",
+              "maleVariant": "",
+              "stringId": "2196805077350674432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні! Я такого ніколи не казав, ти ж знаєш, що я… Ай, усе, забий.",
+              "maleVariant": "",
+              "stringId": "2196805259349913600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але її няня знає, і вона надсилає нам докладні звіти. Чого тобі ще треба?",
+              "maleVariant": "",
+              "stringId": "2196827706744827904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

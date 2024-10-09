@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Здравствуй, Ви.",
+              "maleVariant": "",
+              "stringId": "1790692327141842948"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как я понимаю, тебе осталось жить не более шести месяцев.",
+              "maleVariant": "",
+              "stringId": "1800966060728107008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не знаю, как ты планируешь провести это время.",
+              "maleVariant": "",
+              "stringId": "1800966255226372096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Возможно, ты примешь решение всё бросить, отдохнуть и подумать о смысле жизни…",
+              "maleVariant": "",
+              "stringId": "1800966538291560448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А может наоборот, продолжить делать то, что умеешь.",
+              "maleVariant": "",
+              "stringId": "1800966693732466688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так вот к чему я веду, если ты выберешь второй путь, я и мой отец будем рады предложить тебе работу. Мы хорошо платим.",
+              "maleVariant": "",
+              "stringId": "1800967466658807808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эти шесть месяцев пройдут быстрее, чем ты предполагаешь. Подумай, стоит ли тратить их напрасно.",
+              "maleVariant": "",
+              "stringId": "1800967908251910144"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sprzedajesz energetyki?",
+              "maleVariant": "",
+              "stringId": "1783744180071976960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co tak pachnie?",
+              "maleVariant": "",
+              "stringId": "1783744180088754176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Potrzebuję energetyka. Masz Chromanticore?",
+              "maleVariant": "",
+              "stringId": "1783744180105531396"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A mam, szefie! Co mam nie mieć? Sam bym tego kijem nie tknął, ale klient nasz pan.",
+              "maleVariant": "",
+              "stringId": "1783744180105531404"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co tak pachnie? Trochę jakby owocowo... a trochę, jak płyn do naczyń.",
+              "maleVariant": "",
+              "stringId": "1783744180122308612"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Specjalność zakładu, napój morelowy. Dopiero się robi. Jak już wyjdzie piwo, to całkiem nieźle się sprzedaje.",
+              "maleVariant": "",
+              "stringId": "1783744180122308620"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот это снайпер у тебя растёт!",
+              "maleVariant": "",
+              "stringId": "1973561824866508800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И что ты думаешь? Напоролись на патруль «Духов». Понятное дело, началась перестрелка…",
+              "maleVariant": "",
+              "stringId": "1974813072954212352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что, опять картину нарисовал? Или машину снова увёл?",
+              "maleVariant": "",
+              "stringId": "1974813095100137472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слышала, какой талантливый у меня мальчик?",
+              "maleVariant": "",
+              "stringId": "1974813112934318080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И мой мальчик попал одному из них прямо между глаз!",
+              "maleVariant": "",
+              "stringId": "1974813160648720384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет! Парни взяли его на разведку — он за ними всю неделю хвостом ходил.",
+              "maleVariant": "",
+              "stringId": "1974813185059569664"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

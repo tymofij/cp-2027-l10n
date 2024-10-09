@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Michelle! Michelle, jesteś tu...? Odezwij się... proszę!",
+              "maleVariant": "",
+              "stringId": "2156413510719365120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nic ci nie zrobili. Nie mogli. Przecież masz chore nerki... Na co im chore nerki?",
+              "maleVariant": "",
+              "stringId": "2170759751522828288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "N-nie wygłupiaj się, dobra? Powiedz coś... cokolwiek.",
+              "maleVariant": "",
+              "stringId": "2170760212694941696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wtedy będę mógł cię znaleźć... i pójdziemy do domu.",
+              "maleVariant": "",
+              "stringId": "2170760391472955392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zabiorę cię do kina, tak jak chciałaś. Wybierzesz film... Tylko proszę... Proszę, powiedz coś!",
+              "maleVariant": "",
+              "stringId": "2170760449723449344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Michelle, proszę...!",
+              "maleVariant": "",
+              "stringId": "2170760503158882304"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

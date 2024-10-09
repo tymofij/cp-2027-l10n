@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, пока всё идёт гладко, да? Да?",
+              "maleVariant": "",
+              "stringId": "1729894840456327168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чувак, да ты прямо оптимист.",
+              "maleVariant": "Чувак, да ты просто оптимист.",
+              "stringId": "1729898323137933312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да? А тебе что ни скажи, ты во всём видишь только негатив.",
+              "maleVariant": "",
+              "stringId": "1737124276444385280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А-ах, а чего вы все притихли-то? Тогда это, анекдот хотите?",
+              "maleVariant": "",
+              "stringId": "1737128935259164672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что? Ты серьёзно?",
+              "maleVariant": "",
+              "stringId": "1737129052162805760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ладно, вот, слушайте, что говорят киберсвиньи?",
+              "maleVariant": "",
+              "stringId": "1737129200087519232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Они говорят «хром-хром», ха-ха. Смешно, да?",
+              "maleVariant": "",
+              "stringId": "1797123202057003008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Говорю тебе, самое трудное позади.",
+              "maleVariant": "",
+              "stringId": "1967674847021309952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Боже правый…",
+              "maleVariant": "",
+              "stringId": "1995201251082313728"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

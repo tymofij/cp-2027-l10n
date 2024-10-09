@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти не поїдеш до тієї шмари в Пустку! Питання закрито!",
+              "maleVariant": "",
+              "stringId": "2179595008911990784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кошенятко, ти ж її не знаєш. І навіть не бачила ніколи. Звідки тобі знати, шмара вона чи нє?",
+              "maleVariant": "",
+              "stringId": "2211172308849745920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усі ті бездомні баби однакові.",
+              "maleVariant": "",
+              "stringId": "2217133497853370368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А-а-а, ти про Джолі… Вона взагалі працювала в пекарні, а Джилл — різарка. У них узагалі нема нічо’ спільного.",
+              "maleVariant": "",
+              "stringId": "2217135485651476480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чуй’, вона мені просто відрегулює суглоби за пів ціни.",
+              "maleVariant": "",
+              "stringId": "2217136677622341632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чудово, ну то вали! Але подивися, чи ти всі свої манатки прихопив, бо назад можеш не вертатися! Шо ти в ній знайшов такого?",
+              "maleVariant": "",
+              "stringId": "2217137229760520192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ех… Та нічого. Вона ж навіть не симпатична… Хоча верещить вона таки, звісно, менше.",
+              "maleVariant": "",
+              "stringId": "2217138792474304512"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

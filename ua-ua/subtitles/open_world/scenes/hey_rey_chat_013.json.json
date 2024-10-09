@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Деякі люди просто хочуть бути щасливими. Що тобі не зрозуміло?",
+              "maleVariant": "",
+              "stringId": "2161782791709421568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слухай, зараз не час і місце для таких розмов.",
+              "maleVariant": "",
+              "stringId": "2218889969057239040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чому ні? Ти ніколи не можеш зі мною поговорити, бо в тебе завжди є якісь виправдання.",
+              "maleVariant": "",
+              "stringId": "2218934077985492992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Ніколи»? «Завжди»? Та перестань.",
+              "maleVariant": "",
+              "stringId": "2218934519276605440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу, щоби в нас було все серйозно. Хочу нормальних стосунків.",
+              "maleVariant": "",
+              "stringId": "2218934895606337536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але ти ж знаєш, що я не вірю в стосунки. Хіба ми не можемо просто розважатися? Як усі?",
+              "maleVariant": "",
+              "stringId": "2218935243767123968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давай не псуватимемо вечір. Будь ласка.",
+              "maleVariant": "",
+              "stringId": "2218935718948212736"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

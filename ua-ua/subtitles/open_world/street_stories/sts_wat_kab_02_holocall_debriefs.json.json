@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привіт, Люсі в безпеці. Люксова робота. Дякую.",
+              "maleVariant": "",
+              "stringId": "2328821128142540804"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, як ти могла залишити Люсі там? Ти розумієш, що «вихорці» її тепер сховають так, що і не знайти?",
+              "maleVariant": "Ві, як ти міг залишити Люсі там? Ти розумієш, що «вихорці» її тепер сховають так, що і не знайти?",
+              "stringId": "2372242164132712448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Навіть не думаю, чи варто нам її шукати, і винна в цьому тільки ти. Я просто не розумію… Усе, потім.",
+              "maleVariant": "Навіть не думаю, чи варто нам її шукати, і винний у цьому тільки ти. Я просто не розумію… Усе, потім.",
+              "stringId": "2372243396939321344"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

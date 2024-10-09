@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Человек ко всему приспосабливается.",
+              "maleVariant": "",
+              "stringId": "2179606047749693440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не уверен. Вот ты сидишь тут с тех пор, как всё позакрывали, и не сказать, чтобы очень приспособился.",
+              "maleVariant": "",
+              "stringId": "2211178918535979008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так я был тут большим человеком. Я руководил всей стройкой.",
+              "maleVariant": "",
+              "stringId": "2217168493649551360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эх… Ну вот и я об этом…",
+              "maleVariant": "",
+              "stringId": "2217168845887201280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Короче, слушай, выбрался я вчера в Пустоши. Вниз, к дамбе. Поймал охуенную рыбу.",
+              "maleVariant": "",
+              "stringId": "2217168988879413248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет уже сейчас никаких рыб. Ты поймал какого-то мутанта. Смотри не ешь его, а то ещё будешь потом срать радугой.",
+              "maleVariant": "",
+              "stringId": "2217169531941117952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да блядь, чумба. Зачем её есть, если можно продать.",
+              "maleVariant": "",
+              "stringId": "2217170703544442880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

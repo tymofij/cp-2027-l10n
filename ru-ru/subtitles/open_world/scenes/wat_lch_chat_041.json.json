@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Крус слишком быстро его добил. Мог бы ещё на пару раундов растянуть.",
+              "maleVariant": "",
+              "stringId": "2157389561551155200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А зачем? И так было понятно, чем всё кончится.",
+              "maleVariant": "",
+              "stringId": "2222935936596525056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Туда приходят смотреть шоу, а не казнь.",
+              "maleVariant": "",
+              "stringId": "2222936335642607616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, но Крус не то чтобы умеет притворяться.",
+              "maleVariant": "",
+              "stringId": "2222940755751157760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, вряд ли он далеко пойдёт.",
+              "maleVariant": "",
+              "stringId": "2222948188812820480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Херак! Вот и всё его шоу.",
+              "maleVariant": "",
+              "stringId": "2222949985736540160"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

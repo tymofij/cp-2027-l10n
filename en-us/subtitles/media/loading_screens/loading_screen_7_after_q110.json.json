@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, you! Yeah, I'm talkin' to you! You connect to the Net, right? Well, I wouldn't if I were in your shoes!",
+              "maleVariant": "",
+              "stringId": "1672015204399882240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Corporations say the \"new\" Net is safe and secure – that they've learned from past mistakes.",
+              "maleVariant": "",
+              "stringId": "1680676070711676928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "From up in their ivory towers everything must look all nice and pretty... But they're wrong. The Net is just a rusty car with a fresh coat of paint, a heap of dog shit spritzed with perfume.",
+              "maleVariant": "",
+              "stringId": "1680676361376944128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The demons we released into the Net have not gone anywhere. Deadly viruses. Artificial intelligences that exist only to destroy. Netrunners consumed in the Net's tangled webs, their minds lost to the void.",
+              "maleVariant": "",
+              "stringId": "1680676833420693504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Have you heard of the prison of souls? About Alt Cunningham and the Soulkiller? No? Well then buckle up, because I've got--",
+              "maleVariant": "",
+              "stringId": "1680677405389541376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hah. NetWatch never sleeps.",
+              "maleVariant": "",
+              "stringId": "1680677987978366976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mikoshi... Gotta figure out how to get us there, V. ASAP.",
+              "maleVariant": "",
+              "stringId": "1680678577848504320"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

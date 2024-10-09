@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Розумієш, ти думаєш, що можеш наторгувати лайном собі статки, самому не торкаючися того лайна.",
+              "maleVariant": "",
+              "stringId": "2161904328059940864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що вона таке меле?",
+              "maleVariant": "",
+              "stringId": "2227410684245020672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На мене не дивися, чумбо. Я, блядь, просто охоронець.",
+              "maleVariant": "",
+              "stringId": "2227411668614615040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти думаєш, що кращий за нас, бо ти не брудниш руки. Ну то тепер май на увазі, що я тебе затягну в таке лайно, від якого ти кашлятимеш і ригатимеш по кілька днів підряд.",
+              "maleVariant": "",
+              "stringId": "2227411956243206144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Годі.",
+              "maleVariant": "",
+              "stringId": "2227412958027550720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні, не вистачить. Змінюємо правила гри: або ти надаєш доступ до своїх даних і їздиш із нами на кожну справу, або… Ну решту ти й так знаєш. То ми одне одного зрозуміли?",
+              "maleVariant": "",
+              "stringId": "2227413064613203968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усе ясно, пане справнику?",
+              "maleVariant": "",
+              "stringId": "2227492232185090048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так. Ясно як білий день.",
+              "maleVariant": "",
+              "stringId": "2227492476343914496"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

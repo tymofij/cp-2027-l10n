@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Night City nadal pogrążone jest w żałobie po śmierci dyrektora koncernu, Saburo Arasaki.",
+              "maleVariant": "",
+              "stringId": "1743075249131671552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Flagi na budynkach miejskich opuszczono do połowy masztu, organizowanie imprez masowych jest zabronione aż do odwołania.",
+              "maleVariant": "",
+              "stringId": "1743077386448326656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do miasta niedawno przybyła córka i dziedziczka Saburo-sama, Hanako Arasaka.",
+              "maleVariant": "",
+              "stringId": "1743077839198277632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ceremonia pożegnania zmarłego odbędzie się jutro o 12. Następnie ciało Saburo-sama zostanie przetransportowane do rodzimej Japonii, gdzie odbędzie się pochówek.",
+              "maleVariant": "",
+              "stringId": "1743078341826891776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"ご冥福をお祈りいたします\" t=\" Spoczywaj w pokoju, Saburo-sama.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1743078834137518080"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

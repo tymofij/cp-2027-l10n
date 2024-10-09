@@ -1,0 +1,97 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу посмотреть, что у тебя есть.",
+              "maleVariant": "",
+              "stringId": "1812703321117184000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Расскажи про «Мальстрём» и импланты.",
+              "maleVariant": "",
+              "stringId": "1812703321117184016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Покажешь, что есть на продажу?",
+              "maleVariant": "",
+              "stringId": "1812703321150738436"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слушайте, а зачем вам столько хрома? Ну, в смысле, на лице?",
+              "maleVariant": "Слушайте, а зачем вам столько хрома? Ну, в смысле, прямо на лице?",
+              "stringId": "1812703321184292868"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А тебе, блядь, что-то не нравится?",
+              "maleVariant": "",
+              "stringId": "1812703321184292876"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не мутить, не торговаться, деньги вперёд и сразу. Ясно?",
+              "maleVariant": "",
+              "stringId": "1975085306671845376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ясно.",
+              "maleVariant": "",
+              "stringId": "1975087958361165824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Делай так, или я перестану быть таким милым.",
+              "maleVariant": "",
+              "stringId": "1975088108114595840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет, нет. Просто любопытно.",
+              "maleVariant": "",
+              "stringId": "1975090325492125696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как думаешь, возьмут меня где работать с такой рожей?",
+              "maleVariant": "",
+              "stringId": "1975090754200326144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, вряд ли.",
+              "maleVariant": "",
+              "stringId": "1975091106253426688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот именно. Тот, кто вступает в «Мальстрём», прощается и с прежним лицом, и с прежней жизнью.",
+              "maleVariant": "",
+              "stringId": "1975091273488715776"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

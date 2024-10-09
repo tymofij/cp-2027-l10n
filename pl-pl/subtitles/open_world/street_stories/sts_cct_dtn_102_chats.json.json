@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słyszałeś? Mike nie żyje. Miał takie same purchle, jak ci \"wyleczeni\" ze zdjęć.",
+              "maleVariant": "",
+              "stringId": "1945942052525072384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czyli dostanie pośmiertny medal \"za wkład w rozwój naukowy Biotechniki\".",
+              "maleVariant": "",
+              "stringId": "1947417355488694272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jebać taki wkład. Kurwa... ta wioska, w której zbierali próbki...",
+              "maleVariant": "",
+              "stringId": "1947417675195322368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiem. Trochę tam było tych biednych skurwysynów.",
+              "maleVariant": "",
+              "stringId": "1947422216083050496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trochę? Podobno ponad siedemdziesiąt osób.",
+              "maleVariant": "",
+              "stringId": "1947422430059663360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"Obiektów\".",
+              "maleVariant": "",
+              "stringId": "1963321823447060480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ta.",
+              "maleVariant": "",
+              "stringId": "1963322452928204800"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

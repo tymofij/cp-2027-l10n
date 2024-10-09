@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нужно новое оружие.",
+              "maleVariant": "",
+              "stringId": "1866067841231114240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У вас тут проблемы с «Мусорщиками»?",
+              "maleVariant": "",
+              "stringId": "1866067841231114256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я подыскиваю себе новое оружие, есть что-нибудь хорошее?",
+              "maleVariant": "",
+              "stringId": "1866067841247891460"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А то, полные ящики хорошего.",
+              "maleVariant": "",
+              "stringId": "1866067841247891468"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Мусорщики» вас тут сильно донимают?",
+              "maleVariant": "",
+              "stringId": "1866067841264668676"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Когда как, иногда да, иногда нет. Но им хватает ума не связываться лично со мной.",
+              "maleVariant": "",
+              "stringId": "1866067841264668684"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

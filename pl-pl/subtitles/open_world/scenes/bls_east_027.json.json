@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No i patrz, to wszystko niczyje. Czyli nasze.",
+              "maleVariant": "",
+              "stringId": "2178293728947806208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Taa... Będzie farma jak marzenie.",
+              "maleVariant": "",
+              "stringId": "2211209758667632640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Myślisz, że coś w tej okolicy wyrośnie?",
+              "maleVariant": "",
+              "stringId": "2211210087249408000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wyrosnąć wyrośnie. Ale gwarantuję, że przy okazji będzie świecić w nocy.",
+              "maleVariant": "",
+              "stringId": "2211210737131646976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, nam to się udało. Amerykański sen, jak w mordę strzelił.",
+              "maleVariant": "",
+              "stringId": "2211211180335362048"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

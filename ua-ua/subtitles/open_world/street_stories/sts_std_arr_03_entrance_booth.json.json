@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти впевнений, що той хлопак із «Валентинос»?",
+              "maleVariant": "",
+              "stringId": "1492482923293011968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У нього золота рука, три літри гелю для укладки у волоссі та набитий на чолі хрест.",
+              "maleVariant": "",
+              "stringId": "1863447679068303360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, окей, питань нема. От дідько… Не думав, що Матей із ними водиться…",
+              "maleVariant": "",
+              "stringId": "1863448290648158208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А я про що! Наче нормальний чумба, а тут…",
+              "maleVariant": "",
+              "stringId": "1863453697055682560"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

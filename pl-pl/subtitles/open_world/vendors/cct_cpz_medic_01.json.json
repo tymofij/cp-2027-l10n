@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Potrzebuję leczenia.",
+              "maleVariant": "",
+              "stringId": "1977670673930682372"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ładny gabinet.",
+              "maleVariant": "",
+              "stringId": "1977671024037625856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Potrzebuję czegoś na wzmocnienie.",
+              "maleVariant": "",
+              "stringId": "1977671305727082496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ładny gabinet. Aż przyjemnie popatrzeć.",
+              "maleVariant": "",
+              "stringId": "1977671774952259584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zieleń ma zbawienny wpływ na psychikę i ciało. Nawet wszczepy lepiej się przyjmują. Ludzie o tym zapomnieli.",
+              "maleVariant": "",
+              "stringId": "1977675585276116992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak mogę ci pomóc?",
+              "maleVariant": "",
+              "stringId": "1979534063945105408"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Смотрел новый выпуск «Большой еды»? Вот там ещё… про Восточную Европу.",
+              "maleVariant": "",
+              "stringId": "1963264479763406848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О-о, чумба, не напоминай. Я чуть не проблевался.",
+              "maleVariant": "",
+              "stringId": "1969019417605685248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Просто жесть. Грибы эти… Ну, шампиньоны я ещё могу понять, но вот те, которые в смоле такой…",
+              "maleVariant": "",
+              "stringId": "1969020460712312832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да жесть вообще! И ведь даже водярой не запить, потому что это яд!",
+              "maleVariant": "",
+              "stringId": "1969020680711946240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Капец, чё люди жрать готовы… Нет уж, мне подавай нормальную человеческую еду. Сочный бургер с лабораторной говядиной! М-м!",
+              "maleVariant": "",
+              "stringId": "1969020896517275648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спасибо тебе, боже, что мы родились в Америке.",
+              "maleVariant": "",
+              "stringId": "1969021102273052672"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

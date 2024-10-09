@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да что ты там копаешься? Давай, валим отсюда.",
+              "maleVariant": "",
+              "stringId": "2178239594641219584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спокойно. Нормально всё. У меня новое колено, я бегаю как газель.",
+              "maleVariant": "",
+              "stringId": "2181089667308019712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А где достал?",
+              "maleVariant": "",
+              "stringId": "2181091621081931776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Брат отдал. Он себе поставил какую-то крутую модель.",
+              "maleVariant": "",
+              "stringId": "2181092073244680192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чего это он вдруг о тебе вспомнил? Последний раз этот хер прошёл мимо, как будто тебя не знает.",
+              "maleVariant": "",
+              "stringId": "2181092625215086592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну тогда-то он с самим боссом обедать ходил. А теперь просрал какой-то важный проект, с ним теперь никто даже рядом не сядет.",
+              "maleVariant": "",
+              "stringId": "2181093702077472768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да… Корпорат — он как сапёр, ошибается только один раз. Ладно, заводи своё газелье колено, и валим.",
+              "maleVariant": "",
+              "stringId": "2181096401867071488"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

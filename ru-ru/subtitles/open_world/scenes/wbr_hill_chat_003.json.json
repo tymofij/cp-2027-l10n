@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слыхала? Кейт грохнули.",
+              "maleVariant": "",
+              "stringId": "1806733830647308288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не. Ты, надеюсь, про ту, что из нашего отдела?",
+              "maleVariant": "",
+              "stringId": "1806738170795646976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чего? А, нет, я про другую. Из центра.",
+              "maleVariant": "",
+              "stringId": "1806738812524158976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С-сука… Такими темпами мы тут вообще ни хера не получим.",
+              "maleVariant": "",
+              "stringId": "1806739030007209984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я почти полгода пашу — и ни прибавки, ни продвижения.",
+              "maleVariant": "",
+              "stringId": "1806739150014636032"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

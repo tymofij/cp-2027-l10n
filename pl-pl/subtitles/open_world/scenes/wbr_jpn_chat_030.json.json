@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co taki wkurwiony chodzisz?",
+              "maleVariant": "",
+              "stringId": "2160377451349319680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A daj spokój.",
+              "maleVariant": "",
+              "stringId": "2180970024336199680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No gadaj chłopie.",
+              "maleVariant": "",
+              "stringId": "2180970103373664256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Śmieciarzy nie mogę się doprosić, żeby kontenery zabrali, a smród taki, że tu już zaczynam czuć.",
+              "maleVariant": "",
+              "stringId": "2180970233497751552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Boją się po nie wjechać śmieciarką, bo obok często Tygery się kręcą.",
+              "maleVariant": "",
+              "stringId": "2180970864908275712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No... Tygerom, to rzeczywiście lepiej pod nosem nie łazić.",
+              "maleVariant": "",
+              "stringId": "2180972162474938368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Eee... rzeczywiście czuć tu ten smród.",
+              "maleVariant": "",
+              "stringId": "2180972604604911616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówiłem ci.",
+              "maleVariant": "",
+              "stringId": "2180973344413028352"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

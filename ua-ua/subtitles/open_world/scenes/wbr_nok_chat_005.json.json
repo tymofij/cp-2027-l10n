@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти чула про Алісу? Не довго вона за батьком журила.",
+              "maleVariant": "",
+              "stringId": "1963359110190727168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, знаєш, моя дорогенька, вона його не сильно-то й любила.",
+              "maleVariant": "",
+              "stringId": "1979172214680162304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та ніхто старого Райна сильно й не любив. Але, утім, він усе ж був її батьком.",
+              "maleVariant": "",
+              "stringId": "1979172299807756288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "До речі, що ж там таки сталося? Невже дійсно серцевий напад?",
+              "maleVariant": "",
+              "stringId": "1979172378677448704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скажи? Мер без належного медичного обслуговування. Цей факт сам по собі вже скандальний.",
+              "maleVariant": "",
+              "stringId": "1979172470750810112"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

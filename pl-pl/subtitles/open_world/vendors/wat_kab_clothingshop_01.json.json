@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szukam fajnych ciuchców.",
+              "maleVariant": "",
+              "stringId": "1914297443719860224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Od kiedy gangsterzy sprzedają ubrania?",
+              "maleVariant": "",
+              "stringId": "1914297443719860240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dostanę u ciebie jakieś fajne ciuchy?",
+              "maleVariant": "",
+              "stringId": "1914297443753414656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To zależy, czy łachy z drugiej ręki są dla ciebie fajne.",
+              "maleVariant": "",
+              "stringId": "1914297443753414664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czy to czasem nie tatuaże Tygersów? Od kiedy gangsterzy sprzedają ubrania?",
+              "maleVariant": "",
+              "stringId": "1914297443770191876"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Od kiedy ich szef dochodzi do wniosku, że nie potrzebuje kumpli z rozjebanym kręgosłupem.",
+              "maleVariant": "",
+              "stringId": "1914297443770191884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę się przebrać.",
+              "maleVariant": "",
+              "stringId": "3775204349752242176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Potrzebuję zmiany.",
+              "maleVariant": "",
+              "stringId": "3836253223455158296"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если тебе нужен проводник, зови Тревора.",
+              "maleVariant": "",
+              "stringId": "1973549367548747776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слыхал? Эти сволочи убили Тревора.",
+              "maleVariant": "",
+              "stringId": "1976397197048827904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Почему это? Он славный парень. Шустрый, смекалистый…",
+              "maleVariant": "",
+              "stringId": "1976399008166072320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно, давай уточню: мне нужен любой проводник, кроме Тревора.",
+              "maleVariant": "",
+              "stringId": "1976399110322540544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слишком смекалистый. И к тому же Тревор.",
+              "maleVariant": "",
+              "stringId": "1976400900753477632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знал несколько Треворов. И у всех до единого голова была дерьмом набита.",
+              "maleVariant": "",
+              "stringId": "1976402764786061312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Погоди-погоди. Как они до него добрались? Это был заказ? Налёт?",
+              "maleVariant": "",
+              "stringId": "1976404637257584640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И почему меня это не удивляет?",
+              "maleVariant": "",
+              "stringId": "1976404774008672256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ладно тебе. Славный был парнишка. Я считаю, с ними надо поквитаться.",
+              "maleVariant": "",
+              "stringId": "1976404808133529600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "К «Духам». По работе. Пацану просто жить надоело.",
+              "maleVariant": "",
+              "stringId": "1976407164728397824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну… Тревор сам к ним поехал. По работе.",
+              "maleVariant": "",
+              "stringId": "1976407205111156736"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

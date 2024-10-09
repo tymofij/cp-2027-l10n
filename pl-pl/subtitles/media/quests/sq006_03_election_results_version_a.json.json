@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobry wieczór, Night City. Tu Gillean Jordan, najnowsze wiadomości N54 News. Zostały już ogłoszone wyniki exit poll wyborów na nowego burmistrza.",
+              "maleVariant": "",
+              "stringId": "1744646259704651776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Obecny burmistrz, Weldon Holt z partii Dewolucjonistów, otrzymał niecałe 48% głosów, pomimo ciążących na nim podejrzeń o współudział w morderstwie Luciusa Rhyne'a, poprzedniego burmistrza miasta.",
+              "maleVariant": "",
+              "stringId": "1744677367045484544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wybory wygrał jednak kandydat Federalistów, Jefferson Peralez, na którego głosy oddało ponad 49% wyborców.",
+              "maleVariant": "",
+              "stringId": "1744677625985036288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W trakcie swojej przemowy Weldon Holt pogratulował konkurentowi zwycięstwa.",
+              "maleVariant": "",
+              "stringId": "1744678119251963904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czas pokaże, czy Peralezowi uda się zrealizować ambitne obietnice przedwyborcze.",
+              "maleVariant": "",
+              "stringId": "1744678493669093376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Po przerwie: Czy Night City Bonecrushers przełamią pechową passę?",
+              "maleVariant": "",
+              "stringId": "1744678782824411136"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

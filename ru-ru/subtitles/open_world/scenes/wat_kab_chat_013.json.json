@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Смотрел что-нибудь недавно?",
+              "maleVariant": "",
+              "stringId": "2156355141694365696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кстати, да! «Снова дома». Отличный вирт. Спокойный такой.",
+              "maleVariant": "",
+              "stringId": "2169009110404878336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, интересно. А что это? Боевик? Комедия?",
+              "maleVariant": "",
+              "stringId": "2169010367890771968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да в общем, ни то, ни другое. Ты ветеран, который возвращается с войны. Не был дома пять лет. А тебя в аэропорту ждёт жена, дети, собака, понимаешь?",
+              "maleVariant": "",
+              "stringId": "2169010470164680704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, понял. Поднимает настроение?",
+              "maleVariant": "",
+              "stringId": "2169012349900738560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. У меня последнее время много сокращений в отделе, я весь на нервах постоянно.",
+              "maleVariant": "",
+              "stringId": "2169012581057220608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да. Понимаю, о чём ты.",
+              "maleVariant": "",
+              "stringId": "2169013057093947392"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

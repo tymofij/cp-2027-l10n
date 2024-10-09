@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чуй’, чумбо… А ти в якихось віртах знімався?",
+              "maleVariant": "",
+              "stringId": "2159541901230907392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, так, було, здається, кілька разів. А чо’ питаєш?",
+              "maleVariant": "",
+              "stringId": "2167915006325477376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та от думаю спробувати разок, може… Там гроші більші.",
+              "maleVariant": "",
+              "stringId": "2167915155844026368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну це так… Але все ж я не раджу. Тут ти продаєш лише своє тіло, а там і тіло, і думки, і душу, січеш? Якісь чужі чмошники туситимуть у твоїй довбешці.",
+              "maleVariant": "",
+              "stringId": "2167915361734021120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І це, якщо чесно, хрінове відчуття насправді.",
+              "maleVariant": "",
+              "stringId": "2167915904124637184"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А в каком году это произошло?",
+              "maleVariant": "",
+              "stringId": "2205812533449035776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В 2023-м.",
+              "maleVariant": "",
+              "stringId": "2205812658976165888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Правильно. Присмотритесь к тому, что перед вами. Это место памяти, а чтобы помнить, надо чувствовать и понимать.",
+              "maleVariant": "",
+              "stringId": "2205812731302744064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Постарайтесь представить себе тот трагический день. Подумайте, что чувствовали жертвы, ощутите их страх и беспомощность.",
+              "maleVariant": "",
+              "stringId": "2205815856394768384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подумайте и о террористах. Какими безрассудными эгоистами надо быть, чтобы взорвать ядерную бомбу в центре города.",
+              "maleVariant": "",
+              "stringId": "2205816600246194176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подумайте об их звериной жестокости. И никогда, никогда не забывайте об этом месте и ужасном теракте, который случился там, где вы сейчас стоите.",
+              "maleVariant": "",
+              "stringId": "2205817327169409024"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти вчора де була?",
+              "maleVariant": "",
+              "stringId": "2179608373071831040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ходила в ГІМ. Думала, гляну, раптом шось ’найду.",
+              "maleVariant": "",
+              "stringId": "2211183046184099840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І шо?",
+              "maleVariant": "",
+              "stringId": "2217180710868574208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та нічо’ там нема’. Це ж Пацифіка, тут усе вже роки тому розікрали.",
+              "maleVariant": "",
+              "stringId": "2217180794452664320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага… Тре переселятися ближче до корпарів. Ці мудили завжди шось викидають.",
+              "maleVariant": "",
+              "stringId": "2217181315133562880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, то переселяйся. А я нікуди не піду звідси.",
+              "maleVariant": "",
+              "stringId": "2217181704012652544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А шо таке?",
+              "maleVariant": "",
+              "stringId": "2217182019894075392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це мій дім, чумбо.",
+              "maleVariant": "",
+              "stringId": "2217182082221432832"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

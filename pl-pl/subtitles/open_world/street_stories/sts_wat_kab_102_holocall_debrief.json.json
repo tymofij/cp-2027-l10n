@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sorry, ale nie czaję tego. Miałaś podrzucić pluskwę, a rozpieprzyłaś całe pieprzone auto? Serio? Pfff...",
+              "maleVariant": "Sorry, ale nie czaję tego. Miałeś podrzucić pluskwę, a rozpieprzyłeś całe pieprzone auto? Serio? Pfff...",
+              "stringId": "2328666939888218112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pięknie. Po cichutku i skutecznie. Jak w filmach. Tylko u nas stawki są nieco niższe, ale nie można mieć wszystkiego, prawda? Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2328667244193361920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Miałaś to załatwić po cichu. Bez przyciągania uwagi... Dobra, najważniejsze, że zainstalowałaś pluskwę.",
+              "maleVariant": "Miałeś to załatwić po cichu. Bez przyciągania uwagi... Dobra, najważniejsze, że zainstalowałeś pluskwę.",
+              "stringId": "2328667521084534784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Teraz tylko módl się, żeby jej nie znaleźli. Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2331974474340339712"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

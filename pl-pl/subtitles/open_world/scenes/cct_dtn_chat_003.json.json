@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chyba dopadł mnie jakiś kryzys. Nic mnie już nie kręci.",
+              "maleVariant": "",
+              "stringId": "1963336118992355328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie ogarniam tego. Kiedyś nie mogłem żyć bez braindansów. A teraz...",
+              "maleVariant": "",
+              "stringId": "1963336656484024320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podnieś poprzeczkę, spróbuj czegoś nowego. To zawsze działa.",
+              "maleVariant": "",
+              "stringId": "1963337465011617792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A, odżyłem wszystko. Nic mnie już nie zaskoczy.",
+              "maleVariant": "",
+              "stringId": "1963338303956303872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nawet spalenie żywcem?",
+              "maleVariant": "",
+              "stringId": "1963338610526371840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[pauza]",
+              "maleVariant": "",
+              "stringId": "1963340557958496256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ooo… Mów dalej.",
+              "maleVariant": "",
+              "stringId": "1963340761667452928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ściany mają uszy. Wpadnij do mnie jutro.",
+              "maleVariant": "",
+              "stringId": "1966387211162861568"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

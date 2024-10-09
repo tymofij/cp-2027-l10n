@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "По традиции, начнём с главной новости дня: «Арасака» объявила о начале продаже своих нерентабельных фабрик в Китакюсю и Фукуоке.",
+              "maleVariant": "",
+              "stringId": "1752986579169239040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это новый этап смелого плана реструктуризации, который представил новый генеральный директор Ёринобу Арасака неделю назад на собрании акционеров.",
+              "maleVariant": "",
+              "stringId": "1752986687667494912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Аналитики считают, что запланированные сокращения позволят сэкономить 20 миллиардов евродолларов.",
+              "maleVariant": "",
+              "stringId": "1752986873894592512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Согласно данным из источников близких к главе корпорации, эти средства пойдут на новые исследовательские центры.",
+              "maleVariant": "",
+              "stringId": "1752987013128708096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ёринобу Арасака, которого считали в семье белой вороной, всё-таки сумел рассеять сомнения инвесторов. После нервного открытия биржи «Арасака» набрала три процента.",
+              "maleVariant": "",
+              "stringId": "1752987174458417152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что будет дальше с японским гигантом? Об этом вы скоро узнаете в новом выпуске программы «Ваше дело — это моё дело»!",
+              "maleVariant": "",
+              "stringId": "1752987273175556096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет, Найт-Сити. Как всегда, «Ваше дело — это моё дело»!",
+              "maleVariant": "",
+              "stringId": "1753252642981212160"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Боже, ну мамо… Ма-а-ам, та годі, ти ніби з двадцятого століття!",
+              "maleVariant": "",
+              "stringId": "2156416211431710720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та… Та ні, о-о-о, які ще нічні світлячки? Просто хочу таким чином самовиражатися, мамо. А ти мені не даєш цього робити!",
+              "maleVariant": "",
+              "stringId": "2170615755093819392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та це, типу, хімічний імплант. Його вживляють під кілька шарів шкіри. Звідти він поглинатиме світло, а потім сам світитиметься.",
+              "maleVariant": "",
+              "stringId": "2170616557464174592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та чому ж ні? Он, у сестри Келсі, яка працює агентом у «Майкротесі», такий самий, і нічого, ніхто її за це не чіпає.",
+              "maleVariant": "",
+              "stringId": "2170616882539511808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У старості? Та дожити би ще спершу до тієї старості. Зрештою, якщо він мені набридне, то я завжди можу замінити собі там шкіру.",
+              "maleVariant": "",
+              "stringId": "2170617485445545984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мамо, ну серйозно, де ти тут проблему знайшла?..",
+              "maleVariant": "",
+              "stringId": "2170618013709746176"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aloise Daquin to frajer. Gość nadszarpnął moje zaufanie i uciekł z miasta, ale pieprzyć go.",
+              "maleVariant": "",
+              "stringId": "2328526912915742720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Teraz liczą się dla mnie jedynie jego fanty, które zostawił w Night City. Konkretnie chodzi mi o jego komputer. Sprawdź załącznik, dowiesz się co i jak.",
+              "maleVariant": "",
+              "stringId": "2331709031553798144"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

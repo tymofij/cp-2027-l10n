@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Опять время изменили, пидорасы…",
+              "maleVariant": "",
+              "stringId": "2168020971862544384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"そんな汚い言葉どこで覚えたの！？\" t=\"Это кто тебя научил так ругаться?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2211115407160074240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мой сраный папаня и научил. Даже свидание со своей семьёй не может устроить.",
+              "maleVariant": "",
+              "stringId": "2212920687040618496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"な… 何言ってるの？\" t=\"Что? Да что ты такое говоришь?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2212921360427737088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я больше сюда ходить не буду. Только время зря просру.",
+              "maleVariant": "",
+              "stringId": "2212923417566076928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"あなたのお父さんなのよ…\" t=\"Это же твой папа…\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2212925494769967104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Был бы он настоящий папа, не попал бы в тюрьму. Мы столько времени ехали, а он даже не мог охранникам дать на лапу?!",
+              "maleVariant": "",
+              "stringId": "2212925712185909248"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

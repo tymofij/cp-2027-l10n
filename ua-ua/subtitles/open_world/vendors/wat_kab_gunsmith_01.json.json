@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мені потрібна нова зброя.",
+              "maleVariant": "",
+              "stringId": "1866067841231114240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тут відчуваються проблеми з \"Бляхарями\"?",
+              "maleVariant": "",
+              "stringId": "1866067841231114256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу придбати трохи нової зброї.",
+              "maleVariant": "",
+              "stringId": "1866067841247891460"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну то будь, бляха, моєю гостею.",
+              "maleVariant": "Ну то будь, бляха, моїм гостем.",
+              "stringId": "1866067841247891468"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бляхарі сильно надокучають?",
+              "maleVariant": "",
+              "stringId": "1866067841264668676"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В деякі дні сильно, в інші… Ну, не дуже. Але щодо мене особисто, вони схоже знають, що краще триматись якомога далі.",
+              "maleVariant": "",
+              "stringId": "1866067841264668684"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

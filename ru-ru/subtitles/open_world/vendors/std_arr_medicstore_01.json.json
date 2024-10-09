@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чем торгуешь?",
+              "maleVariant": "",
+              "stringId": "1783753696176001024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Говорят, в Арройо эпидемия.",
+              "maleVariant": "",
+              "stringId": "1783753696176001040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что у тебя в ассортименте? Столько всего, может, что-то посоветуешь?",
+              "maleVariant": "",
+              "stringId": "1783753696192778244"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. Купи… всё.",
+              "maleVariant": "",
+              "stringId": "1783753696209555460"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А это правда или слух, что в Арройо сейчас эпидемия?",
+              "maleVariant": "",
+              "stringId": "1783753696226332676"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Говорят о странных симптомах. Внезапно появляются ожоги, судороги, как при эпилепсии… А всё эта электростанция.",
+              "maleVariant": "",
+              "stringId": "1783753696226332684"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

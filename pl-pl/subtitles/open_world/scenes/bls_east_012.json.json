@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ledwo wróciłam wczoraj z dostawą.",
+              "maleVariant": "",
+              "stringId": "2178186366543011840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ciesz się, że w ogóle coś dowiozłaś. Mnie już dwa razy skroili. Wróciłem z pustą paką.",
+              "maleVariant": "",
+              "stringId": "2188329559561822208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Daj spokój. Jechałam z rurą wydechową skręconą jak flaki, mało się nie udusiłam po drodze.",
+              "maleVariant": "",
+              "stringId": "2188349236451172352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pierdolona mechaniczka znowu wcisnęła mi jakiś chłam ze szrota po Aldecaldos. A zapłaciłam jak za nówkę.",
+              "maleVariant": "",
+              "stringId": "2188353532374769664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Taa... mechanik zawsze cię przewiezie dwa razy. Raz na częściach, raz na lawecie.",
+              "maleVariant": "",
+              "stringId": "2188354571740078080"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

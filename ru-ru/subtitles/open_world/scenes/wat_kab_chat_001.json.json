@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Деньги мы обнаружили. Они в безопасности.",
+              "maleVariant": "",
+              "stringId": "1802435321311911936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Где?",
+              "maleVariant": "",
+              "stringId": "1802437166755340288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На станции. Просто курьер оказался белым. А нам откуда было знать?",
+              "maleVariant": "",
+              "stringId": "1802437348083490816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты, по ходу, вообще не понял, что от тебя требуется!",
+              "maleVariant": "",
+              "stringId": "1802437612811182080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Расслабься, я всё порешаю.",
+              "maleVariant": "",
+              "stringId": "1802437892806139904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Когда?",
+              "maleVariant": "",
+              "stringId": "1802438215582998528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Два дня. Максимум. Мне надо только…",
+              "maleVariant": "",
+              "stringId": "1802438387532685312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тебе надо только не проебать всё на этот раз. Потому как твоей пенсии не хватит, чтоб расплатиться.",
+              "maleVariant": "",
+              "stringId": "1802438793709084672"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

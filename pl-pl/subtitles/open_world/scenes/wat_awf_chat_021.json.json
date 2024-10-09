@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Musimy pogadać z kadrami. Od prawie miesiąca nie widzieliśmy naszej córki!",
+              "maleVariant": "",
+              "stringId": "2156499635201417216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oboje wiedzieliśmy, że ten projekt pożre cały nasz czas.",
+              "maleVariant": "",
+              "stringId": "2196800482004103168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale jakim kosztem? Ty nawet nie wiesz, czy z Melody wszystko w porządku!",
+              "maleVariant": "",
+              "stringId": "2196804421025984512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wolałbym sam zapytać Melody, co chciałaby zjeść na kolację niż czytać o tym w raporcie. Ty nie?",
+              "maleVariant": "",
+              "stringId": "2196804889429078016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha, czyli nazywasz mnie złą matką?",
+              "maleVariant": "",
+              "stringId": "2196805077350674432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie! No przecież wiesz, że nie to... A, nieważne.",
+              "maleVariant": "",
+              "stringId": "2196805259349913600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale jej opiekunka wie i wysyła nam szczegółowe raporty. O co ci chodzi?",
+              "maleVariant": "",
+              "stringId": "2196827706744827904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

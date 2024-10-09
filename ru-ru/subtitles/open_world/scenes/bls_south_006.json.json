@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бля.",
+              "maleVariant": "",
+              "stringId": "1973555961414066176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да что за попадос…",
+              "maleVariant": "",
+              "stringId": "1974934954478215168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кто же это сделал-то?!",
+              "maleVariant": "",
+              "stringId": "1974935572148199424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаешь, Альдекальдо? Пришли за человеком своим?",
+              "maleVariant": "",
+              "stringId": "1974955417917005824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эти пиздюки? Не посмели бы. А если посмели, значит, им кто-то помог.",
+              "maleVariant": "",
+              "stringId": "1974956461912825856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, нахуй. Быстро едем назад и сообщаем.",
+              "maleVariant": "",
+              "stringId": "1974959611700912128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, давай, только мы ещё не всё обошли!",
+              "maleVariant": "",
+              "stringId": "1974960537601908736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты поступай как знаешь, а я лично отсюда уёбываю!",
+              "maleVariant": "",
+              "stringId": "1974960884437295104"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

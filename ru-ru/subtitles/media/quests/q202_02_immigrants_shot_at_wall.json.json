@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С вами я, Джиллиан Джордан. Мы начинаем выпуск с тревожных новостей с границы.",
+              "maleVariant": "",
+              "stringId": "1792204460723707904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Южная Калифорния открыла огонь по колонне мигрантов, которые пытались перебраться за стену.",
+              "maleVariant": "",
+              "stringId": "1796567487378866176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Двадцать семь человек погибло и сорок семь человек ранено. Выживших держат в лагере, местоположение которого на данный момент неизвестно.",
+              "maleVariant": "",
+              "stringId": "1796567872315310080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это всего лишь очередной эпизод в серии похожих инцидентов, произошедших в этом году. Правительство Южной Калифорнии пока отказывается от комментариев.",
+              "maleVariant": "",
+              "stringId": "1796568242487803904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эта трагедия вновь подтверждает, что нам следует сплотиться под началом президента Майерс. Только благодаря чёткому руководству правительства НСША мы избежим дальнейшего кровопролития.",
+              "maleVariant": "",
+              "stringId": "1796568551507345408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чтобы подписать петицию, призывающую Совет Найт-Сити вернуться в Союз, перейдите по ссылке в нижней части экрана.",
+              "maleVariant": "",
+              "stringId": "1796568796303704064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Будьте с нами. Мы вернёмся совсем скоро.",
+              "maleVariant": "",
+              "stringId": "1796569056971309056"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

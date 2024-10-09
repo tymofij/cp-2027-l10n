@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What are these garbage shrimp?",
+              "maleVariant": "",
+              "stringId": "1617093679285374976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Whaddaya expect? This is Kabuki, not North Oak.",
+              "maleVariant": "",
+              "stringId": "1617094766365085696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What you know about Kabuki, dirty nomad?",
+              "maleVariant": "",
+              "stringId": "1617207474108338176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "C'mon, I don't need this. Just toss in a anti-whiff tablet for the smell.",
+              "maleVariant": "",
+              "stringId": "1617207686625333248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fifteen percent off or I will not buy!",
+              "maleVariant": "",
+              "stringId": "1617209364934135808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And they call nomads thieves! Fine, fine, you got a deal.",
+              "maleVariant": "",
+              "stringId": "1617209744652865536"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

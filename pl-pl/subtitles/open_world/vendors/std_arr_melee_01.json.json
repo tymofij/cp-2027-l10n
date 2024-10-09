@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jaką broń sprzedajesz?",
+              "maleVariant": "",
+              "stringId": "1783753881799118848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fajny klub tu macie.",
+              "maleVariant": "",
+              "stringId": "1783753881799118864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co masz na sprzedaż?",
+              "maleVariant": "",
+              "stringId": "1783753881832673284"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fajny klub tu macie.",
+              "maleVariant": "",
+              "stringId": "1783753881866227716"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No... fajny.",
+              "maleVariant": "",
+              "stringId": "1783753881866227724"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tośmy sobie pogadali. Masz jakiś interes, to mów, a jak nie, to wypierdalaj.",
+              "maleVariant": "",
+              "stringId": "1974782685205549056"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

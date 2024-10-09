@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pokaż, co tam masz w karcie.",
+              "maleVariant": "",
+              "stringId": "1783748166422384640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To tu Samurai dał swój pierwszy koncert?",
+              "maleVariant": "",
+              "stringId": "1783748166439161860"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pokaż, co tam masz w karcie.",
+              "maleVariant": "",
+              "stringId": "1783748166439161884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Iiiiha! Robi się, kowbojko!",
+              "maleVariant": "Iiiiha! Robi się, kowboju!",
+              "stringId": "1783748166439161892"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czekaj... To tutaj Samurai dał swój pierwszy koncert, tak?",
+              "maleVariant": "",
+              "stringId": "1783748166472716292"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha. O tym wieczorze chodzą legendy. Musieli tu wymienić potem wszystkie okna. I wprowadzić zasadę, że nagich klientów nie obsługujemy.",
+              "maleVariant": "",
+              "stringId": "1783748166472716300"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do tej pory przychodzą tu fani. Mamy dla nich w menu specjalne danie, Żeberka à la Silverhand. Drogie, ale palce lizać.",
+              "maleVariant": "",
+              "stringId": "1976545601390956544"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

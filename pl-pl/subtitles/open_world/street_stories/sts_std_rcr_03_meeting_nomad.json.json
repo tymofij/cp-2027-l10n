@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zabiorę cię do rippera, okej? Parę minut stąd. Dasz radę?",
+              "maleVariant": "",
+              "stringId": "1724016503437045760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Siedzi z tyłu.",
+              "maleVariant": "",
+              "stringId": "1724018074925314052"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Siedzi z tyłu... I się wykrwawia.",
+              "maleVariant": "",
+              "stringId": "1724018870685446144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej, hej! Tutaj!",
+              "maleVariant": "",
+              "stringId": "1724019187070185472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A klient gdzie?",
+              "maleVariant": "",
+              "stringId": "1724020370719551488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cholera... Jak zdechnie, to nie dostanę kasy.",
+              "maleVariant": "",
+              "stringId": "1724021120476557312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Muszę.",
+              "maleVariant": "",
+              "stringId": "1724022098420477952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wyłaź z auta. No, raz, raz!",
+              "maleVariant": "",
+              "stringId": "1724025692754456576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie mój problem. Zrobiłam swoje.",
+              "maleVariant": "Nie mój problem. Zrobiłem swoje.",
+              "stringId": "1943108840254132224"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

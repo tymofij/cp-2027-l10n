@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти, як завжди, шикарний, Джоше.",
+              "maleVariant": "",
+              "stringId": "2160307018046414848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хе-хе, так і є. Треба ж мати відпадний вигляд, так?",
+              "maleVariant": "",
+              "stringId": "2169385941943504896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та певна річ. Але якщо серйозно: нащо ти так одягаєшся сюди?",
+              "maleVariant": "",
+              "stringId": "2169386134394949632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та це, щоби дружина нічого не знала. Я їй кожного ранку кажу, що ходжу на роботу в офіс…",
+              "maleVariant": "",
+              "stringId": "2169386492236189696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я тут зависаю вже з пів року, а вона й досі нічого запідозрила. Ха-ха!",
+              "maleVariant": "",
+              "stringId": "2169386960521842688"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что, типа, опасная такая штучка? А может, тебе шрамов добавить?",
+              "maleVariant": "Что, типа, опасный такой бандит? А может, тебе шрамов добавить?",
+              "stringId": "2007231966741659648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я тебя осудил, приговорил и приведу приговор в исполнение. Потому что я здесь закон!",
+              "maleVariant": "",
+              "stringId": "2007232666703888384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, поиграли, и хватит. Давай начистоту: тебе хана, и ты это знаешь!",
+              "maleVariant": "",
+              "stringId": "2007232730742521856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что, напугать меня думаешь? Валяться будешь в луже мочи и крови!",
+              "maleVariant": "",
+              "stringId": "2007232787952828416"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Господи, я не могу, умора… Ты правда думала, что никто не заметит эту хрень у тебя на лице?!",
+              "maleVariant": "",
+              "stringId": "1963292689041498112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да отстаньте вы от меня!",
+              "maleVariant": "",
+              "stringId": "1969221971081936896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О-о, лучше не смейся, а то её корпоратский принц пришлёт с тобой разобраться!",
+              "maleVariant": "",
+              "stringId": "1969222167559913472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ему нравлюсь! Он мне позвонит, вот увидите!",
+              "maleVariant": "",
+              "stringId": "1969222503104233472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дура, корпораты девчонок на фабрике не ищут. Радуйся, что хоть на ночь взял.",
+              "maleVariant": "",
+              "stringId": "1969222671027388416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он меня любит! Он заберёт меня из этой дыры! Ещё поглядим, кто тогда посмеётся!",
+              "maleVariant": "",
+              "stringId": "1969222900422262784"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

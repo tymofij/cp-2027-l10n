@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bruce! Już myślałem, że cię nie wyciągniemy z tego obozu.",
+              "maleVariant": "",
+              "stringId": "1986559245031862300"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Archie. Ty kupo gówna.",
+              "maleVariant": "",
+              "stringId": "1986559245031862312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co?!",
+              "maleVariant": "",
+              "stringId": "1986559245031862324"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To przez takich jak ty ten obóz w ogóle istnieje. Widziałem cię za kierownicą! Ile ci płacą?!",
+              "maleVariant": "",
+              "stringId": "1986559245048639496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wystarczająco, żeby sfinansować twoją ucieczkę! Później mi podziękujesz. A teraz zwijamy się stąd.",
+              "maleVariant": "",
+              "stringId": "1986559245048639508"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej, V! Gdybyś planowała kiedyś zostawić Night City... Uważaj na granicach. Łatwo tam o fatalną pomyłkę.",
+              "maleVariant": "Hej, V! Gdybyś planował kiedyś zostawić Night City... Uważaj na granicach. Łatwo tam o fatalną pomyłkę.",
+              "stringId": "1986559245048639520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[poczekaj]",
+              "maleVariant": "",
+              "stringId": "2402375522593452036"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

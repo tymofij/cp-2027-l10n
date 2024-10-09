@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Главное, сразу поставь нейроблокиратор. Стирает ненужную память. Без него в этом деле долго не протянешь.",
+              "maleVariant": "",
+              "stringId": "1806884847720456192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, не знаю… Я слыхал, один такой поставил, а потом вообще не проснулся.",
+              "maleVariant": "",
+              "stringId": "1806886123308965888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ну, брехня. Ни разу не слышала. Все рано или поздно просыпаются.",
+              "maleVariant": "",
+              "stringId": "1806886452612161536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А я ещё читал о девчонке в Японии, у которой имплант заблочили, а он…",
+              "maleVariant": "",
+              "stringId": "1806886643167780864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слушай, ну вот ты сны с утра забываешь? И сильно тебе это мешает жить?",
+              "maleVariant": "",
+              "stringId": "1806886818875564032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А как в себя-то прийти?",
+              "maleVariant": "",
+              "stringId": "1806887058856861696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А тут отрубился — бац! — пришёл в себя в той же дыре, только с горстью лишних эдди в кармане.",
+              "maleVariant": "",
+              "stringId": "1824543639562719232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну… у тебя, считай, будильник сработает. Вот ты в отрубе, а вот уже бодрячком. Я вообще так иногда делаю чисто для отдыха.",
+              "maleVariant": "",
+              "stringId": "1824544161149587456"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, tego nie ruszaj.",
+              "maleVariant": "",
+              "stringId": "2161808654977806336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czemu?",
+              "maleVariant": "",
+              "stringId": "2211241868346630144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie widzisz tych symboli?",
+              "maleVariant": "",
+              "stringId": "2211242260077846528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widzę. Co z nimi?",
+              "maleVariant": "",
+              "stringId": "2211243079326081024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To tagi gangu.",
+              "maleVariant": "",
+              "stringId": "2211243122409971712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No i? Myślałem, że płacą nam za ich usuwanie.",
+              "maleVariant": "",
+              "stringId": "2211243199316729856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale nie płacą nam za narażanie życia. Pierdol to, mówię.",
+              "maleVariant": "",
+              "stringId": "2211243240521572352"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

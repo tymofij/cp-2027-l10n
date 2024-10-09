@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаешь, я в целом считаю, что грубая сила — это не лучший способ добиться цели, но иногда другого выхода просто не остаётся.",
+              "maleVariant": "",
+              "stringId": "2328596370291085312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Есть одна заноза, которую надо вытащить. В Найт-Сити хватает проблем и без садистов, которые работают на корпорации.",
+              "maleVariant": "",
+              "stringId": "2342006299783696384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окажи нам всем услугу и выполни этот заказ. Подробности прилагаются.",
+              "maleVariant": "",
+              "stringId": "2342006345149288448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

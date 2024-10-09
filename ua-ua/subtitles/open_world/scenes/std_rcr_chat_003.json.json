@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чула, шо нам знову скоротять зарплату.",
+              "maleVariant": "",
+              "stringId": "1963292230738288640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та воно й не дивно. Що менше працює, то менше заробляєш.",
+              "maleVariant": "",
+              "stringId": "1969200411050754048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тішся, що нас іще не звільняють. Я би на їхнім місці повикидала таких сиваків, як ми, разом зі сміттям.",
+              "maleVariant": "",
+              "stringId": "1969200816488955904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, треба було взяти позику на кращі м’язові волокна, поки була можливість.",
+              "maleVariant": "",
+              "stringId": "1969201035414847488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "З таким хромом можна було би пахати на фабриці аж до сімдесяти.",
+              "maleVariant": "",
+              "stringId": "1969201293213548544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мрії.",
+              "maleVariant": "",
+              "stringId": "1969201485446889472"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

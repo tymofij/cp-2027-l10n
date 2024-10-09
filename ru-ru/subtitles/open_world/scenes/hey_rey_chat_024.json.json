@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лучше всего, чтоб тело пару месяцев полежало.",
+              "maleVariant": "",
+              "stringId": "2161917832024322048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, если соседи не сообразят, оно обычно высыхает.",
+              "maleVariant": "",
+              "stringId": "2227530523127156736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хотя ты знаешь, во вторник… Не, погоди. Не во вторник, в среду! В среду какого-то чувака убили, надо было убирать сразу после полиции.",
+              "maleVariant": "",
+              "stringId": "2227530659928576000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тела уже не было, но от него и так по стенам и в углах порядочно осталось. В общем, я это всё отскребаю, так?",
+              "maleVariant": "",
+              "stringId": "2227544008452050944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. Не смердит, убрать можно быстро. Лёгкие деньги.",
+              "maleVariant": "",
+              "stringId": "2227544393656930304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И тут хрясь! Половица отходит, и ты не поверишь, что там, чумба!",
+              "maleVariant": "",
+              "stringId": "2227546002776494080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что там?",
+              "maleVariant": "",
+              "stringId": "2227546580734808064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А, какой хитрый! Я тебе скажу, а потом убирать придут то, что от меня осталось. Я же не дурак!",
+              "maleVariant": "",
+              "stringId": "2227546685726625792"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Предатель…",
+              "maleVariant": "",
+              "stringId": "1963261042296397824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да хватит. Если бы «Зетатех» предложил работу тебе, ты бы мигом всё бросил.",
+              "maleVariant": "",
+              "stringId": "1966240424145960960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если все побегут зашибать деньги в корпорациях, кто за городом будет приглядывать?",
+              "maleVariant": "",
+              "stringId": "1966240587723816960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Останься. Подумай ещё.",
+              "maleVariant": "",
+              "stringId": "1966241348285349888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Над чем? Над зарплатой, отпуском и соцпакетом?",
+              "maleVariant": "",
+              "stringId": "1966241582210072576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаешь, когда я в последний раз ходил с дочкой гулять?",
+              "maleVariant": "",
+              "stringId": "1966241902420017152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Извините, ребята. Ищите себе нового мученика.",
+              "maleVariant": "",
+              "stringId": "1966242133190623232"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

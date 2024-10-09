@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Перепрошую, чи не підкажете мені, де тут можна попоїсти?",
+              "maleVariant": "",
+              "stringId": "1802364343957446656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А в сраці твоїй.",
+              "maleVariant": "",
+              "stringId": "1802374897027637248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що, прошу?",
+              "maleVariant": "",
+              "stringId": "1802375562059702272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не лізь до нас, чумбо.",
+              "maleVariant": "",
+              "stringId": "1802375889282523136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Йобані туристи… «Де попоїсти? А як потрапити?» А в сраку йди, заїбав.",
+              "maleVariant": "",
+              "stringId": "1802376218719936512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Йобаний Кожухов, блядь…",
+              "maleVariant": "",
+              "stringId": "1802376652545187840"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

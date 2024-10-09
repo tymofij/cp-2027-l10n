@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Честно говоря, никогда не могла понять, что в голове у корпоратов.",
+              "maleVariant": "",
+              "stringId": "2328615815182626816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вроде всё у них есть: власть, влияние, деньги… И всё равно они ведут себя, как полные идиоты.",
+              "maleVariant": "",
+              "stringId": "2334647299411263488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот, например, мой клиент — какая-то большая шишка в «Кан тао». Приехал и решил развлечься с Арройо. А потом Арройо немного развлеклось с ним.",
+              "maleVariant": "",
+              "stringId": "2334647422908350464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он остался жив, но потерял важную вещь, что бы эти люди ни считали важным. Теперь мы должны ему помочь, прежде чем его начальство обо всём узнает. Прочитай письмо и приступай.",
+              "maleVariant": "",
+              "stringId": "2334647575396466688"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

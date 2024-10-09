@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I pay you to fix problems, not create them. Remember that, V.",
+              "maleVariant": "",
+              "stringId": "2328576895046610944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sublime work, V. I knew I could count on you.",
+              "maleVariant": "",
+              "stringId": "2328585353129062404"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, the point was to return the car in good condition. Yes, the nomads will handle it, but it would have been nice if it wasn't so beat up.",
+              "maleVariant": "",
+              "stringId": "2328585606163034116"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Regardless, I'm closing the contract.",
+              "maleVariant": "",
+              "stringId": "2334572903648706560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The nomads are grateful for your help. Contract closed.",
+              "maleVariant": "",
+              "stringId": "2334574155614896128"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

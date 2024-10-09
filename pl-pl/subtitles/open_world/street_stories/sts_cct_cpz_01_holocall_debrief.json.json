@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, V... Uffff! Siedziałem tu jak na pieprzonych szpilkach.",
+              "maleVariant": "",
+              "stringId": "2328497106295709696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na szczęście już po wszystkim, prawdziwy z ciebie zawodowiec.",
+              "maleVariant": "",
+              "stringId": "2333132128649986048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja mam dane, a ty jesteś bezpieczna. No i jest pięknie. Zamykam kontrakt.",
+              "maleVariant": "Ja mam dane, a ty jesteś bezpieczny. No i jest pięknie. Zamykam kontrakt.",
+              "stringId": "2333132244664434688"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

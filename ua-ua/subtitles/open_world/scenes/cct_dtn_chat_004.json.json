@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Оп-па! Як’справулі, по-о-одружко-о? Часто тут буваєш? Ха-ха…",
+              "maleVariant": "",
+              "stringId": "1963401555050479616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ж казала тобі не змішувати «Калаверу» і «Більшовика».",
+              "maleVariant": "",
+              "stringId": "1963403910370279424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну капе-е-ець… Й’ка ж ти зану-у-удна-а-а! Ой, усьо… Може ти тоді п’деш до своїх зану-у-удних друзів, га?",
+              "maleVariant": "",
+              "stringId": "1963404279066378240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пригальмуй, доки бебехи не поржавіли.",
+              "maleVariant": "",
+              "stringId": "1963404795133542400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пф-ф… Та я… Просто куплю нову!",
+              "maleVariant": "",
+              "stringId": "1963405182100029440"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

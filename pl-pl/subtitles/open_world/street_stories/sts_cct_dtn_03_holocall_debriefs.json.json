@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ha, ha, ha! Dokładnie o to chodziło.",
+              "maleVariant": "",
+              "stringId": "2328731950680498176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz, niby nie mówiłem \"nie rób totalnego rozpierdolu\", ale mogłabyś się domyślić.",
+              "maleVariant": "Wiesz, niby nie mówiłem \"nie rób totalnego rozpierdolu\", ale mógłbyś się domyślić.",
+              "stringId": "2328802268707151872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Weszłaś, zainstalowałaś, co trzeba i sobie wyszłaś, jak gdyby nigdy nic. Zamykam kontrakt!",
+              "maleVariant": "Wszedłeś, zainstalowałeś, co trzeba i sobie wyszedłeś, jak gdyby nigdy nic. Zamykam kontrakt!",
+              "stringId": "2333232222174953472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Larry chce wrócić do interesu, a nie go, kurwa, zniszczyć. Jakby nie było, zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2333233815876255744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

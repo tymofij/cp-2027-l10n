@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Людина до всього пристосовується.",
+              "maleVariant": "",
+              "stringId": "2179606047749693440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, не знаю. Ну от ти тут сидиш уже відтоді, як те сране будівництво закрили. Але ти шось не дуже схожий на пристосованого.",
+              "maleVariant": "",
+              "stringId": "2211178918535979008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Раніше я був кимось. Керував усім цим будівництво.",
+              "maleVariant": "",
+              "stringId": "2217168493649551360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ех-х… От і я про це, чумбо.",
+              "maleVariant": "",
+              "stringId": "2217168845887201280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага… Слухай, я тут учора скокнув у Пустку. Униз, до греблі. І зловив, блядь, рибу.",
+              "maleVariant": "",
+              "stringId": "2217168988879413248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пф-ф, зара’ вже не існує ніяких риб. Якшо ти зловив якогось мутанта, то дивися, не їж й’го, а то потім довго сратимеш веселкою.",
+              "maleVariant": "",
+              "stringId": "2217169531941117952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та нє, чумбо, нафіга його їсти, якшо можна продати?",
+              "maleVariant": "",
+              "stringId": "2217170703544442880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

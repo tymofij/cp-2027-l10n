@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gorąco. Prąd znowu wysiadł i nawet wiatraka nie można włączyć.",
+              "maleVariant": "",
+              "stringId": "2189456006657564672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"はあ、本当困るわよね。水も出ないし。でも仕方ないから。ところで新しい仕事はどう？\" t=\"Taa. I wody znowu brakuje. Nie ma co gadać. Lepiej powiedz, jak tam w nowej pracy?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2189472625848967168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zapierdol z tym rozwożeniem jedzenia, ale mogę zabierać resztki po zamknięciu.",
+              "maleVariant": "",
+              "stringId": "2189475760571113472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"へえ、何かいいのがあったら分けてよ。食べ物はいつでも大歓迎よ\" t=\"O. To jak się trafi coś z wyższej półki, to daj znać.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2189482292226514944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tych akurat nie tykam, bo małe porcje i paskudne. Raz wzięłam i się zatruliśmy.",
+              "maleVariant": "",
+              "stringId": "2189482860722479104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"コックが中に唾入れてたりして\" t=\"Pewnie jak ktoś droższe zamówi, to kucharze plują do garnków z zawiści.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2189495729048477696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sama bym napluła. Ale boję się że mnie wykryją po DNA. Albo na kamerce.",
+              "maleVariant": "",
+              "stringId": "2189496390104342528"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

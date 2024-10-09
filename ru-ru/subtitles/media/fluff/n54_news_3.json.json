@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это новости на Пятьдесят четвёртом, и у нас срочное сообщение. Уэллспрингс потрясла атака киберпсихопата.",
+              "maleVariant": "",
+              "stringId": "1751810722014748672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "28-летний Лестер Маккензи открыл огонь в торговом центре «Ривер Молл».",
+              "maleVariant": "",
+              "stringId": "1751815390258323456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Стрельба длилась десять минут. Нападавший был убит сразу после прибытия на место бойцов «Макс-так».",
+              "maleVariant": "",
+              "stringId": "1751815607238057984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сообщается о 35 погибших, 20 человек находятся в критическом состоянии.",
+              "maleVariant": "",
+              "stringId": "1751815779741392896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вскоре союз производителей имплантов в ответ на это происшествие выпустил следующее заявление, я цитирую: «Наши мысли и молитвы сейчас с пострадавшими и их семьями. Мы выражаем глубочайшие соболезнования жертвам трагедии, которую невозможно было предотвратить». Конец цитаты.",
+              "maleVariant": "",
+              "stringId": "1751815920133136384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Администрация сообщила, что «Ривер Молл» откроется в течение часа, а для жертв теракта и членов их семей во всех магазинах будет действовать скидка 50%.",
+              "maleVariant": "",
+              "stringId": "1751816099649347584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы следим за развитием событий. Оставайтесь на Пятьдесят четвёртом.",
+              "maleVariant": "",
+              "stringId": "1751816253982957568"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не вірю, що нам наказали гнити в цій дупі світу.",
+              "maleVariant": "",
+              "stringId": "1650635782160347136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ти хочеш, щоби тебе відправили в зону бойових дій?",
+              "maleVariant": "",
+              "stringId": "1650638960050270208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можливо. Там хоча б час плинув трохи швидше.",
+              "maleVariant": "",
+              "stringId": "1934203350185484288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ой, слухай. Якби тебе відправили на двотижневе завдання в Мексику, то єдине, що справді плинуло б — це твоя сеча по ногах.",
+              "maleVariant": "",
+              "stringId": "1934208430628478976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А тут у нас відпустка. Тому насолоджуйся.",
+              "maleVariant": "",
+              "stringId": "1934212375019069440"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаешь, какая у меня сейчас оптика? Просто охуеть! Чёткость — я ебу просто. Вижу всё, даже как муха летит!",
+              "maleVariant": "",
+              "stringId": "2276534109777076240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А сколько кадров в секунду?",
+              "maleVariant": "",
+              "stringId": "2276534109777076252"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Две с половиной тысячи. Башка только болит, когда целый день в высоком разрешении смотришь. Мозг с таким потоком херово справляется.",
+              "maleVariant": "",
+              "stringId": "2276534109793853440"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

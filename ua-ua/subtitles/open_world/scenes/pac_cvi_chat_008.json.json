@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Звірі» — найконченіша, блядь, банда в цьому місті.",
+              "maleVariant": "",
+              "stringId": "1963269422297686016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ходят’ чутки, шо наші плануют’ шось велике.",
+              "maleVariant": "",
+              "stringId": "1966389624346267652"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Беруться за будь-яку роботу.",
+              "maleVariant": "",
+              "stringId": "1966391225899307008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, вони хоч ділом завжди зайняті.",
+              "maleVariant": "",
+              "stringId": "1966392150693007360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Pasifika Avi!\" t=\"Пацифіка назавжди!\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1966392512510447616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гм. Хо’ш помогти?",
+              "maleVariant": "",
+              "stringId": "1966397544752500736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не пиздякай.",
+              "maleVariant": "",
+              "stringId": "1966397721248813056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А як?",
+              "maleVariant": "",
+              "stringId": "1966398250435760128"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

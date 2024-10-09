@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Доброе утро, Найт-Сити!",
+              "maleVariant": "",
+              "stringId": "2039066195769614336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вчерашний подсчёт трупов закончился на крепкой тридцаточке! Спонсор десятки — нестихающие уличные войны в Хейвуде!",
+              "maleVariant": "",
+              "stringId": "2039101856863416320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Минус один коп, так что все готовьтесь: полиция по этому поводу не сделает ни хрена!",
+              "maleVariant": "",
+              "stringId": "2039101945061240832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А вот в Санто-Доминго отрубило свет — очевидно, нетраннеры снова резвятся в электросети.",
+              "maleVariant": "",
+              "stringId": "2039102328538066944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В Уэстбруке «Траума тим» отскребает от асфальта жертв очередного киберпсиха.",
+              "maleVariant": "",
+              "stringId": "2039102416819777536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А Пасифика…",
+              "maleVariant": "",
+              "stringId": "2039102495404257280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну… Пасифика и есть Пасифика.",
+              "maleVariant": "",
+              "stringId": "2039102603684409344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С вами, как всегда, был Стэн. Впереди новый день в городе мечты!",
+              "maleVariant": "",
+              "stringId": "2039102697200611328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В центре у корпоратов всё без перемен.",
+              "maleVariant": "",
+              "stringId": "2150458461520850944"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

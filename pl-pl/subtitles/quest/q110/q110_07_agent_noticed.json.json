@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pośpiesz się z tą furgonetką.",
+              "maleVariant": "",
+              "stringId": "1533040390586781696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Miałaś tylko zbadać sytuację - po cichu - a nie robić rozpierdol.",
+              "maleVariant": "Miałeś tylko zbadać sytuację - po cichu - a nie robić rozpierdol.",
+              "stringId": "1682206415859814400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trudno. Już wie, że tu jestem.",
+              "maleVariant": "",
+              "stringId": "1682207867072221184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ej, kto to był?",
+              "maleVariant": "",
+              "stringId": "1695430519820406784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A jak myślisz? Netrunner, którego szukamy, próbował cię zhakować.",
+              "maleVariant": "",
+              "stringId": "1695430908498169856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No? I?",
+              "maleVariant": "",
+              "stringId": "1695637209064214528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zakładamy ci dodatkowy LOD. Na razie wszystko pod kontrolą.",
+              "maleVariant": "",
+              "stringId": "1695637620458328064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha… Czyli już wie, że tu jestem.",
+              "maleVariant": "",
+              "stringId": "1695638000680374272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nic ci nie będzie. Tylko nie przesadzaj z hakowaniem.",
+              "maleVariant": "",
+              "stringId": "1695638492017922048"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

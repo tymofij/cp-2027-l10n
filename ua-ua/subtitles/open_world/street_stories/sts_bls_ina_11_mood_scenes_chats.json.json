@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слухай, а та «Квадра», яку вони вчора привезли, ще їздить чи… вже ні?",
+              "maleVariant": "",
+              "stringId": "1612404701302009856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Без поняття. Кузов вирівняємо без питань, а от мотор, певно, уже не врятувати. Треба новий колінчастий вал.",
+              "maleVariant": "",
+              "stringId": "1693636844824473600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Колінчастий вал? Десь тут валявся. Здається, отам, біля огорожі.",
+              "maleVariant": "",
+              "stringId": "1693646471154806784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Серйозно? Ходімо глянемо.",
+              "maleVariant": "",
+              "stringId": "1693647049129897984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

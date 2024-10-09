@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти маєш харизму, чумбо. Цьому ніде не навчишся, але ми добре платимо за вже наявну.",
+              "maleVariant": "",
+              "stringId": "1832753109528076304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти думаєш, що кілька гарних слів переконають мене?",
+              "maleVariant": "",
+              "stringId": "1832755699074588672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сподіваюся, що твій здоровий глузд зробить це за мене.",
+              "maleVariant": "",
+              "stringId": "1832755849683656704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні.",
+              "maleVariant": "",
+              "stringId": "1832756025760538624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чому?",
+              "maleVariant": "",
+              "stringId": "1832756224956424192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лояльність. Це єдине, що справді цінується в цій справі.",
+              "maleVariant": "",
+              "stringId": "1832756370163228672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Які гарненькі слова. Але ти досі розмовляєш зі мною. Чому?",
+              "maleVariant": "",
+              "stringId": "1832756758069239808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сам подумай.",
+              "maleVariant": "",
+              "stringId": "1832756954849206272"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

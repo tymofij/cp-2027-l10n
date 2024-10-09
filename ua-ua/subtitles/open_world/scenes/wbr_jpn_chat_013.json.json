@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Послухай, крихітко… Я все зроблю… Для тебе. Киньмо все до дідька, га? З’їбемося на якісь Каймани, там, чи…",
+              "maleVariant": "",
+              "stringId": "2159534937545416704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага… А дружина твоя що скаже?",
+              "maleVariant": "",
+              "stringId": "2167899423378821120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не забивай собі цим голову, булочка моя… Це мій клопіт. Розведемося з нею якось по-биріку…А якщо не захоче по-биріку, то є інші варіанти… Шариш?",
+              "maleVariant": "",
+              "stringId": "2167900172062085120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу, шарю. І цей, не хочу тебе квапити чи ще щось, але твій час уже вийшов.",
+              "maleVariant": "",
+              "stringId": "2167901599081746432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Питань нема, я зараз доплачу… Як там тебе звали? Кенді? Менді? Ай, та яка в сраку різниця?..",
+              "maleVariant": "",
+              "stringId": "2167902374608556032"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

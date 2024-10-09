@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але я не хочу туди йти. Там смердить. І друзі в тебе якісь страшні.",
+              "maleVariant": "",
+              "stringId": "2167965985946390528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну ходімо, сонечко, лише на хвильку.",
+              "maleVariant": "",
+              "stringId": "2214510439408439296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та, на хвильку, ага…",
+              "maleVariant": "",
+              "stringId": "2221773874861019136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Таткові дуже треба, розумієш? Якщо татко туди не сходить, то йому буде дуже погано.",
+              "maleVariant": "",
+              "stringId": "2221774012081868800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тату, мені не пʼять рочків. Ти знову хочеш набухатися до всрачки, так? Давай. Але вже без мене.",
+              "maleVariant": "",
+              "stringId": "2221774519642984448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

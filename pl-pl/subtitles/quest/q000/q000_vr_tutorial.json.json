@@ -1,0 +1,733 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dziewczyna powinna być w tym budynku.",
+              "maleVariant": "",
+              "stringId": "2176775298639482880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A razem z nią banda skurwysynów, która ją porwała. Dlatego - uszy i oczy otwarte.",
+              "maleVariant": "",
+              "stringId": "2177740629902118912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A właśnie... Mam coś dla ciebie. To drzazga treningowa Militechu. Gdybyś potrzebowała przebieżki na sucho.",
+              "maleVariant": "A właśnie... Mam coś dla ciebie. To drzazga treningowa Militechu. Gdybyś potrzebował przebieżki na sucho.",
+              "stringId": "2177740962896302080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcesz sobie postrzelać w wirtualu?",
+              "maleVariant": "",
+              "stringId": "2177742396207419392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[SAMOUCZEK] Pewnie, rozgrzewka nie zaszkodzi.",
+              "maleVariant": "",
+              "stringId": "2177742921837596676"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[POMIŃ SAMOUCZEK] Nie mamy na to czasu.",
+              "maleVariant": "",
+              "stringId": "2177743165795094528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spróbujmy.",
+              "maleVariant": "",
+              "stringId": "2177747385013260288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie mamy teraz na to czasu. Może później.",
+              "maleVariant": "",
+              "stringId": "2177747944868958212"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jasne, spoko.",
+              "maleVariant": "",
+              "stringId": "2177749220306472960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[wysiądź] Do roboty.",
+              "maleVariant": "",
+              "stringId": "2177781685226065924"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ten kurs służy ugruntowaniu podstawowych zachowań i odruchów.",
+              "maleVariant": "",
+              "stringId": "2177970876203421700"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nabyte tu umiejętności pozwalają przeżyć na polu walki.",
+              "maleVariant": "",
+              "stringId": "2177970876220198916"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nauczymy cię, jak posługiwać się bronią, jak atakować z ukrycia i jak hakować sieci wroga.",
+              "maleVariant": "",
+              "stringId": "2177970876220198924"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Militech nie...",
+              "maleVariant": "",
+              "stringId": "2177970876220198932"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[rozpocznij szkolenie]",
+              "maleVariant": "",
+              "stringId": "2177982518987345924"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[rozpocznij szkolenie]",
+              "maleVariant": "",
+              "stringId": "2178031462723375104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[rozpocznij szkolenie]",
+              "maleVariant": "",
+              "stringId": "2178031583066345472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[rozpocznij szkolenie]",
+              "maleVariant": "",
+              "stringId": "2178031673797529600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[zakończ szkolenie]",
+              "maleVariant": "",
+              "stringId": "2178045408817729536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I co? Dobre, nie?",
+              "maleVariant": "",
+              "stringId": "2178060801443647488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To teraz do roboty.",
+              "maleVariant": "",
+              "stringId": "2178061842587340800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, najpierw potrenujemy skradanie się.",
+              "maleVariant": "",
+              "stringId": "2178080907997499396"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przejdziemy sobie program szkoleniowy ze strzelania taktycznego, tak na rozgrzewkę.",
+              "maleVariant": "",
+              "stringId": "2178082332114702344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Program szkoleniowy z wykorzystania technologii w warunkach bojowych.",
+              "maleVariant": "",
+              "stringId": "2178092310196146184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Teraz walka w bliskim dystansie.",
+              "maleVariant": "",
+              "stringId": "2178103929609408520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej, no to mamy wszystko załatwione. Przybijam pieczątkę.",
+              "maleVariant": "",
+              "stringId": "2178136391022563328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nieźle poszło.",
+              "maleVariant": "",
+              "stringId": "2178137337509203972"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Vamos.\" b=\"\" a=\" Do windy.\"/>",
+              "maleVariant": "",
+              "stringId": "2178283216778055680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej, spróbuj jeszcze raz.",
+              "maleVariant": "",
+              "stringId": "2179250097248817152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, prawie, prawie. Jeszcze raz.",
+              "maleVariant": "",
+              "stringId": "2179250921513439236"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Skup się, V.",
+              "maleVariant": "",
+              "stringId": "2179251052811931652"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jazda, dasz radę.",
+              "maleVariant": "",
+              "stringId": "2179251161612177412"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nieźle. Ale załóżmy, że cel też ma broń.",
+              "maleVariant": "",
+              "stringId": "2186400182759870464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O, patrz, tym razem przyprowadził kolegów. Do roboty, V.",
+              "maleVariant": "",
+              "stringId": "2186401634223935492"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czas na hakowanie operatorów wroga w czasie rzeczywistym.",
+              "maleVariant": "",
+              "stringId": "2186406688041488388"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobrze. A teraz pokaż, czego się nauczyłaś.",
+              "maleVariant": "Dobrze. A teraz pokaż, czego się nauczyłeś.",
+              "stringId": "2186417174657126404"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przejdźmy do broni białej. Weź miecz.",
+              "maleVariant": "",
+              "stringId": "2186417341271658500"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[zakończ szkolenie]",
+              "maleVariant": "",
+              "stringId": "2186422589923020800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[zakończ szkolenie]",
+              "maleVariant": "",
+              "stringId": "2186422696458342400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[zakończ szkolenie]",
+              "maleVariant": "",
+              "stringId": "2186422749273018368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Skąd masz ten chip? To jest materiał przygotowany dla korporacyjnego wojska.",
+              "maleVariant": "",
+              "stringId": "2192518938878734336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Od T-Bug. Podobno trochę go przerobiła.",
+              "maleVariant": "",
+              "stringId": "2192523864266698752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak to załatwiłeś?",
+              "maleVariant": "",
+              "stringId": "2192525505967616000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czemu? Wydaje jej się, że wie lepiej?",
+              "maleVariant": "",
+              "stringId": "2192574062334504960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Raczej nie pasował jej styl. Zresztą, sama zobaczysz.",
+              "maleVariant": "Raczej nie pasował jej styl. Zresztą, sam zobaczysz.",
+              "stringId": "2192574119410593792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No?",
+              "maleVariant": "",
+              "stringId": "2198446477823139840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zaczynamy podstawowe szkolenie bojowe. Postępy będą rejestrowane i oceniane.",
+              "maleVariant": "",
+              "stringId": "2201293108845498396"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, no to na deser zaawansowane techniki walki i kończymy zabawę.",
+              "maleVariant": "",
+              "stringId": "2207017315545927680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Teraz zajmiemy się hakowaniem. Trochę podrasowałam ich materiały.",
+              "maleVariant": "",
+              "stringId": "2207018368903434244"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, no to teraz sobie trochę postrzelamy.",
+              "maleVariant": "",
+              "stringId": "2207019732303892488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Teraz już go nie zgubisz. Biegusiem do strefy treningowej. Raz, raz!",
+              "maleVariant": "",
+              "stringId": "2207022374178541568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widzisz strażnika na dole. Użyj Kiroshi, żeby go namierzyć.",
+              "maleVariant": "",
+              "stringId": "2207024242808082440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kryj się, szybko!",
+              "maleVariant": "",
+              "stringId": "2207026081859391488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Świetnie. Teraz powoli przesuwaj się w kierunku wyjścia. Masz być niewidzialna.",
+              "maleVariant": "Świetnie. Teraz powoli przesuwaj się w kierunku wyjścia. Masz być niewidzialny.",
+              "stringId": "2207027410044473352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, mamy to. Przejdź do kolejnej strefy.",
+              "maleVariant": "",
+              "stringId": "2207029266711859208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Teraz to samo, tylko z kamerą.",
+              "maleVariant": "",
+              "stringId": "2207033273463361544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak myślałam, że to nie będzie dla ciebie jakoś specjalnie trudne.",
+              "maleVariant": "",
+              "stringId": "2207072823199944704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej, oberwałaś. Użyj reanimatora, żeby wyleczyć obrażenia.",
+              "maleVariant": "Okej, oberwałeś. Użyj reanimatora, żeby wyleczyć obrażenia.",
+              "stringId": "2207078813119041544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie stój tak, schowaj się!",
+              "maleVariant": "",
+              "stringId": "2207080084026707968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czekają na ciebie trzy cele do odstrzału.",
+              "maleVariant": "",
+              "stringId": "2207105771437576200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widzisz cele? To je rozwal.",
+              "maleVariant": "",
+              "stringId": "2207122486041006088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Musisz zhakować ekran, żeby odwrócić uwagę strażnika.",
+              "maleVariant": "",
+              "stringId": "2207130653424635904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobrze! A teraz zajdź go po cichu.",
+              "maleVariant": "",
+              "stringId": "2207131731461427204"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, jest twój. Załatw go.",
+              "maleVariant": "",
+              "stringId": "2207132875868885000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podczas akcji nie możesz zostawiać za sobą śladów.",
+              "maleVariant": "",
+              "stringId": "2207134700676337672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przenieś i ukryj gdzieś ciało.",
+              "maleVariant": "",
+              "stringId": "2207136117327679488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej, a teraz spróbuj się go pozbyć jednym płynnym ruchem.",
+              "maleVariant": "",
+              "stringId": "2207136437839613960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Poczekaj na właściwy moment...",
+              "maleVariant": "",
+              "stringId": "2207137745858482184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Teraz. Zdetonuj granat.",
+              "maleVariant": "",
+              "stringId": "2207139201936281608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zhakuj jednego ze strażników, żeby odwrócić uwagę tego drugiego. No, już!",
+              "maleVariant": "",
+              "stringId": "2207175498486796300"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okej, wystarczy.",
+              "maleVariant": "",
+              "stringId": "2207186615187558400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A teraz może dobierzemy ci kogoś w twojej kategorii wagowej.",
+              "maleVariant": "",
+              "stringId": "2207187476831817728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Militech nie potrafi szyfrować danych.",
+              "maleVariant": "",
+              "stringId": "2208504118803189760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra robota.",
+              "maleVariant": "",
+              "stringId": "2209917733972234240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stań na platformie, żeby wyjść z symulacji.",
+              "maleVariant": "",
+              "stringId": "2209918395665633280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jest dobrze.",
+              "maleVariant": "",
+              "stringId": "2209959311889682444"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stań na platformie i jedziemy z tym dalej.",
+              "maleVariant": "",
+              "stringId": "2209959311889682452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widzisz? Wystarczy wyłączyć myślenie i słuchać rozkazów. Jak w Militechu.",
+              "maleVariant": "",
+              "stringId": "2210014736832024588"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pod moim światłym dowództwem zajmujesz pierwsze miejsce. Stań na podium.",
+              "maleVariant": "",
+              "stringId": "2210014736832024596"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pięknie. Widać, że już się rozkręciłaś.",
+              "maleVariant": "Pięknie. Widać, że już się rozkręciłeś.",
+              "stringId": "2210062262138327044"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wskakuj na platformę.",
+              "maleVariant": "",
+              "stringId": "2210062262138327052"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale musztrowanie trepów wychodzi im nieźle.",
+              "maleVariant": "",
+              "stringId": "2211420454714425344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może trochę to podkręcimy?",
+              "maleVariant": "",
+              "stringId": "2211450293865496576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gotowa? To przejdź do strefy treningowej.",
+              "maleVariant": "Gotowy? To przejdź do strefy treningowej.",
+              "stringId": "2211456124686254080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A zwłaszcza trupów.",
+              "maleVariant": "",
+              "stringId": "2211489674823286784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spróbuj go obezwładnić. Lekko nie będzie.",
+              "maleVariant": "",
+              "stringId": "2211508992982204416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W języku korpów nawet hakowanie brzmi kurewsko nudno.",
+              "maleVariant": "",
+              "stringId": "2211522364121366528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zaraz zrobimy im niespodziankę.",
+              "maleVariant": "",
+              "stringId": "2212888581692276736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Baw się dobrze!",
+              "maleVariant": "",
+              "stringId": "2212901869985546240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szeregowa - do pierwszego stanowiska. Raz, raz!",
+              "maleVariant": "Szeregowy - do pierwszego stanowiska. Raz, raz!",
+              "stringId": "2212909701120212992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Możesz powiedzieć Jackiemu, że ci to zaliczam.",
+              "maleVariant": "",
+              "stringId": "2212910880642383872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No to do roboty.",
+              "maleVariant": "",
+              "stringId": "2220078820234612736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Potrzebujesz zaproszenia na piśmie?",
+              "maleVariant": "",
+              "stringId": "2221229947252625408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No? Na co czekasz?",
+              "maleVariant": "",
+              "stringId": "2221230212164866052"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Korpo-srorpo. Styl ponad treścią!",
+              "maleVariant": "",
+              "stringId": "2221231508875890688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wyszło nie najgorzej, algorytmy Militechu zaliczyłyby ci to szkolenie.",
+              "maleVariant": "",
+              "stringId": "2221232700997750784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fixerka dała ci jakieś wskazówki?",
+              "maleVariant": "",
+              "stringId": "2221233474528071680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wakako dała ci jakieś wskazówki odnośnie zlecenia?",
+              "maleVariant": "",
+              "stringId": "2221233657282285568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Taa, jasne. \"Nie jestem waszą matką. To łatwa robota, dacie sobie radę.\"",
+              "maleVariant": "",
+              "stringId": "2221413786751168512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale pamiętaj, że na ulicy nie będzie podpowiedzi i drugich szans.",
+              "maleVariant": "",
+              "stringId": "2221433502462996480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powodzenia, V.",
+              "maleVariant": "",
+              "stringId": "2221434865829900288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Krok po kroku przejdziemy przez ten faszystowski plac zabaw.",
+              "maleVariant": "",
+              "stringId": "2231807161551646720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, nie jesteś głupsza od rekruta Militechu. No, dalej!",
+              "maleVariant": "V, nie jesteś głupszy od rekruta Militechu. No, dalej!",
+              "stringId": "2231811100489641984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podnieś to, tracimy czas.",
+              "maleVariant": "",
+              "stringId": "2231958851626037248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Musisz się wyleczyć.",
+              "maleVariant": "",
+              "stringId": "2231960072906698752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Skradanko, V. Jak ninja w braindansie.",
+              "maleVariant": "",
+              "stringId": "2232102595943821312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To trening hakowania, nie relaksacji.",
+              "maleVariant": "",
+              "stringId": "2232105567339769856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, schowaj się!",
+              "maleVariant": "",
+              "stringId": "2232108289124298752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zwiedzasz sobie?",
+              "maleVariant": "",
+              "stringId": "2232109598250463232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do ćwiczeń, rekrucie!",
+              "maleVariant": "",
+              "stringId": "2232111319894814720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Teraz będą nudy, nauka obrony przed ciosami.",
+              "maleVariant": "",
+              "stringId": "2239203123920916480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Po zadaniu ciosu gostek na chwilę straci równowagę. Wykorzystaj ten moment do kontrataku.",
+              "maleVariant": "",
+              "stringId": "2239207036518682632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gostek to ładne imię, więc nie zmieniamy go, ale dla odmiany spróbuj unikać jego ciosów.",
+              "maleVariant": "",
+              "stringId": "2239208440788439048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Moja uczennico, poznałaś już wszystkie tajniki Drogi Gostka. Nadszedł czas na ostateczny test wszystkiego, jak w filmie.",
+              "maleVariant": "Mój uczniu, poznałeś już wszystkie tajniki Drogi Gostka. Nadszedł czas na ostateczny test wszystkiego, jak w filmie.",
+              "stringId": "2239213312086659072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zmieniam z łatwego na normalny. Ten typ potrafi blokować twoje ciosy.",
+              "maleVariant": "",
+              "stringId": "2239243704617422856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Są jeszcze inne scenariusze, jeśli masz ochotę potrenować. Ale jeżeli chcesz, możesz skończyć już teraz.",
+              "maleVariant": "",
+              "stringId": "2267775604361285632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Odblokowałam ci dwa inne szkolenia. Możesz przez nie przejść, albo skończyć trening już teraz.",
+              "maleVariant": "",
+              "stringId": "2267779382607106048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zostało jeszcze szkolenie ze skradania się. Ukończ je i to będzie już wszystko.",
+              "maleVariant": "",
+              "stringId": "2267781014812119048"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

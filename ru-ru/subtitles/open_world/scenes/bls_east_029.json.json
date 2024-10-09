@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаешь, на востоке лучше?",
+              "maleVariant": "",
+              "stringId": "2178311137037459456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не знаю, но лучше самому посмотреть. У меня родня в Небраске, можно там остановиться на какое-то время.",
+              "maleVariant": "",
+              "stringId": "2211250919570599936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На востоке, говорят, с работой трудно.",
+              "maleVariant": "",
+              "stringId": "2211256300124434432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В Найт-Сити с этим тоже не фонтан.",
+              "maleVariant": "",
+              "stringId": "2211256613405388800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу, а иначе понятно, что я нашёл бы. Мне ещё пожить охота.",
+              "maleVariant": "",
+              "stringId": "2211256783039819776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Просто ты искал не в тех местах. И не ту работу.",
+              "maleVariant": "",
+              "stringId": "2211258545603801088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну что ж, тогда хорошей дороги. Может, в Небраске тебе будет лучше.",
+              "maleVariant": "",
+              "stringId": "2211259659090849792"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

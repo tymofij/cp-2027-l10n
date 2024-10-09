@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sorry, ale całej wypłaty nie dostaniesz. Nie ma mowy.",
+              "maleVariant": "",
+              "stringId": "2156487448952336384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dowiozłem klienta na miejsce? Dowiozłem.",
+              "maleVariant": "",
+              "stringId": "2169349781556875264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Taa. Ale z kulą w brzuchu i złamaną nogą.",
+              "maleVariant": "",
+              "stringId": "2169350026386788352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówiłem mu, żeby nie kozaczył. Żeby… żeby się trzymał z tyłu. Ale nie, chciał mi koniecznie pokazać, że też się umie napierdalać. No, to pokazał.",
+              "maleVariant": "",
+              "stringId": "2169350448098889728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rozumiem, chłopie, serio. Ale większość klientów to gnoje. Musisz umieć ich kontrolować, tak? Bo inaczej są problemy.",
+              "maleVariant": "",
+              "stringId": "2169351026694737920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słuchaj, załatwmy to i nie wracajmy do tematu, bo nie warto. Potrącę ci 10%, nie więcej, okej? No, to świetnie.",
+              "maleVariant": "",
+              "stringId": "2169352399624654848"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

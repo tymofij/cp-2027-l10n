@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zapchane kible, chujowe piwo... Czemu daję ci się tu jeszcze zaciągać?",
+              "maleVariant": "",
+              "stringId": "2161740098609164288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bo jesteś dobry kolega, to raz. A dwa, to i tak najlepsza knajpa w okolicy.",
+              "maleVariant": "",
+              "stringId": "2176584474768949248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Poszlibyśmy gdzie indziej, chociaż raz.",
+              "maleVariant": "",
+              "stringId": "2176584708307795968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak dla mnie spoko. Co proponujesz?",
+              "maleVariant": "",
+              "stringId": "2176585025330069504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A może by tak... jakiś bar w Charter Hill?",
+              "maleVariant": "",
+              "stringId": "2176585184243859456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ha ha...! Jasne, gdy tylko dostanę spadek po nieznanej ciotce-milionerce.",
+              "maleVariant": "",
+              "stringId": "2176585305559908352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Daj spokój. Ile może kosztować piwo w Charter Hill?",
+              "maleVariant": "",
+              "stringId": "2176585449458089984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O, zdziwiłbyś się.",
+              "maleVariant": "",
+              "stringId": "2176585824714080256"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

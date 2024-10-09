@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę coś kupić.",
+              "maleVariant": "",
+              "stringId": "1783753696176001024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Podobno ludzie w Arroyo często chorują.",
+              "maleVariant": "",
+              "stringId": "1783753696176001040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak tam u ciebie z asortymentem? Da się coś kupić?",
+              "maleVariant": "",
+              "stringId": "1783753696192778244"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Coś tak.",
+              "maleVariant": "",
+              "stringId": "1783753696209555460"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To prawda, że ludzie w Arroyo częściej chorują?",
+              "maleVariant": "",
+              "stringId": "1783753696226332676"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zdarzają się dziwne wypadki. Spontaniczne poparzenia, ataki epilepsji... Niektórzy gadają, że to przez tę elektrownię.",
+              "maleVariant": "",
+              "stringId": "1783753696226332684"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

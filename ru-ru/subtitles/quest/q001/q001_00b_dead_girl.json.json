@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви, проверь тело.",
+              "maleVariant": "",
+              "stringId": "1141750414696976400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У Сандры Дорсетт корпоративный иммунитет второго уровня. Она девочка из высшей лиги.",
+              "maleVariant": "",
+              "stringId": "1141752040660865040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви, не тормози. Посмотри, кто это.",
+              "maleVariant": "",
+              "stringId": "1141794090370404352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это не она. Ищем дальше.",
+              "maleVariant": "",
+              "stringId": "1173663261609627648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы что, опоздали? Ви, глянь, это она? Наша цель?",
+              "maleVariant": "",
+              "stringId": "1193657062757011456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А у этой зетатеховские подделки с чёрного рынка. Такие в любой подворотне ставят.",
+              "maleVariant": "",
+              "stringId": "1630194113232957440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Супер. Они теперь слепые.",
+              "maleVariant": "",
+              "stringId": "1690989747161427968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вас засекли! Принимайте мясников!",
+              "maleVariant": "",
+              "stringId": "1690992765969788928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слишком дешёвые импланты.",
+              "maleVariant": "",
+              "stringId": "2177968277633142788"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

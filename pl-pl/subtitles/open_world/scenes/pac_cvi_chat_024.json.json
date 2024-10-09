@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ej, może już wracajmy? Niedługo będzie się ściemniać.",
+              "maleVariant": "",
+              "stringId": "2179512439692095488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcesz, to wracaj. Mnie tu jest bardzo dobrze.",
+              "maleVariant": "",
+              "stringId": "2189485360813948928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Weź, chodź ze mną. Chłopaki mówili, że Kosiarze się tu kręcą. Jeszcze coś ci się stanie.",
+              "maleVariant": "",
+              "stringId": "2189485552225206272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wolę spotkać Kosiarzy, niż słuchać, jak matka drze ryja.",
+              "maleVariant": "",
+              "stringId": "2189485776066822144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przestań, to nie jest śmieszne!",
+              "maleVariant": "",
+              "stringId": "2189485957260754944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówię poważnie. Zostanę sobie, pogapię się w morze.",
+              "maleVariant": "",
+              "stringId": "2189486046649761792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Posiedź ze mną jeszcze chwilę, to nic mi się nie stanie. A potem wrócimy, okej?",
+              "maleVariant": "",
+              "stringId": "2189486146524528640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale... No dobra, okej.",
+              "maleVariant": "",
+              "stringId": "2189486487689216000"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нужен стимулятор.",
+              "maleVariant": "",
+              "stringId": "1783744180071976960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чем это пахнет?",
+              "maleVariant": "",
+              "stringId": "1783744180088754176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне бы взбодриться. Есть у тебя «Хромантикора»?",
+              "maleVariant": "",
+              "stringId": "1783744180105531396"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пф-ф! Спроси лучше, чего у меня нет! Сам я таким не балуюсь, но для любимых покупателей найдётся всё.",
+              "maleVariant": "",
+              "stringId": "1783744180105531404"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А чем пахнет? Это какой-то фрукт? Или… средство для мытья посуды?",
+              "maleVariant": "",
+              "stringId": "1783744180122308612"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А-а! Это фирменное пиво! Мой маленький абрикосовый сюрприз. Как будет готово, народ сразу в очередь набежит!",
+              "maleVariant": "",
+              "stringId": "1783744180122308620"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

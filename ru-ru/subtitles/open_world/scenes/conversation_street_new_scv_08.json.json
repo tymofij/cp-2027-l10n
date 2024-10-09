@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я политикой не интересуюсь, потому что она не интересуется мной.",
+              "maleVariant": "",
+              "stringId": "2276537117143375888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хауи тоже так говорил, а теперь вон заседает в костюме в какой-то комиссии.",
+              "maleVariant": "",
+              "stringId": "2276537117143375900"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хауи лижет жопу федералам. Спорим, он ещё и на нас стучит? Надо бы с ним разобраться уже.",
+              "maleVariant": "",
+              "stringId": "2276537117143375912"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

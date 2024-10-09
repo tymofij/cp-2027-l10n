@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Боже правий… Ти це чуєш? Ти чуєш, що за хрінь вони лабають?",
+              "maleVariant": "",
+              "stringId": "1918600390360985600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Про смаки не сперечаються, Джонні.",
+              "maleVariant": "",
+              "stringId": "1924196680551682048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так кажуть тільки чмошники без смаку.",
+              "maleVariant": "",
+              "stringId": "1924197765030924288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не знаю, за що його хочуть прибити, але мені для цього було б достатньо його улюбленої музики.",
+              "maleVariant": "",
+              "stringId": "1924198675899535360"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

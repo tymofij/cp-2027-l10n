@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Night City. To nasz dom. Nasza duma.",
+              "maleVariant": "",
+              "stringId": "1792227944698912768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Od kiedy zostałem burmistrzem liczba morderstw spadła o 5, a bezrobocie o 3%.",
+              "maleVariant": "",
+              "stringId": "1800892884618821632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Żyje się lepiej. Ale nie wszystkim się to podoba. Niektórzy chcą tylko niszczyć.",
+              "maleVariant": "",
+              "stringId": "1800893453181894656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pytasz mnie o to miasto? Pytasz o mieszkańców? Nigdy mi na nich nie zależało.",
+              "maleVariant": "",
+              "stringId": "1800894075583053824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Już raz oddaliście na mnie głosy, więc zaufajcie mi znowu.",
+              "maleVariant": "",
+              "stringId": "1800894500482826240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jestem Weldon Holt i zatwierdzam ten przekaz.",
+              "maleVariant": "",
+              "stringId": "1800894993867194368"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

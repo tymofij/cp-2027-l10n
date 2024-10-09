@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти тіко подиви. Нікому того не тре. А значить дуже тре нам.",
+              "maleVariant": "",
+              "stringId": "2178293728947806208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага… Цілу ферму можна забахати.",
+              "maleVariant": "",
+              "stringId": "2211209758667632640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаєш, тут хоч шось виросте?",
+              "maleVariant": "",
+              "stringId": "2211210087249408000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та виросте, куди дінеться. Але, напевно, світитиметься поночі.",
+              "maleVariant": "",
+              "stringId": "2211210737131646976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Курва, то нам те вдалося. Американська мрія таки існує.",
+              "maleVariant": "",
+              "stringId": "2211211180335362048"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

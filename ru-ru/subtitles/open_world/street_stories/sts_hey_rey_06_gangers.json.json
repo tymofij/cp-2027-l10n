@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Целыми днями в обществе трупов. Во жизнь…",
+              "maleVariant": "",
+              "stringId": "1202609158318841872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зато сам живой, так что хватит ныть.",
+              "maleVariant": "",
+              "stringId": "1327023799124701184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что с дверями?",
+              "maleVariant": "",
+              "stringId": "1711172327654371332"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет. Чего у вас тут с дверями?",
+              "maleVariant": "Привет! Чего у вас тут с дверями?",
+              "stringId": "1711172422747631616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ничего с дверями. Уёбывай давай.",
+              "maleVariant": "",
+              "stringId": "1711175577786986496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Никакого уважения к покойникам.",
+              "maleVariant": "",
+              "stringId": "1904095919604027392"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

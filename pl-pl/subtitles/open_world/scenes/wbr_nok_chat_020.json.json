@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Za ten tydzień będzie trochę mniej.",
+              "maleVariant": "",
+              "stringId": "2159444640469065728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czemu? Mnie się wydaje, że przymykałem oko tak jak zwykle.",
+              "maleVariant": "",
+              "stringId": "2199601391759192064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Straciliśmy część towaru. Raffeni się przyczaili na transport.",
+              "maleVariant": "",
+              "stringId": "2199603648479293440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To oznacza sporą dziurę w moim budżecie.",
+              "maleVariant": "",
+              "stringId": "2199605527007391744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wynagrodzimy ci to. Za miesiąc odbieramy towar z Sacramento. Pierwsza klasa.",
+              "maleVariant": "",
+              "stringId": "2199607514755166208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dorzucę bonus za zwłokę.",
+              "maleVariant": "",
+              "stringId": "2199608061608521728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O, takie rozmowy lubię prowadzić. Perspektywiczne rozmowy.",
+              "maleVariant": "",
+              "stringId": "2199608539138420736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czyli gra wszystko?",
+              "maleVariant": "",
+              "stringId": "2199609173971496960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gra, gra.",
+              "maleVariant": "",
+              "stringId": "2199609279483408384"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

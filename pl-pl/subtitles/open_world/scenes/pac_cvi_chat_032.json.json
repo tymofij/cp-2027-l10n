@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tego... była w końcu dostawa w medycznym?",
+              "maleVariant": "",
+              "stringId": "2179556275252391936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No była, ale znowu przywieźli jakiś chłam. Nikt tego nie ruszy.",
+              "maleVariant": "",
+              "stringId": "2189407635596099584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tego... po mojemu, to nie sprzedali w mieście i myślą, że nam tutaj, wiesz, opchną.",
+              "maleVariant": "",
+              "stringId": "2189408135657799680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A najlepsze, że ktoś tam na górze stwierdził, że to zajebiste miejsce na wciskanie ludziom witaminek.",
+              "maleVariant": "",
+              "stringId": "2189408653201358848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ha, ha! I oni się dziwią, że wszyscy tu na bazarze kupują!",
+              "maleVariant": "",
+              "stringId": "2189408819631341568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Potrzebujemy prawdziwych leków, a nie kurwa cukierków z niacyną, czy innym gównem.",
+              "maleVariant": "",
+              "stringId": "2189408969435103232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tylko że prawdziwe leki kosztują kupę forsy. A od naszych tyle nie wyciągną.",
+              "maleVariant": "",
+              "stringId": "2189409139606405120"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

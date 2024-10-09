@@ -1,0 +1,823 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добро пожаловать в «Облака».",
+              "maleVariant": "",
+              "stringId": "1468126466250096640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не желаете подключиться к терминалу?",
+              "maleVariant": "",
+              "stringId": "1468129118476288000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Теперь подождите немного.",
+              "maleVariant": "",
+              "stringId": "1551774672304979968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Два совпадения… Интересно…",
+              "maleVariant": "",
+              "stringId": "1551775778678489088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что такое «нормально»? Вы просто… особенная личность с особенными вкусами.",
+              "maleVariant": "",
+              "stringId": "1551776677635276800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ангел.",
+              "maleVariant": "",
+              "stringId": "1551781493837119492"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скай.",
+              "maleVariant": "",
+              "stringId": "1551782203429470208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаю, я возьму Ангела.",
+              "maleVariant": "",
+              "stringId": "1551783968728137728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Наверное, выберу Скай.",
+              "maleVariant": "",
+              "stringId": "1551784008557248512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу… Сохранила.",
+              "maleVariant": "",
+              "stringId": "1551784031743361024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ангел ждёт вас в шестой кабинке.",
+              "maleVariant": "",
+              "stringId": "1551800944921919488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если хотите расслабиться перед сеансом, весь этаж в вашем распоряжении.",
+              "maleVariant": "",
+              "stringId": "1551801100530597888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Отключиться.] Всё?",
+              "maleVariant": "",
+              "stringId": "1551802109327818756"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Только двое готовы для тебя ноги раздвинуть? Небогато.",
+              "maleVariant": "",
+              "stringId": "1551805276497100800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Полностью поддерживаю ваше решение.",
+              "maleVariant": "",
+              "stringId": "1551824726508158976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Полностью поддерживаю ваше решение.",
+              "maleVariant": "",
+              "stringId": "1551825688010407936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кхм. У нас, в «Облаках», действует жёсткий запрет на ношение оружия. Пожалуйста, сдайте его на хранение.",
+              "maleVariant": "",
+              "stringId": "1615539550852702208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подключаться через личный порт небезопасно. Если вирус попадёт мне в ядро, придётся раскошеливаться на новую руку или ногу.",
+              "maleVariant": "",
+              "stringId": "1615542964865163264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ищу Эвелин Паркер. Она здесь работает?",
+              "maleVariant": "",
+              "stringId": "1615544460906291200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм… Сейчас проверю.",
+              "maleVariant": "",
+              "stringId": "1615544460906291208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нам нужны данные из ядра, чтобы подобрать для вас куклу.",
+              "maleVariant": "",
+              "stringId": "1615548422057320448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Верно. Если что-то пойдёт не так, вы сможете подать жалобу. Но такого ещё не случалось.",
+              "maleVariant": "",
+              "stringId": "1615549158610657280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как тут всё происходит?",
+              "maleVariant": "",
+              "stringId": "1615642661776744448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Моторными функциями куклы управляет алгоритм. Он превращает данные вашего профиля в ощущения в реальном времени.",
+              "maleVariant": "",
+              "stringId": "1615642792672583680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что-то вроде того. Главное, он будет не таким, как вы ожидаете.",
+              "maleVariant": "",
+              "stringId": "1615644216252915712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Доверьтесь алгоритму. Он подберёт для вас наиболее подходящую куклу.",
+              "maleVariant": "",
+              "stringId": "1615650441438912512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я считываю ваш профиль. Скоро вы увидите совместимых с вами кукол.",
+              "maleVariant": "",
+              "stringId": "1615662097946599424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А это нормально?",
+              "maleVariant": "Это нормально или?..",
+              "stringId": "1615664910227431424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ничего, система справится.",
+              "maleVariant": "",
+              "stringId": "1615666513927954432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кто вам больше нравится? Ангел или Скай?",
+              "maleVariant": "",
+              "stringId": "1615666766190174208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скай ждёт вас в девятой кабинке.",
+              "maleVariant": "",
+              "stringId": "1615679980059713536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А не пошёл бы ты на хуй, Джонни.",
+              "maleVariant": "",
+              "stringId": "1615681956214431744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хотите сказать, это не опасно, но риск всё-таки есть?",
+              "maleVariant": "",
+              "stringId": "1648779031323828224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Посмертие.",
+              "maleVariant": "",
+              "stringId": "1648787335055892480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Самурай.",
+              "maleVariant": "",
+              "stringId": "1648790431777644544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если вы считаете, что не готовы к происходящему, сеанс можно прервать в любой момент.",
+              "maleVariant": "",
+              "stringId": "1648802754894454784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спасибо. Желаю вам приятного отдыха.",
+              "maleVariant": "",
+              "stringId": "1663334768855465984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу… Оплата успешно прошла.",
+              "maleVariant": "",
+              "stringId": "1664726335477579776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Подключиться.] Ладно.",
+              "maleVariant": "",
+              "stringId": "1664815788489506816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы знаем, чего вы ищете.",
+              "maleVariant": "",
+              "stringId": "1666242230222544896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Откуда вы можете знать, чего я тут ищу?",
+              "maleVariant": "",
+              "stringId": "1666295844903280640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Облака» всегда знают. Мы находим ваши тайные желания.",
+              "maleVariant": "",
+              "stringId": "1666319952101728256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вы получите то, чего хотите, и не только. Наш клуб существует, чтобы превосходить ваши ожидания.",
+              "maleVariant": "",
+              "stringId": "1666321289833046016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я просто хочу поговорить с ней.",
+              "maleVariant": "",
+              "stringId": "1666322276970881024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не клиент.",
+              "maleVariant": "",
+              "stringId": "1666363994189553664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не клиент.",
+              "maleVariant": "",
+              "stringId": "1666368668993019904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу только поговорить с ней, и всё.",
+              "maleVariant": "",
+              "stringId": "1666368712714444800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прости, она сказала что-нибудь полезное?",
+              "maleVariant": "",
+              "stringId": "1666376324000473088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Раз тебе нужна особая жратва, шли нахуй официантку и сразу иди к повару.",
+              "maleVariant": "",
+              "stringId": "1666380695270547456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То есть?",
+              "maleVariant": "",
+              "stringId": "1666381416187518976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Заходишь как клиент и смотришь вокруг. Не хотят раскрывать карты? Отлично. Мы и без них сыграем.",
+              "maleVariant": "",
+              "stringId": "1666381525591744512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Достаточно только подключиться. Мы зарегистрируем вас и создадим ваш профиль для сеансов.",
+              "maleVariant": "",
+              "stringId": "1666423750035988480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вам не о чем беспокоиться. Кукла поговорит с вами о чём только захотите.",
+              "maleVariant": "",
+              "stringId": "1666423786643873792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подключитесь?",
+              "maleVariant": "",
+              "stringId": "1666435210250248192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То есть биометрический скан?",
+              "maleVariant": "",
+              "stringId": "1666472035064963072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Значит, у вас всё ещё впереди! Каждый когда-то был в «Облаках» первый раз. Вы не пожалеете.",
+              "maleVariant": "",
+              "stringId": "1666475716808237056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Выберите стоп-слово.",
+              "maleVariant": "",
+              "stringId": "1667703609538338816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эвелин сейчас недоступна.",
+              "maleVariant": "",
+              "stringId": "1667797626795393024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можете отключиться.",
+              "maleVariant": "",
+              "stringId": "1669309024897662976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Посмертие.",
+              "maleVariant": "",
+              "stringId": "1670503585275772932"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Самурай.",
+              "maleVariant": "",
+              "stringId": "1670509253055545344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Значит, у вас всё ещё впереди! Каждый когда-то был в «Облаках» первый раз. Вы не пожалеете.",
+              "maleVariant": "",
+              "stringId": "1670689909110800384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вам не о чем беспокоиться. Кукла поговорит с вами о чём только захотите.",
+              "maleVariant": "",
+              "stringId": "1670690700794068992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Внесите оплату, и через минуту вы окажетесь в «Облаках».",
+              "maleVariant": "",
+              "stringId": "1690789989588123648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Заплатить.] Пожалуйста.",
+              "maleVariant": "",
+              "stringId": "1690794492509011972"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Отключиться.] Чёрт, не хватает.",
+              "maleVariant": "",
+              "stringId": "1690804069363335168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добро пожаловать в «Облака».",
+              "maleVariant": "",
+              "stringId": "1690811231573622784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Подключиться.]",
+              "maleVariant": "",
+              "stringId": "1690811719270514688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вы выбрали нашу куклу по имени Ангел, но не прибегли к его услугам.",
+              "maleVariant": "",
+              "stringId": "1690812883139543040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не хочу ничего менять.",
+              "maleVariant": "",
+              "stringId": "1690813757081501700"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Выбираю Ангела.",
+              "maleVariant": "",
+              "stringId": "1690814411560697856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Выбираю Скай.",
+              "maleVariant": "",
+              "stringId": "1690814754285666304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаю, я не буду ничего менять.",
+              "maleVariant": "",
+              "stringId": "1690816411622948864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм… Раз есть возможность, я бы поменяла куклу. Пусть будет Ангел.",
+              "maleVariant": "Эм… Раз есть возможность, я бы поменял куклу. Пусть будет Ангел.",
+              "stringId": "1690816604208611328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ещё одна, последняя формальность…",
+              "maleVariant": "",
+              "stringId": "1690817314455273472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Похоже, не хватит мне сегодня на удовольствия.",
+              "maleVariant": "",
+              "stringId": "1690836213838102528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В таком случае ждём вас снова при более благоприятных обстоятельствах.",
+              "maleVariant": "",
+              "stringId": "1690836861639966720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хорошо.",
+              "maleVariant": "",
+              "stringId": "1690839685362860032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не желаете подключиться к терминалу?",
+              "maleVariant": "",
+              "stringId": "1690991986412838912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всегда рады вас видеть. Ваше стоп-слово — «посмертие».",
+              "maleVariant": "",
+              "stringId": "1690997156630716416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добро пожаловать. Рада видеть вас снова. Ваше стоп-слово: «самурай».",
+              "maleVariant": "",
+              "stringId": "1690998053792342016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё верно.",
+              "maleVariant": "",
+              "stringId": "1691033106765275136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если желаете, мы его заменим. Может, вам больше понравится Скай?",
+              "maleVariant": "",
+              "stringId": "1691033336596357120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вы выбрали куклу по имени Скай, но не прибегли к её услугам.",
+              "maleVariant": "",
+              "stringId": "1691034657584013312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё верно.",
+              "maleVariant": "",
+              "stringId": "1691034657584013324"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если желаете, мы её заменим. Может, вам больше понравится Ангел?",
+              "maleVariant": "",
+              "stringId": "1691034657584013336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Люблю, когда люди знают, чего хотят.",
+              "maleVariant": "",
+              "stringId": "1691065772508143616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм… Раз есть возможность, я бы поменяла куклу. Пусть будет Скай.",
+              "maleVariant": "Хм… Раз есть возможность, я бы поменял куклу. Пусть будет Скай.",
+              "stringId": "1691079177403064320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хорошо.",
+              "maleVariant": "",
+              "stringId": "1691079177403064332"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне надо с ней увидеться. Это важно.",
+              "maleVariant": "Я должен её увидеть. Это важно.",
+              "stringId": "1691114181185200128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, а вы меня заинтриговали.",
+              "maleVariant": "",
+              "stringId": "1694156232986419200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поведенческий чип также блокирует воспоминания куклы о проходящем сеансе.",
+              "maleVariant": "",
+              "stringId": "1694159178411237376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сеанс пройдёт в реальности, так что события могут принять неожиданный оборот. Не спешите отключаться, если вам некомфортно, иначе пропустите что-нибудь интересное.",
+              "maleVariant": "",
+              "stringId": "1694160215008305152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То есть она ничего не будет помнить?",
+              "maleVariant": "",
+              "stringId": "1694161384262819840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если я скажу да, сеанс покажется вам бессмысленным. Только от вас зависит, насколько рискованно в нём участвовать.",
+              "maleVariant": "",
+              "stringId": "1694161869258579968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не бойтесь, у нас вашим игрушкам ничто не угрожает.",
+              "maleVariant": "",
+              "stringId": "1712741180357566464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Внутри оружие вам не пригодится.",
+              "maleVariant": "",
+              "stringId": "1712741180391120896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Облака» — одно из самых безопасных мест в Найт-Сити.",
+              "maleVariant": "",
+              "stringId": "1712741180407898112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подключаться через личный порт небезопасно.",
+              "maleVariant": "",
+              "stringId": "1717366385843175428"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ищу Эвелин Паркер.",
+              "maleVariant": "",
+              "stringId": "1717368951096279040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ищу Эвелин Паркер.",
+              "maleVariant": "",
+              "stringId": "1717371297339604992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вы знаете, зачем я здесь?",
+              "maleVariant": "",
+              "stringId": "1717375988786069504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ищу Эвелин Паркер.",
+              "maleVariant": "",
+              "stringId": "1717391883822497792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ищу Эвелин Паркер.",
+              "maleVariant": "",
+              "stringId": "1717397341081763844"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как это работает?",
+              "maleVariant": "",
+              "stringId": "1717400176464822272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как у вас тут всё работает?",
+              "maleVariant": "",
+              "stringId": "1717400643374743552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ищу Эвелин Паркер.",
+              "maleVariant": "",
+              "stringId": "1717401497720913924"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как у вас тут всё работает?",
+              "maleVariant": "",
+              "stringId": "1717402126111539200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы знаем, чего вы ищете.",
+              "maleVariant": "",
+              "stringId": "1717402852732764160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Откуда вы можете знаете, чего я тут ищу?",
+              "maleVariant": "",
+              "stringId": "1717403020303597568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как у вас тут всё работает?",
+              "maleVariant": "",
+              "stringId": "1717410163958284288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ищу Эвелин Паркер.",
+              "maleVariant": "",
+              "stringId": "1718701425810276352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Все они могут в любой момент поменять цвет волос и глаз по вашему желанию.",
+              "maleVariant": "",
+              "stringId": "1755936585237094400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если что-то пойдёт не так, вам понадобится стоп-слово. Выберите его.",
+              "maleVariant": "",
+              "stringId": "1763705850014269440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хорошо, попробуем.",
+              "maleVariant": "",
+              "stringId": "1785404286447894528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот, пожалуйста.",
+              "maleVariant": "",
+              "stringId": "1785406426247577600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это всё?",
+              "maleVariant": "",
+              "stringId": "1785407423485296640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я ничего не знаю. Я просто тут работаю!",
+              "maleVariant": "",
+              "stringId": "1806829685857828864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я должна вернуть вам оружие… хотя предпочла бы не возвращать.",
+              "maleVariant": "",
+              "stringId": "1903747150828707840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не забывайте своё оружие.",
+              "maleVariant": "",
+              "stringId": "1903776263626989572"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хорошего дня. Если захотите снова оказаться в «Облаках», будем рады помочь.",
+              "maleVariant": "",
+              "stringId": "1905350165717229568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То есть?",
+              "maleVariant": "",
+              "stringId": "1946090223496658948"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Отключиться.] Я не хочу платить.",
+              "maleVariant": "",
+              "stringId": "1957465474810757120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я пришла не развлекаться. Мне нужна инфа.",
+              "maleVariant": "Я пришёл не развлекаться. Мне нужна инфа.",
+              "stringId": "1957465995642650624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А-а… К сожалению, её мы не продаём.",
+              "maleVariant": "",
+              "stringId": "1957466559088672768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я передумала. Я заплачу.",
+              "maleVariant": "Я передумал. Я заплачу.",
+              "stringId": "1957478167915511812"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно, я передумала. Я заплачу.",
+              "maleVariant": "Ладно, я передумал. Я заплачу.",
+              "stringId": "1957479283164168192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Искушение часто сильнее нас. Пожалуйста, подключитесь.",
+              "maleVariant": "",
+              "stringId": "1957479763378421760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу заказать куклу.",
+              "maleVariant": "",
+              "stringId": "1965006805066039300"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу заказать куклу.",
+              "maleVariant": "",
+              "stringId": "1965007717260050432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Простите, но боюсь, что это невозможно. Вы обозначены в системе как проблемный клиент.",
+              "maleVariant": "",
+              "stringId": "1965008089328369664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если передумаете, будем ждать вас снова.",
+              "maleVariant": "",
+              "stringId": "1973720209079099392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Подключиться.] Готово.",
+              "maleVariant": "",
+              "stringId": "2012963162996932608"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

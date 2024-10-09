@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "There's one thing I'll never get about the corpo psyche.",
+              "maleVariant": "",
+              "stringId": "2328615815182626816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "They got it all – power, prestige, Scrooge levels of eddies... and they still act like complete gonks.",
+              "maleVariant": "",
+              "stringId": "2334647299411263488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Take my client, for instance, some hotshot from Kang Tao – went and got wasted in Arroyo. Then, well, Arroyo wasted him back.",
+              "maleVariant": "",
+              "stringId": "2334647422908350464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He's alive, but lost something valuable, whatever that means to these people. I need to find it before his overlords catch wind of it. Get to work. Details attached.",
+              "maleVariant": "",
+              "stringId": "2334647575396466688"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Когда будет новая партия?",
+              "maleVariant": "",
+              "stringId": "1963291442980888576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скоро. Ты тут не один такой. Все на нервах.",
+              "maleVariant": "",
+              "stringId": "1969092951858200576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чёрт… ещё пара дней без дозы, и я кого-нибудь пристрелю, мамой клянусь.",
+              "maleVariant": "",
+              "stringId": "1969093745722507264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я бы на твоём месте потерпела. Нам должны удвоить эритритол.",
+              "maleVariant": "",
+              "stringId": "1969094046923866112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но для этого надо снизить статистику по огнестрелу.",
+              "maleVariant": "",
+              "stringId": "1969094230701490176"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

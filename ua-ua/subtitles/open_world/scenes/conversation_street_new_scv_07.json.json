@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слухай: біля якогось складу на набережній стоїть лімузин «Кан-Тао». А мужик всередині дивиться вірти.",
+              "maleVariant": "",
+              "stringId": "2276536725043060744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Він взагалі бачив тебе? Чекай… ти ж не трахалася з ним там, ні?",
+              "maleVariant": "",
+              "stringId": "2276536725043060756"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хотіла, але в нього не встав. Тоді я подзвонила хлопцям, вони розібрали машину на запчастини, а мужика скинули у воду.",
+              "maleVariant": "",
+              "stringId": "2276536725043060768"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

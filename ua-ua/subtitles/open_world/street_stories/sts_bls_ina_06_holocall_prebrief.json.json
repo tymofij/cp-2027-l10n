@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можна привести кобилу до води, але не можна змусити її пити. Я роками намагаюся вмовити Теннер працювати зі мною, але вона постійно брикається.",
+              "maleVariant": "",
+              "stringId": "2328852677377044480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як я вже не просила, що я їй не обіцяла, нічого не допомогло. Вона завжди відповідала одне й те саме: «Я не працюю зі справниками».",
+              "maleVariant": "",
+              "stringId": "2333035102771855360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але сьогодні вона змінила свою думку. А знаєш чого? Її викрали «Примари».",
+              "maleVariant": "",
+              "stringId": "2333035267540893696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я впевнена, що якщо ти допоможеш їй, то вона почне зі мною працювати. Я надіслала тобі усі деталі завдання.",
+              "maleVariant": "",
+              "stringId": "2333035532251807744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

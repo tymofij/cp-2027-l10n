@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти шо… Перевіряєш їх?",
+              "maleVariant": "",
+              "stringId": "2156543523458150400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та нє, знайома колись тут робила, ось і все.",
+              "maleVariant": "",
+              "stringId": "2221962247260422144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, невже? І відколи це в тебе такі знайомі?",
+              "maleVariant": "",
+              "stringId": "2221962898635833344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та ще здавна. Забий.",
+              "maleVariant": "",
+              "stringId": "2221963350127493120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То з нею щось сталося? Померла чи що?",
+              "maleVariant": "",
+              "stringId": "2221963953469734912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та нє, вона поміняла роботу та поїхала звідси… На якийсь час.",
+              "maleVariant": "",
+              "stringId": "2221964444018753536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А-ага-а. «Знайома», ну так.",
+              "maleVariant": "",
+              "stringId": "2221964968289976320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А що, хочеш привітатися? Поговорите про старі добрі часи, ні?",
+              "maleVariant": "",
+              "stringId": "2221985514423664640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę umyć ręce.",
+              "maleVariant": "",
+              "stringId": "2167941624791224320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spokojnie, dokończę zakupy i zaraz pójdziemy.",
+              "maleVariant": "",
+              "stringId": "2214502934741618688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tu jest brudno... Wiesz, że Martha tu jadła i dostała żółtaczki?",
+              "maleVariant": "",
+              "stringId": "2221694310860296192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dlatego nie będziemy nic jeść.",
+              "maleVariant": "",
+              "stringId": "2221694711651209216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fuuuu! Bakterie coli! Widzę na skanie! Daj mi mokre ściereczki, już nie mogę.",
+              "maleVariant": "",
+              "stringId": "2221694881268862976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chwilka cierpliwości. Naprawdę.",
+              "maleVariant": "",
+              "stringId": "2221695385122213888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

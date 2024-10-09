@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что продаёшь?",
+              "maleVariant": "",
+              "stringId": "1715598496904040452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу что-нибудь купить.",
+              "maleVariant": "",
+              "stringId": "1715598744804184064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А чем конкретно ты торгуешь?",
+              "maleVariant": "",
+              "stringId": "1715599999320510464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что сегодня в меню?",
+              "maleVariant": "Ну и что сегодня в меню?",
+              "stringId": "1715616633292640256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Времена тяжёлые. Если можно заработать, надо зарабатывать. Продаю всё, что ко мне попадает.",
+              "maleVariant": "",
+              "stringId": "1715627135091658752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ничем конкретным. Всем подряд.",
+              "maleVariant": "",
+              "stringId": "1715641366985887744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Увидишь, милая. Тебе понравится.",
+              "maleVariant": "Увидишь, милый. Тебе понравится.",
+              "stringId": "1715642130751868928"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

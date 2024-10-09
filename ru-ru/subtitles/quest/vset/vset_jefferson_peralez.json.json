@@ -1,0 +1,97 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет.",
+              "maleVariant": "",
+              "stringId": "1796889441146486784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Рад тебя видеть.",
+              "maleVariant": "",
+              "stringId": "1796889441163264004"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Понимаю. Поговорим в другой раз.",
+              "maleVariant": "",
+              "stringId": "1796889441263927300"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хорошо, вернёмся к этому позже.",
+              "maleVariant": "",
+              "stringId": "1796889441297481732"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На чём мы остановились?..",
+              "maleVariant": "",
+              "stringId": "1796889441381367812"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты вернулась. Прекрасно!",
+              "maleVariant": "Ты вернулся. Прекрасно!",
+              "stringId": "1796889441414922244"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви?",
+              "maleVariant": "",
+              "stringId": "1796889441431699460"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё хорошо?",
+              "maleVariant": "",
+              "stringId": "1796889441465253888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, прошу прощения.",
+              "maleVariant": "",
+              "stringId": "1796889441716912132"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Осторожней, пожалуйста.",
+              "maleVariant": "",
+              "stringId": "1796889441750466564"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви? Алло?",
+              "maleVariant": "",
+              "stringId": "1966184162390843396"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты меня слушаешь?",
+              "maleVariant": "",
+              "stringId": "1966184162441175044"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ще один дурень, який думав, що доля йому посміхнулася.",
+              "maleVariant": "",
+              "stringId": "1715417790770753536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Може й посміхалася… до передозу товаром «Вихору».",
+              "maleVariant": "",
+              "stringId": "1715417790770753544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, у нас гості.",
+              "maleVariant": "",
+              "stringId": "1793797746051166208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бідося. На нього, певно, чекає мала десь в Альбукерке. Вона ще не знає, що її коханий Джеро поплавив свій мозок якоюсь хуйнею.",
+              "maleVariant": "",
+              "stringId": "1935565825497493504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А навіщо він узагалі пробував це лайно? Усі знають, що у «Вихорців» найгребучіші запаси. Їхні випалені синапси вже ніщо інше не бере.",
+              "maleVariant": "",
+              "stringId": "1987782885774061568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бідолаха…",
+              "maleVariant": "",
+              "stringId": "2472136561751674884"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

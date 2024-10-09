@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Алло, я сейчас говорил с Кэндис, связь опять оборвалась.",
+              "maleVariant": "",
+              "stringId": "2156497193730613248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей, Нанда. Послушайте. Я уже час пытаюсь подать жалобу.",
+              "maleVariant": "",
+              "stringId": "2178055527744073728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да. У меня генератор адреналина. Ставили на прошлой неделе.",
+              "maleVariant": "",
+              "stringId": "2178055992372293632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, не работает. Он ничего не генерирует.",
+              "maleVariant": "",
+              "stringId": "2178057779112243200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я перезагружал. Десять уже перезагружал. Я просто хочу поменять его по гарантии.",
+              "maleVariant": "",
+              "stringId": "2178058116518834176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чего, чего, чего? Как это? Чего она не включает? Брак не включает?!",
+              "maleVariant": "",
+              "stringId": "2178058829483405312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну и что, что я принимаю лекарства?.. А при чём тут депрессия и ваш генератор?",
+              "maleVariant": "",
+              "stringId": "2178059551574781952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет, но это же просто… Алло! Алло!",
+              "maleVariant": "",
+              "stringId": "2178060214627135488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Блядь! Да, я буду ждать соединения! Да, сука, нажать «Один» для соединения с оператором!",
+              "maleVariant": "",
+              "stringId": "2178060545356394496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Господи, что за пиздец…",
+              "maleVariant": "",
+              "stringId": "2178061219095834624"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

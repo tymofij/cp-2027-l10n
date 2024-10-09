@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powiem tak: miej wyjebane, a będzie ci dane.",
+              "maleVariant": "",
+              "stringId": "2172137024292249600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tylko wiesz, coś, kurwa, wyjdzie i wtedy czyje głowy polecą? Bo na pewno nie ich.",
+              "maleVariant": "",
+              "stringId": "2208353720441606144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dlatego trzeba robić wszystko tak, żeby nic nie wyszło.",
+              "maleVariant": "",
+              "stringId": "2208363762360356864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przecież to było dziesięć kontenerów puszczonych na lewych papierach. A w środku? Korporacyjny sprzęt. Bojowy.",
+              "maleVariant": "",
+              "stringId": "2208364599878979584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wróci. Bierz kasę i nie rozkminiaj. A najlepiej udawaj głupszego, niż jesteś.",
+              "maleVariant": "",
+              "stringId": "2208366026630205440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widziałeś, w ogóle gdzie to wysłali? Mówię ci, ten temat wróci.",
+              "maleVariant": "",
+              "stringId": "2208372639286005760"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

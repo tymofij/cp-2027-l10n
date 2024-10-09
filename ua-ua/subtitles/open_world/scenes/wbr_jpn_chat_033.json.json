@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гаразд, друже, на сьогодні ти вже заправився як слід.",
+              "maleVariant": "",
+              "stringId": "2160398028084649984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та навпаки, друзяко! Хороше саке ще ніколи й нікому не зашкодило.",
+              "maleVariant": "",
+              "stringId": "2196820055193657344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаєш, у японців є така приказка: «Перший тост — самурай п’є саке, другий тост — саке п’є саке, а третій тост — саке п’є самурая».",
+              "maleVariant": "",
+              "stringId": "2196820815134433280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ай, якась срань собача. Я знаю кращу приказку…",
+              "maleVariant": "",
+              "stringId": "2196822989847502848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Першу тост — купую я. Другий тост — купуєш ти. А третій тост — за рахунок закладу». Як тобі?",
+              "maleVariant": "",
+              "stringId": "2196824330414170112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Братане, це бар «Тигрових кігтів». Тут не буває «за рахунок закладу».",
+              "maleVariant": "",
+              "stringId": "2196825220663582720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Тигрових кігтів»?.. Е-е… Тоді краще ходімо звідси…",
+              "maleVariant": "",
+              "stringId": "2196828154394681344"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

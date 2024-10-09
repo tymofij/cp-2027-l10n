@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "'Eyyyy, how's life in NC? Gettin' any sleep? 'Cause I'm not! Not when there's money to be made!",
+              "maleVariant": "",
+              "stringId": "2328749159102259200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So listen, one of my people – name's Juliet – was supposed to deliver me some precious data. Never made it – gettin' total radio silence.",
+              "maleVariant": "",
+              "stringId": "2342048242739810304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Check on her, will you? And, uh, don't forget the data. Spec's attached.",
+              "maleVariant": "",
+              "stringId": "2342048636920500224"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

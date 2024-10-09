@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Перекусити б щось хутенько.",
+              "maleVariant": "",
+              "stringId": "1864894420312936448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В цього бургера хвіст стирчить.",
+              "maleVariant": "",
+              "stringId": "1864894420312936464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Є щось смачне та швидке?",
+              "maleVariant": "",
+              "stringId": "1864894420329713668"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як кажуть, буває або швидко, або смачно. У нас ти отримуєш і перше і друге. Два в одному!",
+              "maleVariant": "",
+              "stringId": "1864894420346490880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мені здається, чи з цього бургера хвіст стирчить?",
+              "maleVariant": "",
+              "stringId": "1864894420363268100"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це страва для дітей. Дітлахи люблять сюрпризи.",
+              "maleVariant": "",
+              "stringId": "1864894420363268108"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

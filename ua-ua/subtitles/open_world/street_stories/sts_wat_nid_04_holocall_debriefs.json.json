@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прекрасна робота, Ві.",
+              "maleVariant": "",
+              "stringId": "2328676396803006464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сподіваймося, що це допоможе знайти їблана, який усе знімав. Контракт закрито.",
+              "maleVariant": "",
+              "stringId": "2339578434832142336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нічого не забула, Ві? Ну там, запис, наприклад? Хрін ми тепер його якось відстежимо.",
+              "maleVariant": "",
+              "stringId": "2362401648142553088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, я… Це просто ганьба. Я звикла працювати з професіоналами.",
+              "maleVariant": "",
+              "stringId": "2362404366370312192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти просрала нашу єдину підказку. Це був важливий контракт, його треба було виконати гідно.",
+              "maleVariant": "",
+              "stringId": "2362408027460833280"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

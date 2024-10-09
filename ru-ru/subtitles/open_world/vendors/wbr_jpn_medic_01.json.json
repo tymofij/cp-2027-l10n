@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нужен врач.",
+              "maleVariant": "",
+              "stringId": "1885160209220255744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Есть что посильнее?",
+              "maleVariant": "",
+              "stringId": "1885160209220255760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне бы врача.",
+              "maleVariant": "",
+              "stringId": "1885160209270587396"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чем могу помочь?",
+              "maleVariant": "",
+              "stringId": "1885160209270587404"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А нет ли каких-нибудь витаминок под прилавком?",
+              "maleVariant": "",
+              "stringId": "1885160209354473476"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Полагаю, тебя не витамин С интересует. Хм… Да, у нас полно товара, который ты хочешь найти.",
+              "maleVariant": "",
+              "stringId": "1885160209371250688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но если спросят парни в синем, купила ты его не здесь.",
+              "maleVariant": "Но если спросят парни в синем, купил ты его не здесь.",
+              "stringId": "1979441176302112768"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

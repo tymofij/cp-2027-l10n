@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Увага всім підрядникам поліції. Надійшло повідомлення про потенційну злочинну діяльність біля автостради М-9.",
+              "maleVariant": "",
+              "stringId": "2328983252888891392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Злочинці підозрюються в серії пограбувань на території Пустки.",
+              "maleVariant": "",
+              "stringId": "2358929124805152768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Їх очолює Брюс Ворд, повторюю, Брюс Ворд. Усі вони мають зв’язок із так званою бандою «Примари». Владою міста Найт-Сіті оголошено винагороду за нейтралізацію даної загрози.",
+              "maleVariant": "",
+              "stringId": "2358929151883579392"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

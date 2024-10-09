@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W Santo Domingo chłopcy z 6th Street spotkali chłopców z NCPD. Jak myślicie, kto strzelił pierwszy?",
+              "maleVariant": "",
+              "stringId": "1599388075838627840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nad ranem przypłynął lotniskowiec Hanako Arasaki. Czego szuka w mieście córka cesarza?",
+              "maleVariant": "",
+              "stringId": "1599388075855405056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A teraz, ze specjalnymi pozdrowieniami dla szumowin z Atlantis, Johnny Silverhand zagra \"Chippin' In\".",
+              "maleVariant": "",
+              "stringId": "1599388075855405072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzień dobry, Night City! Z tej strony Stanley. Kolejna gorąca noc za nami.",
+              "maleVariant": "",
+              "stringId": "1741447545447673856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wyjdziecie dzisiaj z Watson. Blokada policyjna. Oficjalnie to tylko ćwiczenia. Nie wierzcie im.",
+              "maleVariant": "",
+              "stringId": "1780759276095991808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeżeli mieszkasz w Watson i zobaczysz NCPD - zadzwoń i opowiedz mi o tym. Stanley powie wam prawdę.",
+              "maleVariant": "",
+              "stringId": "1780763401328193536"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

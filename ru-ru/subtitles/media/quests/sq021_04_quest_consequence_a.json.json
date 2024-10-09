@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сенсация и трагический финал криминальной истории. Детей, похищенных Энтони Харрисом, также известным как «Питер Пэн», нашли, увы, слишком поздно.",
+              "maleVariant": "",
+              "stringId": "1792302175591768064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Полиция Найт-Сити обнаружила похищенных детей, когда их уже невозможно было спасти.",
+              "maleVariant": "",
+              "stringId": "1802331654488571904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Детей держали на заброшенной ферме. Они умерли от обезвоживания и голода.",
+              "maleVariant": "",
+              "stringId": "1802331898848722944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дело «Питера Пэна» — ещё одно явное подтверждение полного морального разложения Найт-Сити.",
+              "maleVariant": "",
+              "stringId": "1802332202197565440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Уровень преступности в Найт-Сити сейчас вдвое выше среднего по НСША. Очевидно, что более тесное сотрудничество с Союзом помогло бы властям намного лучше контролировать ситуацию в нашем городе.",
+              "maleVariant": "",
+              "stringId": "1802332446742265856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Оставайтесь с нами. Мы вернёмся совсем скоро.",
+              "maleVariant": "",
+              "stringId": "1802332636643573760"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

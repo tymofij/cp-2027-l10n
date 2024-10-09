@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mogę poszperać?",
+              "maleVariant": "",
+              "stringId": "1885295659150884864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Skąd masz ten towar?",
+              "maleVariant": "",
+              "stringId": "1885295659150884880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mogę tutaj trochę poszperać?",
+              "maleVariant": "",
+              "stringId": "1885295659352211460"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie. Ale możesz coś kupić.",
+              "maleVariant": "",
+              "stringId": "1885295659352211468"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Skąd bierzesz te wszystkie rzeczy?",
+              "maleVariant": "",
+              "stringId": "1885295659402543108"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To tajemnica handlowa. Kupujesz coś? Jak nie, to nie rób sztucznego tłoku.",
+              "maleVariant": "",
+              "stringId": "1885295659419320324"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

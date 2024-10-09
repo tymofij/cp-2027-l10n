@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мені треба помити руки.",
+              "maleVariant": "",
+              "stringId": "2167941624791224320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усе гаразд, заспокойся. Зараз я ще дещо куплю, і відразу підемо.",
+              "maleVariant": "",
+              "stringId": "2214502934741618688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але… Як же тут брудно… А ти знала, що Марта підхопила тут гепатит?",
+              "maleVariant": "",
+              "stringId": "2221694310860296192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І тому ми тут не їстимемо.",
+              "maleVariant": "",
+              "stringId": "2221694711651209216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Фу-у-у! Кишкова паличка! Я на сканері її бачу… Дай мені вже вологу серветку, бо я вже не можу.",
+              "maleVariant": "",
+              "stringId": "2221694881268862976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну ще кілька хвилин. Будь ласка.",
+              "maleVariant": "",
+              "stringId": "2221695385122213888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

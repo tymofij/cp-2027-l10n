@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да сто процентов «Арасака» подстроила этот взрыв, чтобы укрепить своё влияние в городе.",
+              "maleVariant": "",
+              "stringId": "2172080373841387520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В смысле? До теракта они были рядовой корпорацией, а теперь? Можно сказать, Найт-Сити им принадлежит.",
+              "maleVariant": "",
+              "stringId": "2205847519262773248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хватит, друг. Успокойся.",
+              "maleVariant": "",
+              "stringId": "2205847978572615680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей. Тебе кажется, в истории с рокером и бомбой больше смысла? Серьёзно?",
+              "maleVariant": "",
+              "stringId": "2205848071719718912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что ты несёшь?",
+              "maleVariant": "",
+              "stringId": "2205851804063076352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слушай. Ты можешь хоть инопланетян подозревать. Мы никогда не узнаем, что там случилось на самом деле.",
+              "maleVariant": "",
+              "stringId": "2205852882334748672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Арасака» ничего не расскажет. В этом суть корпораций. Важное надо держать в секрете. Понимаешь?",
+              "maleVariant": "",
+              "stringId": "2205854469073506304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да конечно. Говорю тебе, это работа «Арасаки».",
+              "maleVariant": "",
+              "stringId": "2205855115751297024"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

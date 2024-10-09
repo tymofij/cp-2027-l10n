@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co mu do łba strzeliło, żeby nagle mówić o Morrisie?",
+              "maleVariant": "",
+              "stringId": "1963272610757255168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Morris...? Chyba nie kojarzę.",
+              "maleVariant": "",
+              "stringId": "1965118425461932032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Faktycznie...! Przyszedłeś do nas miesiąc później. W tym czasie Morris siedział już w wariatkowie.",
+              "maleVariant": "",
+              "stringId": "1965118740336721920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Był taką... wiesz, wtyką szefa. Obserwował nas, donosił na kolegów...",
+              "maleVariant": "",
+              "stringId": "1965119318395699200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Łykał tabsy na rozbudzenie jak pojebany... aż w końcu okazało się, że ma śmiertelną bezsenność rodzinną.",
+              "maleVariant": "",
+              "stringId": "1965119740443344896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przedawkował i przyśpieszył rozwój choroby. Podobno wykorkował tydzień temu.",
+              "maleVariant": "",
+              "stringId": "1965120148398129152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobrze mu tak. Szpicel jebany.",
+              "maleVariant": "",
+              "stringId": "1965120546907340800"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

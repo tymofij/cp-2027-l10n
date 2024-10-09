@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Супер, я знав, що ти не підведеш. Клієнт у захваті. Каже, записи з радницею Коул — це та ще цікавинка.",
+              "maleVariant": "",
+              "stringId": "2328962489325232128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей, я зарахую тобі цей контракт. Але насправді це була якась жесть. Мені таке не подобається.",
+              "maleVariant": "",
+              "stringId": "2329014969195077632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дякую, Ві. Роботу виконано.",
+              "maleVariant": "",
+              "stringId": "2334286800223977472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Подзвоню клієнтові, скажу, що матеріал на панну Коул у нас є. Справу завершено.",
+              "maleVariant": "",
+              "stringId": "2334288190954520576"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

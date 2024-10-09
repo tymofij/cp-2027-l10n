@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что будем делать в городе?",
+              "maleVariant": "",
+              "stringId": "2189630218970030080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я пойду на концерт Лиззи Уиззи! Говорят, она на сцене просто офигеть.",
+              "maleVariant": "",
+              "stringId": "2189643038306557952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хорошо, что у неё ещё остаётся энергия после всего, что она творит с этими анархистами.",
+              "maleVariant": "",
+              "stringId": "2189648064290709504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты про «Шельм», что ли? У неё с ними нет ничего общего.",
+              "maleVariant": "",
+              "stringId": "2189651387756535808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, конечно. И клуб в честь неё случайно назвали. Я там был вообще-то.",
+              "maleVariant": "",
+              "stringId": "2189651692900540416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А если бы ты там был, тебе бы сказали, что это в честь одной крутой шельмы, которую убили гангстеры.",
+              "maleVariant": "",
+              "stringId": "2189652102566600704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Блин, ты говоришь прямо как кочевник. Никто не поверит, что ты из Найт-Сити!",
+              "maleVariant": "",
+              "stringId": "2189654205036978176"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

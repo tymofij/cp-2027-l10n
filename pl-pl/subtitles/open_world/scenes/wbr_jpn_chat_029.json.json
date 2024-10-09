@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Królu złoty, może być u nas biednie, ale porządek musi być.",
+              "maleVariant": "",
+              "stringId": "2160375145841074176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bo bez porządku, to człowiek jest jak zwierzę, rozumisz?",
+              "maleVariant": "",
+              "stringId": "2179780880398389248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale ja... ja... (przełyka)ja po prostu głodny jestem.",
+              "maleVariant": "",
+              "stringId": "2179782300136738816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hierarchia musi być! Każdy musi znać swoje miejsce. Najlepsze kąski bierze Ślepa Mandy, potem ja, a na koniec ty.",
+              "maleVariant": "",
+              "stringId": "2179782425227661312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale to niesprawiedliwe. T-ten sprzedawca daje wam jedzenie za darmo. Każdy powinien dostawać po równo.",
+              "maleVariant": "",
+              "stringId": "2179783210686582784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak ci nie pasuje, to się nie musisz z nami trzymać. Zobaczymy, ile sam na ulicy wytrzymasz.",
+              "maleVariant": "",
+              "stringId": "2179788644071870464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, dobra. Już bez takich.",
+              "maleVariant": "",
+              "stringId": "2179788770521747456"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

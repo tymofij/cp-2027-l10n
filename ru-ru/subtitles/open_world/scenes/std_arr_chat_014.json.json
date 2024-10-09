@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так вот, они заперли его на какой-то хате и пытали несколько часов.",
+              "maleVariant": "",
+              "stringId": "2167875610674122752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что им оставалось делать? Это же полицейские.",
+              "maleVariant": "",
+              "stringId": "2214413480169410560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, но всё равно. Не то чтобы мне жалко «Шестую улицу», просто… Да что там говорить.",
+              "maleVariant": "",
+              "stringId": "2221567679705485312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну ты сама подумай. У полиции техника хуже, чем у «Шестой улицы». Да и своих людей на улицах меньше.",
+              "maleVariant": "",
+              "stringId": "2221567779513143296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если бы этого мужика арестовали, то через минуту бы выпустили. Без ордера же нельзя.",
+              "maleVariant": "",
+              "stringId": "2221568006877974528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А так, может, они хоть что-то из него вытащили.",
+              "maleVariant": "",
+              "stringId": "2221568120996597760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да я ничего и не говорю.",
+              "maleVariant": "",
+              "stringId": "2221573257240612864"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

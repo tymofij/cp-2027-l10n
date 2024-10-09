@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Все звёзды виртов типа неё хотят стать следующей Лиззи Уиззи.",
+              "maleVariant": "",
+              "stringId": "2159283235885903872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чем тебе Касилло-то не нравится?",
+              "maleVariant": "",
+              "stringId": "2212875906790801408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хорошая актриса, милая. Такая девочка из соседнего подъезда.",
+              "maleVariant": "",
+              "stringId": "2212876460707364864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну-ну. А знаешь, что она в своём контракте указала?",
+              "maleVariant": "",
+              "stringId": "2212876948437811200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да какая разница? У всех актёров свои странности. Надо же как-то образ создавать.",
+              "maleVariant": "",
+              "stringId": "2212877492992688128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Странности? Чувак, она требует, чтобы в её номере каждую ночь…",
+              "maleVariant": "",
+              "stringId": "2212877879908843520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хотя чего я тут распинаюсь? Ты мне всё равно не поверишь.",
+              "maleVariant": "",
+              "stringId": "2212878931806732288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

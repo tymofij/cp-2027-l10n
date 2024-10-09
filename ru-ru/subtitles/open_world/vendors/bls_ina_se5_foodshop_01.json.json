@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что у вас есть вкусного?",
+              "maleVariant": "",
+              "stringId": "1935695189159358464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пахнет вкусно. Прямо слюнки текут.",
+              "maleVariant": "",
+              "stringId": "1935695189159358480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Есть чего пожевать?",
+              "maleVariant": "",
+              "stringId": "1935695189209690116"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Конечно, мисс.",
+              "maleVariant": "Конечно, друг.",
+              "stringId": "1935695189209690124"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О-о-о, пахнет вкусно. Прямо слюнки текут.",
+              "maleVariant": "",
+              "stringId": "1935695189243244548"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чеснок, томлённый в масле. М-м-м! Лучший запах на свете!",
+              "maleVariant": "",
+              "stringId": "1935695189243244556"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

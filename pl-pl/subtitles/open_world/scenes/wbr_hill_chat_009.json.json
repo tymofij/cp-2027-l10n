@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Babcia przyjaciółki ma fioletowy kamień i jak się gorzej poczuje, to się nim pociera.",
+              "maleVariant": "",
+              "stringId": "1806811334204579840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pomaga?",
+              "maleVariant": "",
+              "stringId": "1806813826409684992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nieraz uratował jej życie. Była nawet u nas w stacji na wywiadzie, ale nie wyemitowali.",
+              "maleVariant": "",
+              "stringId": "1806815241752403968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No tak, korporacje boją się prawdy, a efekty mówią same za siebie.",
+              "maleVariant": "",
+              "stringId": "1806815365702475776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dokładnie, jak sami zachorują to zmienią zdanie.",
+              "maleVariant": "",
+              "stringId": "1806815628467232768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yhm. A jak tak wszyscy teraz gonią za tymi technologiami, to nie dziwne, że tyle chorób różnych.",
+              "maleVariant": "",
+              "stringId": "1806815923796566016"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

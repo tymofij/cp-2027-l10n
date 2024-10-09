@@ -1,0 +1,37 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вітаю, Ві. Треба, щоби ти вирушила за вказаними координатами й пригнала мені певний фургон.",
+              "maleVariant": "Вітаю, Ві. Треба, щоби ти вирушив за вказаними координатами й пригнав мені певний фургон.",
+              "stringId": "2328500606660501504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І обережніше з місцевою фауною. Ну, типу, зі «Звірами». Подробиці додаю.",
+              "maleVariant": "",
+              "stringId": "2334596444465119232"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нужна новая экипировка.",
+              "maleVariant": "",
+              "stringId": "1740390339816431616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Посоветуй что-нибудь из оружия.",
+              "maleVariant": "",
+              "stringId": "1740390339816431632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я подбираю экипировку.",
+              "maleVariant": "",
+              "stringId": "1740390339833208832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У нас широкий выбор, но я всегда рекомендую «Милитех».",
+              "maleVariant": "",
+              "stringId": "1740390339833208840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, порекомендуешь какое-нибудь оружие?",
+              "maleVariant": "",
+              "stringId": "2253658183595036672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лёгкий огнестрел. Те же пистолеты. Красивые, компактные. Не будешь выглядеть как эти бараны, которые из-за комплексов пулемёты покупают.",
+              "maleVariant": "",
+              "stringId": "2253721328657207296"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

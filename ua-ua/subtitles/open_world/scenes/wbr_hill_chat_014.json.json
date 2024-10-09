@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти пробував «ДеКал45»?",
+              "maleVariant": "",
+              "stringId": "2159203169977987072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ой, навіть не нагадуй. Від цієї гидоти цілу ніч сняться кошмари.",
+              "maleVariant": "",
+              "stringId": "2210060633406783488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не враховуючи цілий букет побічок: тремтіння, задишка, галюцинації…",
+              "maleVariant": "",
+              "stringId": "2210061035137220608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А в день що? Є ефект?",
+              "maleVariant": "",
+              "stringId": "2210070020762451968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ем… Ну є. Просидів шістнадцять годин поспіль в офісі, і однаково свіжий, мов маргаритка.",
+              "maleVariant": "",
+              "stringId": "2210070419674316800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То… Гадаю, воно було варте того?",
+              "maleVariant": "",
+              "stringId": "2210070993035673600"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

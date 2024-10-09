@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І цей блядьский піджак каже м’ні: «Ну то працюй більше».",
+              "maleVariant": "",
+              "stringId": "2179589377085792256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А я й’му пояснюю, шо і так пахаю в дві зміни.",
+              "maleVariant": "",
+              "stringId": "2211156121856204800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну.",
+              "maleVariant": "",
+              "stringId": "2217041906585264128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А потім він такий: «То не мій клопіт, що тебе ніде не беруть на роботу».",
+              "maleVariant": "",
+              "stringId": "2217041988407746560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чумбо, піджаком тре родитися.",
+              "maleVariant": "",
+              "stringId": "2217042716723470336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ніхто в житті не дасть працювати т’ким, як ми, у тих скляних вежах.",
+              "maleVariant": "",
+              "stringId": "2217044897946099712"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

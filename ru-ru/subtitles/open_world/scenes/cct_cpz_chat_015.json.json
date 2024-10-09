@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сегодня твой папа придёт домой.",
+              "maleVariant": "",
+              "stringId": "2189789085601992704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И что?",
+              "maleVariant": "",
+              "stringId": "2189789192690962432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если мы с ним не встретимся, то следующего семейного ужина придётся ждать ещё неделю.",
+              "maleVariant": "",
+              "stringId": "2189789616047230976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей.",
+              "maleVariant": "",
+              "stringId": "2189790346158116864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Папа много работает. Ты же знаешь, как ему сложно найти свободное время. Давай не будем его огорчать.",
+              "maleVariant": "",
+              "stringId": "2189790852158951424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хорошо. Сделаем так. Пойдёшь со мной на ужин — куплю тебе брейнданс, который ты хотела.",
+              "maleVariant": "",
+              "stringId": "2189792105232437248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу.",
+              "maleVariant": "",
+              "stringId": "2189804819627479040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давай. Только сначала вирт, а потом ужин.",
+              "maleVariant": "",
+              "stringId": "2189839191713878016"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

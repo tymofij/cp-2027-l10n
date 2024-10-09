@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не відмовилась би від їдла.",
+              "maleVariant": "Не відмовився би від якогось їдла.",
+              "stringId": "1883814451866910720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давно в Найт-Сіті?",
+              "maleVariant": "",
+              "stringId": "1883814451866910736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "З’їла б щось.",
+              "maleVariant": "З’їв би щось.",
+              "stringId": "1883814451934019588"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так і думала. Що подати?",
+              "maleVariant": "",
+              "stringId": "1883814451934019596"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти давно в Найт-Сіті?",
+              "maleVariant": "",
+              "stringId": "1883814452001128452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Достатньо давно аби знати що не варто відповідати на начебто невинні запитання. Їж, плати і йди своїм шляхом.",
+              "maleVariant": "",
+              "stringId": "1883814452001128460"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

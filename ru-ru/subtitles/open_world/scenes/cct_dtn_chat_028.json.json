@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Только давай по-нормальному. Танцоров не лапаем. Ни к кому не цепляемся, договорились?",
+              "maleVariant": "",
+              "stringId": "2172237022637043712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты за кого меня держишь, чумба? Посмотри на меня. Я приличный человек. Ничего никому не сделаю.",
+              "maleVariant": "",
+              "stringId": "2179453292302286848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да конечно, мне-то не пизди. После четвёртой кружки начинаешь кидаться на всех подряд.",
+              "maleVariant": "",
+              "stringId": "2179453598587142144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тут тебе не притон какой-нибудь. Тут вышибалы из «Животных». Ясно?",
+              "maleVariant": "",
+              "stringId": "2179453980856008704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В первый раз они вежливо сделают тебе замечание.",
+              "maleVariant": "",
+              "stringId": "2179454250616864768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А во второй ты очнёшься на помойке со сломанной челюстью. Это в лучшем случае.",
+              "maleVariant": "",
+              "stringId": "2179455234718023680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Jesús\" b=\"\" a=\", не надо так драматизировать.\"/>",
+              "maleVariant": "",
+              "stringId": "2179455391199117312"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

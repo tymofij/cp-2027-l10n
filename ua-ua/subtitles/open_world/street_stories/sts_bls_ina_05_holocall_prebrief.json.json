@@ -1,0 +1,37 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привіт. У мене для тебе новий контракт. Мілітех затримав на кордоні контрабандиста, на ім’я Брюс Велбі. А його друг хоче його витягнути.",
+              "maleVariant": "",
+              "stringId": "2328991384771932160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це не дивно, що йому потрібен хтось, хто готовий зайнятися брудною роботою та звільнити Брюса. Надіслала деталі.",
+              "maleVariant": "",
+              "stringId": "2333026362395967488"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

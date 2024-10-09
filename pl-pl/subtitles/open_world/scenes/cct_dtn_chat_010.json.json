@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A może skoczymy do Bleu?",
+              "maleVariant": "",
+              "stringId": "1964679706095370240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzięki, ale wolałbym jeszcze trochę pożyć.",
+              "maleVariant": "",
+              "stringId": "1964715443880706048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale... jest coś, o czym nie wiem?",
+              "maleVariant": "",
+              "stringId": "1964715650139799552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie słyszałeś? Miesiąc temu próbowali tam otruć Harpera, tego z zarządu Biotechniki.",
+              "maleVariant": "",
+              "stringId": "1964716011017715712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Konkurencja podstawiła swoją kelnerkę. Gdyby Harper nie jadł akurat obiadu ze swoim szefem ochrony...",
+              "maleVariant": "",
+              "stringId": "1964717084759539712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale że co? Ochroniarz zwinął mu frytkę i wykorkował za niego?",
+              "maleVariant": "",
+              "stringId": "1964717671089684480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie, miał włączony wzmacniacz zapachowy. Wyczuł truciznę, zanim dziewczyna zdążyła podejść do stolika.",
+              "maleVariant": "",
+              "stringId": "1964717920449445888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dajcie spokój...",
+              "maleVariant": "",
+              "stringId": "1964718562849046528"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Мне снилось море без конца,",
+              "maleVariant": "",
+              "stringId": "1806999322792419328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И Арасака кормчим был…",
+              "maleVariant": "",
+              "stringId": "1807001456652967936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но нынче сны мои — лишь сны,",
+              "maleVariant": "",
+              "stringId": "1807001784597209088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И манит дно, лишая сил».",
+              "maleVariant": "",
+              "stringId": "1807002065313587200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да хватит уже голосить!",
+              "maleVariant": "",
+              "stringId": "1807002295362772992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это было самое крутое исполнение «Корпоративных войн»!",
+              "maleVariant": "",
+              "stringId": "1807002486841139200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Совсем поехала на своих мюзиклах…",
+              "maleVariant": "",
+              "stringId": "1965063589399871488"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

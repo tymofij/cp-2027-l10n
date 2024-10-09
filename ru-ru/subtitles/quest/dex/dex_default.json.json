@@ -1,0 +1,91 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это будет триумфальное возвращение Декса ДеШона?",
+              "maleVariant": "",
+              "stringId": "1741437354780827648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я тут думаю… Это дело ведь должно стать триумфальным возвращением Декса ДеШона?",
+              "maleVariant": "",
+              "stringId": "1741437354814382080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А, да нет. Всё в порядке.",
+              "maleVariant": "",
+              "stringId": "1741437354847936512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мисс Ви. Что-то не так?",
+              "maleVariant": "Мистер Ви. Что-то не так?",
+              "stringId": "1741437354898268160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет, всё в порядке.",
+              "maleVariant": "",
+              "stringId": "1741440518326231040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что ж, тогда за работу. Я на связи.",
+              "maleVariant": "",
+              "stringId": "1958802288800296960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да. За несколько лет безделья я успел нагулять аппетит к работе.",
+              "maleVariant": "",
+              "stringId": "1958836477142626304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И поэтому решил не мелочиться.",
+              "maleVariant": "",
+              "stringId": "1958837858243047424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "ДеШон — это не просто имя. Это бренд. И пора напомнить моим клиентам, с кем они ведут дела.",
+              "maleVariant": "",
+              "stringId": "1958838290944225280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ты не беспокойся, мисс Ви. Сделаешь всё как надо и получишь свою долю. С процентами.",
+              "maleVariant": "А ты не беспокойся, мистер Ви. Сделаешь всё как надо и получишь свою долю. С процентами.",
+              "stringId": "1958840284899569664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно, пора за работу. Я на связи.",
+              "maleVariant": "",
+              "stringId": "1958845310262964224"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

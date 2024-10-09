@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бегут отсюда как угорелые.",
+              "maleVariant": "",
+              "stringId": "2179412543517519872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мам, перестань. Никто никуда не бежит.",
+              "maleVariant": "",
+              "stringId": "2189631659328651264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У меня что, глаз нету? Я же вижу, как на улицах пусто. Молодых почти не осталось.",
+              "maleVariant": "",
+              "stringId": "2189631853424263168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Потому что нам тут нечего делать. А в городе работа. Достойная жизнь.",
+              "maleVariant": "",
+              "stringId": "2189631944692318208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот поработаю где-нибудь в Хейвуде, накоплю денег и заберу тебя к себе. Там нам будет лучше.",
+              "maleVariant": "",
+              "stringId": "2189632076460572672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет… Человек, как дерево, сохнет без корней. Мой дом здесь.",
+              "maleVariant": "",
+              "stringId": "2189632295520681984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мама, нельзя же… Ладно… Потом поговорим.",
+              "maleVariant": "",
+              "stringId": "2189632479130533888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Купив учора крикунця.",
+              "maleVariant": "",
+              "stringId": "2179597821612253184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А нахуя?",
+              "maleVariant": "",
+              "stringId": "2211173382591569920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бо саме грошей вистачило. Йому вже два тижні, тож дали знижку.",
+              "maleVariant": "",
+              "stringId": "2217145366961938432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Те саме, шо сраку підтер тими грішми.",
+              "maleVariant": "",
+              "stringId": "2217145792029483008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сюди геть нічого нового не привозять. Крикунцям уже за місяць, а МГ взагалі торішні.",
+              "maleVariant": "",
+              "stringId": "2217146973967572992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Місто намагається поховати нас живцем.",
+              "maleVariant": "",
+              "stringId": "2217147667873226752"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

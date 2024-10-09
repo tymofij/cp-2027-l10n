@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты с рукой накосячил! Два пальца не работают! Верни деньги!",
+              "maleVariant": "",
+              "stringId": "1827157645227319296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А после операции они работали?",
+              "maleVariant": "",
+              "stringId": "1827164555410268160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ты мне руку приделал пятнадцать минут назад!",
+              "maleVariant": "",
+              "stringId": "1827164765310017536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, работали пальцы?",
+              "maleVariant": "",
+              "stringId": "1827165068088434688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, работали, но дело не в этом!",
+              "maleVariant": "",
+              "stringId": "1827165280437657600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Этот клиент вас отвлекает?",
+              "maleVariant": "",
+              "stringId": "1827173335883702272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет-нет. Он зашёл поблагодарить меня за прекрасную работу. Так ведь?",
+              "maleVariant": "",
+              "stringId": "1827175064876474368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "…вот вы ублюдки!",
+              "maleVariant": "",
+              "stringId": "1827176550666723328"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

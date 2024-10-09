@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Херня, а не заказ.",
+              "maleVariant": "",
+              "stringId": "2156492209084723200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Заплатили хоть?",
+              "maleVariant": "",
+              "stringId": "2176454649366429696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, но меньше. И попробуй что-нибудь сказать. С такими, как они, даже спорить нет смысла.",
+              "maleVariant": "",
+              "stringId": "2176454922633723904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скажи всем, чтобы не брали у них заказы. Тогда быстро научатся за слова отвечать.",
+              "maleVariant": "",
+              "stringId": "2176455185482366976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Просто найдут кого-нибудь другого. Не нас, так банду.",
+              "maleVariant": "",
+              "stringId": "2176455379527647232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если сказать ебанатам из «Шестой улицы», что работаешь на НСША, они бесплатно всё сделают.",
+              "maleVariant": "",
+              "stringId": "2176455548910419968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё как всегда. Идеалисты портят рынок.",
+              "maleVariant": "",
+              "stringId": "2176455862459809792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. Ну хоть подыхают быстро.",
+              "maleVariant": "",
+              "stringId": "2176455991040393216"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

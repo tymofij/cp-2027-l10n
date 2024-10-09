@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, що таке? Щось не так?",
+              "maleVariant": "",
+              "stringId": "2178224416110252032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нічого.",
+              "maleVariant": "",
+              "stringId": "2178224719777861632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гаразд, якщо ти мені не скажеш, я не здогадуюся.",
+              "maleVariant": "",
+              "stringId": "2178224793060741120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну й нехай.",
+              "maleVariant": "",
+              "stringId": "2178224863374053376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О-о-о, та не сорочки ж мені так голову!",
+              "maleVariant": "",
+              "stringId": "2178226291467456512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну ось, знову ти підвищуєш голос! Накричати на мене — будь-ласка! А от зводити куди-небудь — то це, блядь, на межі неможливого!",
+              "maleVariant": "",
+              "stringId": "2178226467309457408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та не кричу я! Ти сама сказала, що у нас тут є все — друзі, ресторани, магазини!",
+              "maleVariant": "",
+              "stringId": "2178226564734750720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І це все, про що тобі мріялося? Гаразд, усе з тобою ясно.",
+              "maleVariant": "",
+              "stringId": "2178226815755456512"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

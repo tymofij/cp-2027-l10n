@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То перестань їм платити.",
+              "maleVariant": "",
+              "stringId": "1806820807778361344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якщо я перестану їм платити, то вони перестануть працювати.",
+              "maleVariant": "",
+              "stringId": "1806821301716377600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І що? Куди ці торгаші підуть? Навчатися підуть? Магістрами стануть?",
+              "maleVariant": "",
+              "stringId": "1806821546697285632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, може, й не підуть нікуди… Але почнуть вимахуватися.",
+              "maleVariant": "",
+              "stringId": "1806821731213107200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, повимахуються. А далі що?",
+              "maleVariant": "",
+              "stringId": "1806821901887725568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хз…",
+              "maleVariant": "",
+              "stringId": "1806822175222128640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А нічого, ось що. Поприповзають назад. І знаєш, що вони після цього зрозуміють?",
+              "maleVariant": "",
+              "stringId": "1806823683544178688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що без тебе вони непотріб. Сучари поважатимуть тебе. І от лише ТОДІ ти їм знову платитимеш.",
+              "maleVariant": "",
+              "stringId": "1806824014894194688"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dziękuję za skorzystanie z usług Sieci Delamain.",
+              "maleVariant": "",
+              "stringId": "1796554766993571840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pani V, jak miło!",
+              "maleVariant": "Pan V, jak miło!",
+              "stringId": "1796555181021708292"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zgłoszenie przyjęte.",
+              "maleVariant": "",
+              "stringId": "1796555442729500676"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jestem na miejscu.",
+              "maleVariant": "",
+              "stringId": "1796555472928489476"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zgłoszenie przyjęte.",
+              "maleVariant": "",
+              "stringId": "1796555498530521092"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Połączenie zostało przerwane przez rozmówcę.",
+              "maleVariant": "",
+              "stringId": "1966121933733765124"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niespodziewany błąd, rozmowa przerwana.",
+              "maleVariant": "",
+              "stringId": "1966121933767319556"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

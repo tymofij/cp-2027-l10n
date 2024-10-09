@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так… Так, я розумію. Авжеж. Я вас запевняю, вам нічого хвилюватися.",
+              "maleVariant": "",
+              "stringId": "2167937955276804096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так. Ваша донька робить великі успіхи. Угу. Так, щодня.",
+              "maleVariant": "",
+              "stringId": "2182343982779256832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Відвідати? О, я перепрошую, але боюся, що це неможливо. Ви можете її налякати, а сильні негативні емоції — добряче нашкодити її одужанню.",
+              "maleVariant": "",
+              "stringId": "2182344381540126720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, авжеж, ви можете подати скаргу. Будь ласка, залиште ваше повідомлення після звукового сигналу.",
+              "maleVariant": "",
+              "stringId": "2182344926061449216"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

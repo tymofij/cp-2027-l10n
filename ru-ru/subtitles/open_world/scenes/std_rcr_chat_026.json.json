@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чего такой печальный, дядя?",
+              "maleVariant": "",
+              "stringId": "2167684992423710720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ничего… Эта крыса корпоратская переехала мою дочку. У меня на глазах. Теперь он платит мне каждый месяц. Много платит.",
+              "maleVariant": "",
+              "stringId": "2198372816127746048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот когда ты размажешь его по шоссе, тогда он точно за всё заплатит…",
+              "maleVariant": "",
+              "stringId": "2198373788635848704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Mira\" b=\"\" a=\", если я его убью или выдам легавым, мне не на что будет жить. Тем более у этого выродка есть связи с «Шальной улицей».\"/>",
+              "maleVariant": "",
+              "stringId": "2198374283798601728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаешь, Лиза бы этого хотела? Мести? Она была не такая…",
+              "maleVariant": "",
+              "stringId": "2198375332810809344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дядь, ты сам себя слышишь? В пизду его деньги! Будь мужчиной, размажь этот кусок дерьма по улице!",
+              "maleVariant": "",
+              "stringId": "2198375610272407552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В смысле, с «Шестой улицей»? Дядь, у тебя уже всё перепуталось. Кончай это пережёвывать.",
+              "maleVariant": "",
+              "stringId": "2227316616891949056"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Robota wykonana. Klient zadowolony, bo dostał nie tylko nagranie, ale też auto.",
+              "maleVariant": "",
+              "stringId": "2328765244561977344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Robota wykonana. Dobrze. Ale mogłaś też odzyskać auto, a tego nie zrobiłaś. Szkoda.",
+              "maleVariant": "Robota wykonana. Dobrze. Ale mogłeś też odzyskać auto, a tego nie zrobiłaś. Szkoda.",
+              "stringId": "2328765555091468288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zadowolony klient to hojny klient. A hojny klient to hojny fixer. Powinnaś o tym pamiętać. Zamykam kontrakt.",
+              "maleVariant": "Zadowolony klient to hojny klient. A hojny klient to hojny fixer. Powinieneś o tym pamiętać. Zamykam kontrakt.",
+              "stringId": "2342942352539488256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobrze. Zadowolony klient to zadowolony fixer. Ty też będziesz zadowolona. Zamykam kontrakt i robię przelew.",
+              "maleVariant": "Dobrze. Zadowolony klient to zadowolony fixer. Ty też będziesz zadowolony. Zamykam kontrakt i robię przelew.",
+              "stringId": "2342942863774814208"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

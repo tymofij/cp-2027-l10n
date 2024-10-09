@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, gotta admit – I'm impressed.",
+              "maleVariant": "",
+              "stringId": "2328624723381006336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Things kinda took a shitty turn at the end there, huh?",
+              "maleVariant": "",
+              "stringId": "2328625024095825920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Things got dicey at the end there, coulda gone tits up in a hurry. But hey, client's still breathing and so are you.",
+              "maleVariant": "",
+              "stringId": "2334651689186607104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I'll arrange a safehouse for Karl to sit tight in. Guessing he'll gladly front the extra bill. Slick work, really.",
+              "maleVariant": "",
+              "stringId": "2334651723596677120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "S'OK, shake it off this time. Can't predict the future, right? Happens to the best. Contract closed.",
+              "maleVariant": "",
+              "stringId": "2334652900166057984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

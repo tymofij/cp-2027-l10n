@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Башка всё время трещит, не могу… Ещё и сыпь эта…",
+              "maleVariant": "",
+              "stringId": "1963293068592455680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты копаешься в мусоре «Петрохема», чего ж ты хотел? Радиация.",
+              "maleVariant": "",
+              "stringId": "1969270904281874432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Понятно, что там много всякой годноты, но какие последствия! Разве только сразу откладывать на новый костный мозг.",
+              "maleVariant": "",
+              "stringId": "1969271067775844352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да хорош уже нагнетать. Меня скорее грипп прикончит, чем радиация.",
+              "maleVariant": "",
+              "stringId": "1969271885262471168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пять эдди за «петрохемовский» трансформатор — поди плохо!",
+              "maleVariant": "",
+              "stringId": "1969272211663208448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Calling all NCPD subcons. Suspected organized crime activity observed in the region of Goldsmith Street.",
+              "maleVariant": "",
+              "stringId": "2328914113430056960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Scavenger presence reported, led by one Barry Alken, wanted on charges of first-degree murder and illegal trade in cyberware.",
+              "maleVariant": "",
+              "stringId": "2350702003314069504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "NC authorities offering payment for neutralizing Alken and his accomplices.",
+              "maleVariant": "",
+              "stringId": "2350702150819352576"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Господи, какие эти малолетки наивные.",
+              "maleVariant": "",
+              "stringId": "2167613373089075200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"chavos de la calle\" b=\"Да, не то что \" a=\". Лучше улицы школы нет.\"/>",
+              "maleVariant": "",
+              "stringId": "2214561007262863360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Pinches chavos…\" b=\"\" a=\" И не говори… Я тут держу весь квартал, а они приходят: «Дайте нам дозу попробовать». Ты понимаешь, бесплатно! Где они набрались таких мыслей вообще?\"/>",
+              "maleVariant": "",
+              "stringId": "2229115825604104192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Из фильмов, наверно.",
+              "maleVariant": "",
+              "stringId": "2229117406940598272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Или из газет.",
+              "maleVariant": "",
+              "stringId": "2229117820901625856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хер знает откуда.",
+              "maleVariant": "",
+              "stringId": "2229118006222753792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В этой жизни ничего не бывает даром.",
+              "maleVariant": "",
+              "stringId": "2229119472836644864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чего ты мне-то рассказываешь?",
+              "maleVariant": "",
+              "stringId": "2229119634971660288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

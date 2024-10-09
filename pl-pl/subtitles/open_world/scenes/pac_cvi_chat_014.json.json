@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Widziałeś tego frajera w gajerku? Prawie mi go żal.",
+              "maleVariant": "",
+              "stringId": "2179385098424840192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Najebany w trzy dupy. Nawet nie będzie pamiętał, jak tu wylądował.",
+              "maleVariant": "",
+              "stringId": "2192295237202460672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Akurat przechodziłem obok hotelu, kiedy przylazł. Założył się z kumplami z pracy, że spędzi tu kilka nocy.",
+              "maleVariant": "",
+              "stringId": "2192295368484175872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Korposzczurek, co? Ciekawe, skąd go przywiało... Obstawiam co najmniej Charter Hill.",
+              "maleVariant": "",
+              "stringId": "2192295527381188608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pewnie schlał się po robocie. Oni wszyscy chleją po robocie.",
+              "maleVariant": "",
+              "stringId": "2192295795262996480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chciałbym zobaczyć jego gębę, jak już się obudzi bez gnata i pieniędzy.",
+              "maleVariant": "",
+              "stringId": "2192295941845532672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zajebałeś mu?",
+              "maleVariant": "",
+              "stringId": "2192296046787018752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Takiemu to grzech nie zajebać. A gnat pierwsza klasa, tyle ci powiem.",
+              "maleVariant": "",
+              "stringId": "2192296340455407616"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

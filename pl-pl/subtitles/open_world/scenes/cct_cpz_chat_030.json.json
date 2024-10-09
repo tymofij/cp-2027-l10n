@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ja tam lubię mieszkać w centrum.",
+              "maleVariant": "",
+              "stringId": "2172128205986193408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie no, wiadomo. Centrum to centrum. Blisko wszędzie.",
+              "maleVariant": "",
+              "stringId": "2208291788254711808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No budują. Zaraz to pogrodzą, ochrona wejdzie, a nas wygonią.",
+              "maleVariant": "",
+              "stringId": "2208291813487644672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, ale co zrobisz. Jak budują, to budują.",
+              "maleVariant": "",
+              "stringId": "2208307675070304256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Taki los.",
+              "maleVariant": "",
+              "stringId": "2208312579922956288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ehhh... taki los.",
+              "maleVariant": "",
+              "stringId": "2208314518580596736"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

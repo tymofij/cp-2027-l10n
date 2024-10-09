@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Агов.",
+              "maleVariant": "",
+              "stringId": "1806799252209917952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шо хоч’?",
+              "maleVariant": "",
+              "stringId": "1806799752271618048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Терпіння має межі. І райони теж.",
+              "maleVariant": "",
+              "stringId": "1806799878151069696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це якесь йобане прислів’я?",
+              "maleVariant": "",
+              "stringId": "1806800128299360256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гм… Як би то пояснити тобі, тупоголовому…",
+              "maleVariant": "",
+              "stringId": "1806800496089489408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Великі цабе готуються до війни. І зара’ не час сратися через недоїдки з їхнього столу.",
+              "maleVariant": "",
+              "stringId": "1806800684111749120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це Америка, чумбо. Тут кожен хоче вхопити весь пиріг. І ми вже навіть встромили туди пальця.",
+              "maleVariant": "",
+              "stringId": "1806801140787568640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Америка? Наскільки мені відомо, ми зара’ в Найт-Сіті.",
+              "maleVariant": "",
+              "stringId": "1806801291061092352"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

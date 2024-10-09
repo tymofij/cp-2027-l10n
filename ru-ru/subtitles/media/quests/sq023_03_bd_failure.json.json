@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Привет! С вами Карина, ваш гид в мире брейндансов. А вы уже успели пережить «Страсти по Джошуа»?",
+              "maleVariant": "",
+              "stringId": "1792308309140611072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если ещё нет, отлично. Я даже не припомню, когда в наших библиотеках появлялся такой жуткий отстой!",
+              "maleVariant": "",
+              "stringId": "1802363372603949056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Этот брейнданс — самый обычный дешёвый аттракцион, цепляющий низкопробными приёмами. В нём вообще нет глубины.",
+              "maleVariant": "",
+              "stringId": "1802363590288326656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вас всё время накачивают эмоциями, но чувства ненастоящие, нет искренности.",
+              "maleVariant": "",
+              "stringId": "1802363776079216640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Помните сцену смерти, которая была во всех трейлерах? Да, это больно, но слишком пусто и банально!",
+              "maleVariant": "",
+              "stringId": "1802363957659025408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я даю две звезды, и то с большой натяжкой. Скажу честно, от Рэйчел Кэсич я ожидала большего.",
+              "maleVariant": "",
+              "stringId": "1802364106489708544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "После перерыва я поделюсь с вами другими новостями из мира брейндансов!",
+              "maleVariant": "",
+              "stringId": "1802364303940763648"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

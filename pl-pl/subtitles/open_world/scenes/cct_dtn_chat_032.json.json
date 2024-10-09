@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stary, skup się! Musimy rozjebać system tym następnym koncertem. To już ostatni gwizdek.",
+              "maleVariant": "",
+              "stringId": "2172281829514260480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No rozjebiemy, rozjebiemy. Będzie przełom.",
+              "maleVariant": "",
+              "stringId": "2180821017675153408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie będzie, kurwa, żadnego przełomu, jeśli znowu się zrzygasz na scenie.",
+              "maleVariant": "",
+              "stringId": "2180821237825781760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra, mamo, już nie będę.",
+              "maleVariant": "",
+              "stringId": "2180821358336524288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Możesz nie cisnąć ze mnie beki? Mówię serio.",
+              "maleVariant": "",
+              "stringId": "2180821847677583360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czemu zawsze przypierdalasz się do mnie? Mark też odjebuje czasem takie akcje.",
+              "maleVariant": "",
+              "stringId": "2180821958289768448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gdy przerzuci się na wokal i zacznie rzygać w środku pierwszej zwrotki, to też będę się przypierdalał.",
+              "maleVariant": "",
+              "stringId": "2180822253837205504"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

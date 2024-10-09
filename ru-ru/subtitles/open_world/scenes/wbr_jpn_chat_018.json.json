@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хорошо выглядишь, Джош.",
+              "maleVariant": "",
+              "stringId": "2160307018046414848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха, а ты думал. Выглядеть надо презентабельно!",
+              "maleVariant": "",
+              "stringId": "2169385941943504896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не, а если серьёзно. Почему ты всегда так одеваешься?",
+              "maleVariant": "",
+              "stringId": "2169386134394949632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха, чтоб жена мозги не имела. Я ей каждое утро говорю, что иду в офис работать.",
+              "maleVariant": "",
+              "stringId": "2169386492236189696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я здесь играю уже полгода, а она так ничего и не заподозрила. Хе-хе.",
+              "maleVariant": "",
+              "stringId": "2169386960521842688"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na ulicy nikt ci nic nie każe, robisz co chcesz…",
+              "maleVariant": "",
+              "stringId": "1827219885074800640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Śpisz, gdzie chcesz! Pijesz, kiedy chcesz!",
+              "maleVariant": "",
+              "stringId": "1827231713767055360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No jesteś człowieku, naprawdę wolny.",
+              "maleVariant": "",
+              "stringId": "1827231921552875520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Żyj, i pozwól żyć innym. Co? Źle nam? Nie ma za czym tęsknić.",
+              "maleVariant": "",
+              "stringId": "1827232214181076992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie ma.",
+              "maleVariant": "",
+              "stringId": "1827232543769485312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, nie ma.",
+              "maleVariant": "",
+              "stringId": "1827232748300525568"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

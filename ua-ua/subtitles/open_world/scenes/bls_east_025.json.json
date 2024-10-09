@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У мене є крутецька куртка на продаж.",
+              "maleVariant": "",
+              "stringId": "2189788081919057920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гм, а звідки?",
+              "maleVariant": "",
+              "stringId": "2189788572803620864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Була на базарі. Я вже не могла дивитися на свій старий плащ, от і притарабанила курточку. А вона виявилася замалою.",
+              "maleVariant": "",
+              "stringId": "2189788764936298496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти шо? Носити такі лахи в Пустці те саме, що мішень на спині. Краще позбудься цього гівна.",
+              "maleVariant": "",
+              "stringId": "2189789918302789632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ой, та по твоєму обличчю видно, що ти тутешня. Ніхто тебе не чіпатиме.",
+              "maleVariant": "",
+              "stringId": "2189790658647777280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха, а твоє тупе обличчя мамка скоро не впізнає.",
+              "maleVariant": "",
+              "stringId": "2189791078581493760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Розслабся, я маю на увазі, що в тебе гарячий вітряний колір обличчя, на відміну від блідих корпарів із червоними очиськами.",
+              "maleVariant": "",
+              "stringId": "2189792209147748352"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

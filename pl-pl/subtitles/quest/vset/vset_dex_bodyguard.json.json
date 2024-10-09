@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Witam.",
+              "maleVariant": "",
+              "stringId": "1796883115934728196"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Siema.",
+              "maleVariant": "",
+              "stringId": "1796883115968282624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dokończymy później.",
+              "maleVariant": "",
+              "stringId": "1796883116052168708"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Porozmawiamy, jak wrócisz.",
+              "maleVariant": "",
+              "stringId": "1796883116068945924"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Teraz chcesz gadać, co?",
+              "maleVariant": "",
+              "stringId": "1796883116152832004"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dokończmy sprawę.",
+              "maleVariant": "",
+              "stringId": "1796883116169609220"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Będziesz tak stała?",
+              "maleVariant": "Będziesz tak stał?",
+              "stringId": "1796883116203163652"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zatkało cię?",
+              "maleVariant": "",
+              "stringId": "1796883116236718084"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uważaj.",
+              "maleVariant": "",
+              "stringId": "1796883116505153540"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz jakiś problem?",
+              "maleVariant": "",
+              "stringId": "1796883116521930756"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

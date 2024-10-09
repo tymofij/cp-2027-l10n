@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tacy niby najmądrzejsi, a już do śmietnika, to trafić nie potrafią.",
+              "maleVariant": "",
+              "stringId": "2172018080575250432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Daj spokój. Tylko chodź i zbieraj po nich.",
+              "maleVariant": "",
+              "stringId": "2189967723140059136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, a krzywo spojrzysz na takiego? To jeszcze skargę napisze.",
+              "maleVariant": "",
+              "stringId": "2191283321719590912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I po robocie.",
+              "maleVariant": "",
+              "stringId": "2191283445719994368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I po robocie.",
+              "maleVariant": "",
+              "stringId": "2191283535914307584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A niech ich wyszystkich cholera weźmie!",
+              "maleVariant": "",
+              "stringId": "2191283746099269632"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

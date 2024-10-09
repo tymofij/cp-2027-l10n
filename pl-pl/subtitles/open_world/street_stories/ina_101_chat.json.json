@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powiem ci tyle, że nie chciałbym teraz być na miejscu Figgsa.",
+              "maleVariant": "",
+              "stringId": "1915773186514120704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czemu? Przecież go tu nawet nie było, jak facet dał nogę.",
+              "maleVariant": "",
+              "stringId": "1915775212279066624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tym gorzej dla Figgsa. Dowódca zmiany ma dowodzić zmianą, a nie jeździć na dupy do miasta.",
+              "maleVariant": "",
+              "stringId": "1915775580253745152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, człowieku... Ja swoją lubię.",
+              "maleVariant": "",
+              "stringId": "1915778470951284736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak myślisz, kogo Militech pociągnie do odpowiedzialności? Josh może im nie wystarczyć. I czyje głowy wtedy polecą?",
+              "maleVariant": "",
+              "stringId": "1915778814565445632"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

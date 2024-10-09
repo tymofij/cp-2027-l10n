@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу кое-что купить.",
+              "maleVariant": "",
+              "stringId": "1828465360056528896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Есть какой-то «особый» товар?",
+              "maleVariant": "",
+              "stringId": "1828465360056528912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вы как тут, открыты?",
+              "maleVariant": "",
+              "stringId": "1828465360090083332"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да. Ищешь что-то конкретное?",
+              "maleVariant": "",
+              "stringId": "1828465360090083340"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что-нибудь особенное. Что прячут под прилавком на чёрный день.",
+              "maleVariant": "",
+              "stringId": "1828465360123637764"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слушай сюда. В Найт-Сити народ под прилавками держит пушки. Не могу сказать, держу ли я или нет, но ты меня понимаешь. Так что веди себя смирно.",
+              "maleVariant": "",
+              "stringId": "1828465360157192196"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

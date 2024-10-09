@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wczoraj Tygrysy znowu przywiozły jakichś ludzi.",
+              "maleVariant": "",
+              "stringId": "2159304484917833728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Osiem osób. Jeden: kobieta, wiek ok. 20 lat, na oko kurwa...",
+              "maleVariant": "",
+              "stringId": "2221839058622562304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty to sobie zapisujesz, pojebie? Niby po co?",
+              "maleVariant": "",
+              "stringId": "2221839866646839296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No… jakby ktoś pytał. Policja na przykład.",
+              "maleVariant": "",
+              "stringId": "2221840367681617920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oni podobno czasem płacą informatorom.",
+              "maleVariant": "",
+              "stringId": "2221840933040242688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja pierdolę... Jeszcze raz: to Tygrysy płacą gliniarzom, jasne?",
+              "maleVariant": "",
+              "stringId": "2221841556867465216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ty nic nie słyszałeś, nic nie widziałeś, nic nie wiesz.",
+              "maleVariant": "",
+              "stringId": "2221842577089970176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I nie znasz mnie, okej?",
+              "maleVariant": "",
+              "stringId": "2221843076799348736"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

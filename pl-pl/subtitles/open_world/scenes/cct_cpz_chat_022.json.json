@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Myślisz, że sama tak gra? Bez chipów?",
+              "maleVariant": "",
+              "stringId": "2192500353517588480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co za różnica? Ważne, że dobrze gra.",
+              "maleVariant": "",
+              "stringId": "2192500616466894848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie no, jest różnica. Co innego jeśli się nauczyła sama, a co innego jeśli ktoś jej zrobił operację i wgrał umiejętności w piętnaście minut.",
+              "maleVariant": "",
+              "stringId": "2192529340671299584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ok, starcze.",
+              "maleVariant": "",
+              "stringId": "2192529383956516864"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słuchaj, ten \"Electronic murderer\" to jest arcydzieło. Do ostatniej chwili nie rozumiałam, o co chodzi...",
+              "maleVariant": "",
+              "stringId": "1831685761031331840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "...aż tu nagle bum! Wszystko złożyło się do kupy.",
+              "maleVariant": "",
+              "stringId": "1831687367449763840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Główna bohaterka używała przestarzałego modelu oczu. I ktoś je zhakował!",
+              "maleVariant": "",
+              "stringId": "1831687527269523456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobry motyw! Trochę horror, trochę science fiction!",
+              "maleVariant": "",
+              "stringId": "1831687823622266880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okazało się, że nie było żadnych trupów. Jeden netrunner zafundował jej halucynacje.",
+              "maleVariant": "",
+              "stringId": "1831687973291810816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W końcu dziewczyna zwariowała i się powiesiła.",
+              "maleVariant": "",
+              "stringId": "1965082878785863680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak to jest, jak się nie wymienia wszczepów wystarczająco często.",
+              "maleVariant": "",
+              "stringId": "1965083077059002368"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно. Я об этом потом не пожалею?",
+              "maleVariant": "",
+              "stringId": "1976286657225478144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В смысле?",
+              "maleVariant": "",
+              "stringId": "1976287201746800640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты не обижайся, просто мне кажется, что ты часто влипаешь во всякие… неблагоприятные ситуации.",
+              "maleVariant": "",
+              "stringId": "1976287422702735360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Есть такое. Но ты не бойся. Тебя в эти ситуации втягивать не стану.",
+              "maleVariant": "Ха, есть такое. Но ты не бойся. Тебя в эти ситуации втягивать не стану.",
+              "stringId": "1976288346355585024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну… Тогда ладно.",
+              "maleVariant": "",
+              "stringId": "1976289753779458048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нужны твои услуги.",
+              "maleVariant": "",
+              "stringId": "1979237078013550596"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Какая у тебя специальность?",
+              "maleVariant": "",
+              "stringId": "1979237541970681856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нужны твои услуги.",
+              "maleVariant": "",
+              "stringId": "1979238832004374528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В какой области специализируешься?",
+              "maleVariant": "",
+              "stringId": "1979242561680154624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вообще-то я бионженер. Но ты не волнуйся, пули из людей вытаскивать умею.",
+              "maleVariant": "",
+              "stringId": "1979243351769587712"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

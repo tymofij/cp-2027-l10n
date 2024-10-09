@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нужны твои услуги.",
+              "maleVariant": "",
+              "stringId": "1979367548869124096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты продаёшь лекарства… здесь?",
+              "maleVariant": "",
+              "stringId": "1979368038478618624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты в медицине разбираешься?",
+              "maleVariant": "",
+              "stringId": "1979368703812673536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чего?.. Давай поконкретнее.",
+              "maleVariant": "",
+              "stringId": "1979370498035261440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты действительно продаёшь лекарства… здесь?..",
+              "maleVariant": "",
+              "stringId": "1979381452450013184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, с недавних пор. Раньше занимался электроникой, но не сложилось, пришлось сменить сферу деятельности.",
+              "maleVariant": "",
+              "stringId": "1979382140768854016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но это у меня все легально. Я прошёл сетевой курс первой помощи, купил щепку с основами фармацевтики. Ты только скажи, что тебе нужно.",
+              "maleVariant": "",
+              "stringId": "1979470839527297024"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

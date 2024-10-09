@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Увага всім підрядникам поліції. Надійшло повідомлення про потенційну злочинну діяльність на бульварі Мартіна Лютера Кінґа.",
+              "maleVariant": "",
+              "stringId": "2330203770457452544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Помічено членів так званої банди «Валентино», які звинувачуються в контрабандній діяльності та торгівлі людьми.",
+              "maleVariant": "",
+              "stringId": "2358955056559394816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Їх очолює Мігель Родрігез, він же Ґізмо. У його кримінальну справу також входить убивство другого ступеня та торгівля наркотиками. Владою міста Найт-Сіті оголошено винагороду за нейтралізацію загрози з боку злочинної групи Ґізмо.",
+              "maleVariant": "",
+              "stringId": "2358955107813789696"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

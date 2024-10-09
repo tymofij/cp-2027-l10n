@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oświadczył ci się?!",
+              "maleVariant": "",
+              "stringId": "1806787971243433984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak, i było tak jak mu mówiłam: znienacka i na oczach koleżanek z biura.",
+              "maleVariant": "",
+              "stringId": "1806788361414369280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gdzie?",
+              "maleVariant": "",
+              "stringId": "1806789017822945280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W Planie A, był zachód słońca, dron, wszyscy bili brawo. Zupełnie się nie spodziewałam.",
+              "maleVariant": "",
+              "stringId": "1806789199184650240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale romantycznie!",
+              "maleVariant": "",
+              "stringId": "1806789655726252032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yhm.",
+              "maleVariant": "",
+              "stringId": "1807009699566292992"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

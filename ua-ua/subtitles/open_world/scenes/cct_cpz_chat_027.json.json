@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можеш уявити?.. Понад сімдесят поверхів… І всі в нас зараз під ногами.",
+              "maleVariant": "",
+              "stringId": "2172083067071094784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знайшов кому розказувати. Мій дід був у тій рятувальній команді… Казав, що тіла доводилося діставати день і ніч.",
+              "maleVariant": "",
+              "stringId": "2205866264681091072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ще історії того, що йому доводилося особисто бачити й чути… Ті крики з-під уламків…",
+              "maleVariant": "",
+              "stringId": "2205869672720863232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Таке важко уявити…",
+              "maleVariant": "",
+              "stringId": "2205869946004934656"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

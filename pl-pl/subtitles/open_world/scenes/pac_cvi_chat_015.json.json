@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, nie wiem, jak wy, ale ja sobie wypruwam wszystkie wszczepy.",
+              "maleVariant": "",
+              "stringId": "2179396891616505856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A co? Problemy z kasą?",
+              "maleVariant": "",
+              "stringId": "2182439668946358272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z Kosiarzami. Z mojej ulicy porwali już pięć osób. Do domów wchodzą, w nocy, zaciągają do auta... I koniec, ludzie znikają bez śladu.",
+              "maleVariant": "",
+              "stringId": "2182442139357859840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I co, myślisz, że jak nie będziesz miał wszczepów, to zostawią cię w spokoju?",
+              "maleVariant": "",
+              "stringId": "2182442405360619520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No tak.",
+              "maleVariant": "",
+              "stringId": "2218390946335477760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale przecież oni nie pytają, co masz. Patroszą ludzi, jak leci. To cię nie uratuje. Musisz spać z bronią w ręku, i tyle.",
+              "maleVariant": "",
+              "stringId": "2218391033291788288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

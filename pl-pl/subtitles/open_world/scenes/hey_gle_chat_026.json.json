@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To jest zwykłe darcie ryja, w dodatku niewiele w nim treści.",
+              "maleVariant": "",
+              "stringId": "2161801046577459200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Taa! Bo wersja Eurodyne'a niby lepsza, co?",
+              "maleVariant": "",
+              "stringId": "2178034536342601728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\"Uhuhu, mam metalową duszę! PS. Poszkalowałbym korporacje, ale się boję!\"",
+              "maleVariant": "",
+              "stringId": "2178034739514687488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak, pewnie! Na chuj metafory? Lepiej wrzeszczeć przez trzy i pół minuty, że wszytkich pozabijam!",
+              "maleVariant": "",
+              "stringId": "2178035441204969472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I o to chodzi, nie rozumiesz? Po to założyli ten zespół. Żeby drzeć ryja, żeby obudzić ludzi.",
+              "maleVariant": "",
+              "stringId": "2178035555592028160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zajebiście. Szkoda tylko, że nie o to chodzi w słuchaniu muzyki.",
+              "maleVariant": "",
+              "stringId": "2178035758797668352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trzymajcie mnie!",
+              "maleVariant": "",
+              "stringId": "2178035935663079424"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

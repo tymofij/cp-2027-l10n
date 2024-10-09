@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Люси в безопасности. Безупречная работа. Спасибо.",
+              "maleVariant": "",
+              "stringId": "2328821128142540804"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви, как ты могла бросить Люси? Ты понимаешь, что «Мальстрём» её теперь запрячет так, что не найдёшь?",
+              "maleVariant": "Ви, как ты мог бросить Люси? Ты понимаешь, что «Мальстрём» её теперь запрячет так, что не найдёшь?",
+              "stringId": "2372242164132712448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не уверена, что стоит даже пробовать, и виновата в этом только ты. Не понимаю я тебя… Ладно, пока.",
+              "maleVariant": "Не уверена, что стоит даже пробовать, и виноват в этом только ты. Я тебя не понимаю… Ладно, пока.",
+              "stringId": "2372243396939321344"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

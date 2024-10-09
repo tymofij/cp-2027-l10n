@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Моя… Моя улюблена рука. І т’ер її… Нема!",
+              "maleVariant": "",
+              "stringId": "1833093299459186688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Бляхарі»… Це в’ни її поцупили. Поки… Поки я спала. І якшо в’на в них, то… То… Це вже всьо.",
+              "maleVariant": "",
+              "stringId": "1833095428773109760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, Боже, в-в’ни тепер мене вб’ють! Я змарнувала все своє життя!",
+              "maleVariant": "",
+              "stringId": "1833095623690805248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чумбо, ти ж сама її продала за дозу героїну. Іще два місяці тому.",
+              "maleVariant": "",
+              "stringId": "1833095790926094336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ой. Т-точно…",
+              "maleVariant": "",
+              "stringId": "1833095945897238528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А це нова, яку тобі мама купила.",
+              "maleVariant": "",
+              "stringId": "1964789105170300928"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

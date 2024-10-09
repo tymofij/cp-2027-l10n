@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та це не мої ящики! Я про них геть нічого не знаю!",
+              "maleVariant": "",
+              "stringId": "2178251593605439488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вони перебували у вашому авто.",
+              "maleVariant": "",
+              "stringId": "2182404798256209920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це не моє авто!",
+              "maleVariant": "",
+              "stringId": "2182409824810786816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні, ні! Ну… Цей-во… Одна… Одна туристка блукала Пусткою. Я їй лише напрямок указав, і вона залишила мені цю… Розвалюху, щоби я наглянув за нею.",
+              "maleVariant": "",
+              "stringId": "2182410033435467776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Значить ви викрали її авто.",
+              "maleVariant": "",
+              "stringId": "2182411254279921664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так! Ні. Ні!",
+              "maleVariant": "",
+              "stringId": "2182412606557085696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, ясно. Усе, стули писка свого, хоч на секунду, блядь, дай зосередитися.",
+              "maleVariant": "",
+              "stringId": "2182412942655053824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви сюди приїхали на ньому. І на цьому ж авто намагалися перетнути кордон.",
+              "maleVariant": "",
+              "stringId": "2182431601049952256"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No dalej, weź. Nie bądź pizda.",
+              "maleVariant": "",
+              "stringId": "2156436149844287488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale skąd to masz, ten towar?",
+              "maleVariant": "",
+              "stringId": "2169147410264412160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No a skąd mogę mieć? Kumpel mi sprzedał. Mówi, że mocno trzepie.",
+              "maleVariant": "",
+              "stringId": "2169147515323338752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale ufasz mu? Temu kumplowi? Bo za trip w jedną stronę to ja dziękuję.",
+              "maleVariant": "",
+              "stringId": "2169147899873906688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, ale ty jesteś miękki, no. No nie chcesz, to nie. Łachy bez.",
+              "maleVariant": "",
+              "stringId": "2169148703183785984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

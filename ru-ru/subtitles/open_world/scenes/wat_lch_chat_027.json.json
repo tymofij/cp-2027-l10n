@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так нельзя! Они вообще в курсе, что тут люди живут?",
+              "maleVariant": "",
+              "stringId": "2156532550940782592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Им кажется, что ави тихо летают? Я уснуть не могу.",
+              "maleVariant": "",
+              "stringId": "2172120706013970432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я тоже. Дети нормально спят, а я всю ночь лежу. Возраст, наверно.",
+              "maleVariant": "",
+              "stringId": "2172121053604331520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сходил в совет, чтобы подать жалобу, там мне знаешь что сказали?",
+              "maleVariant": "",
+              "stringId": "2172121474527903744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Если вам мешает, установите шумоподавляющие импланты».",
+              "maleVariant": "",
+              "stringId": "2172121682833817600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да когда мимо летит ави, у меня аж окна трясутся! Какие импланты?",
+              "maleVariant": "",
+              "stringId": "2172121878523265024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да уж, устроили тут аэропорт…",
+              "maleVariant": "",
+              "stringId": "2172122344795652096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

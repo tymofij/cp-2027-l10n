@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чого такий сумний, га?",
+              "maleVariant": "",
+              "stringId": "2160377451349319680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ай… Немає там про що говорити.",
+              "maleVariant": "",
+              "stringId": "2180970024336199680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та кажи вже, друже.",
+              "maleVariant": "",
+              "stringId": "2180970103373664256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усе ніяк не можу допроситися сміттярів, щоби ті прибрали в нас у контейнері. А сморід там такий, що аж сюди чутно.",
+              "maleVariant": "",
+              "stringId": "2180970233497751552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мовляв, не можуть пригнати вантажівку, через «Кігтів», які там поруч ошиваються.",
+              "maleVariant": "",
+              "stringId": "2180970864908275712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага… «Кігтів» узагалі краще уникати. Менше їх бачиш, менше маєш проблем.",
+              "maleVariant": "",
+              "stringId": "2180972162474938368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "(Шмигає) Гм, і справді, той сморід аж сюди чутно.",
+              "maleVariant": "",
+              "stringId": "2180972604604911616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, а я про що?",
+              "maleVariant": "",
+              "stringId": "2180973344413028352"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

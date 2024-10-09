@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нужна новая одежда.",
+              "maleVariant": "",
+              "stringId": "1935645915449044992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У вас шмотки новые или ношенные?",
+              "maleVariant": "",
+              "stringId": "1935645915449045008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нужна приличная одежда.",
+              "maleVariant": "",
+              "stringId": "1935645915751034884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как удачно — у нас как раз распродажа по сверхнизким ценам.",
+              "maleVariant": "",
+              "stringId": "1935645915751034892"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У вас шмотки новые или ношенные?",
+              "maleVariant": "",
+              "stringId": "1935645915784589316"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ношенные. Других в такую даль никто не повезёт.",
+              "maleVariant": "",
+              "stringId": "1935645915784589324"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но мне грех жаловаться. Хожу себе по шоссе, копаюсь в обломках… Если глаза на месте, что-нибудь да найдёшь.",
+              "maleVariant": "",
+              "stringId": "1975127889678749696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу обновить гардероб.",
+              "maleVariant": "",
+              "stringId": "3775249438369247232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу что-нибудь обновить.",
+              "maleVariant": "",
+              "stringId": "3836279465638227976"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха… востаннє я був тут із Керрі.",
+              "maleVariant": "",
+              "stringId": "1918607382348378112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Накачаний латинос станцював нам приват. А дупця в нього була сталева й відполірована, мов дзеркало.",
+              "maleVariant": "",
+              "stringId": "1925549498378276864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я думала, що ти більше по дівчатах.",
+              "maleVariant": "Я думав, що ти більше по дівчатах.",
+              "stringId": "1925551725536923648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Переважно. Але, іноді не проти й хлопців. Що більше, то краще.",
+              "maleVariant": "",
+              "stringId": "1925553538315112448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, ти налажала. Хванбо постраждав, моя репутація постраждала.",
+              "maleVariant": "Ві, ти налажав. Хванбо постраждав, моя репутація постраждала.",
+              "stringId": "2328461726368391168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бездоганна робота, Ві. Хванбо вважає, що тебе треба звати «Шалена Левиця», тож думаю, що він задоволений.",
+              "maleVariant": "Бездоганна робота, Ві. Хванбо вважає, що тебе треба звати «Шалений Лев», тож думаю, що він задоволений.",
+              "stringId": "2328472824983314436"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це не круто. Такого не повинно повторитися. Закриваю контракт.",
+              "maleVariant": "",
+              "stringId": "2339566199225290752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Закриваю контракт, шлю євдики.",
+              "maleVariant": "",
+              "stringId": "2339569079537733632"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Beautifully done, V. Dunno about Pedro, but I consider you my hero already.",
+              "maleVariant": "",
+              "stringId": "2328798711231827972"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jesus, V, what a shitshow! The gig, the client, the eddies, V! Down the drain – all of it! Don't even get me started on the wheels! Just... grrr!",
+              "maleVariant": "",
+              "stringId": "2328798711265382404"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, well! Got ourselves a real edgerunner, huh? You lunatic! Waitin' and baitin' the corpos like that! Hah! I fucking love it!",
+              "maleVariant": "",
+              "stringId": "2328804771380350980"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "See, V? Play your cards right, you'll always walk away with full pockets. Closing the gig.",
+              "maleVariant": "",
+              "stringId": "2341962679290531840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "'K, back to biz. Pedro's happy, so we're golden. Eddies flowing to your account now. Gig's closed.",
+              "maleVariant": "",
+              "stringId": "2342004181542735872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

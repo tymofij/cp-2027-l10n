@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mamo, czemu pan z Trauma Team nie pomógł wujkowi?",
+              "maleVariant": "",
+              "stringId": "1963294235783372800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kochanie, wujek nie miał abonamentu. Trzeba zapłacić paramedykowi, żeby cię obsłużył.",
+              "maleVariant": "",
+              "stringId": "1969369902875394048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gdy idziesz do sklepu i kupujesz swoje ulubione Leelou Beans, musisz zapłacić. Z leczeniem jest tak samo.",
+              "maleVariant": "",
+              "stringId": "1969370240835633152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale jak nie kupię Leelou Beans, to nie umrę. A wujek umarł.",
+              "maleVariant": "",
+              "stringId": "1969370409010446336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak jest urządzony świat. Niektóre rzeczy są tylko dla bogatych ludzi... a inne dla nas.",
+              "maleVariant": "",
+              "stringId": "1969370583392829440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No to jak dorosnę, to będę bogata.",
+              "maleVariant": "",
+              "stringId": "1969370734001897472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Będziesz, kochanie. Będziesz.",
+              "maleVariant": "",
+              "stringId": "1969370985794355200"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

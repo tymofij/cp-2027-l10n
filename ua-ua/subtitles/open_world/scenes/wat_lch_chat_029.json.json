@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І не пий усе, що тобі купують. Навіть якщо в тебе хороший фільтраційний імплант.",
+              "maleVariant": "",
+              "stringId": "2156541085661556736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але ж… Бару потрібні гроші. Керівниця сказала, що ми маємо розводити клієнтів на випивку.",
+              "maleVariant": "",
+              "stringId": "2172254098906923008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так і є. Ідеш із тим напоєм у туалет і виливаєш усе в унітаз, а натомість наливаєш соку.",
+              "maleVariant": "",
+              "stringId": "2172254557377904640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Навіть якщо це «Шато Пікет»?",
+              "maleVariant": "",
+              "stringId": "2172254697216000000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну дивися, ця робота така ж сама, як будь-яка інша. Хіба ти десь деінде також пив би?",
+              "maleVariant": "",
+              "stringId": "2172255166759944192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але ж це «Шато Пікет»!",
+              "maleVariant": "",
+              "stringId": "2172255484570746880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну гаразд, разок можна.",
+              "maleVariant": "",
+              "stringId": "2172255827882917888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

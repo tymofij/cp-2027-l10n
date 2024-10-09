@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A brałeś DeCal45?",
+              "maleVariant": "",
+              "stringId": "2159203169977987072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, straszne gówno. Miałem po tym przejebane koszmary w nocy.",
+              "maleVariant": "",
+              "stringId": "2210060633406783488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No i komplet skutków ubocznych: dreszcze, duszności, halucynacje...",
+              "maleVariant": "",
+              "stringId": "2210061035137220608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale w dzień pomagało?",
+              "maleVariant": "",
+              "stringId": "2210070020762451968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No pomagało. Mogłem siedzieć w biurze po 16 godzin, świeżutki jak pierdolona stokrotka.",
+              "maleVariant": "",
+              "stringId": "2210070419674316800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No to może jednak warto?",
+              "maleVariant": "",
+              "stringId": "2210070993035673600"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sprzedawczyk.",
+              "maleVariant": "",
+              "stringId": "1963261042296397824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pfff, znalazł się święty. Gdyby Zetatech zaproponował ci robotę, wziąłbyś ją bez mrugnięcia okiem.",
+              "maleVariant": "",
+              "stringId": "1966240424145960960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kto ogarnie ten pierdolnik, jeśli wszyscy przejdziemy do sił korporacyjnych?",
+              "maleVariant": "",
+              "stringId": "1966240587723816960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zastanów się jeszcze.",
+              "maleVariant": "",
+              "stringId": "1966241348285349888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nad czym? Proponują mi ubezpieczenie i płatny urlop.",
+              "maleVariant": "",
+              "stringId": "1966241582210072576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz, kiedy ostatni raz zabrałem córkę do parku?",
+              "maleVariant": "",
+              "stringId": "1966241902420017152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wybaczcie. Nie będę męczennikiem.",
+              "maleVariant": "",
+              "stringId": "1966242133190623232"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

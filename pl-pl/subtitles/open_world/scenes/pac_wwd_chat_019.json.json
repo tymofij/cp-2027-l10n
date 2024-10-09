@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Życie łatwo się adaptuje do nowych warunków.",
+              "maleVariant": "",
+              "stringId": "2179606047749693440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wiem. Siedzisz tu, odkąd zamknęli tę pierdoloną budowę. Nie widzę, żebyś się specjalnie zaadaptował.",
+              "maleVariant": "",
+              "stringId": "2211178918535979008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kiedyś byłem tu kierownikiem budowy. Kiedyś byłem kimś.",
+              "maleVariant": "",
+              "stringId": "2217168493649551360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No właśnie o tym mówię...",
+              "maleVariant": "",
+              "stringId": "2217168845887201280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ja nie o tym. Polazłem wczoraj na Badlandy. Na ten zalew przy tamie. Złapałem rybę.",
+              "maleVariant": "",
+              "stringId": "2217168988879413248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie ma już czegoś takiego jak ryby. A jak naprawdę złapałeś jakiegoś mutanta to nie jedz, bo będziesz srać na zielono.",
+              "maleVariant": "",
+              "stringId": "2217169531941117952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No kurwa. Przecież to nie do jedzenia, tylko na sprzedaż.",
+              "maleVariant": "",
+              "stringId": "2217170703544442880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

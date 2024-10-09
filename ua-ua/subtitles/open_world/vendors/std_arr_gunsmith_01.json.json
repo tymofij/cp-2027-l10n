@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що ти маєш на продаж?",
+              "maleVariant": "",
+              "stringId": "1783753455506837504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якісь стволи, які не варто купувати?",
+              "maleVariant": "",
+              "stringId": "1783753455506837520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що в тебе є?",
+              "maleVariant": "",
+              "stringId": "1783753455523614724"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Може якусь зброю радиш не купувати?",
+              "maleVariant": "",
+              "stringId": "1783753455557169156"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Стволи всіх калібрів, дивись на здоров’я.",
+              "maleVariant": "",
+              "stringId": "1975008556579344384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гм, ну дивись. Перш за все \"Бюджетна зброя\". Через їх дешеві пластикові деталі, зброя має сильну віддачу, низьку дальність та купу інших недоліків.",
+              "maleVariant": "",
+              "stringId": "1975017098413658112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На твоєму місці я б уникав товарів від \"Ростович\". Вогнева міць незрівнянна, але з якихось причин, вона постійно заїдає у найскрутніший момент.",
+              "maleVariant": "",
+              "stringId": "1975020237816647680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм, ну не знаю. \"Сатара\" доволі якісна.",
+              "maleVariant": "",
+              "stringId": "1975022239304962048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так-так, в нас тут експерт! Визнаю, одну річ серби змогли зробити правильно.",
+              "maleVariant": "",
+              "stringId": "1975023739641057280"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

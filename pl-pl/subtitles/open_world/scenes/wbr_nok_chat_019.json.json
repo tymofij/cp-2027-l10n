@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zostało mi kilka miligramów.",
+              "maleVariant": "",
+              "stringId": "2159443550084243456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rezerwuję dla ciebie, ale przelej od razu kaskę. Potrójna stawka.",
+              "maleVariant": "",
+              "stringId": "2199624549182664704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ej, tym towarem pudrują nosy w Kryształowym Pałacu. Swoje kosztuje.",
+              "maleVariant": "",
+              "stringId": "2199624911352426496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobra. Okej.",
+              "maleVariant": "",
+              "stringId": "2199627239979675648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dostałem potwierdzenie. Dzięki za zaokrąglenie sumki.",
+              "maleVariant": "",
+              "stringId": "2199627724539228160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jestem teraz w innej części miasta, ale podjadę jak najszybciej.",
+              "maleVariant": "",
+              "stringId": "2199628191835025408"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То что надо. Мне нравится, как ты работаешь. До новых встреч, сестра. Заказ закрыт.",
+              "maleVariant": "То что надо. Мне нравится, как ты работаешь. До новых встреч, брат. Заказ закрыт.",
+              "stringId": "2328809700981133312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У тебя с головой всё в порядке? Я просила пригнать машину!",
+              "maleVariant": "",
+              "stringId": "2333087516606578688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так облажаться надо ещё суметь, мать твою. У меня просто слов нет…",
+              "maleVariant": "",
+              "stringId": "2333090849350205440"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

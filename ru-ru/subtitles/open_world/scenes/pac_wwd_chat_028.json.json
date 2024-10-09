@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можем даже этот магазин вынести.",
+              "maleVariant": "",
+              "stringId": "2179639140237828096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ничего хорошего. Больше не могут сидеть, как мы, и пороть херню.",
+              "maleVariant": "",
+              "stringId": "2211506859070910464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ну-у-у…",
+              "maleVariant": "",
+              "stringId": "2212614971085484032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что? Заходим по-быстрому, кидаем что-нибудь в мешок — и на выход. Потом сбагрим у нас на районе. Или в Кабуки.",
+              "maleVariant": "",
+              "stringId": "2212615102333644800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу. Знал я таких, кому тоже это в голову приходило.",
+              "maleVariant": "",
+              "stringId": "2212615823099621376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Серьёзно? И что?",
+              "maleVariant": "",
+              "stringId": "2212616599129747456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Блин. С таким подходом мы тоже далеко не уйдём.",
+              "maleVariant": "",
+              "stringId": "2212617759341342720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Moglibyśmy nawet ten sklep zrobić.",
+              "maleVariant": "",
+              "stringId": "2179639140237828096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I gówno. Już nigdy sobie nie usiądą tak jak my i nie będą pierdolić farmazonów.",
+              "maleVariant": "",
+              "stringId": "2211506859070910464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Taaa.",
+              "maleVariant": "",
+              "stringId": "2212614971085484032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No co. Szybki wpad, zgarniamy zabawki do torby, wypad. A potem opchniemy u nas. Albo w Kabuki.",
+              "maleVariant": "",
+              "stringId": "2212615102333644800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm. Znam takich, którzy wpadli na podobny pomysł.",
+              "maleVariant": "",
+              "stringId": "2212615823099621376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Serio? No i co?",
+              "maleVariant": "",
+              "stringId": "2212616599129747456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Eee tam. Z takim podejściem to my daleko nie zajdziemy.",
+              "maleVariant": "",
+              "stringId": "2212617759341342720"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

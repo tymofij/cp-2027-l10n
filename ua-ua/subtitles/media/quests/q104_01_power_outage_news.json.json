@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми повертаємося до сьогоднішніх надзвичайних новин про напад на електростанцію у Санто-Домінґо.",
+              "maleVariant": "",
+              "stringId": "1744501745799192576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нападники, які лишаються невідомими, увірвалися на станцію й серйозно пошкодили систему охолодження, що призвело до потужного викиду електромагнітних імпульсів.",
+              "maleVariant": "",
+              "stringId": "1744506598827024384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Одразу після нападу багато з місцевих неподалік електростанції постраждали від критичних збоїв у кіберустаткуванні.",
+              "maleVariant": "",
+              "stringId": "1744506840989360128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "ЕМІ були такими потужними, що все місто кілька годин провело у суцільній темряві.",
+              "maleVariant": "",
+              "stringId": "1744507208863375360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поліція Найт-Сіті припускає, що це діяльність кочівників та розробляє систему відповідних заходів.",
+              "maleVariant": "",
+              "stringId": "1744507349540331520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми продовжимо тримати вас у курсі розвитку подій.",
+              "maleVariant": "",
+              "stringId": "1744507582273871872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На щастя, більшість з найближчих населених районів уникли дії ЕМІ. Враховуючи масштаби пошкоджень людські втрати мінімальні.",
+              "maleVariant": "",
+              "stringId": "1902236446178463744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Krztusił się krwią, rozumiesz? Był cały siny, miotał się i tak… zwierzęco krzyczał..",
+              "maleVariant": "",
+              "stringId": "1832711855796772864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nikt mu nie pomógł?",
+              "maleVariant": "",
+              "stringId": "1832714307250020352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Próbowaliśmy, ale co możesz zrobić, wyłączyli mu wszczepy i tyle.",
+              "maleVariant": "",
+              "stringId": "1832715178574733312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kate mi powiedziała, że pracował w Petrochemie.",
+              "maleVariant": "",
+              "stringId": "1832715323261444096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak. Wszystko naraz mu wyłączyli, bez żadnego ostrzeżenia. Płuca, nogi, nawet oczy.",
+              "maleVariant": "",
+              "stringId": "1832715493969616896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A to nie był ten, co załatwiał te, no... umowę z Argentyną?",
+              "maleVariant": "",
+              "stringId": "1832715650232606720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Był.",
+              "maleVariant": "",
+              "stringId": "1832715794902540288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты что такой мрачный?",
+              "maleVariant": "",
+              "stringId": "2189692490727776256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да все бесят. Завтра меня опять послали за топливом. Заебало уже.",
+              "maleVariant": "",
+              "stringId": "2189730789823569920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кто-то же должен это делать.",
+              "maleVariant": "",
+              "stringId": "2189731502939136000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И ты туда же? Ну ещё бы, ты ж прямо молишься на наших славных лидеров.",
+              "maleVariant": "",
+              "stringId": "2189731743423750144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Меня приняли, когда я была никем, у меня не было ничего. Благодаря им, мне есть где поесть и поспать. Это моя семья.",
+              "maleVariant": "",
+              "stringId": "2189732608842883072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Семья, семья… Мне казалось, ты свою семью вырезала, когда перебрала резины и тебе показалось, что вокруг одни зомби.",
+              "maleVariant": "",
+              "stringId": "2189733451109457920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не строй мне тут из себя бедную овечку.",
+              "maleVariant": "",
+              "stringId": "2189734878699544576"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну чё? Как тебе новая кислота?",
+              "maleVariant": "",
+              "stringId": "2156387014512467968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это охренеть, чумба. На восемь из десяти.",
+              "maleVariant": "",
+              "stringId": "2170811953511645184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ух ты… Я прямо чувствую, как внутри что-то раскрывается… и это… кричит… по-жёлтому.",
+              "maleVariant": "",
+              "stringId": "2170812207434809344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Жёлтый — это как молодость и грусть… как кирпичная дорога… и цифровая меланхолия.",
+              "maleVariant": "",
+              "stringId": "2170812611446947840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я слышу… Слышу эпохи. Они зовут меня во тьме без начала и конца… Мой разум будто… убегает, улетает…",
+              "maleVariant": "",
+              "stringId": "2170814091600052224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Смерть… Смерти нет. Есть только вечная жизнь.",
+              "maleVariant": "",
+              "stringId": "2170814440280932352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бля… Чумба, я что, андроид? Только скажи правду, окей?",
+              "maleVariant": "",
+              "stringId": "2170814583893901312"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

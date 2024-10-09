@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нужно новое оружие.",
+              "maleVariant": "",
+              "stringId": "1886574749301157888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Вудуисты» торгуют оружием?",
+              "maleVariant": "",
+              "stringId": "1886574749317935112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне нужно оружие.",
+              "maleVariant": "",
+              "stringId": "1886574749334712324"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Выбирай.",
+              "maleVariant": "",
+              "stringId": "1886574749351489536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не знала, что «Вудуисты» торгуют оружием.",
+              "maleVariant": "Не знал, что «Вудуисты» торгуют оружием.",
+              "stringId": "1886574749368266756"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я больше не с «Вудуистами». Вот так-то. Вне Сети они не стреляют в людей. Считают себя выше этого.",
+              "maleVariant": "",
+              "stringId": "1886574749368266764"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Когда-то и я так думала.",
+              "maleVariant": "",
+              "stringId": "1983631943261732864"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kiedy patrzysz na tych ludzi, to co widzisz?",
+              "maleVariant": "",
+              "stringId": "1806724152559263744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Głupich korpów, których mogę łatwo okraść.",
+              "maleVariant": "",
+              "stringId": "1806724802374393856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ja widzę tajemnice. Każdy z nich coś ukrywa, coś czego nie chce pokazać światu.",
+              "maleVariant": "",
+              "stringId": "1806725024487956480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak to coś będzie twoje, to staniesz się  właścicielem tych ludzi, zupełnie jak korporacje.",
+              "maleVariant": "",
+              "stringId": "1806725490693234688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wtedy już nawet o nic nie pytasz.  Dostajesz, to co chcesz. Dane, nagrania, największe sekrety.",
+              "maleVariant": "",
+              "stringId": "1806725772651126784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I to, mój drogi, będzie moment, gdy zobaczysz prawdziwe pieniądze.",
+              "maleVariant": "",
+              "stringId": "1806726174381563904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

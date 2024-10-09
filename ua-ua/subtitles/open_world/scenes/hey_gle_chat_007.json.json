@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А якщо Пералез програє? Кінець світу?",
+              "maleVariant": "",
+              "stringId": "1832735430050177024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні. Але якщо він переможе, у місті може бодай щось нарешті зміниться.",
+              "maleVariant": "",
+              "stringId": "1832741124455391232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Авжеж. Оце для них, так?",
+              "maleVariant": "",
+              "stringId": "1832741464294678528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І для тебе теж.",
+              "maleVariant": "",
+              "stringId": "1832741687901413376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ой, та не мели дурні. Ти справді вважаєш, що він сильно переймається ними?",
+              "maleVariant": "",
+              "stringId": "1832742476849995776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У цьому немає потреби. Ну як… Принаймні, допоки ця ілюзія не спала з очей виборців.",
+              "maleVariant": "",
+              "stringId": "1832742714146938880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ого… Схоже, що ти дійсно уяви не маєш, як влаштована політика…",
+              "maleVariant": "",
+              "stringId": "1832742889670172672"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

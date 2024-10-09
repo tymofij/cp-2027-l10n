@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На самом деле, никакая это не проблема. Вопрос в том, чумба, как на вещи смотреть.",
+              "maleVariant": "",
+              "stringId": "1802497586358771712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он остался без ноги, Роб. На него упал ёбаный контейнер.",
+              "maleVariant": "",
+              "stringId": "1802498130443886592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, значит, стырим для него имплант.",
+              "maleVariant": "",
+              "stringId": "1802498298434150400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, поставим, дальше что? Эта херня третий раз за год происходит.",
+              "maleVariant": "",
+              "stringId": "1802498461156368384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, подрежем данные с завода. И толкнём какому-нибудь фиксеру.",
+              "maleVariant": "",
+              "stringId": "1802498634280460288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, не знаю, чувак…",
+              "maleVariant": "",
+              "stringId": "1802498832939474944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А прикинь, если бы это была твоя нога? Не будем друг другу помогать — никто нам не поможет.",
+              "maleVariant": "",
+              "stringId": "1802499095922335744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szkoda tylko, że nie zrobiłaś tego wszystkiego po cichu. Teraz pół miasta będzie wiedzieć o tej akcji.",
+              "maleVariant": "Szkoda tylko, że nie zrobiłeś tego wszystkiego po cichu. Teraz pół miasta będzie wiedzieć o tej akcji.",
+              "stringId": "2328832749569601536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Taka akcja? Po cichu? Mega robota. Dziękuję. Kontrakt zamknięty.",
+              "maleVariant": "",
+              "stringId": "2328832957506416640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Myślałam, że lepiej się rozumiemy... No nic. Kontrakt zamknięty.",
+              "maleVariant": "",
+              "stringId": "2331697846301331456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, dałam ci jasne wytyczne. Miałaś zdobyć tę cholerną drzazgę!",
+              "maleVariant": "V, dałam ci jasne wytyczne. Miałeś zdobyć tę cholerną drzazgę!",
+              "stringId": "2362267863501606912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ludzie, do których cię wysłałam, to zawodowcy. Myślisz, że po takiej akcji będą tam dalej na ciebie czekać?",
+              "maleVariant": "",
+              "stringId": "2362321136162017280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spieprzyłaś sprawę. Po całości. Mam nadzieję, że nie będę miała przez ciebie problemów. Na razie.",
+              "maleVariant": "Spieprzyłeś sprawę. Po całości. Mam nadzieję, że nie będę miała przez ciebie problemów. Na razie.",
+              "stringId": "2362321158291165184"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А кто её мать?",
+              "maleVariant": "",
+              "stringId": "2172160189013811200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Раньше была ведущей на Пятьдесят четвёртом, теперь одна из топовых проджект-менеджеров в «Кироси». Скоро, говорят, в совет директоров войдёт.",
+              "maleVariant": "",
+              "stringId": "2208535656682328064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Попробуй потягайся с такой мамой.",
+              "maleVariant": "",
+              "stringId": "2208539025798959104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А почему она должна с ней тягаться? У неё хорошая квартира, работа, машина.",
+              "maleVariant": "",
+              "stringId": "2208539240295665664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, и всё благодаря мамочке.",
+              "maleVariant": "",
+              "stringId": "2208540377136599040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что в этом плохого? Я бы и сама не отказалась от такой мамочки.",
+              "maleVariant": "",
+              "stringId": "2208673911998353408"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

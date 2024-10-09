@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ludzie to jednak idioci. Do tej pory ktoś się powinien już kapnąć, że te aukcje to ściema.",
+              "maleVariant": "",
+              "stringId": "2161783980021592064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A jak to działa? Wystawiamy magazyny, w których nie ma nic wartościowego?",
+              "maleVariant": "",
+              "stringId": "2230234929730142208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Po tym, jak wyniesiemy z nich wszystko, za co można dostać sensowny hajs.",
+              "maleVariant": "",
+              "stringId": "2230235038698160128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie no, chwila. Przecież niedawno jakaś fuksiara wylicytowała taki z mahoniowym biurkiem w środku.",
+              "maleVariant": "",
+              "stringId": "2230235171305275392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z tego co słyszałem, dostała za nie ładnych kilkanaście tysiaków.",
+              "maleVariant": "",
+              "stringId": "2230235291027488768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No wiesz, no… Czasem dajemy im coś wygrać, żeby interes nie wyglądał aż tak podejrzanie.",
+              "maleVariant": "",
+              "stringId": "2230235435714199552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aaa, no, ma to sens.",
+              "maleVariant": "",
+              "stringId": "2230235551946752000"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

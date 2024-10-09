@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Внимание вспомогательным группам полиции. У нас сообщение о преступной активности на Харгривс-стрит.",
+              "maleVariant": "",
+              "stringId": "2328972081799548928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ориентировка на Дариуса Майлса, обвиняемого в убийстве. Он входит в банду «Шестая улица» и руководит группой, которая производит наркотики.",
+              "maleVariant": "",
+              "stringId": "2358404649135214592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Властями назначено вознаграждение за устранение угрозы со стороны Майлса и его подельников.",
+              "maleVariant": "",
+              "stringId": "2358404675290894336"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

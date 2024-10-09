@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzisiaj gramy, pamiętasz?",
+              "maleVariant": "",
+              "stringId": "1806908953341845504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czy pamiętam? To jedyna rzecz, która daje mi jeszcze trochę radości w życiu.",
+              "maleVariant": "",
+              "stringId": "1806909946938908672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak wygramy, to zabiorę cię w takie miejsce, w którym dopiero dowiesz się czym jest radość.",
+              "maleVariant": "",
+              "stringId": "1806910114761400320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie, to nie dla mnie.  Zostaje przy pokerze.",
+              "maleVariant": "",
+              "stringId": "1806910278003712000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na pewno?",
+              "maleVariant": "",
+              "stringId": "1806910452721639424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Muszę oszczędzać. Dzieciak w drodze.",
+              "maleVariant": "",
+              "stringId": "1806910707064233984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

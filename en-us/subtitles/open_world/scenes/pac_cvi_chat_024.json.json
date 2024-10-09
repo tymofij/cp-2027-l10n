@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "'Ey, how 'bout we head back? Gettin' dark.",
+              "maleVariant": "",
+              "stringId": "2179512439692095488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure, go back if you want. I'm good here.",
+              "maleVariant": "",
+              "stringId": "2189485360813948928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "C'mon, come with me. The boys said Scavs are hangin' around. Don't want anything to happen to you.",
+              "maleVariant": "",
+              "stringId": "2189485552225206272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rather run into a Scav than hear my ma yell her faceplate off.",
+              "maleVariant": "",
+              "stringId": "2189485776066822144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It's not funny, I'm serious!",
+              "maleVariant": "",
+              "stringId": "2189485957260754944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So'm I. I'm gonna sit, look at the bay awhile.",
+              "maleVariant": "",
+              "stringId": "2189486046649761792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "C'mon. Just for a little, then we'll go back together, OK?",
+              "maleVariant": "",
+              "stringId": "2189486146524528640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But... Ehhh, all right.",
+              "maleVariant": "",
+              "stringId": "2189486487689216000"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

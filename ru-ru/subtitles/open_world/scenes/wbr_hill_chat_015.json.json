@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да здесь просто рай. Работал когда-нибудь в мегабашнях?",
+              "maleVariant": "",
+              "stringId": "2159236334708813824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне там каждую неделю приходилось соскребать с асфальта чьи-нибудь мозги.",
+              "maleVariant": "",
+              "stringId": "2210077338212319232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А что, люди с крыши прыгали?",
+              "maleVariant": "",
+              "stringId": "2210078074262339584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет, блин, просто падали случайно. Короче, здесь такой херни не бывает.",
+              "maleVariant": "",
+              "stringId": "2210079323057635328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Потому что тут живётся лучше?",
+              "maleVariant": "",
+              "stringId": "2210084284667609088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да какое там. Корпоратские крысы вечно в депрессии.",
+              "maleVariant": "",
+              "stringId": "2210084638901747712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Им просто охранники выброситься не дают.",
+              "maleVariant": "",
+              "stringId": "2210084952803459072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В Чартер-Хилле, чтобы покончить с собой, устраивают передоз дизайнерской наркоты.",
+              "maleVariant": "",
+              "stringId": "2210085698651373568"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

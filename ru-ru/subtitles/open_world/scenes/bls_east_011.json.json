@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты слышала? Нам тут собираются развлекательный центр сделать. С бутиками.",
+              "maleVariant": "",
+              "stringId": "2178181591294353408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, зашибись. Скупят землю, перегородят всё. А тебе придётся делать крюк, чтобы обойти эти их развлечения.",
+              "maleVariant": "",
+              "stringId": "2188259241702940672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зачем обходить, зайдём посмотрим, что у них там. Тебе что, даже не интересно?",
+              "maleVariant": "",
+              "stringId": "2188270056900354048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пф-ф-ф, я могу и бесплатно посмотреть на то, что не могу себе позволить.",
+              "maleVariant": "",
+              "stringId": "2188270345200033792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я посмотрю, кто оттуда будет выходить с полными сумками, а кто с глупой рожей.",
+              "maleVariant": "",
+              "stringId": "2188275437487742976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так всё равно надо посмотреть, чтобы прицениться.",
+              "maleVariant": "",
+              "stringId": "2188279640046133248"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну как так, в наше время даже последние придурки шифруют каналы связи… но нет. Так что там в сообщении?",
+              "maleVariant": "",
+              "stringId": "1725423000301776896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Ржавые стилеты» купили вирус… И рассылают его по округе через антенну.",
+              "maleVariant": "",
+              "stringId": "1725423242564775936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тут вроде есть поблизости какая-то антенна.",
+              "maleVariant": "",
+              "stringId": "1934412645738532864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу, есть, но скоро не будет.",
+              "maleVariant": "Ну да, есть, но скоро не будет.",
+              "stringId": "1934413013578993664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Смотрю я на этот передатчик и вспоминаю…",
+              "maleVariant": "",
+              "stringId": "1963479469163720704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Помнится, в 2020-м мы использовали такие для пиратского радиовещания. Передавали хардкор-панк на полицейских частотах.",
+              "maleVariant": "",
+              "stringId": "1963480417814622208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм… Получается, именно так «стилеты» взломали дроны…",
+              "maleVariant": "",
+              "stringId": "1963481477832683520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лучше бы вывести его из строя. На всякий случай.",
+              "maleVariant": "",
+              "stringId": "1963482039131222016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что же?",
+              "maleVariant": "",
+              "stringId": "2014153326853410816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А потом какие-то умники взломали эти передатчики и через них запустили в город жуткие вирусы. Испортили нам всё веселье.",
+              "maleVariant": "",
+              "stringId": "2014154957733023744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха, а я уж думал, ты никогда не догадаешься.",
+              "maleVariant": "",
+              "stringId": "2014157339443384320"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

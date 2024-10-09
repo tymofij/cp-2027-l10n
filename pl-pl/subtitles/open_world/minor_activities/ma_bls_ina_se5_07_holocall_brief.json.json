@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do wszystkich jednostek wspierających działania NCPD. Podejrzenie przestępczości zorganizowanej przy Sage Gulch Road.",
+              "maleVariant": "",
+              "stringId": "2328989029368246272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Poszukiwany to Rufus McBride – prowadzący działalność ripperską bez zezwoleń. W przeszłości doprowadził trzech pacjentów do kalectwa, pomógł też upozorować próbę samobójczą.",
+              "maleVariant": "",
+              "stringId": "2358876231829917696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mężczyzna ukrywa się wśród członków gangu Wraiths. Za zneutralizowanie zagrożenia władze Night City wypłacą nagrodę.",
+              "maleVariant": "",
+              "stringId": "2358876272615329792"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

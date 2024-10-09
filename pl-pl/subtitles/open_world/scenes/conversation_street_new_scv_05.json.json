@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mnie coś w bebechach dokucza. Od kiedy sobie ten bloker kortyzolu wszczepiłem. Pieprzone konowały z Kabuki.",
+              "maleVariant": "",
+              "stringId": "2276536375305216016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Idź i reklamuj. Nawet czarne kliniki dają jakieś gwarancje chyba, nie?",
+              "maleVariant": "",
+              "stringId": "2276536375305216028"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jasne, że nie dają. Poza tym co im powiem: \"jak myślę o mojej byłej, to już się nie denerwuję, ale za to mnie wzdyma\"? Pękną ze śmiechu.",
+              "maleVariant": "",
+              "stringId": "2276536375305216040"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ile w końcu wpisałaś do raportu? Muszę coś wziąć, bo nie mogę się skupić.",
+              "maleVariant": "",
+              "stringId": "2161794101766336512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeszcze trochę poczekasz. Nie miałam czasu, żeby przebadać wszystkie próbki.",
+              "maleVariant": "",
+              "stringId": "2177948568914739200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To go znajdź w tej, kurwa, chwili. Mam trzech Kosiarzy do przesłuchania i nie zrobię tego z dygoczącymi łapami!",
+              "maleVariant": "",
+              "stringId": "2177948985795002368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ile wpisałaś do tego raportu?",
+              "maleVariant": "",
+              "stringId": "2177949212874620928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ech... Dwanaście. Z piętnastu znalezionych.",
+              "maleVariant": "",
+              "stringId": "2177949875373326336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zmień na dziesięć.",
+              "maleVariant": "",
+              "stringId": "2177950053346033664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pogięło cię? Nie dam ci pięciu gramów.",
+              "maleVariant": "",
+              "stringId": "2177950204995289088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jezu, dobra, niech będą trzy... tylko się pośpiesz!",
+              "maleVariant": "",
+              "stringId": "2177950500827938816"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

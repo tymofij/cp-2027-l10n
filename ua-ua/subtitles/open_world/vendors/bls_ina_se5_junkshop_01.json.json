@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що маєш на продаж?",
+              "maleVariant": "",
+              "stringId": "1935698783862435840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти тут один?",
+              "maleVariant": "",
+              "stringId": "1935698783879213060"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що ти продаєш?",
+              "maleVariant": "",
+              "stringId": "1935698784449638404"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Рі… Різноманітні товари. Прошу… ем, подивіться будь ласка.",
+              "maleVariant": "",
+              "stringId": "1935698784449638412"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти тут один?",
+              "maleVariant": "",
+              "stringId": "1935698784483192836"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я… Зараз так. Ем, вони всі… Всі пішли. Нікого не лишилося.",
+              "maleVariant": "",
+              "stringId": "1935698784483192844"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Т…ти купуєш шось? Якщо ні… Дай мені спокій!",
+              "maleVariant": "",
+              "stringId": "1976362317302255616"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

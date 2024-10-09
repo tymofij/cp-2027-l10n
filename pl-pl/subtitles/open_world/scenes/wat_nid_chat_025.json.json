@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czujesz to? Jak tu, kurwa, capi...",
+              "maleVariant": "",
+              "stringId": "2156430155730903040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czym ci znowu capi?",
+              "maleVariant": "",
+              "stringId": "2172014120025178112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mięsem. Żywą tkanką. Po chuj uciekamy od ograniczeń ciała, skoro i tak babramy się we flakach?",
+              "maleVariant": "",
+              "stringId": "2172014344705654784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Po pierwsze, to flaki in vitro. Po drugie, od dawna już ich tu nie produkują.",
+              "maleVariant": "",
+              "stringId": "2172014616110678016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie mieszaj ideologii z interesem. Biznes jest biznes.",
+              "maleVariant": "",
+              "stringId": "2172014776098209792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A po czwarte, trzeba coś jednak żreć.",
+              "maleVariant": "",
+              "stringId": "2172014986534830080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I to mnie właśnie wkurwia najbardziej...",
+              "maleVariant": "",
+              "stringId": "2172015140113465344"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

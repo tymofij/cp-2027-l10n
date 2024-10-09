@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А вдруг это только начало…",
+              "maleVariant": "",
+              "stringId": "2156551775866822656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да. Вдруг кто-то в Найт-Сити начал охоту на фиксеров?",
+              "maleVariant": "",
+              "stringId": "2211541806263672832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Типа, помешанный на фиксерах серийный убийца? Сомневаюсь.",
+              "maleVariant": "",
+              "stringId": "2211541864933597184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну слушай, Декса ДеШона у всех на виду прикончили.",
+              "maleVariant": "",
+              "stringId": "2211542658311364608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У Декса было тёмное прошлое. Вот оно его и настигло.",
+              "maleVariant": "",
+              "stringId": "2211543118795612160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я к тому, что нам надо быть на стрёме.",
+              "maleVariant": "",
+              "stringId": "2211543484002050048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В нашем деле? А как же.",
+              "maleVariant": "",
+              "stringId": "2211544031878815744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты про тот случай?",
+              "maleVariant": "",
+              "stringId": "2211545415411933184"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

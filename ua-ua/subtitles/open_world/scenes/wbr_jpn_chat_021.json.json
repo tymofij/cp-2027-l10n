@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти поглянь-но, які люди!.. Я думав ти на Місяці у відрядженні!",
+              "maleVariant": "",
+              "stringId": "2160328164468891648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А, ну так, я мав їхати. Але візу не дали.",
+              "maleVariant": "",
+              "stringId": "2169440464288403456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Серйозно? А чому?",
+              "maleVariant": "",
+              "stringId": "2169440639845191680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бо я на співбесіді сказав, що маю собаку. І капець, вони там справді не жартують із приводу хвороб, які тварини можуть переносити. Типу, от почне шось рости у вентиляції… Вжух, і тобі гайки.",
+              "maleVariant": "",
+              "stringId": "2169440734602907648"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

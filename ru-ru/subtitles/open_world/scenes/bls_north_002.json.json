@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Никто не суётся на север! Даже «Духи»!",
+              "maleVariant": "",
+              "stringId": "1973560822578847744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ты чего! Я же пошутил просто!",
+              "maleVariant": "",
+              "stringId": "1974865321030041600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты охренел?! Отцепись от мальца! Хочешь, чтобы он там парами надышался?!",
+              "maleVariant": "",
+              "stringId": "1974865407449481216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ну? А в нефтяные поля слабо? Туда только настоящие смелые кочевники ходят.",
+              "maleVariant": "",
+              "stringId": "1974865423169732608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ничё и нет! Ничё я и не очкую!",
+              "maleVariant": "",
+              "stringId": "1974865437010935808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А-а, чё, зассал? Я же вижу, что очкуешь.",
+              "maleVariant": "",
+              "stringId": "1974865448654323712"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

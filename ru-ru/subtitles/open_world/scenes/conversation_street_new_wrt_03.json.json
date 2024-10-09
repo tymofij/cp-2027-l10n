@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да вообще ужас. На трассе сигнала нет, я даже не знаю, кто там мой профиль вправо смахнул.",
+              "maleVariant": "",
+              "stringId": "2276543156202938384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Может, попробуешь с кем-нибудь из наших? Реджи вон на тебя смотрит. Он хотя бы не выглядит как маньяк.",
+              "maleVariant": "",
+              "stringId": "2276543156219715584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У меня собаку звали Реджи. Она от меня сбежала. Я боюсь, история повторится…",
+              "maleVariant": "",
+              "stringId": "2276543156219715596"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

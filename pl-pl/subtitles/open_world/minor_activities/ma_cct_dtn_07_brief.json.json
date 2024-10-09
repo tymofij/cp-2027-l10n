@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przed chwilą ktoś z Tyger Claws wzywał pomocy. Dopadł go Sakki.",
+              "maleVariant": "",
+              "stringId": "2357683923642888192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tygersi nazywają tak renegata, który wykańcza ich po cichu, za to spektakularnie.",
+              "maleVariant": "",
+              "stringId": "2357691500569178112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Myślę, że Sakki ma cyberpsychozę, ale chcę to wiedzieć na pewno.",
+              "maleVariant": "",
+              "stringId": "2357691866010497024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie zabijaj go, jeśli nie będziesz musiała. I uważaj na siebie.",
+              "maleVariant": "Nie zabijaj go, jeśli nie będziesz musiał. I uważaj na siebie.",
+              "stringId": "2357692621035548672"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй, всем привет, рада снова вас видеть. Скажите, вы знали, что авианосец «Арасаки» стоит в порту Найт-Сити? Это «Кудзира», что значит «кит».",
+              "maleVariant": "",
+              "stringId": "1669211932228231168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Видимо, «Арасака» решила, что в японских водах ему опасно. Того и гляди местные китобои… загарпунили бы — в научных целях.",
+              "maleVariant": "",
+              "stringId": "1670578045695873024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так или иначе, думаю пиарщики «Арасаки» переживали, что авианосец будет стоять у нас и вызывать печальные ассоциации с Пёрл-Харбором. Я сказала «переживали»? Конечно нет, «смеялись от души».",
+              "maleVariant": "",
+              "stringId": "1670579827788533760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Неплохая демонстрация силы. Интересно, чем ответит «Милитех». Может быть, Майерс пролетит над штаб-квартирой «Арасаки» на ржавом ведре Б-17?",
+              "maleVariant": "",
+              "stringId": "1670580479935696896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О, кажется, это немного некорректно. Простите, где мои манеры? ПРЕЗИДЕНТ Майерс, я хотела сказать, конечно же. Примите моё почтение.",
+              "maleVariant": "",
+              "stringId": "1670582785242615808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И кстати…",
+              "maleVariant": "",
+              "stringId": "1670583295102210048"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

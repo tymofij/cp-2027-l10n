@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie mogę uwierzyć, że gnijemy na tym zadupiu.",
+              "maleVariant": "",
+              "stringId": "1650635782160347136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A co, wolałbyś przydział w strefie działań wojennych?",
+              "maleVariant": "",
+              "stringId": "1650638960050270208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może...? Na lepszym kontrakcie czas szybciej płynie.",
+              "maleVariant": "",
+              "stringId": "1934203350185484288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chuja wiesz. Dwa tygodnie na kontrakcie w Meksyku i jedyne, co by ci płynęło, to szczyny po nogach.",
+              "maleVariant": "",
+              "stringId": "1934208430628478976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A to tutaj? Wakacje. Ciesz się nimi.",
+              "maleVariant": "",
+              "stringId": "1934212375019069440"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

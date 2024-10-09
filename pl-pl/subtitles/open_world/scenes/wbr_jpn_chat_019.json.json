@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To, co ci zrobili... To nie jest w porządku. Nie można tego tak zostawić.",
+              "maleVariant": "",
+              "stringId": "2160321036534456320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Można. Jestem nikim. I nikogo nie obchodzę.",
+              "maleVariant": "",
+              "stringId": "2169418993813999616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nieprawda. Idź do Moxów i opowiedz dziewczynom, co się stało. Pomogą ci, zobaczysz.",
+              "maleVariant": "",
+              "stringId": "2169420308879298560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niby czemu? Bo się wzruszą?",
+              "maleVariant": "",
+              "stringId": "2169420991779098624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bo dziwki też mają swoją godność. I trzeba jej bronić.",
+              "maleVariant": "",
+              "stringId": "2169421595372998656"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мамка сказала, чтоб я домой не возвращался.",
+              "maleVariant": "",
+              "stringId": "2179592311370539008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бля. Можешь переночевать у меня, если хочешь.",
+              "maleVariant": "",
+              "stringId": "2211158006390546432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Она до сих пор надеется, что тебя возьмут в корпорацию?",
+              "maleVariant": "",
+              "stringId": "2211158112875536384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Из-за чего в этот раз?",
+              "maleVariant": "",
+              "stringId": "2217117730525110272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да узнала, что я хочу связаться с «Вудуистами».",
+              "maleVariant": "",
+              "stringId": "2217118067612934144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да нет. Она говорит, мне надо идти к «Валентино», потому что в «Вудуисты» таких тупых не берут.",
+              "maleVariant": "",
+              "stringId": "2217119557547155456"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

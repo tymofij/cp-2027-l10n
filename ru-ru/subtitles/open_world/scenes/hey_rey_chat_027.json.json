@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"¡¿Cuánto?! ¡¿Y solo por el servicio?!\" t=\"Сколько-сколько? И это просто за похороны?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2161949383944597504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Найдём где-нибудь",
+              "maleVariant": "",
+              "stringId": "2227641977713037312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Pero dijiste… Nuestro… ¿Le dijiste que estamos en la misma torre?\" t=\"Ты же говорил, что он… Что наш… Ты сказал ему, что мы из одной башни?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2227642471483281408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да. Дело не в деньгах. Они просто не хотят нам помогать.",
+              "maleVariant": "",
+              "stringId": "2227643581883322368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Mi hijo no es un soplón.\" t=\"Наш мальчик ни на кого не доносил.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2227644578584170496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знаю. Но они думают по-другому.",
+              "maleVariant": "",
+              "stringId": "2227645677290491904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

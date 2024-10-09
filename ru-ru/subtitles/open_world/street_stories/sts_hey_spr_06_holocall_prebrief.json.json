@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В Найт-Сити тоже существует равновесие. Без него мы бы тут давно все перегрызлись — корпораты, банды, наёмники, все.",
+              "maleVariant": "",
+              "stringId": "2334576991216058368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Фиксеры как раз нужны, чтобы его обеспечивать. Когда одна сторона становится слишком сильной, мы незаметно помогаем другой.",
+              "maleVariant": "",
+              "stringId": "2334577127312834560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Получается, благодаря равновесию у нас всегда есть работа. Хотя я что-то заболталась.",
+              "maleVariant": "",
+              "stringId": "2334577258309337088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это к тому, что пора слегка вмешаться. Посмотри моё письмо.",
+              "maleVariant": "",
+              "stringId": "2334577449989029888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

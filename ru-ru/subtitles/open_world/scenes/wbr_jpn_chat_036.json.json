@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А вы не пробовали вызвать специалиста?",
+              "maleVariant": "",
+              "stringId": "2196683183746293760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Экзорциста, что ли?",
+              "maleVariant": "",
+              "stringId": "2196683934845476864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нет, электрика. Возможно, дело в перепадах напряжения.",
+              "maleVariant": "",
+              "stringId": "2196684091225907200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Перепады напряжения не пытаются вас убить!",
+              "maleVariant": "",
+              "stringId": "2196686495887499264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я не шучу! В моей технике завелись демоны!",
+              "maleVariant": "",
+              "stringId": "2212815768977252352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лампочки всё время мигают, телевизор сам каналы переключает, а уж термостат… Про термостат я вообще молчу!",
+              "maleVariant": "",
+              "stringId": "2212817761456201728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну хорошо… В таком случае попробуем благовония. Окуривайте ими все электрические приборы три раза в день.",
+              "maleVariant": "",
+              "stringId": "2212843992364982272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И термостат тоже?",
+              "maleVariant": "",
+              "stringId": "2212847225972039680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А термостат пять раз.",
+              "maleVariant": "",
+              "stringId": "2212847303013015552"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Looking for something nice.",
+              "maleVariant": "",
+              "stringId": "1914297443719860224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Since when are gangers selling clothes?",
+              "maleVariant": "",
+              "stringId": "1914297443719860240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got any nice threads for me?",
+              "maleVariant": "",
+              "stringId": "1914297443753414656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If you thrift falls into your definition of \"nice,\" then sure.",
+              "maleVariant": "",
+              "stringId": "1914297443753414664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Isn't that Tyger Claw ink? Since when do gangers sell threads?",
+              "maleVariant": "",
+              "stringId": "1914297443770191876"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Since one of their bosses decided that they don't need chooms with fucked up spines.",
+              "maleVariant": "",
+              "stringId": "1914297443770191884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wanna change my look.",
+              "maleVariant": "",
+              "stringId": "3775204349752242176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Need to change up my style.",
+              "maleVariant": "I need to change my style.",
+              "stringId": "3836253223455158296"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

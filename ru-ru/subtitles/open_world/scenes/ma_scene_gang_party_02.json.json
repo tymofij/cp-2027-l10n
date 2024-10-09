@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ха-ха! Вот теперь вштырило! Ух долбанись, хорошо пошло! Ха-ха-ха!",
+              "maleVariant": "",
+              "stringId": "2007003522984443904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это наш город! А пижоны всякие пусть мордой в пол сдохнут!",
+              "maleVariant": "",
+              "stringId": "2007003768552554496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Цепь всякому вору! Хер всякой шлюхе! Пуля всякой крысе! Ха-ха!",
+              "maleVariant": "",
+              "stringId": "2007003849385181184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чё скисли, неудачники? Чего рожи такие?! Ссытесь? Правильно!",
+              "maleVariant": "",
+              "stringId": "2007003943538917376"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

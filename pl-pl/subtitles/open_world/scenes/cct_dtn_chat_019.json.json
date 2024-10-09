@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No było super. Dopóki, nie zgarnęła go policja.",
+              "maleVariant": "",
+              "stringId": "2172185211490250752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Normalnie. Siedzieliśmy sobie w restauracji, jemy, nagle wparowali, skuli go i zabrali.",
+              "maleVariant": "",
+              "stringId": "2188315842730889216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A ja wiem? To była pierwsza randka i zazwyczaj na pierwszych randkach nie pytam: \"hej, a czy jesteś poszukiwany przez policję?\"",
+              "maleVariant": "",
+              "stringId": "2188315875865890816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak, Martha. Może powinnam zacząć.",
+              "maleVariant": "",
+              "stringId": "2188315943796838400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha. Cieszę się, że cię to bawi.",
+              "maleVariant": "",
+              "stringId": "2188350119354929152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pewnie, że jeszcze do niego zadzwonię. Musiałam zapłacić za jego obiad. Wisi mi kasę.",
+              "maleVariant": "",
+              "stringId": "2188350317762285568"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

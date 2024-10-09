@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masakra, mówię ci. Jak jesteśmy w trasie, to nie łapie zasięgu, nawet nie wiem, czy mnie ktoś przesunął w prawo.",
+              "maleVariant": "",
+              "stringId": "2276543156202938384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może spróbuj z kimś od nas? Reggie tak jakoś miło na ciebie patrzy. Tak... nie jak morderca.",
+              "maleVariant": "",
+              "stringId": "2276543156219715584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mój pies wabił się Reggie. Uciekł. Historia lubi się powtarzać, więc wiesz...",
+              "maleVariant": "",
+              "stringId": "2276543156219715596"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дуже добре, Ві. Не знаю, що там Педро собі думає, а для мене ти вже героїня.",
+              "maleVariant": "Дуже добре, Ві. Не знаю, що там Педро собі думає, а для мене ти вже герой.",
+              "stringId": "2328798711231827972"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Щоб ти всралася, Ві, ти чим думала?! Контракт, клієнт, гроші — все це тупо внівець просране! І я вже навіть про машину мовчу! Просто… р-р-р-р!",
+              "maleVariant": "",
+              "stringId": "2328798711265382404"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так-так-так, то ти в нас справжня межовиця, еге? Просто божевілля! Так наїбати корпарів! Ха-ха, просто обожнюю таке!",
+              "maleVariant": "Так-так-так, то ти в нас справжній межовик, еге? Просто божевілля! Так наїбати корпарів! Ха-ха, просто обожнюю таке!",
+              "stringId": "2328804771380350980"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "От бачиш, Ві? Варто підходити до гри з розумом і ніколи не програєш. Закриваю контракт.",
+              "maleVariant": "",
+              "stringId": "2341962679290531840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, повернімося до справи. Педро щасливий, значить, усе в шоколаді. Євдики вже летять. Замовлення закрито.",
+              "maleVariant": "",
+              "stringId": "2342004181542735872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

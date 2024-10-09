@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу дещо придбати.",
+              "maleVariant": "",
+              "stringId": "1828465360056528896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Маєш якийсь \"особливий\" товар?",
+              "maleVariant": "",
+              "stringId": "1828465360056528912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Заклад відкритий?",
+              "maleVariant": "",
+              "stringId": "1828465360090083332"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу. Шукаєш щось конкретне?",
+              "maleVariant": "",
+              "stringId": "1828465360090083340"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Є якісь особливі пропозиції? Може щось сховане під прилавком на чорний день?",
+              "maleVariant": "",
+              "stringId": "1828465360123637764"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дай поміркувати. Більшість людей в НС під прилавком ховають зброю. Не кажу, що я так само, але ти мене розумієш, я відчуваю. Тож ніяких жартиків, угусь?",
+              "maleVariant": "",
+              "stringId": "1828465360157192196"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

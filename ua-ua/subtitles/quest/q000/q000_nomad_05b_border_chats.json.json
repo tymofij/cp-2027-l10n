@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ці дрібні пиздюки думають, що Найт-Сіті — це якийсь рай.",
+              "maleVariant": "",
+              "stringId": "1826840345187471360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А що зробиш? Молоді та наївні — лише евфемізм їхньої тупості.",
+              "maleVariant": "",
+              "stringId": "1826845102048301056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Руки за голову! На землю, обличчям донизу! Я повторювати не буду!",
+              "maleVariant": "",
+              "stringId": "1885222865276522496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та що я таке зробив?!.",
+              "maleVariant": "",
+              "stringId": "1885223767538421760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не чіпайте його!",
+              "maleVariant": "",
+              "stringId": "1885223825117827072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На землю! Я тут віддаю наказ!",
+              "maleVariant": "",
+              "stringId": "1885224014482264064"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

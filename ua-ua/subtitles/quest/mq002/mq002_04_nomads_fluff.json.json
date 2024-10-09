@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Агов, Ві! Щиро дякую за допомогу. Я це ціню!",
+              "maleVariant": "",
+              "stringId": "1905554978530811904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нема за що.",
+              "maleVariant": "",
+              "stringId": "1905559785907838980"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Така вже моя робота. Рятувати чиїсь сраки.",
+              "maleVariant": "",
+              "stringId": "1905560205036249088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та проходила поблизу, вирішала допомогти. Нічого такого.",
+              "maleVariant": "Та проходив поблизу, вирішив допомогти. Нічого такого.",
+              "stringId": "1905560663339458560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ох, ще яке особливе. Добре, бувай здорова.",
+              "maleVariant": "Ох, ще яке особливе. Добре, бувай здоровий.",
+              "stringId": "1905561254249783296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що тут сказати. Робота в мене така. Рятувати чиїсь сраки.",
+              "maleVariant": "",
+              "stringId": "1905561938391097344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це помітно. Добре, бувай здорова.",
+              "maleVariant": "Це помітно. Добре, бувай здоровий.",
+              "stringId": "1905561938391097352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нема за що.",
+              "maleVariant": "",
+              "stringId": "1905563002536353792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Така вже моя робота. Рятувати чиїсь сраки.",
+              "maleVariant": "",
+              "stringId": "1905563002553131020"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

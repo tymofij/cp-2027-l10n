@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Коли буде наступний удар?",
+              "maleVariant": "",
+              "stringId": "1832672751780487168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Важко сказати. Він після того посилив охорону.",
+              "maleVariant": "",
+              "stringId": "1832675900058624000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зачиняє нас у кімнаті без телефонів і без Мережі. Лише аж тоді отримуємо деталі.",
+              "maleVariant": "",
+              "stringId": "1832676068636090368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Потім він тримає нас там певний час, іноді навіть і цілу ніч. Звідти й працюємо.",
+              "maleVariant": "",
+              "stringId": "1832676235602944000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну зрозуміло.",
+              "maleVariant": "",
+              "stringId": "1832676545629118464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. То як, мені його прибрати?",
+              "maleVariant": "",
+              "stringId": "1832676695432880128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поки що ні.",
+              "maleVariant": "",
+              "stringId": "1832676858104766464"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

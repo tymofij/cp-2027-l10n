@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А-ай, боляче… шипи в мо-мо-моїй голові… Це все ти, Джульєтто… Твоя-я отрута… А-ах…",
+              "maleVariant": "",
+              "stringId": "1616858748448907264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джульєтто, за що?! Чому ти це робиш?!",
+              "maleVariant": "",
+              "stringId": "1616859352881668096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Казали… друзі мої, що ти не зможеш мене тут тримати… Треба… вже треба йти. А парад… уже почався?",
+              "maleVariant": "",
+              "stringId": "1616859828700291072"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

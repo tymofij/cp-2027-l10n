@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"mano\" b=\"Because we're not running a fucking charity, \" a=\"!\"/>",
+              "maleVariant": "",
+              "stringId": "1537267379824193536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"idiota\" b=\"Maybe that'll teach that \" a=\" to pay his debts on time. And if it doesn't, then he won't be runnin' away that easy.\"/>",
+              "maleVariant": "",
+              "stringId": "1538589567070081024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Less panic, more cut. Achilles tendon is the big one, above the heel.",
+              "maleVariant": "",
+              "stringId": "1669105726039576576"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

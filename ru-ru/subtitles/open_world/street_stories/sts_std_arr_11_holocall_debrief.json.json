@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как всегда отлично, Ви! Я буду удивлён, если хоть кто-нибудь из «шестых» ещё сунет своё еблище на мою территорию.",
+              "maleVariant": "",
+              "stringId": "2328827457029398528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Судя по всему, «шестые» усвоили урок. В отличие от нашего счастливчика Люциуса Торана.",
+              "maleVariant": "",
+              "stringId": "2328841105059733504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хотя мне-то особо не на что жаловаться. Работа выполнена, вопрос решён. Просто в следующий раз немного поднапрягись, окей?",
+              "maleVariant": "",
+              "stringId": "2341892900517154816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И с Люциусом Тораном отлично вышло! Я очень доволен! Заказ за-а-акрывается!",
+              "maleVariant": "",
+              "stringId": "2341896652724736000"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Możemy przestać mówić o pracy?",
+              "maleVariant": "",
+              "stringId": "2157366995591655424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mieliśmy iść się najebać i zapomnieć, nie?",
+              "maleVariant": "",
+              "stringId": "2222857333426962432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"rus\" o=\"А о чём ещё говорить? О красивых бабах?\" t=\"Ale to o czym chcesz gadać? O dupach?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2222858026695081984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, może być! O czymkolwiek.",
+              "maleVariant": "",
+              "stringId": "2222858362944045056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"rus\" o=\"Помнишь новенькую из контроля качества?\" t=\"A kojarzysz tę nową z kontroli jakości?\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2222858944375242752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ta taka blondynka z Kiroshi, co siedzi pod oknem?",
+              "maleVariant": "",
+              "stringId": "2222859432072134656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"rus\" o=\"Ага. Мало того что красивая, ещё и умная. Это она открыла ИБ-209-с.\" t=\"Tak. Ładna i niegłupia. To ona wykryła YB-209-c.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2222859949649248256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, kojarzę. Od razu to zaadresowali, nie?",
+              "maleVariant": "",
+              "stringId": "2222860512189300736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"rus\" o=\"Да, жесть, конечно. Хорошо, что мы знали, что делать.\" t=\"Tak, gruba sprawa. Dobrze, że mieliśmy na to strategię.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2222860989215883264"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

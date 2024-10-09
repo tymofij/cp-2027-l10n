@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jednak nie ma to, jak splot skórny. Sieci polimerowej tak łatwo nie przepali.",
+              "maleVariant": "",
+              "stringId": "1973564971903131648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja tam nie ufam kwasomierzom. Mało to ludzi wymieniało sobie twarze, gdy ich mżaweczka poparzyła?",
+              "maleVariant": "",
+              "stringId": "1974873251703930880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Karoseria przestała mi matowieć. No i skala fenolografu nie wywala w kosmos.",
+              "maleVariant": "",
+              "stringId": "1974873264437837824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Coś tam chyba niedawno pokapywało. Skąd wiesz, że nie na kwaśno?",
+              "maleVariant": "",
+              "stringId": "1974873283362537472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jakoś dawno nie było kwaśnych deszczy.",
+              "maleVariant": "",
+              "stringId": "1974873295710568448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

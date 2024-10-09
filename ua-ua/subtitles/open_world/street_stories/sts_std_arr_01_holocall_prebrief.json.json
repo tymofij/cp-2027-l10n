@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, в мене для тебе завдання: у мого клієнта поцупили достобіса бета-кислоти.",
+              "maleVariant": "",
+              "stringId": "2328588232751656960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що таке бета-кислота? Я в душі не їбу. Але штука це дорога, і клієнт хоче повернути її назад.",
+              "maleVariant": "",
+              "stringId": "2334622692453105664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ось тут ти нам і потрібна. Усю інфу скидаю.",
+              "maleVariant": "Ось тут ти нам і потрібен. Усю інфу скидаю.",
+              "stringId": "2334622821587337216"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

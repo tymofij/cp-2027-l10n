@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У мене зустріч із пані Кох.",
+              "maleVariant": "",
+              "stringId": "1408088290545135616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вітаю, у мене запланована зустріч із пані Кох.",
+              "maleVariant": "",
+              "stringId": "1408091328093646848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Добре. Хвилиночку, я подивлюся…",
+              "maleVariant": "",
+              "stringId": "1408092557276377088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хочу зняти номер.",
+              "maleVariant": "",
+              "stringId": "1419935019515015168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вітаю. Чим я можу допомогти?",
+              "maleVariant": "",
+              "stringId": "1935891931595067392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я хотів би зняти номер на ніч. Одномісний підійде.",
+              "maleVariant": "",
+              "stringId": "1935892937053622272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це точно.",
+              "maleVariant": "",
+              "stringId": "1935899340698865664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "На превеликий жаль, це неможливо. Це корпоративний готель, доступний тільки для працівників «Біотехніки».",
+              "maleVariant": "",
+              "stringId": "1935899944544423936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ех, шкода, звісно. У вас тут файно.",
+              "maleVariant": "",
+              "stringId": "1946250435674607616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Боюся, що ні. Певно, сталася якась помилка.",
+              "maleVariant": "",
+              "stringId": "2523106879086055424"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

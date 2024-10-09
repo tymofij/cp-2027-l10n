@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можу точно сказати, що я зараз не хотів би бути на місці Фіґґза.",
+              "maleVariant": "",
+              "stringId": "1915773186514120704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А чому? Його ж тут навіть не було, коли тіпок утік.",
+              "maleVariant": "",
+              "stringId": "1915775212279066624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тим гірше для Фіґґза. Начальник зміни повинен керувати зміною, а не їздити та шукати кого б то виїбати.",
+              "maleVariant": "",
+              "stringId": "1915775580253745152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну бля, братане… Мені подобається зі своєю на плечах.",
+              "maleVariant": "",
+              "stringId": "1915778470951284736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Просто подумай. Кого звинуватить «Мілітех»? Можливо, звалити все на Джоша буде недостатньо. Чия голова покотиться наступною?",
+              "maleVariant": "",
+              "stringId": "1915778814565445632"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

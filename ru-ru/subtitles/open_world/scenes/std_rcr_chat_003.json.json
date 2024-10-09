@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слыхала? Говорят, опять зарплату урежут.",
+              "maleVariant": "",
+              "stringId": "1963292230738288640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тоже мне, новости. Меньше работаешь — меньше получаешь.",
+              "maleVariant": "",
+              "stringId": "1969200411050754048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Радуйся, что не увольняют. Я бы на их месте стариков вроде нас давно бы выкинула.",
+              "maleVariant": "",
+              "stringId": "1969200816488955904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да, надо было взять кредит на хорошую мускульную сетку, пока могли.",
+              "maleVariant": "",
+              "stringId": "1969201035414847488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "С таким хромом можно до семидесяти батрачить запросто.",
+              "maleVariant": "",
+              "stringId": "1969201293213548544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мечты, мечты.",
+              "maleVariant": "",
+              "stringId": "1969201485446889472"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

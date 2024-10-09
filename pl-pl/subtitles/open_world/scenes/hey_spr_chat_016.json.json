@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Obrzydliwe.",
+              "maleVariant": "",
+              "stringId": "2162091767526830080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z drugiej strony to tylko braindance.",
+              "maleVariant": "",
+              "stringId": "2213001106531127296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"rus\" o=\"Не-не-не, такое отправлять нельзя, если ты на что-то надеешься.\" t=\"Nie no, nie daje się takich rzeczy.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2213001140806979584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Skąd się biorą ci wszyscy stulejarze, co?",
+              "maleVariant": "",
+              "stringId": "2218546127363739648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty akurat, nie masz co narzekać... Chcecie obejrzeć ten braindance?",
+              "maleVariant": "",
+              "stringId": "2218546822057922560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bleee... przestań, bo się zrzygam.",
+              "maleVariant": "",
+              "stringId": "2218547078430560256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"rus\" o=\"А я вот посмотрю. Оргазм он и есть оргазм.\" t=\"A ja z chęcią zobaczę. No co? Orgazm to orgazm.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "2218547294806315008"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

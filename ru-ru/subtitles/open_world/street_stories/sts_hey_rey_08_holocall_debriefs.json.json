@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Благодаря твоему мудрому решению я лично помогу Карубо покинуть этот бренный мир.",
+              "maleVariant": "",
+              "stringId": "2328880621795532800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«И узнают, что Я Господь, когда совершу над ними Моё мщение»… Карубо Байрэй познал мщение Господне от руки покорной рабы Его, Ви.",
+              "maleVariant": "«И узнают, что Я Господь, когда совершу над ними Мое мщение»… Карубо Байрэй познал мщение Господне от руки покорного раба Его, Ви.",
+              "stringId": "2328880709892694016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прекрасная работа. Заказ выполнен.",
+              "maleVariant": "",
+              "stringId": "2334534867720323072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Признаюсь, это очень приятный сюрприз. Я закрываю заказ. Храни тебя Господь, Ви.",
+              "maleVariant": "",
+              "stringId": "2334543254516383744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я уже вижу Карубо в геенне огненной, слышу его отчаянные крики и чую запах горящей плоти.",
+              "maleVariant": "",
+              "stringId": "2334546400479264768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Иными словами, сердце моё исполнено радости. Заказ закрыт. Ступай с Богом.",
+              "maleVariant": "",
+              "stringId": "2334546597326340096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

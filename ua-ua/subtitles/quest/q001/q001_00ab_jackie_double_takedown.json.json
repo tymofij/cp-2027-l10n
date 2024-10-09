@@ -1,0 +1,91 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Suerte.\" b=\"Розберімося з ними… \" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1648899482391134208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усіх вирубили. Слабаки, але, гадаю, це ще не всі.",
+              "maleVariant": "",
+              "stringId": "1648900897196982272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, ходу. Я за тобою, Ві.",
+              "maleVariant": "",
+              "stringId": "1650248884879867904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бачу камери. До вас прямує охуїти який великий «Бляхар».",
+              "maleVariant": "",
+              "stringId": "1653293938393464832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Цікавий опис, Баґ… Ми можемо його обійти?",
+              "maleVariant": "",
+              "stringId": "1653300901877628928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шукаю по камерах…",
+              "maleVariant": "",
+              "stringId": "1653305167031812096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Guau, mami\" b=\"\" a=\", не думав, що ми можемо бути такі тихі.\"/>",
+              "maleVariant": "<mothertongue l=\"mex\" m=\"Guau, ese\" b=\"\" a=\", не думав, що ми можемо бути такі тихі.\"/>",
+              "stringId": "1658891655119355904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не мій стиль звичайно, але… йой, най буде.",
+              "maleVariant": "",
+              "stringId": "1658893941585461248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Захарив! Акуратніше, їбаний інвалід!",
+              "maleVariant": "",
+              "stringId": "1658907130993819648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"Cabrones\" b=\"\" a=\"… їх тут до холєри. Краще перечекати.\"/>",
+              "maleVariant": "",
+              "stringId": "1658930078953750528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бачу тріщину в стіні в наступній кімнаті. Вона досить велика, пролізете.",
+              "maleVariant": "",
+              "stringId": "1666472728920518656"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

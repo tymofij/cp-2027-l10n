@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słyszałem, że jesteś dezerterem. Jeżeli mam się z tobą zadawać to wolę wiedzieć, czy to prawda.",
+              "maleVariant": "",
+              "stringId": "2167645459363680256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bo ja jestem patriotą.",
+              "maleVariant": "",
+              "stringId": "2198149165436592128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uciekłem z bazy, to prawda. Ale zrobiłem to z patriotycznych pobudek!",
+              "maleVariant": "",
+              "stringId": "2198154151356751872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To się, kurwa, jedno z drugim nie kompiluje.",
+              "maleVariant": "",
+              "stringId": "2198157997348970496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mój kumpel z dzielni brał udział w antykorporacyjnych demonstracjach, więc kazali mi go zastrzelić.",
+              "maleVariant": "",
+              "stringId": "2198160720391790592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I jeszcze pojechać do rodziny z kondolencjami, opowiedzieć, jak zginął bohatersko w walce z wrogiem.",
+              "maleVariant": "",
+              "stringId": "2198169935344787456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przynajmniej zrobili z niego bohatera.",
+              "maleVariant": "",
+              "stringId": "2198171092100276224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Napisałem w raporcie, co o tym myślę, to mnie zdegradowali i zabrali mi wszystkie wszczepy.",
+              "maleVariant": "",
+              "stringId": "2198193094479536128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No to spierdoliłem.",
+              "maleVariant": "",
+              "stringId": "2198195865807183872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

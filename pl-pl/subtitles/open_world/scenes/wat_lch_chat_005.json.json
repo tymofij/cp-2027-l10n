@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mój brat jest najemnikiem korporacji! On wam pokaże!",
+              "maleVariant": "",
+              "stringId": "1802410327454375936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Najemnikiem kibli, he, he, he.",
+              "maleVariant": "",
+              "stringId": "1802410737304985600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie mów tak!",
+              "maleVariant": "",
+              "stringId": "1802411103165734912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Twój brat sprząta kible w Kiroschi.",
+              "maleVariant": "",
+              "stringId": "1802411320933998592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nieprawda! Wykonuje dla nich niebezpieczne misje!",
+              "maleVariant": "",
+              "stringId": "1802411546335895552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ta! Walczy z gównem! He, he, he!",
+              "maleVariant": "",
+              "stringId": "1802411749776416768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kłamiesz!",
+              "maleVariant": "",
+              "stringId": "1802411932631293952"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

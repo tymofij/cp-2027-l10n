@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми повертаємося до найгучнішої історії цього тижня — вбивства Сабуро Арасаки, генерального директора корпорації «Арасака».",
+              "maleVariant": "",
+              "stringId": "1743065729017892864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Доповідають, що очільника японської мегакорпорації, який так довго займав цю посаду, вбили в приміщенні готелю «Компекі Плаза», де відбувалася родинна зустріч.",
+              "maleVariant": "",
+              "stringId": "1743067415698526208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Син Сабуро Арасаки, Йорінобу Арасака, звинувачує у вбивстві батька конкурентів. Хоча доказів для таких заяв він не надав.",
+              "maleVariant": "",
+              "stringId": "1743068079254196224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Згідно зі словами ринкових аналітиків смерть генерального директора може бути відчайдушною спробою відвернути увагу від поточних внутрішніх проблем компанії.",
+              "maleVariant": "",
+              "stringId": "1743068428371283968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Після перерви ми розпитаємо експертів як вони бачать вихід «Арасаки» з кризи.",
+              "maleVariant": "",
+              "stringId": "1743068898670202880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

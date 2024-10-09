@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мені подобається твій стиль. Мабуть, придбаю щось.",
+              "maleVariant": "",
+              "stringId": "1740348629291868164"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тобі варто скинути трохи ваги.",
+              "maleVariant": "",
+              "stringId": "1740348757520130048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гарний в тебе стиль. Мабуть, придбаю щось.",
+              "maleVariant": "",
+              "stringId": "1740370914904088576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що означає \"мабуть\"?! Солоденька, Не \"мабуть\", а вдягни що-небудь і сяй!",
+              "maleVariant": "Що значить \"мабуть\"?! Солоденький, Не \"мабуть\", а вдягни що-небудь і сяй!",
+              "stringId": "1740371606846808064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Штани б виглядали на тобі значно краще, скинь ти трохи ваги.",
+              "maleVariant": "",
+              "stringId": "1740371878822256640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ось тут ти помиляєшся, дівчинко. Чим пухкіше в тебе тіло, тим більшою кількістю гарного одягу ти можеш його прикрасити.",
+              "maleVariant": "Ось тут ти помиляєшся, хлопчику. Чим пухкіше в тебе тіло, тим більшою кількістю гарного одягу ти можеш його прикрасити.",
+              "stringId": "1740373423802523648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу переодягнутися.",
+              "maleVariant": "",
+              "stringId": "3775234946210066432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу змінити стиль.",
+              "maleVariant": "",
+              "stringId": "3836287888589189132"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

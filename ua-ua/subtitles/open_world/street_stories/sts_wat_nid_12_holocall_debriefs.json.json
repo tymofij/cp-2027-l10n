@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дякую, за допомогу! Рада, що тобі вдалося достукатися до цього впертюха. Схоже, що тепер моя черга вести бесіду. Контракт закрито.",
+              "maleVariant": "",
+              "stringId": "2328844518450548740"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як ти здогадуєшся, я знаю, що Макс у безпеці, але… у нього такий вигляд, що підозрюю виникнення проблем під час виконання завдання. Ох… треба було цього очікувати.",
+              "maleVariant": "",
+              "stringId": "2328846984466419716"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знаю про Макса. Знаю, що там сталося. Все хотіла підібрати слова, бо вони завдають болю найбільше.",
+              "maleVariant": "",
+              "stringId": "2328846996646678532"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але знаєш… ти не варта й того. Треба було здогадатися, що такій найманці, як ти, не треба доручати таке завдання.",
+              "maleVariant": "Але знаєш… ти не вартий і того. Треба було здогадатися, що такому найманцю, як ти, не треба доручати таке завдання.",
+              "stringId": "2340211071368138752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Контракт закрито.",
+              "maleVariant": "",
+              "stringId": "2340215455674109952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знаю про Макса — ти лишила його там. Можна ж було допомогти, але… ти його сполохала. Він тепер переховається деінде.",
+              "maleVariant": "Я знаю про Макса — ти лишив його там. Можна ж було допомогти, але… ти його сполохав. Він тепер переховається деінде.",
+              "stringId": "2372273193342046208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І корпарі вистежать його раніше за мене. Гадаю, ти розумієш, що це означає…",
+              "maleVariant": "",
+              "stringId": "2372274231163850752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я думала, що подібні тобі відповідально підходять до такого делікатного завдання.",
+              "maleVariant": "Я думала, що такий, як ти, відповідально підійде до такого делікатного завдання.",
+              "stringId": "2372294884067741696"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

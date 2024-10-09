@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, такі вумні, шо смітник знайти не годні. Навіть зі своїми «Кіроші».",
+              "maleVariant": "",
+              "stringId": "2172018080575250432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну й шо ти зробиш? Просто ходи й далі збирай після них.",
+              "maleVariant": "",
+              "stringId": "2189967723140059136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А якшо ти на нього не так глянеш, то воно, блядь, піде й поскаржиться на тебе.",
+              "maleVariant": "",
+              "stringId": "2191283321719590912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І тебе виженуть",
+              "maleVariant": "",
+              "stringId": "2191283445719994368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "І тебе виженуть.",
+              "maleVariant": "",
+              "stringId": "2191283535914307584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шоб вони всі показилися, блядь…",
+              "maleVariant": "",
+              "stringId": "2191283746099269632"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

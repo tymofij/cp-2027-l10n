@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Mwen pap mande li anyen ankò.\" t=\"Больше я его ни о чём не попрошу.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1959255275444391936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Mwen te kwè se te yonn renmen lòt.\" t=\"А я думал, вы друг другу нравитесь.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1964698558920413184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Se sa menm. Mwen pa vle kraze sa a.\" t=\"Именно. И я не хочу всё испортить.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1964699379527602176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Si mesye di non, li pral santi li wont, si mesye di wi se mwen kap santi m dròl.\" t=\"Если он скажет нет, ему будет стыдно, а если он скажет да, мне будет неловко.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1964700019477729280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Wa p ekzajere. An jeneral, Jean-ki-ri… Renmen tout moun.\" t=\"Ты себя накручиваешь. Жан-ки-ри… он всех любит.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1964700768395874304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"creo\" o=\"Se konsa sa ye? E ben ou pral pale ak mesye.\" t=\"Да? Тогда иди и сам с ним поговори.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1964701993552072704"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

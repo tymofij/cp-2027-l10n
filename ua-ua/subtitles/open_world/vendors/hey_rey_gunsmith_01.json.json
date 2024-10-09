@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу зброю придбати.",
+              "maleVariant": "",
+              "stringId": "1865957969070800896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що нового?",
+              "maleVariant": "",
+              "stringId": "1865957969070800912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаю придбати якийсь ствол.",
+              "maleVariant": "",
+              "stringId": "1865957969137909760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Розумно. Без неї в Найт-Сіті нічого не досягнеш.",
+              "maleVariant": "",
+              "stringId": "1865957969137909768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що тут нового?",
+              "maleVariant": "",
+              "stringId": "1865957969171464196"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Що я можу сказати. Напруженість постійно зростає. Піджакам з Корпоративної Площі не подобається дивитись зі своїх вікон на нас, простий трудящий народ.",
+              "maleVariant": "",
+              "stringId": "1865957969171464204"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Щось станеться. Я відчуваю. Одна іскра і вся Віста запалає. А наступного ранку вони наймуть нас будувати нові офіси на згарищах наших же будинків.",
+              "maleVariant": "",
+              "stringId": "1973405624771596288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

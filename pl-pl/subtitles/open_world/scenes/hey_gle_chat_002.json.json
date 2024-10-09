@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A kim zostaniesz, kiedy będziesz duża?",
+              "maleVariant": "",
+              "stringId": "1807017843261825024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Medykiem bojowym! Jak ci państwo z telewizji!",
+              "maleVariant": "",
+              "stringId": "1807023236482457600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To ładnie z twojej strony. Będziesz ratowała ludzi?",
+              "maleVariant": "",
+              "stringId": "1807023407274516480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aha! I będę strzelała do cyberpsycholi. Tak mówili w ulubionym programie taty. Że do nich strzelają.",
+              "maleVariant": "",
+              "stringId": "1807023619338526720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale ich nie będę leczyła. Bez sensu najpierw do kogoś strzelać, a potem go ratować.",
+              "maleVariant": "",
+              "stringId": "1807023792345178112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To musisz się dużo uczyć i dużo ćwiczyć, żeby dostać się do Trauma Team. Tam trafiają tylko najlepsi.",
+              "maleVariant": "",
+              "stringId": "1807023990265995264"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

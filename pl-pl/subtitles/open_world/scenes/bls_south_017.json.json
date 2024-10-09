@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nigdy nie zrozumiem czemu ci debile tak się tutaj pchają.",
+              "maleVariant": "",
+              "stringId": "2178285980640337920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Night City nie jest takie złe.",
+              "maleVariant": "",
+              "stringId": "2182456240052592640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To gówno.",
+              "maleVariant": "",
+              "stringId": "2182457442727321600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co cię dzisiaj ugryzło?",
+              "maleVariant": "",
+              "stringId": "2182457546746060800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mój wujek się powiesił. Myślał, że ma cyberpsychozę. Bał się, że mu odjebie i skrzywdzi kogoś niewinnego.",
+              "maleVariant": "",
+              "stringId": "2182457743878348800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O kuwa. No ale... w sumie, to słusznie postąpił. No wiesz... Szlachetnie.",
+              "maleVariant": "",
+              "stringId": "2182459290519560192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie wiem... On nawet nie miał żadnych wszczepów.",
+              "maleVariant": "",
+              "stringId": "2182459754761904128"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

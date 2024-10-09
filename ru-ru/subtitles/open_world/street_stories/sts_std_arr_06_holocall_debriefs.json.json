@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Должна признать, Ви, я под впечатлением.",
+              "maleVariant": "",
+              "stringId": "2328624723381006336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я так понимаю, в конце атмосфера немного накалилась.",
+              "maleVariant": "",
+              "stringId": "2328625024095825920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Учитывая, как ты рисковала в конце, я уже думала, что всё накроется медным тазом. А гляди ж ты: заказчик жив, и ты тоже.",
+              "maleVariant": "Учитывая, как ты рисковал в конце, я уже думала, что всё накроется медным тазом. А гляди ж ты: заказчик жив, и ты тоже.",
+              "stringId": "2334651689186607104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я отправлю Карла туда, где его не найдут. Думаю, он с радостью подпишет ещё пару счетов. Спасибо за работу.",
+              "maleVariant": "",
+              "stringId": "2334651723596677120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну ничего, с каждым может случиться. Будущее не предскажешь. Будем считать, что заказ выполнен.",
+              "maleVariant": "",
+              "stringId": "2334652900166057984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

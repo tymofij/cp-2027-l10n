@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A widziałeś wczoraj meczyk?",
+              "maleVariant": "",
+              "stringId": "1963247011426770944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie. Kto grał?",
+              "maleVariant": "",
+              "stringId": "1967803834118230016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No jak, kto. Nasze patałachy. Znowu przegrali. I to dwudziestoma punktami! Kurwa!",
+              "maleVariant": "",
+              "stringId": "1967805494810955776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gdybym ja miał takie wszczepy, co oni, to bym im pokazał, jak się gra w kosza.",
+              "maleVariant": "",
+              "stringId": "1967806006314717184"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу купить оружие.",
+              "maleVariant": "",
+              "stringId": "1828465168108400640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как бизнес?",
+              "maleVariant": "",
+              "stringId": "1828465168108400656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ищу какое оружие прикупить.",
+              "maleVariant": "",
+              "stringId": "1828465168125177860"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можешь больше не искать, у меня есть всё.",
+              "maleVariant": "",
+              "stringId": "1828465168141955072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как бизнес?",
+              "maleVariant": "",
+              "stringId": "1828465168158732292"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не жалуюсь. Народ в Найт-Сити скорее сэкономит на еде, чем на оружии.",
+              "maleVariant": "",
+              "stringId": "1828465168158732300"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

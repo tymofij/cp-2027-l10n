@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты прикинь, он жил на том корабле! Мы с ним прямо по одним местам ходили!",
+              "maleVariant": "",
+              "stringId": "2156427882250362880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да. А ты не знал? Он там сидел, с тех пор как Сабуро его уволил. Ну, после этой истории с башнями.",
+              "maleVariant": "",
+              "stringId": "2170890123594153984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я его даже пару раз на берегу видела.",
+              "maleVariant": "",
+              "stringId": "2170890338862612480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Охренеть! И как он выглядел?",
+              "maleVariant": "",
+              "stringId": "2170890524888383488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да как… Как машина. На него смотришь и думаешь — блин, это всё-таки реально.",
+              "maleVariant": "",
+              "stringId": "2170890780187279360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можно этого достичь, понимаешь? Перестать быть мясом.",
+              "maleVariant": "",
+              "stringId": "2170891365896667136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Никаких чувств, никаких соплей. Просто становишься идеальной машиной… Как Смэшер.",
+              "maleVariant": "",
+              "stringId": "2170891584956776448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как Смэшер.",
+              "maleVariant": "",
+              "stringId": "2170891771519418368"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

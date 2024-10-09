@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви?! Охрененно! Не, серьёзно, очень круто. Закрываю заказ и высылаю твои деньги.",
+              "maleVariant": "",
+              "stringId": "2328507582008029184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты договорилась с Мауссером?! Слушай, блин, раз уж ты так ловко всех разводишь, может, тебе надо было барменшей устроиться? Хочешь, подыщу тебе место, будешь грести деньги лопатой?",
+              "maleVariant": "Ты договорился с Мауссером?! Слушай, блин, раз уж ты так ловко всех разводишь, может, тебе надо было барменом устроиться? Хочешь, подыщу тебе место, будешь грести деньги лопатой?",
+              "stringId": "2328508003418140672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Блядь, Ви!",
+              "maleVariant": "",
+              "stringId": "2328509104993366016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Говорят, Мауссер приказал долго жить. Это очень хорошо.",
+              "maleVariant": "",
+              "stringId": "2333215229942153216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну что ж, дело сделано, так что твоему покорному слуге можно и  выпить. Пока, Ви.",
+              "maleVariant": "",
+              "stringId": "2333215644574269440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно, если серьёзно: нет Мауссера — нет проблемы. Ты получаешь гонорар, я закрываю заказ. Окей?",
+              "maleVariant": "",
+              "stringId": "2333218072287756288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мауссера надо было убрать, а не просто по башке стукнуть! Прости, но денег не будет.",
+              "maleVariant": "",
+              "stringId": "2333218875731853312"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

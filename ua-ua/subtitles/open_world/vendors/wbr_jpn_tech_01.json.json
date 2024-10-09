@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Можна подивитись?",
+              "maleVariant": "",
+              "stringId": "1885295659150884864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Де ти береш товар?",
+              "maleVariant": "",
+              "stringId": "1885295659150884880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не проти якщо я погляну?",
+              "maleVariant": "",
+              "stringId": "1885295659352211460"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, якщо щось купуватимеш.",
+              "maleVariant": "",
+              "stringId": "1885295659352211468"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Де ти дістаєш всі ці речі?",
+              "maleVariant": "",
+              "stringId": "1885295659402543108"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Це комерційна таємниця. Будеш щось брати? Як ні, то не заважай працювати.",
+              "maleVariant": "",
+              "stringId": "1885295659419320324"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

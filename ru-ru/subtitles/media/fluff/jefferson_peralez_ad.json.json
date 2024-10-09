@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В прошлом году городской совет Найт-Сити избавил тридцать две корпорации от уплаты налогов на прибыль.",
+              "maleVariant": "",
+              "stringId": "1793610736917716992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В их числе — «Кан тао», «Арасака», «Мур технолоджис» и «Дайналар».",
+              "maleVariant": "",
+              "stringId": "1803789058476589056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поясню. Совокупный доход этих компаний — это десятки триллионов евродолларов.",
+              "maleVariant": "",
+              "stringId": "1803789243176960000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Как распределились голоса по этому вопросу? Девяносто девять за, один против.",
+              "maleVariant": "",
+              "stringId": "1803789581271416832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Этот голос разума был моим.",
+              "maleVariant": "",
+              "stringId": "1803789797361958912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаю, вы понимаете, как я поступлю, если вы, горожане Найт-Сити, выберете меня своим мэром?",
+              "maleVariant": "",
+              "stringId": "1803790006741614592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Меня зовут Джефферсон Пералес, я отвечаю за эти слова.",
+              "maleVariant": "",
+              "stringId": "1803790278784172032"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

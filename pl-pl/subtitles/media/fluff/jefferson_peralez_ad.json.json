@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W zeszłym roku rada miejska Night City zwolniła z płacenia podatku dochodowego aż trzydzieści dwie korporacje.",
+              "maleVariant": "",
+              "stringId": "1793610736917716992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Między innymi Kang-Tao, Arasakę, Moore Technologies i Dynalar.",
+              "maleVariant": "",
+              "stringId": "1803789058476589056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Korporacje, których roczny dochód brutto liczy się w dziesiątkach trylionów eurodolarów.",
+              "maleVariant": "",
+              "stringId": "1803789243176960000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tę skandaliczną uchwałę przegłosowano w stosunku dziewięćdziesiąt dziewięć \"za\" i jeden \"przeciw\".",
+              "maleVariant": "",
+              "stringId": "1803789581271416832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja oddałem ten jeden głos sprzeciwu.",
+              "maleVariant": "",
+              "stringId": "1803789797361958912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pokazać wam, co się stanie z tą uchwałą, jeśli wy, mieszkańcy Night City, wybierzecie mnie na burmistrza?",
+              "maleVariant": "",
+              "stringId": "1803790006741614592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nazywam się Jefferson Peralez i zatwierdzam ten przekaz.",
+              "maleVariant": "",
+              "stringId": "1803790278784172032"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

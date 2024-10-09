@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Problemem nie jest problem. Problemem jest twoje nastawienie do problemu.",
+              "maleVariant": "",
+              "stringId": "1802497586358771712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Człowieku, on nie ma jebanej nogi. Spierdolił się na niego kontener.",
+              "maleVariant": "",
+              "stringId": "1802498130443886592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zlecimy kradzież wszczepu.",
+              "maleVariant": "",
+              "stringId": "1802498298434150400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niby za co? To już trzeci wypadek w tym roku.",
+              "maleVariant": "",
+              "stringId": "1802498461156368384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wyciągniemy dane z fabryki, jakiś fixer na pewno je kupi.",
+              "maleVariant": "",
+              "stringId": "1802498634280460288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa no... sam nie wiem stary…",
+              "maleVariant": "",
+              "stringId": "1802498832939474944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A jakby to była twoja noga? Jeśli my nie będziemy sobie pomagać, to nikt nam nie pomoże.",
+              "maleVariant": "",
+              "stringId": "1802499095922335744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

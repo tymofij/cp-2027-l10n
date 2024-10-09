@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Деякі речі ніколи не змінюються. Народ думає, що від їхнього хрестика в бюлетені голосу щось залежить.",
+              "maleVariant": "",
+              "stringId": "1918454050186092544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але в цьому місті можна проголосувати лише за корупцію.",
+              "maleVariant": "",
+              "stringId": "1925673149260230656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Те саме гівно, лахи лише інші. І щоразу думають, що «тепер буде все інакше». Що ж, маємо те, на що заслуговуємо.",
+              "maleVariant": "",
+              "stringId": "1925673762652024832"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

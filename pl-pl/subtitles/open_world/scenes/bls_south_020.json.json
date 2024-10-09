@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Skąd bierzemy tyle części? Nie zamawiasz przecież żadnych dostaw.",
+              "maleVariant": "",
+              "stringId": "2178295681293737984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak? A te wszystkie fury, które tu przyjeżdżają?",
+              "maleVariant": "",
+              "stringId": "2188115914954358784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No... myślałem, że je naprawiasz.",
+              "maleVariant": "",
+              "stringId": "2188116085897412608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sokole oko to ty nie jesteś. Nie zauważyłeś, że niektóre nigdy stąd nie odjeżdżają?",
+              "maleVariant": "",
+              "stringId": "2188116233285255168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czyli te wszystkie samochody, które znikają w Night City...",
+              "maleVariant": "",
+              "stringId": "2188116512206471168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trafiają na Badlandy. Nic w przyrodzie nie ginie.",
+              "maleVariant": "",
+              "stringId": "2188116753815158784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak po prostu? I NCPD nic z tym nie robi?",
+              "maleVariant": "",
+              "stringId": "2188116959671599104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A co ma robić? Ich jurysdykcja kończy się na dzielnicy przemysłowej.",
+              "maleVariant": "",
+              "stringId": "2188117107025887232"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

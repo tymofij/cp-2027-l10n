@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты смотри, чумба твой опять поломался. Ну что, проблемы у нас?",
+              "maleVariant": "",
+              "stringId": "1730070130741911552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вирус в ядре. Повреждение…",
+              "maleVariant": "",
+              "stringId": "1730089518459166720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Приезжай… Пожалуйста…",
+              "maleVariant": "",
+              "stringId": "1730090022916497408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В-в… блядь. Ладно, позвоню узнаю, что там у него.",
+              "maleVariant": "Вот ведь… Ладно, позвоню узнаю, что там у него.",
+              "stringId": "1730290755796377600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дел?",
+              "maleVariant": "",
+              "stringId": "1934387835406147584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "При… при… езжай.",
+              "maleVariant": "",
+              "stringId": "1934388112465092608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дел? Твоя тачка опять встала посреди дороги. Всё в порядке?",
+              "maleVariant": "",
+              "stringId": "2004076145601060888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

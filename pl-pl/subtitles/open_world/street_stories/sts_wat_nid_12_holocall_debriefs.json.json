@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dzięki za pomoc! Dobrze, że udało ci się przekonać tego upartego drania. Teraz to mnie czeka trudna rozmowa z Maxem. Zamykam kontrakt.",
+              "maleVariant": "",
+              "stringId": "2328844518450548740"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiem, że Max jest już bezpieczny. Po jego stanie wnioskuję, że doszło do pewnych komplikacji, ale... Cóż, spodziewałam się ich.",
+              "maleVariant": "",
+              "stringId": "2328846984466419716"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiem o Maxie. O tym, co się stało. Zastanawiałam się, co ci napisać, jakich wulgaryzmów użyć.",
+              "maleVariant": "",
+              "stringId": "2328846996646678532"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale wiesz co? Nie warto. Sama powinnam się domyślić, że ludzi takich jak ty nie zatrudnia się do wymagających zadań.",
+              "maleVariant": "",
+              "stringId": "2340211071368138752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kontrakt zamknięty.",
+              "maleVariant": "",
+              "stringId": "2340215455674109952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiem o Maxie, o tym, że go tam zostawiłaś. To była jedyna szansa, żeby mu pomóc, a teraz... Spłoszyłaś go, Max zaszyje się w jakimś innym miejscu.",
+              "maleVariant": "Wiem o Maxie, o tym, że go tam zostawiłeś. To była jedyna szansa, żeby mu pomóc, a teraz... Spłoszyłeś go, Max zaszyje się w jakimś innym miejscu.",
+              "stringId": "2372273193342046208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Najprawdopodobniej korposi namierzą go przede mną. Wiesz, co wtedy sie stanie? Ech...",
+              "maleVariant": "",
+              "stringId": "2372274231163850752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powinnam się domyślić, że ludzi takich jak ty nie zatrudnia się do wymagających zadań.",
+              "maleVariant": "",
+              "stringId": "2372294884067741696"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

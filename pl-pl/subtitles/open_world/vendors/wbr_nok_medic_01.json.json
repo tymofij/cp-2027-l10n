@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę skorzystać z twoich usług.",
+              "maleVariant": "",
+              "stringId": "1977789967955951620"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ładny gabinet.",
+              "maleVariant": "",
+              "stringId": "1977790450401574912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chcę skorzystać z twoich usług.",
+              "maleVariant": "",
+              "stringId": "1977790923116412928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ładny gabinet.",
+              "maleVariant": "",
+              "stringId": "1977791132546400256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cóż. Mam wymagającą klientelę. Oczekuje nie tylko wysokiej jakości usług, ale i eleganckiego wnętrza.",
+              "maleVariant": "",
+              "stringId": "1977791481680265216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeśli myślisz, że cię stać...",
+              "maleVariant": "",
+              "stringId": "1979301513075675136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Postaraj się niczego nie popsuć.",
+              "maleVariant": "",
+              "stringId": "1979303057233858560"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

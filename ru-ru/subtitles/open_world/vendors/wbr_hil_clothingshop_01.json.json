@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что продаёте?",
+              "maleVariant": "",
+              "stringId": "1764841085785780224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что порекомендуете?",
+              "maleVariant": "",
+              "stringId": "1764841085802557444"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что у вас есть?",
+              "maleVariant": "",
+              "stringId": "1764914950096465920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Всё, что захотите.",
+              "maleVariant": "",
+              "stringId": "1764915472387977216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не могу определиться со стилем. Что посоветуете?",
+              "maleVariant": "",
+              "stringId": "1764915916011122688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У вас осенний оттенок глаз. Могу предложить «Тиаки Киото».",
+              "maleVariant": "",
+              "stringId": "1764916180420046848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу кое-что поменять.",
+              "maleVariant": "",
+              "stringId": "3775244115176714240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу что-нибудь обновить.",
+              "maleVariant": "",
+              "stringId": "3836305297266044968"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

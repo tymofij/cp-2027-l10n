@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Блин, живот болит — пиздец. Как поставили мне этот блокатор кортизола, так и всё. Так и знал, что в Кабуки одни коновалы.",
+              "maleVariant": "",
+              "stringId": "2276536375305216016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну сдай его обратно. По-моему, даже нелегальные клиники гарантию дают.",
+              "maleVariant": "",
+              "stringId": "2276536375305216028"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Какую ещё гарантию? Что я им скажу вообще? «Я когда про свою бывшую думаю, теперь уже не бешусь, только почему-то срать не могу»? Они там обоссутся от смеха.",
+              "maleVariant": "",
+              "stringId": "2276536375305216040"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

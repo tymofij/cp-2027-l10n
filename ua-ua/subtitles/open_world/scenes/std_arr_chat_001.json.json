@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слухай, я нормально тебе прошу. Ми ж кенти, та’? Ну, не змушуй мене кликати охорону.",
+              "maleVariant": "",
+              "stringId": "1963259367192043520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та годі тобі, шо станеця, якшо я покопирсаюся в тому смітті? Воно ж нікому не нужне, а мені пригодиться.",
+              "maleVariant": "",
+              "stringId": "1966208582348947456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Нафтохім» не дуже любе’ крадунів.",
+              "maleVariant": "",
+              "stringId": "1966209531687714816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та це ж сміття! Та він же їм не всрався! Бляха, чуваче, ну подумай сам!",
+              "maleVariant": "",
+              "stringId": "1966209868473548800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мені не платять, щоби я думав.",
+              "maleVariant": "",
+              "stringId": "1966210127094333440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та я вже, блядь, бачу!",
+              "maleVariant": "",
+              "stringId": "1966210277401411584"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

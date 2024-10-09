@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Женщина с ребёнком проходят, вы остаётесь с нами.",
+              "maleVariant": "",
+              "stringId": "2178243834931568640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да в чём дело-то?",
+              "maleVariant": "",
+              "stringId": "2182332323065454592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У вас не оплачен штраф за парковку.",
+              "maleVariant": "",
+              "stringId": "2182343683354615808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Какой ещё штраф?!",
+              "maleVariant": "",
+              "stringId": "2182349234918612992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тише. Сколько нужно? Мы всё оплатим.",
+              "maleVariant": "",
+              "stringId": "2182349498354458624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Штрафы оплачиваются в мэрии или в ближайшем полицейском участке по месту жительства.",
+              "maleVariant": "",
+              "stringId": "2182349868292071424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У нас автобус уходит!",
+              "maleVariant": "",
+              "stringId": "2182351892580622336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Они могут идти. А вы останьтесь с нами.",
+              "maleVariant": "",
+              "stringId": "2182352528168673280"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

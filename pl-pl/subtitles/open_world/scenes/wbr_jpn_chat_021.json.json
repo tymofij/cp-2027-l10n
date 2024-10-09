@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O, kogo ja widzę... Myślałem, że jesteś na księżycu? W delegacji?",
+              "maleVariant": "",
+              "stringId": "2160328164468891648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A, no tak, miałem jechać. Ale nie dali mi wizy.",
+              "maleVariant": "",
+              "stringId": "2169440464288403456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Poważnie? Czemu?",
+              "maleVariant": "",
+              "stringId": "2169440639845191680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bo w trakcie wywiadu wyszło, że mam psa. A oni są bardzo wyczuleni na choroby odzwierzęce. Wiesz, jeśli im się coś zalęgnie w wentylacji... To koniec.",
+              "maleVariant": "",
+              "stringId": "2169440734602907648"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

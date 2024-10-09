@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gdzie się wczoraj podziewałeś?",
+              "maleVariant": "",
+              "stringId": "2181071947346698240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Byłem z młodą na przesłuchaniu w Chmurach.",
+              "maleVariant": "",
+              "stringId": "2181072200363892736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wysoko mierzy. Jak poszło?",
+              "maleVariant": "",
+              "stringId": "2181074730435174400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Typ ją wałkował cały dzień, a na koniec powiedział że ma za krótkie nogi.",
+              "maleVariant": "",
+              "stringId": "2181075387565170688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To kutas! Tyle czasu mu zajęło stwierdzenie, że ma nie takie nogi?",
+              "maleVariant": "",
+              "stringId": "2181075744936648704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No. Młoda robi dramę. Chciała się stąd wyrwać... Mówi że tam nie śmierdzi i jest bezpiecznie, bo nie ma Wraithsów.",
+              "maleVariant": "",
+              "stringId": "2181076186747854848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszędzie są jakieś Wraithsi.",
+              "maleVariant": "",
+              "stringId": "2181076527929319424"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мам! Мам! Я хочу «Кіроші»!",
+              "maleVariant": "",
+              "stringId": "1806832832411721728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні.",
+              "maleVariant": "",
+              "stringId": "1806834059245641728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А Кейкові купили! І Сакурі теж. Та навіть тій лошарі, Кейт, також купили. Ну, будь-ласка!",
+              "maleVariant": "",
+              "stringId": "1806834237168017408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А якщо Кейко, Сакура та Кейт стрибнуть із мегавежі, то ти теж за ними скочиш?",
+              "maleVariant": "",
+              "stringId": "1806834455389265920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну ма-а-ам, вони можуть записувати та відтворювати будь-що! Навіть уроки! Усі сміються з мене, бо їм не треба те все зубрити, а я мушу!",
+              "maleVariant": "",
+              "stringId": "1806834614319833088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У тебе ж є ноутбук.",
+              "maleVariant": "",
+              "stringId": "1806834854452125696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та це не те саме!",
+              "maleVariant": "",
+              "stringId": "1806835050728775680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А якщо імплант зламається, що тоді? Знання треба тримати у своїй голові.",
+              "maleVariant": "",
+              "stringId": "1806835239371792384"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

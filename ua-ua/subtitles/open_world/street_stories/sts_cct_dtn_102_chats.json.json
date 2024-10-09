@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти чув, що Майк здох? У нього такі самі виразки були, як і в цих «вилікуваних» з фоток.",
+              "maleVariant": "",
+              "stringId": "1945942052525072384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, нагородять за «незамінний внесок у науковий розвиток „Біотехніки“». Посмертно.",
+              "maleVariant": "",
+              "stringId": "1947417355488694272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, ну нахуй такий внесок. Жесть якась… А там, звідки вони пробу брали…",
+              "maleVariant": "",
+              "stringId": "1947417675195322368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, там таких нещасних теж немало…",
+              "maleVariant": "",
+              "stringId": "1947422216083050496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Немало»? Та їх там понад сімдесят чоловік!",
+              "maleVariant": "",
+              "stringId": "1947422430059663360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Осіб».",
+              "maleVariant": "",
+              "stringId": "1963321823447060480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага.",
+              "maleVariant": "",
+              "stringId": "1963322452928204800"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

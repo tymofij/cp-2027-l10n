@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przysyła mnie Padre.",
+              "maleVariant": "",
+              "stringId": "1948717535820849152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przysyła mnie Padre.",
+              "maleVariant": "",
+              "stringId": "1948718459557584896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Padre...? A czego on chce?",
+              "maleVariant": "",
+              "stringId": "1948720875023704064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zamierza zorganizować mszę w intencji Marthy Frakes. Mam omówić z Gustavo szczegóły.",
+              "maleVariant": "",
+              "stringId": "1948721019324538880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wpuścisz mnie czy dać znać Padre, że kazałeś mi stać pod drzwiami?",
+              "maleVariant": "",
+              "stringId": "1948721872680853504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mam sprawę do Gustavo.",
+              "maleVariant": "",
+              "stringId": "1948724072509415424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mam sprawę do Gustavo.",
+              "maleVariant": "",
+              "stringId": "1948724361010421760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do kogo? Chyba pomyliłaś adres.",
+              "maleVariant": "Do kogo? Chyba pomyliłeś adres.",
+              "stringId": "1948745361840218112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kto tam?",
+              "maleVariant": "",
+              "stringId": "1965045762684166144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gustavo czeka na górze.",
+              "maleVariant": "",
+              "stringId": "1965053777093140480"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

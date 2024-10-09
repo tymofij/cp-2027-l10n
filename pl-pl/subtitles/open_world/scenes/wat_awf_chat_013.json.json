@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dwa drony, tak.",
+              "maleVariant": "",
+              "stringId": "2156447427357351936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Niewiele z nich zostało, nie wiem, czyje...",
+              "maleVariant": "",
+              "stringId": "2177859795397308416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak, wykryliśmy nadajniki, mikrofony, obiektywy. Ktoś węszył.",
+              "maleVariant": "",
+              "stringId": "2177860102185480192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Możemy reagować wcześniej, ale wtedy jest ryzyko, że zestrzelimy coś poza naszym terenem.",
+              "maleVariant": "",
+              "stringId": "2177861297276907520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zrozumiałem. Będziemy strzelać.",
+              "maleVariant": "",
+              "stringId": "2177862969378140160"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

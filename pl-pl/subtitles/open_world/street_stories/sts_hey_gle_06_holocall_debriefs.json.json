@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No i cudnie. Wóz trafił do rąk właściciela, a w twoje ręce trafia wynagrodzenie.",
+              "maleVariant": "",
+              "stringId": "2328773298531094528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, zaufałem ci, a ty mnie zawiodłaś.",
+              "maleVariant": "V, zaufałem ci, a ty mnie zawiodłeś.",
+              "stringId": "2328773312087085060"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Twój dobry uczynek, mój dobry uczynek. Do następnego razu, V. Kontrakt zamknięty.",
+              "maleVariant": "",
+              "stringId": "2334381805605208064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oboje powinniśmy wyciągnąć z tej sytuacji lekcję. Do widzenia.",
+              "maleVariant": "Obaj powinniśmy wyciągnąć z tej sytuacji lekcję. Do widzenia.",
+              "stringId": "2338938500978937856"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

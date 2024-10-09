@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dobry wieczór państwu. Mam dla państwa najnowsze informacje dotyczące wyborów na burmistrza Night City. Właśnie otrzymaliśmy sondaż exit poll.",
+              "maleVariant": "",
+              "stringId": "1792236862913290240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Obecny burmistrz, Weldon Holt z partii Dewolucjonistów, otrzymał zaledwie 27,2% głosów. Na jego rozczarowujący wynik z pewnością wpłynęło oskarżenie o współudział w morderstwie Luciusa Rhyne'a, poprzedniego burmistrza Night City.",
+              "maleVariant": "",
+              "stringId": "1800909871180922880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wybory wygrał kandydat Federalistów, Jefferson Peralez, na którego swoje głosy oddało ponad 70% wyborców.",
+              "maleVariant": "",
+              "stringId": "1800910204275769344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W trakcie swojej przemowy burmistrz Weldon Holt pogratulował konkurentowi zwycięstwa.",
+              "maleVariant": "",
+              "stringId": "1800910431489605632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wkrótce przekonamy się, czy Peralezowi uda się zrealizować ambitne obietnice z kampanii.",
+              "maleVariant": "",
+              "stringId": "1800910582752985088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Po przerwie: Czy Night City Bonecrushers uda się przełamać pechową passę?",
+              "maleVariant": "",
+              "stringId": "1800910893064372224"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

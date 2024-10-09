@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie ma tu dla wa miejsca! Pozbawiacie gospodarkę Night City godności!",
+              "maleVariant": "",
+              "stringId": "2167932130531135488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przynosicie narkotyki, przestępstwa i inne złe rzeczy!",
+              "maleVariant": "",
+              "stringId": "2221664624063123456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak śmiecie odbierać pracę naszym obywatelom! Holt zrobi z wami porządek!",
+              "maleVariant": "",
+              "stringId": "2221665065622671360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No już! Wracajcie do swojego gównianego NUSA!",
+              "maleVariant": "",
+              "stringId": "2221665562261819392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trzeba zbudować mur i was wszystkich odgrodzić w pizdu! Jak całą tę Strefę Walki!",
+              "maleVariant": "",
+              "stringId": "2221665780231409664"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

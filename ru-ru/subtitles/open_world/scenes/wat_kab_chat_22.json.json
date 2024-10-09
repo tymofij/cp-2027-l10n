@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И я его, значит, спрашиваю: «А что плохого в корректировке личности?»",
+              "maleVariant": "",
+              "stringId": "2156501492402987008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Берёшь преступника, ищешь у него в мозгу нужную нейронную связь…",
+              "maleVariant": "",
+              "stringId": "2212585113999745024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чик! — и никакой больше жестокости. Чик! — и никаких мыслей о насилии!",
+              "maleVariant": "",
+              "stringId": "2212607527638900736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, глядишь, и нормальный человек выйдет.",
+              "maleVariant": "",
+              "stringId": "2212618008214740992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Жаль, тебе не поможет. Кромсай тебя, ни кромсай, всё равно фашистом останешься.",
+              "maleVariant": "",
+              "stringId": "2212618774983843840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Фашистом?! Я чищу мир от плесени, а кто-то ещё недоволен.",
+              "maleVariant": "",
+              "stringId": "2212620889852583936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И вообще, были же чипы, которые подавляли мысли. Разве кто-то жаловался?",
+              "maleVariant": "",
+              "stringId": "2212633064524587008"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

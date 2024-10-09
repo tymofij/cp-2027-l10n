@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Помягче»?! Да как с ними мягче, ничего ж не добьёшься!",
+              "maleVariant": "",
+              "stringId": "1924017415411228672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "О как… Это прямо из центра указание?.. Ну ладно, можно… Ноги ему поломать, но чтоб был жив.",
+              "maleVariant": "",
+              "stringId": "1935990854405902336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чё, и ноги тоже нельзя? Но журналюги-то… Ладнo, понял-понял.",
+              "maleVariant": "",
+              "stringId": "1935992031747035136"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

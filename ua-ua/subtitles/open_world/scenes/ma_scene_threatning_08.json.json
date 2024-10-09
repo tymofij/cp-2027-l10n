@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаєш, що ти крутий бандюк? То давай додам тобі кілька шрамів…",
+              "maleVariant": "",
+              "stringId": "2007231966741659648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я твій суддя, який тебе засудив і кат, який тебе зараз уб’є. І я тут найвища ланка закону!",
+              "maleVariant": "",
+              "stringId": "2007232666703888384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Все, досить гратися. Тепер я розкажу тобі один секрет: тобі пиздець!",
+              "maleVariant": "",
+              "stringId": "2007232730742521856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаєш, що ти крутий, та? Побачимо, як круто ти лежатимеш у калюжі своєї сечі!",
+              "maleVariant": "",
+              "stringId": "2007232787952828416"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

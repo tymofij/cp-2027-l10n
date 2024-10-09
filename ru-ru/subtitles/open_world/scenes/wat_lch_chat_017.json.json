@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чумба, ты, по ходу, адресом ошибся.",
+              "maleVariant": "",
+              "stringId": "2156470782566625280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чего? Кто? Какие-то проблемы?",
+              "maleVariant": "",
+              "stringId": "2169341362129129472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спокойно. Я тебя здесь раньше не видел. Кого попало не пускаем.",
+              "maleVariant": "",
+              "stringId": "2169341579779952640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У меня там знакомые есть.",
+              "maleVariant": "",
+              "stringId": "2169342614883848192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну позвони им, пусть тебя встретят. А пока здесь постоишь. И смотри без глупостей, я за тобой слежу.",
+              "maleVariant": "",
+              "stringId": "2169343314443423744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

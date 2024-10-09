@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Odżyłeś ostatnio coś fajnego?",
+              "maleVariant": "",
+              "stringId": "2156355141694365696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A wiesz, że nawet tak? \"W Domu\". Fajny braindance. Relaksujący taki.",
+              "maleVariant": "",
+              "stringId": "2169009110404878336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A. No i o co chodzi? Akcja? Komedia?",
+              "maleVariant": "",
+              "stringId": "2169010367890771968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W sumie to ani jedno, ani drugie. Jesteś kolesiem, który wraca z wojny. Nie było cię na chacie pięć lat. Na lotnisku czeka żona, dzieci, pies, kumasz.",
+              "maleVariant": "",
+              "stringId": "2169010470164680704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Takie pozytywne emocje, ta?",
+              "maleVariant": "",
+              "stringId": "2169012349900738560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, no, właśnie. A wiesz, ja ostatnio dużo zwalniam u siebie w zespole, więc taka odskocznia dobrze mi robi.",
+              "maleVariant": "",
+              "stringId": "2169012581057220608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ech, wiem, jak jest, bracie.",
+              "maleVariant": "",
+              "stringId": "2169013057093947392"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

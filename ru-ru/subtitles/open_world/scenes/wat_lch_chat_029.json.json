@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "И не пей всё, что тебе покупают. Даже если у тебя хороший фильтр.",
+              "maleVariant": "",
+              "stringId": "2156541085661556736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну бару же нужны деньги. Нам сказали, клиентов надо разводить на напитки.",
+              "maleVariant": "",
+              "stringId": "2172254098906923008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да. Идёшь со стаканом в туалет, выливаешь всё в унитаз, обратно наливаешь сок.",
+              "maleVariant": "",
+              "stringId": "2172254557377904640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Даже если это «Шато Пикетт»?",
+              "maleVariant": "",
+              "stringId": "2172254697216000000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тебе в любом случае ещё работать. Ты бы на другой работе стал пить?",
+              "maleVariant": "",
+              "stringId": "2172255166759944192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но это же «Шато Пикетт»!",
+              "maleVariant": "",
+              "stringId": "2172255484570746880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ладно, один раз можно.",
+              "maleVariant": "",
+              "stringId": "2172255827882917888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

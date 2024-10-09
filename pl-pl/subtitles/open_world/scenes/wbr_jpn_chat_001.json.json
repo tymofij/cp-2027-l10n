@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Przestań im płacić.",
+              "maleVariant": "",
+              "stringId": "1806820807778361344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak przestanę, to nie  będą dla mnie pracować.",
+              "maleVariant": "",
+              "stringId": "1806821301716377600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I co zrobią? Pójdą na studia? Dilerzy?",
+              "maleVariant": "",
+              "stringId": "1806821546697285632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Będą się stawiać.",
+              "maleVariant": "",
+              "stringId": "1806821731213107200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No i co się stanie?",
+              "maleVariant": "",
+              "stringId": "1806821901887725568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, nie wiem.",
+              "maleVariant": "",
+              "stringId": "1806822175222128640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nic. Nic się nie stanie.  Wrócą do ciebie i wiesz co wtedy zrozumieją?",
+              "maleVariant": "",
+              "stringId": "1806823683544178688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Że bez ciebie są szczurami. Zaczną cię, kurwa, szanować i dopiero wtedy, znów zaczniesz im płacić.",
+              "maleVariant": "",
+              "stringId": "1806824014894194688"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

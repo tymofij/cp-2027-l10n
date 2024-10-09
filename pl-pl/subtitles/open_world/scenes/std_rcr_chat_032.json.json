@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak... Tak, rozumiem. Oczywiście. Ale zapewniam, że nie ma powodu do zmartwień.",
+              "maleVariant": "",
+              "stringId": "2167937955276804096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tak. Pana córka robi ogromne postępy. Mhm. Każdego dnia.",
+              "maleVariant": "",
+              "stringId": "2182343982779256832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wizytacja? Ojej, obawiam się, że to niemożliwe. Silne emocje negatywnie wpływają na proces rekonwalescencji.",
+              "maleVariant": "",
+              "stringId": "2182344381540126720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm. Oczywiście, że może pan złożyć skargę. Proszę się nagrać po sygnale.",
+              "maleVariant": "",
+              "stringId": "2182344926061449216"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

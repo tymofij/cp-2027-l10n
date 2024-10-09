@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Potrzebuję leczenia.",
+              "maleVariant": "",
+              "stringId": "1885214881622552576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sprzedajesz hormony?",
+              "maleVariant": "",
+              "stringId": "1885214881622552592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wezmę jakiś iniektor.",
+              "maleVariant": "",
+              "stringId": "1885214881656107012"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Polecam wzmocnioną somatotropinę. Powinnaś trochę napompować te bicepsy.",
+              "maleVariant": "",
+              "stringId": "1885214881656107020"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sprzedajesz modyfikowane hormony?",
+              "maleVariant": "",
+              "stringId": "1885214881689661444"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czasami. Niektórym klientom. Takim, którzy odkryli zwierzęcą stronę swojej natury... jeśli wiesz, co mam na myśli.",
+              "maleVariant": "",
+              "stringId": "1885214881689661452"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

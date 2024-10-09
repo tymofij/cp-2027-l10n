@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Джонні, ти це бачив? Щось тут не так.",
+              "maleVariant": "",
+              "stringId": "1756182346910048256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та ти що?",
+              "maleVariant": "",
+              "stringId": "1924292467347709952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та ні, я не про аварію. Я про те, що найввічливіший водій цілого міста тільки що взяв і втік із місця аварії.",
+              "maleVariant": "",
+              "stringId": "1924292847133548544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Вийти з пошкодженого авто]",
+              "maleVariant": "",
+              "stringId": "2424313909325504516"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ох... Що це в біса було?",
+              "maleVariant": "",
+              "stringId": "3255085116176900096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Схоже, що всі в цьому місті заповзялися тебе прикінчити. Я аж сам почуваюся дилетантом, вахлаєм.",
+              "maleVariant": "",
+              "stringId": "3255086372370948096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ой, заткнися. Треба довідатися, чому найввічливіший водій Найт-Сіті раптом утік з місця аварії.",
+              "maleVariant": "",
+              "stringId": "3255086943198945280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мабуть, йому ти теж остогидла.",
+              "maleVariant": "Мабуть, йому ти теж остогид.",
+              "stringId": "3255087106961350656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я сказала, заткнися!",
+              "maleVariant": "Я сказав, заткнися!",
+              "stringId": "3368074701895462912"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

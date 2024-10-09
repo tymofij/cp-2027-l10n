@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я, наверное, чего-то не понимаю. Тебе надо было установить жучок, а ты решила взорвать машину? Да, тяжёлый случай.",
+              "maleVariant": "Я, наверное, чего-то не понимаю. Тебе надо было установить жучок, а ты решил взорвать машину? Да, тяжёлый случай.",
+              "stringId": "2328666939888218112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Безупречная работа. Прямо как в кино — тихо и красиво. Правда, в кино и платят по-другому, но тут уже выбирать не приходится. Заказ закрыт.",
+              "maleVariant": "",
+              "stringId": "2328667244193361920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ви, это дело надо было провернуть по-тихому. Не привлекая внимания. Ну ладно, жучок на месте, и на том спасибо.",
+              "maleVariant": "",
+              "stringId": "2328667521084534784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Остаётся надеяться, что его не найдут. Заказ закрыт.",
+              "maleVariant": "",
+              "stringId": "2331974474340339712"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

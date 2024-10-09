@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага, було класно. Поки копи не схопили його.",
+              "maleVariant": "",
+              "stringId": "2172185211490250752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Серйозно. Ми просто сиділи за столом, вечеряли, аж раптом вони ввірвалися, надягли йому наручники та забрали кудись.",
+              "maleVariant": "",
+              "stringId": "2188315842730889216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та звідки я знаю?.. Це ж було перше побачення. Я на ньому не дуже хотіла питати його, типу: «Агов, а тебе, часом, копи не шукають?»",
+              "maleVariant": "",
+              "stringId": "2188315875865890816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, так, Марто. Так, можливо й слід.",
+              "maleVariant": "",
+              "stringId": "2188315943796838400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Угу. Так. Рада, що потішила тебе.",
+              "maleVariant": "",
+              "stringId": "2188350119354929152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Авжеж, я йому зателефоную. Я ж оплатила вечерю, цей бовдур мені гроші винен.",
+              "maleVariant": "",
+              "stringId": "2188350317762285568"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

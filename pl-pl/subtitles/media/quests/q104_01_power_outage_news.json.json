@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wracamy do głównego tematu dzisiejszego dnia, którym jest atak na elektrownię w Santo Domingo.",
+              "maleVariant": "",
+              "stringId": "1744501745799192576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uzbrojeni, niezidentyfikowani sprawcy włamali się na teren elektrowni i uszkodzili systemy chłodzenia, doprowadzając do gwałtownego skoku w emisji EMP.",
+              "maleVariant": "",
+              "stringId": "1744506598827024384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "W bezpośrednim następstwie ataku, wielu spośród mieszkańców przylegającej faweli doświadczyło krytycznych awarii wszczepów…",
+              "maleVariant": "",
+              "stringId": "1744506840989360128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Impuls był na tyle potężny, że całe Santo Domingo na długie godziny pogrążyło się w ciemności.",
+              "maleVariant": "",
+              "stringId": "1744507208863375360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wstępne ustalenia NCPD sugerują, że za atakiem prawdopodobnie stoją nomadzi. Siły policyjne rozważają akcję odwetową.",
+              "maleVariant": "",
+              "stringId": "1744507349540331520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Będziemy informować państwa o dalszym rozwoju wypadków.",
+              "maleVariant": "",
+              "stringId": "1744507582273871872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Całe szczęście, niebezpieczny impuls elektromagnetyczny ominął gęsto zaludnione fawele. Biorąc pod uwagę skalę tej awarii, liczba ofiar śmiertelnych jest stosunkowo mała.",
+              "maleVariant": "",
+              "stringId": "1902236446178463744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

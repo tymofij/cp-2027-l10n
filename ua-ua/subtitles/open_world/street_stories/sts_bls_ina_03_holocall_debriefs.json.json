@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гарно ти впоралася з тією антеною. Молодець, у тебе є голова на плечах і ти знаєш, як нею користуватися. А це рідкість.",
+              "maleVariant": "Гарно ти впорався з тією антеною. Молодець, у тебе є голова на плечах і ти знаєш, як нею користуватися. А це рідкість.",
+              "stringId": "2328813252985712640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тепер маршрути Москіта знову в безпеці. Можна закривати цей якісно виконаний контракт.",
+              "maleVariant": "",
+              "stringId": "2332959587667001344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гарно ти впоралася з цим завданням. Навіщо важко працювати, якщо можна думати головою, правда?",
+              "maleVariant": "Гарно ти впорався з цим завданням. Навіщо важко працювати, якщо можна думати головою, правда?",
+              "stringId": "2332960825439666176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Маршрути дронів Москіта в безпеці, ти сповнена енергії, а я закриваю контракт.",
+              "maleVariant": "Маршрути дронів Москіта в безпеці, ти сповнений енергії, а я закриваю контракт.",
+              "stringId": "2332964669972267008"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

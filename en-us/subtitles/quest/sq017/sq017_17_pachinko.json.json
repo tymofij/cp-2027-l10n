@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This elevator is out of order. Sorry.",
+              "maleVariant": "",
+              "stringId": "1339984088743809024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got a meet with Kerry.",
+              "maleVariant": "",
+              "stringId": "1339986038541520916"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Out of order for Kerry Eurodyne's guests, too? He's expecting me.",
+              "maleVariant": "",
+              "stringId": "1339994563900608512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "In that case, enjoy your evening.",
+              "maleVariant": "",
+              "stringId": "1339995028210061312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So why're you here?",
+              "maleVariant": "",
+              "stringId": "1818663045486567424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It's out of order, why're you here?",
+              "maleVariant": "If it's out of order, why're you here?",
+              "stringId": "1818664320353656832"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

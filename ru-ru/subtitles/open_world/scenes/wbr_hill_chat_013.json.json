@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Этот мудак с самого начала мне врал. Говорил, что я его первая любовница.",
+              "maleVariant": "",
+              "stringId": "2159186788284854272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну и какая разница? Он всё равно не собирался с женой разводиться.",
+              "maleVariant": "",
+              "stringId": "2209884301980942336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да при чём тут это? Я думала, он готов на измену только со мной!",
+              "maleVariant": "",
+              "stringId": "2209885014945513472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я думала, я для него особенная, а не просто очередная давалка!",
+              "maleVariant": "",
+              "stringId": "2209885437899128832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А, ну да. И какая ты по счёту? Пятая? Или тридцать восьмая?",
+              "maleVariant": "",
+              "stringId": "2209885864996716544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Если тридцать восьмая, то совсем паршиво.",
+              "maleVariant": "",
+              "stringId": "2209886106353745920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаешь что? Иди на хер.",
+              "maleVariant": "",
+              "stringId": "2209887007743229952"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

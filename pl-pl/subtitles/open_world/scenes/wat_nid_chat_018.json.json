@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wszystko poszło do klubu?",
+              "maleVariant": "",
+              "stringId": "2156409163642036224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No. I do All Foods. Nic nie zostało.",
+              "maleVariant": "",
+              "stringId": "2230325338355515392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kurwa, daliby nam trochę. Po prochach zapierdalam jak jebany droid. A o to w końcu chodzi, nie?",
+              "maleVariant": "",
+              "stringId": "2230325534581833728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To jak paliwo. Tankujesz i jedziesz, nic cię nie obchodzi.",
+              "maleVariant": "",
+              "stringId": "2230325648398467072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gówno prawda. Nie czuć zmęczenia, ale jest niepokój.",
+              "maleVariant": "",
+              "stringId": "2230325781005582336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trochę przesadzisz i wszystkie sesje wytłumiające idą się jebać. Trzęsiesz się jak wór mięcha.",
+              "maleVariant": "",
+              "stringId": "2230325879018078208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na wszystko jest sposób. Wystarczy wymienić sobie ciało migdałowate.",
+              "maleVariant": "",
+              "stringId": "2230326000048914432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hm, nie słyszałam. Trzeba będzie spróbować.",
+              "maleVariant": "",
+              "stringId": "2230326116029808640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

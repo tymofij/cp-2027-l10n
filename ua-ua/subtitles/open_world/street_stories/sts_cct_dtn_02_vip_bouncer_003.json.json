@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Далеко зібралася? ВІП-зона тільки для ВІПів.",
+              "maleVariant": "Далеко зібрався? ВІП-зона тільки для ВІПів.",
+              "stringId": "1712569812403908608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Іди звідси, бо зараз допросишся.",
+              "maleVariant": "",
+              "stringId": "1712569812454240256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знаю боса.",
+              "maleVariant": "",
+              "stringId": "1712569812538126336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ми з твоїм босом друзі, усе норм.",
+              "maleVariant": "",
+              "stringId": "1712569812856893440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та що ти. У нього всюди зв’язки, але ще жодного разу він не назвав когось «другом».",
+              "maleVariant": "",
+              "stringId": "1712569812856893448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, так, але…",
+              "maleVariant": "",
+              "stringId": "1925708864649744384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ой, але, пук, плак-плак. Бос сказав: не пускати нікого! Він відпочиває. Тож іди нахуй.",
+              "maleVariant": "",
+              "stringId": "1925709299917836288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

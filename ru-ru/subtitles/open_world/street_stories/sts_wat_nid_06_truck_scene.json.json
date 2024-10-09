@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хули ты ждёшь? Режь давай, дебил!",
+              "maleVariant": "",
+              "stringId": "1624389656899293184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да я и не хотел… Ну, сам не понял, как… как оно… В смысле, я не знал, что он, ну… ну этот, ну как его, блин…",
+              "maleVariant": "",
+              "stringId": "1624394592085151744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну да, я не понял, что он не слышит, думал игнорирует, и… ну рука как-то сама хлестнула…",
+              "maleVariant": "",
+              "stringId": "1715789900933337088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хлестнула у него кровь из ушей.",
+              "maleVariant": "",
+              "stringId": "1715790575478083584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да говорю, не хотел я…",
+              "maleVariant": "",
+              "stringId": "1715790646630256640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Лучше ничего не говори. Заткнись и режь.",
+              "maleVariant": "",
+              "stringId": "1715792043031498752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Супервайзер.",
+              "maleVariant": "",
+              "stringId": "1720261494414086144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Господи, да сколько можно-то…",
+              "maleVariant": "",
+              "stringId": "1720283263741038592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну чё, пожалел уже, что его завалил?",
+              "maleVariant": "",
+              "stringId": "1720283472869036032"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

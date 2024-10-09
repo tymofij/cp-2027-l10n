@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А ты изменилась.",
+              "maleVariant": "",
+              "stringId": "1832774546783592448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это называется «повзрослела».",
+              "maleVariant": "",
+              "stringId": "1966181128498561024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да уж, повзрослела… На вид как зомби и думаешь только о пушках.",
+              "maleVariant": "",
+              "stringId": "1966181286204391424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Раньше мы с тобой могли говорить обо всём… а теперь? «Милитех» то, «Милитех» это.",
+              "maleVariant": "",
+              "stringId": "1966181447383105536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я скучаю по нашим прежним разговорам… и по тебе.",
+              "maleVariant": "",
+              "stringId": "1966181829920407552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я стала частью чего-то большего. До «Милитеха» я была никем… прямо как ты.",
+              "maleVariant": "",
+              "stringId": "1966181956135403520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Тебе нужно найти работу. По-моему, тебе просто время некуда девать.",
+              "maleVariant": "",
+              "stringId": "1966182158518960128"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

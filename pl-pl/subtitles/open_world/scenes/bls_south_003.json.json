@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "N-nie wiem, stary. Naprawdę nie wiem.",
+              "maleVariant": "",
+              "stringId": "1973554521173958656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówię ci, będzie dobrze. Przewodnik jest sprawdzony. Poprowadzi nas tunelem pod murem.",
+              "maleVariant": "",
+              "stringId": "1978984026157142016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiesz, co nam zrobią Południowcy, jeśli nas złapią, prawda? Kula w łeb i do piachu.",
+              "maleVariant": "",
+              "stringId": "1978985077971144704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A tu masz lepsze widoki na przyszłość? Hm? Nie wydaje mi się.",
+              "maleVariant": "",
+              "stringId": "1978986875062636544"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

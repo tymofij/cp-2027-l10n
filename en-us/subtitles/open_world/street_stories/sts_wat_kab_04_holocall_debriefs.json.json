@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, here's the thing: you could have done it quietly. Now half the city's gonna know about this mess.",
+              "maleVariant": "",
+              "stringId": "2328832749569601536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This sort of gig, no hiccups? Quiet as a roach? Color me impressed. Contract closed, and thanks.",
+              "maleVariant": "",
+              "stringId": "2328832957506416640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thought we were on the same page. Whatever. Contract closed.",
+              "maleVariant": "",
+              "stringId": "2331697846301331456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, I thought my guidelines were clear. Getting that shard was prio number one!",
+              "maleVariant": "",
+              "stringId": "2362267863501606912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Those people I sent you to? They're pros. Think they're waitin' for you to come back? They're gone.",
+              "maleVariant": "",
+              "stringId": "2362321136162017280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You fucked up, V – through 'n' through. And it better be the last time. Later.",
+              "maleVariant": "",
+              "stringId": "2362321158291165184"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

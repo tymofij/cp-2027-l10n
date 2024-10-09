@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чудова робота, Ві. Жасмін уже їде до свого коханого, а він уже вислав мій гонорар. Тобто наш гонорар, авжеж.",
+              "maleVariant": "",
+              "stringId": "2328856469063720960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ві, Жасмін треба було провести аж до машини. Вона настільки шокована, що верх від низу не відрізнить! А якби вона звернула не туди, або… Коротше, вважай, що тобі пощастило, окей?",
+              "maleVariant": "",
+              "stringId": "2328856556858892288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спробуй запам’ятати на майбутнє: завдання виконане тільки тоді, коли клієнт у безпеці. Пару разів це перевари, наче не так важко. Контракт закриваю.",
+              "maleVariant": "",
+              "stringId": "2342023314615406592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хороша робота, Ві. Закриваю контракт.",
+              "maleVariant": "",
+              "stringId": "2342024929523109888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

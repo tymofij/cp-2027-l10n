@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wiem, czego potrzebujesz - adrenaliny. I moja kolejna robota ci ją zapewni.",
+              "maleVariant": "",
+              "stringId": "2333082986607263744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na środku pola minowego na Badlandach stoi auto. Masz je do mnie dostarczyć.",
+              "maleVariant": "",
+              "stringId": "2333083156023590912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Możesz zginąć, ale nie oszukujmy się - prawdziwe życie to dziki i niebezpieczny galop. Szczegóły kontraktu w załączniku.",
+              "maleVariant": "",
+              "stringId": "2333083356762980352"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

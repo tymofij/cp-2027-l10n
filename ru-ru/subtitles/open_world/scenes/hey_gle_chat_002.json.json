@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А кем ты станешь, когда вырастешь?",
+              "maleVariant": "",
+              "stringId": "1807017843261825024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Боевым медиком! Как по телевизору!",
+              "maleVariant": "",
+              "stringId": "1807023236482457600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот это да! Ты будешь спасать жизни?",
+              "maleVariant": "",
+              "stringId": "1807023407274516480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да! И стрелять в киберпсихопатов! Это они тоже делают. В папиной любимой программе показывали!",
+              "maleVariant": "",
+              "stringId": "1807023619338526720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но только лечить я их не буду. Зачем в кого-то стрелять, а потом спасать?",
+              "maleVariant": "",
+              "stringId": "1807023792345178112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, тебе придётся много работать, чтобы попасть в «Травму». Они берут только самых лучших, сама понимаешь.",
+              "maleVariant": "",
+              "stringId": "1807023990265995264"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

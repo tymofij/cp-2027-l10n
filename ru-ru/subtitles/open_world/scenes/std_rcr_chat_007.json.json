@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мама, а почему «Траума тим» не помогла дяде Теду?",
+              "maleVariant": "",
+              "stringId": "1963294235783372800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У дяди не было страхового полиса, милая. Чтобы медики тебе помогали, им нужно платить.",
+              "maleVariant": "",
+              "stringId": "1969369902875394048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Когда мы идём в магазин, и ты хочешь «Лилу бинс», мы ведь за них платим? Вот и с медициной так же.",
+              "maleVariant": "",
+              "stringId": "1969370240835633152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но если я не куплю «Лилу Бинс», я не умру. А он умер.",
+              "maleVariant": "",
+              "stringId": "1969370409010446336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так устроен мир, солнышко. Одни вещи — ну, они для богатых. А другие для нас.",
+              "maleVariant": "",
+              "stringId": "1969370583392829440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Когда вырасту, стану богатой.",
+              "maleVariant": "",
+              "stringId": "1969370734001897472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Конечно станешь, милая.",
+              "maleVariant": "",
+              "stringId": "1969370985794355200"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

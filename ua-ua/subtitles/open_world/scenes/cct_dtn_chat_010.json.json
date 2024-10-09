@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"hors d'oeuvres\" b=\"А як щодо \" a=\" у «Бльо»?\"/>",
+              "maleVariant": "",
+              "stringId": "1964679706095370240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ні, дякую. Я волів би дожити до завтра.",
+              "maleVariant": "",
+              "stringId": "1964715443880706048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Га? Це історія, яку я ще не чув?",
+              "maleVariant": "",
+              "stringId": "1964715650139799552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А я не розповідав тобі? Коротше, місяць тому там мало не отруїли Гарпера з наглядової ради «Біотехніки».",
+              "maleVariant": "",
+              "stringId": "1964716011017715712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Схоже, якийсь конкурент підіслав туди когось зі своїх під виглядом офіціанта. Якби тоді з Гарпером не пішов вечеряти керівник його охорони…",
+              "maleVariant": "",
+              "stringId": "1964717084759539712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А що сталося? Він першим скуштував заготовлене суфле та розплавив собі горло?",
+              "maleVariant": "",
+              "stringId": "1964717671089684480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та ні, він просто гурман — нюх підсилив на максимум. Тож запах токсину відчув іще до того, як тарілку встигли покласти на стіл.",
+              "maleVariant": "",
+              "stringId": "1964717920449445888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та ти жартуєш…",
+              "maleVariant": "",
+              "stringId": "1964718562849046528"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

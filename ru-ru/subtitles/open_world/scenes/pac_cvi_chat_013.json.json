@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну как у вас? Держитесь?",
+              "maleVariant": "",
+              "stringId": "2179208896737210368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Потихоньку, потихоньку. Барак ржавеет, надо новые листы железа купить.",
+              "maleVariant": "",
+              "stringId": "2189811502947221504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слушай, как так получилось, что у нас в районе до жопы крутых отелей, а мы гниём в этих банках?",
+              "maleVariant": "",
+              "stringId": "2189811765158330368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Почему «Вудуисты» ничего не делают? Для своего-то народа.",
+              "maleVariant": "",
+              "stringId": "2189811981013991424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отстань от «Вудуистов». Скажи спасибо, что не надо бояться, что сюда банды из города приедут.",
+              "maleVariant": "",
+              "stringId": "2189816933631377408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Зато надо бояться, что кислотный дождь растворит твою крышу или ты сдохнешь от голода.",
+              "maleVariant": "",
+              "stringId": "2189817343549095936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не бывает всего и сразу. Главное, прожить подольше.",
+              "maleVariant": "",
+              "stringId": "2189817702447300608"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

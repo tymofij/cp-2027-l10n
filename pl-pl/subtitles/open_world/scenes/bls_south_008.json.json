@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie będę całe życie siedzieć w klanie! Wiecie, co zrobię? Pojadę do Night City!",
+              "maleVariant": "",
+              "stringId": "1973556957208944640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I co byś tam robił? Ciebie by nawet na śmieciarkę nie wzięli.",
+              "maleVariant": "",
+              "stringId": "1973769946880876544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A jak mnie wezmą, to przyjadę nią prosto po ciebie, twojego starego i tego waszego durnego kampera.",
+              "maleVariant": "",
+              "stringId": "1973771004097142784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zaraz ci walnę!",
+              "maleVariant": "",
+              "stringId": "1973774418545811456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie kłóćcie się!",
+              "maleVariant": "",
+              "stringId": "1973774623043297280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja tylko mówię, że Night City to... to przyszłość!",
+              "maleVariant": "",
+              "stringId": "1973776349905362944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aaa... Night City jest w drugą stronę.",
+              "maleVariant": "",
+              "stringId": "1973777631584002048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Obojętne! Wszędzie będzie lepiej niż tu!",
+              "maleVariant": "",
+              "stringId": "1973777823062368256"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

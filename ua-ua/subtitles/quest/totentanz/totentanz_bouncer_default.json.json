@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ти що, сліпа? Ми, блядь, зачинені!",
+              "maleVariant": "Ти що, сліпий? Ми, блядь, зачинені!",
+              "stringId": "1802342029536960512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я чула, що хтось застрелив Ройса.",
+              "maleVariant": "Я чув, що хтось застрелив Ройса.",
+              "stringId": "1802342295388725252"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якщо будуть проблеми, ти гризтимеш бордюр.",
+              "maleVariant": "",
+              "stringId": "1802342721513234436"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я чула, що хтось застрелив Ройса.",
+              "maleVariant": "Я чув, що хтось застрелив Ройса.",
+              "stringId": "1802355493135360000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Щось цікаве відбувається в «Тотентанці»?",
+              "maleVariant": "",
+              "stringId": "1802357723968217088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хоч інколи щось цікаве відбувається в «Тотентанці»?",
+              "maleVariant": "",
+              "stringId": "1802357972170350596"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як це хтось? Їбучі агенти «Мілітеху» вбили його.",
+              "maleVariant": "",
+              "stringId": "1802359046952361984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так, не сьогодні. Іди звідси.",
+              "maleVariant": "",
+              "stringId": "1956146762027442180"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я тобі що, пошукова система? У нас тут завжди відбувається «щось цікаве».",
+              "maleVariant": "",
+              "stringId": "1956163220526669824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Але тебе це не повинно їбати.",
+              "maleVariant": "",
+              "stringId": "1975272928558522368"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

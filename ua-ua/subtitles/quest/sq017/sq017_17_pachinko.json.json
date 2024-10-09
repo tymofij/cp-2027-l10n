@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Пробачте, ліфт не працює.",
+              "maleVariant": "",
+              "stringId": "1339984088743809024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я маю зустріч із Керрі.",
+              "maleVariant": "",
+              "stringId": "1339986038541520916"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А для гостей Керрі Євродайна ліфт також не працює?",
+              "maleVariant": "",
+              "stringId": "1339994563900608512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, у такому випадку, приємного вам вечора.",
+              "maleVariant": "",
+              "stringId": "1339995028210061312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "То чого ти тут стоїш?",
+              "maleVariant": "",
+              "stringId": "1818663045486567424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якщо він не працює, то чому ти тут?",
+              "maleVariant": "",
+              "stringId": "1818664320353656832"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

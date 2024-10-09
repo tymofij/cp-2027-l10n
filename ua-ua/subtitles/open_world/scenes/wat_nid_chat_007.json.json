@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хочу за цево сто євдо.",
+              "maleVariant": "",
+              "stringId": "1827256216505147392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хіба я, блядь, не казав тобі припинити лазити тут, коли поруч стільки народу?",
+              "maleVariant": "",
+              "stringId": "1827259547537498112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я можу піти. Так і зробити?",
+              "maleVariant": "",
+              "stringId": "1827259718530883584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та стривай. Ану показуй, що там у тебе є.",
+              "maleVariant": "",
+              "stringId": "1827259880397463552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Скільки ти казав?",
+              "maleVariant": "",
+              "stringId": "1827260036928888832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сотня?",
+              "maleVariant": "",
+              "stringId": "1827260232333123584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Сорок.",
+              "maleVariant": "",
+              "stringId": "1827260678204416000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Гаразд, ті’ки давай скоріше.",
+              "maleVariant": "",
+              "stringId": "1827261129712852992"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

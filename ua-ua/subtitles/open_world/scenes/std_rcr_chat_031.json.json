@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Як на мене, то це марна трата часу та коштів. Якщо хтось їде дахом, то його треба позбавляти страждань, а не займатися оцією дурнею з «примусовою терапією».",
+              "maleVariant": "",
+              "stringId": "2167934998510587904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, розумієш, тут справа в грошах.",
+              "maleVariant": "",
+              "stringId": "2182317156564520960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У грошах?",
+              "maleVariant": "",
+              "stringId": "2182318344005537792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ага. Корпорація може самостійно відрахувати витрати на лікування з податків. Що більше вони сюди людей наженуть, то більше зекономлять грошей.",
+              "maleVariant": "",
+              "stringId": "2182318397172535296"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

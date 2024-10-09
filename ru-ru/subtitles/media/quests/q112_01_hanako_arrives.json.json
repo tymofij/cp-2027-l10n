@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Найт-Сити всё ещё в трауре после гибели директора корпорации «Арасака» Сабуро Арасаки.",
+              "maleVariant": "",
+              "stringId": "1743075249131671552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Флаги на всех городских зданиях приспущены, а массовые мероприятия отменены до особого распоряжения.",
+              "maleVariant": "",
+              "stringId": "1743077386448326656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Дочь и наследница покойного, Ханако Арасака, прибыла в город вскоре после трагедии.",
+              "maleVariant": "",
+              "stringId": "1743077839198277632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Прощание пройдёт завтра в штаб-квартире «Арасаки» в полдень, после чего останки покойного Сабуро Арасаки перевезут к месту упокоения в его родную Японию.",
+              "maleVariant": "",
+              "stringId": "1743078341826891776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"jpn\" o=\"ご冥福をお祈りいたします\" t=\"Мир его праху.\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1743078834137518080"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

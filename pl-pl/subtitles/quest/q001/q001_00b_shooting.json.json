@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hej, V! Głowa nisko!",
+              "maleVariant": "",
+              "stringId": "1144476227905806352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<kiroshi l=\"mex\" o=\"Cabrones!\" t=\"Sukinsyny!\" b=\"\" a=\"\"/>",
+              "maleVariant": "",
+              "stringId": "1144476358231220224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Na tyle cię stać?!",
+              "maleVariant": "",
+              "stringId": "1244755525693542416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V! Celuj w głowę! Dasz radę!",
+              "maleVariant": "",
+              "stringId": "1244760100219588608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pierdolcie się!",
+              "maleVariant": "",
+              "stringId": "1244761949437890560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Strzelaj, V!",
+              "maleVariant": "",
+              "stringId": "1244762800646721536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "<mothertongue l=\"mex\" m=\"cabrones\" b=\"Dalej, \" a=\"! Dalej!\"/>",
+              "maleVariant": "",
+              "stringId": "1244763540001853440"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

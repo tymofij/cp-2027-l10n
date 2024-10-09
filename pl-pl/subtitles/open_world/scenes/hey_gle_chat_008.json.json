@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz charyzmę stary, tego nie da się nauczyć. A my umiemy to wykorzystać i nagrodzić.",
+              "maleVariant": "",
+              "stringId": "1832753109528076304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Myślisz, że kilka pochlebstw mnie przekona?",
+              "maleVariant": "",
+              "stringId": "1832755699074588672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mam nadzieję, że zdrowy rozsądek cię przekona.",
+              "maleVariant": "",
+              "stringId": "1832755849683656704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie.",
+              "maleVariant": "",
+              "stringId": "1832756025760538624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A dlaczego?",
+              "maleVariant": "",
+              "stringId": "1832756224956424192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lojalność. To jedyna wartościowa waluta w tej branży.",
+              "maleVariant": "",
+              "stringId": "1832756370163228672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Brzmi pięknie. Ale fakty są takie, że siedzisz ze mną i nadal rozmawiamy. Dlaczego?",
+              "maleVariant": "",
+              "stringId": "1832756758069239808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty mi powiedz.",
+              "maleVariant": "",
+              "stringId": "1832756954849206272"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Э, дедуля! А где Ларс? И что ты делаешь в его доме?",
+              "maleVariant": "",
+              "stringId": "1963294577585594368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "У Ларса киберпсихоз. На прошлой неделе «Макс-так» увёз. Теперь я тут живу.",
+              "maleVariant": "",
+              "stringId": "1969389514669146112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чё?.. И он типа не вернётся?!",
+              "maleVariant": "",
+              "stringId": "1969389843653574656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Насколько я знаю, он пытался съесть соседку. Так что, думаю, нет.",
+              "maleVariant": "",
+              "stringId": "1969390122675453952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да чё за бред… У него и хрома почти не было! Один имплант «Кироси» и всё!",
+              "maleVariant": "",
+              "stringId": "1969390325897871360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не повезло, сынок. Не повезло.",
+              "maleVariant": "",
+              "stringId": "1969390486556491776"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

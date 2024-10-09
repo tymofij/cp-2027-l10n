@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Кожная броня — и все проблемы решены. Полимерную сетку так просто не выжечь.",
+              "maleVariant": "",
+              "stringId": "1973564971903131648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не доверяю я этим приборам. Насмотрелся, как народ после мелкого дождичка меняется в лице.",
+              "maleVariant": "",
+              "stringId": "1974873251703930880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, тачка-то до сих пор, как новенькая. И фенолограф молчал.",
+              "maleVariant": "",
+              "stringId": "1974873264437837824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Так ведь на днях лило. Уверен, что это был не кислотный дождь?",
+              "maleVariant": "",
+              "stringId": "1974873283362537472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Давно кислотных дождей не было.",
+              "maleVariant": "",
+              "stringId": "1974873295710568448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

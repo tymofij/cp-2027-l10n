@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pięć lat zapierdalam jak mały samochodzik i nic, a ta zdzira zdążyła awansować już dwa razy.",
+              "maleVariant": "",
+              "stringId": "2156523842609377280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Masz dwie opcje. Albo się z tym pogodzisz, albo wyeliminujesz konkurencję.",
+              "maleVariant": "",
+              "stringId": "2172343915632115712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mówisz, że powinienem ją... odstrzelić?",
+              "maleVariant": "",
+              "stringId": "2172344289814364160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To dobry ruch. Pokazujesz im, że zrobisz wszystko, wykonasz każdy rozkaz.",
+              "maleVariant": "",
+              "stringId": "2172344537865502720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ty tak zrobiłeś?",
+              "maleVariant": "",
+              "stringId": "2172344688961110016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie, jestem tchórzem. Wolałem się przyzwyczaić. Przynajmniej uważają mnie za nieszkodliwego.",
+              "maleVariant": "",
+              "stringId": "2172344917936553984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ech, decyzje, decyzje...",
+              "maleVariant": "",
+              "stringId": "2172345079014604800"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

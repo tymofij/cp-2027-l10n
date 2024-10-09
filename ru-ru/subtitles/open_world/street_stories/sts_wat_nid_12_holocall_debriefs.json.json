@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спасибо за помощь! Хорошо, что этого барана получилось убедить. Теперь моя очередь с ним разговаривать. Заказ закрыт.",
+              "maleVariant": "",
+              "stringId": "2328844518450548740"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Слушай, спасибо за Макса, но… по его состоянию видно, что возникли некоторые сложности. Эх… Наверное, этого следовало ожидать…",
+              "maleVariant": "",
+              "stringId": "2328846984466419716"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я в курсе про Макса. Мне сказали, что случилось. Я пытаюсь найти слова, чтобы задеть тебя посильнее.",
+              "maleVariant": "",
+              "stringId": "2328846996646678532"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но, наверное, оно того не стоит. Не знаю, почему я подумала, что ты способна выполнить такое задание.",
+              "maleVariant": "Но, наверное, оно того не стоит. Не знаю, почему я подумала, что ты способен выполнить такое задание.",
+              "stringId": "2340211071368138752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Заказ закрыт.",
+              "maleVariant": "",
+              "stringId": "2340215455674109952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я знаю насчёт Макса, что ты его кинула. У нас был шанс ему помочь, но теперь… всё кончено. Он найдёт себе другое убежище.",
+              "maleVariant": "Я знаю насчёт Макса, что ты его кинул. У нас был шанс ему помочь, но теперь… всё кончено. Он найдёт себе другое убежище.",
+              "stringId": "2372273193342046208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вряд ли я найду его раньше, чем корпораты. Думаю, ты понимаешь, что это значит.",
+              "maleVariant": "",
+              "stringId": "2372274231163850752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Не знаю, почему я подумала, что ты способна выполнить такое задание.",
+              "maleVariant": "Не знаю, почему я подумала, что ты способен выполнить такое задание.",
+              "stringId": "2372294884067741696"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

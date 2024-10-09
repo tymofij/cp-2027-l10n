@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zanim pójdziecie dalej, wyczyśćcie teren z Kosiarzy.",
+              "maleVariant": "",
+              "stringId": "1674926666830299136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pamiętajcie, nie zostawiajcie nikogo bez obstawy.",
+              "maleVariant": "",
+              "stringId": "1674928608725942272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Racja.",
+              "maleVariant": "",
+              "stringId": "1674931085009469440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie chcecie dostać kuli w plecy... albo wyprowadzać stąd dziewczyny pod ostrzałem.",
+              "maleVariant": "",
+              "stringId": "1695496774605533184"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

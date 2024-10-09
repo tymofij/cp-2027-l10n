@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Już mam dość tych kłótni o wszystko.",
+              "maleVariant": "",
+              "stringId": "2182443368390692864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Z facetami to jest tak. Muszą myśleć, że to oni decydują.",
+              "maleVariant": "",
+              "stringId": "2182504727182675968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jak jest zebranie to wysłuchaj propozycji takiego jednego z drugim.",
+              "maleVariant": "",
+              "stringId": "2182513907977261056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wykaż zainteresowanie, pochwal i powiedz \"tak, robimy to\".",
+              "maleVariant": "",
+              "stringId": "2182521950337077248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tylko najczęściej te pomysły są z dupy.",
+              "maleVariant": "",
+              "stringId": "2182522091517349888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To nieważne, mówisz jedno, a potem i tak wszystko zmieniasz po swojemu, ale wiesz, udajesz, że to nadal \"ich pomysł\".",
+              "maleVariant": "",
+              "stringId": "2182522186006630400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie rozumiem. Przecież zauważą, zorientują się.",
+              "maleVariant": "",
+              "stringId": "2182523416514760704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kochana, tu nie chodzi o meritum, tylko o ego. Po prostu musisz je pogłaskać. To wystarczy.",
+              "maleVariant": "",
+              "stringId": "2182525765878648832"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

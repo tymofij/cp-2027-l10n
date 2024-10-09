@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Йоу, не забудь, ми ввечері граємо.",
+              "maleVariant": "",
+              "stringId": "1806908953341845504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та ще б пак! Це єдина річ, заради якої я вилажу зранку з-під ковдри, чумбо.",
+              "maleVariant": "",
+              "stringId": "1806909946938908672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якщо ми виграємо, то я відведу в таке місце, де тебе реально витягнуть з-під ковдри, хе-хе.",
+              "maleVariant": "",
+              "stringId": "1806910114761400320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Нєа, то не для мене. Я сюди приходжу чисто в покер покидатися. І все.",
+              "maleVariant": "",
+              "stringId": "1806910278003712000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Упевнений?",
+              "maleVariant": "",
+              "stringId": "1806910452721639424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я скоро батьком стану, подобається мені це чи ні.",
+              "maleVariant": "",
+              "stringId": "1806910707064233984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

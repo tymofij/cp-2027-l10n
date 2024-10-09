@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй.",
+              "maleVariant": "",
+              "stringId": "1806799252209917952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чё надо?",
+              "maleVariant": "",
+              "stringId": "1806799752271618048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Терпению есть границы. Районам тоже.",
+              "maleVariant": "",
+              "stringId": "1806799878151069696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это типа крылатая мудрость?",
+              "maleVariant": "",
+              "stringId": "1806800128299360256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хм… Ну как бы тебе, тупоумному, объяснить…",
+              "maleVariant": "",
+              "stringId": "1806800496089489408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Большие шишки готовятся к войне. И сейчас не время драться за объедки их пирога.",
+              "maleVariant": "",
+              "stringId": "1806800684111749120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Это Америка, чумба. Здесь каждый пытается забрать пирог целиком. И у нас есть все шансы.",
+              "maleVariant": "",
+              "stringId": "1806801140787568640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Какая ещё Америка? Насколько мне известно, мы в Найт-Сити.",
+              "maleVariant": "",
+              "stringId": "1806801291061092352"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты только погляди. Всё вокруг ничьё. Значит, наше.",
+              "maleVariant": "",
+              "stringId": "2178293728947806208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да… Не ферма будет, а мечта.",
+              "maleVariant": "",
+              "stringId": "2211209758667632640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаешь, тут что-нибудь вырастет?",
+              "maleVariant": "",
+              "stringId": "2211210087249408000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вырасти-то вырастет. Только по ночам будет светиться.",
+              "maleVariant": "",
+              "stringId": "2211210737131646976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы пришли к успеху. Американская мечта как она есть.",
+              "maleVariant": "",
+              "stringId": "2211211180335362048"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ця шняга геть нова. Один чумба м’ні сказав, шо вона вже на вулиці десь зо тиждень.",
+              "maleVariant": "",
+              "stringId": "2179649948556582912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Та’, я чула. Мабуть, якісь стимулятори з лабораторій «Біотехніки». Контрольований витік.",
+              "maleVariant": "",
+              "stringId": "2211509490577240064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Точно. А ше ми живемо в симуляції.",
+              "maleVariant": "",
+              "stringId": "2212647982137012224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я серйозно. Це якісь ліки для толерації організму до імплантів. Типу, уповільнює кіберпсихоз.",
+              "maleVariant": "",
+              "stringId": "2212648243341488128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А нашо вони тоді випустили цілу партію ліків на вулиці? Шоб побічки перевірити?",
+              "maleVariant": "",
+              "stringId": "2212651062702305280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спокійно, чумби. Розчаровувати корпарів не можна. Тож гепнимо нині ввечері, а на ранок уже матимемо для них свіжий звіт.",
+              "maleVariant": "",
+              "stringId": "2212651785078894592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Хе-хе-хех, клас.",
+              "maleVariant": "",
+              "stringId": "2212656220706369536"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

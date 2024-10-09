@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А вам уже приходилось такое делать?",
+              "maleVariant": "",
+              "stringId": "1963357883776237568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Обо мне не беспокойся. В двадцать третьем, в пятьдесят первом, в семидесятом — вот когда туго пришлось. Естественные колебания рынка.",
+              "maleVariant": "",
+              "stringId": "1979130653959360512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Трижды. Иногда для победы нужно вернуться к началу.",
+              "maleVariant": "",
+              "stringId": "1979130834582867968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты не усложняй. Люди устроены просто. Они хотят денег и власти.",
+              "maleVariant": "",
+              "stringId": "1979131256882171904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Но я… я не хочу потерять работу. Мне просто нельзя.",
+              "maleVariant": "",
+              "stringId": "1979133866611675136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "В худшем случае тебя переведут в другой отдел. На хаосе можно хорошо подняться.",
+              "maleVariant": "",
+              "stringId": "1979134272788074496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "А как же ваши инвестиции?",
+              "maleVariant": "",
+              "stringId": "1979135397952065536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Наша задача — реагировать на запрос.",
+              "maleVariant": "",
+              "stringId": "1979147904460623872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

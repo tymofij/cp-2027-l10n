@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Weźmiemy to? Jak myślicie?",
+              "maleVariant": "",
+              "stringId": "1973566015613739008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Trzeba będzie się naradzić. Po mojemu, to nie ma co wybrzydzać. Forsa to forsa.",
+              "maleVariant": "",
+              "stringId": "1974940029184360448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Słyszałem, że mogą zostać na dłużej. Zakładają jakieś modyfikowane uprawy hydroponiczne.",
+              "maleVariant": "",
+              "stringId": "1974940111912812544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Czyli nie ma co dłużej gdybać. Trzeba się z nimi ułożyć.",
+              "maleVariant": "",
+              "stringId": "1974940146742312960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To sraj sobie. Akurat dużo masz do gadania sam jeden.",
+              "maleVariant": "",
+              "stringId": "1974940175582347264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A dużo obiecali? Bo jak nie, to sram na nich. Nigdy nie lubiłem Biotechniki.",
+              "maleVariant": "",
+              "stringId": "1974940203432525824"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "М-м-м! Люблю убивать этих нищебродов.",
+              "maleVariant": "",
+              "stringId": "1802510207875145728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Самое классное — это когда они видят, что им пиздец. Как только понимают, сразу ломаются.",
+              "maleVariant": "",
+              "stringId": "1802510776069120000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да ну. Чего крутого в игре, если всё слишком просто.",
+              "maleVariant": "",
+              "stringId": "1802512292377124864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да не пизди.",
+              "maleVariant": "",
+              "stringId": "1802512551601889280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Какой кайф прихлопывать мелкую шушеру? Никакого интереса.",
+              "maleVariant": "",
+              "stringId": "1802512644564443136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Шушера или нет, какая разница? Главное, какие у них глаза становятся.",
+              "maleVariant": "",
+              "stringId": "1802512836395130880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

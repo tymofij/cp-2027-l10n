@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что будешь пить?",
+              "maleVariant": "",
+              "stringId": "1796864074633428996"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Чего налить? Кофейку или покрепче?",
+              "maleVariant": "",
+              "stringId": "1796864074650206212"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Эй, я с тобой говорю.",
+              "maleVariant": "",
+              "stringId": "1796864074734092292"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мы не закончили!",
+              "maleVariant": "",
+              "stringId": "1796864074750869508"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "М-м, с возвращением.",
+              "maleVariant": "",
+              "stringId": "1796864074834755588"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Видишь? Все дороги ведут к барной стойке.",
+              "maleVariant": "",
+              "stringId": "1796864074868310020"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Да?",
+              "maleVariant": "",
+              "stringId": "1796864074901864452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты что-то хотела сказать?",
+              "maleVariant": "Ты что-то хотел сказать?",
+              "stringId": "1796864074918641668"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Смотри, куда идёшь.",
+              "maleVariant": "",
+              "stringId": "1796864075136745472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Окей, я уступлю.",
+              "maleVariant": "",
+              "stringId": "1796864075153522692"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

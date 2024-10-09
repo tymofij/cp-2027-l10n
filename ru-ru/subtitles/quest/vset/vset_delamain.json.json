@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Спасибо, что выбрали сеть «Деламейн».",
+              "maleVariant": "",
+              "stringId": "1796554766993571840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мисс Ви, как мило!",
+              "maleVariant": "Мистер Ви, как мило!",
+              "stringId": "1796555181021708292"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вызов принят.",
+              "maleVariant": "",
+              "stringId": "1796555442729500676"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Я здесь!",
+              "maleVariant": "",
+              "stringId": "1796555472928489476"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вызов принят.",
+              "maleVariant": "",
+              "stringId": "1796555498530521092"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "К сожалению, вызов прерван.",
+              "maleVariant": "",
+              "stringId": "1966121933733765124"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Непредвиденная ошибка. Соединение прервано.",
+              "maleVariant": "",
+              "stringId": "1966121933767319556"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

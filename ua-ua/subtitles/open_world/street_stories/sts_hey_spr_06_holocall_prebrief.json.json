@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Завдяки рівновазі Найт-Сіті живий. Без неї ми б давно вже вчепилися один одному в горлянки — корпорати, банди, найманці, геть усі.",
+              "maleVariant": "",
+              "stringId": "2334576991216058368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Якщо одна зі сторін починає явно домінувати, то справники допомагають обережно відновити рівновагу.",
+              "maleVariant": "",
+              "stringId": "2334577127312834560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вдумайся лишень, завдяки рівновазі ми маємо роботу. Навіщо я тобі про це розповідаю?",
+              "maleVariant": "",
+              "stringId": "2334577258309337088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Бо настав час для невеличкого втручання. Подивися додаток.",
+              "maleVariant": "",
+              "stringId": "2334577449989029888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

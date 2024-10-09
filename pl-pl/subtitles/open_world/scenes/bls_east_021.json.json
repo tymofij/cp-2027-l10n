@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powinniśmy się stąd zbierać. Jeszcze trochę i zapuścimy korzenie.",
+              "maleVariant": "",
+              "stringId": "2178265220515176448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co, krajobraz ci się sprzykrzył?",
+              "maleVariant": "",
+              "stringId": "2181079985345511424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Szkoda gadać. Na lewo wiatraki, na prawo wiatraki. Góry bym sobie dla odmiany pooglądał.",
+              "maleVariant": "",
+              "stringId": "2181080266951081984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Może by pojechać w Apallachy. Mówią, że promieniowanie już opadło.",
+              "maleVariant": "",
+              "stringId": "2181080589325287424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Powiem ci, że nawet mam ochotę na mały szaber.",
+              "maleVariant": "",
+              "stringId": "2181080800583991296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ja mam ochotę na cokolwiek, byle daleko od tych wiatraków.",
+              "maleVariant": "",
+              "stringId": "2181080969715105792"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

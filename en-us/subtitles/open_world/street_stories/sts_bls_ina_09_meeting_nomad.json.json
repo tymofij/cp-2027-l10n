@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, McAdams! Over here!",
+              "maleVariant": "",
+              "stringId": "1654819827128643584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Starkey... It's been years.",
+              "maleVariant": "",
+              "stringId": "1771933063627321344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You look like shit.",
+              "maleVariant": "",
+              "stringId": "1771933614037446656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Heheh, I'm a bit indisposed. Looks like you'll have to be my chauffeur.",
+              "maleVariant": "",
+              "stringId": "1932908631723626496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uh, V, FYI, Dakota's sending over your payment.",
+              "maleVariant": "",
+              "stringId": "1932910879333699584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nova, thanks.",
+              "maleVariant": "",
+              "stringId": "1932913393365962752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Have a good one.",
+              "maleVariant": "",
+              "stringId": "1932913571338670080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Wait]",
+              "maleVariant": "",
+              "stringId": "2412608350794985476"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

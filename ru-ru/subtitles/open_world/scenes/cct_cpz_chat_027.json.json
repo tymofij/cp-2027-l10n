@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Представляешь, больше семидесяти этажей… и всё это рухнуло…",
+              "maleVariant": "",
+              "stringId": "2172083067071094784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ты нашёл кому рассказывать. Мой дед был спасателем. День и ночь доставал тела из-под завалов.",
+              "maleVariant": "",
+              "stringId": "2205866264681091072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Он мне такие истории рассказывал про то, что видел и слышал… Про крики из-под земли…",
+              "maleVariant": "",
+              "stringId": "2205869672720863232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Даже представить не могу.",
+              "maleVariant": "",
+              "stringId": "2205869946004934656"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

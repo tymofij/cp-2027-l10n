@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Треба закупитися.",
+              "maleVariant": "",
+              "stringId": "1893796934479020036"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Покажи що можеш зробити для мене.",
+              "maleVariant": "",
+              "stringId": "1893797127115014144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Медична ліцензія у тебе, сподіваюсь, є?",
+              "maleVariant": "",
+              "stringId": "1893797285626150912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Медичну ліцензію маєш?",
+              "maleVariant": "",
+              "stringId": "1893799869032202240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Думаю багато чого.",
+              "maleVariant": "",
+              "stringId": "1893802464299745280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ліцензія? Звичайно є.",
+              "maleVariant": "",
+              "stringId": "1893802648161255424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Здоров. Тобі щось потрібно?",
+              "maleVariant": "",
+              "stringId": "1893889354792058884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Знаєш, я раніше, ем, з «Травмою» літав. Молодший пармедик, шість місяців. Навіть не уявляєш речі які я бачив.",
+              "maleVariant": "",
+              "stringId": "1984969165457256448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

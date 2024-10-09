@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Отримала повідомлення, що Но в безпеці. М’яко кажучи, я здивована.",
+              "maleVariant": "",
+              "stringId": "2328716792749436928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну, Но в безпеці, але якось не знаю… Напевно, я очікувала чогось більшого.",
+              "maleVariant": "",
+              "stringId": "2328717304454524928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Може, чогось обережнішого. Наступного разу постарайся, окей? Контракт закрито.",
+              "maleVariant": "",
+              "stringId": "2334798849447923712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Усе зробила як профі. Контракт закриваю, гроші скоро надійдуть.",
+              "maleVariant": "Усе зробив як профі. Контракт закриваю, гроші скоро надійдуть.",
+              "stringId": "2334801610977677312"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "O czymś mi nie mówisz.",
+              "maleVariant": "",
+              "stringId": "1963352550248939520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Coż za sporzegawczość, nie dziwne, że zostałeś radnym.",
+              "maleVariant": "",
+              "stringId": "1978228607177560064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Co tym razem?",
+              "maleVariant": "",
+              "stringId": "1978228622226722816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ten budynek w Japantown, zostanie sprzedany. Za kwotę, którą zaproponowaliśmy.",
+              "maleVariant": "",
+              "stringId": "1978232649849081856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To decyzja miasta, a nie moja.",
+              "maleVariant": "",
+              "stringId": "1978233637943218176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie. To moja decyzja. A ty zrobisz wszystko, żebym nie musiała podejmować następnych.",
+              "maleVariant": "",
+              "stringId": "1978233672588169216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "… rozumiem.",
+              "maleVariant": "",
+              "stringId": "1978234081381814272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie obchodzi mnie czy rozumiesz. Po prostu zrób, co mówię.",
+              "maleVariant": "",
+              "stringId": "1978234347703341056"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

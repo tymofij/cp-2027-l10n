@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Надо с ними что-то делать.",
+              "maleVariant": "",
+              "stringId": "2178254088027054080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "К «Духам» лучше не подходить. Ты знаешь, чем это кончается.",
+              "maleVariant": "",
+              "stringId": "2181051025136009216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Поэтому и надо что-то делать. Помнишь, что стало с Джимом?",
+              "maleVariant": "",
+              "stringId": "2181051218107547648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "«Помнишь»? Мы с ребятами вообще-то его нашли. То, что от него осталось.",
+              "maleVariant": "",
+              "stringId": "2181051344003776512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Что же за звери такие, привязать человека к байку и столько километров за собой везти?",
+              "maleVariant": "",
+              "stringId": "2181051568164159488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Мне иногда снится, как он кричит. Хоть я на самом деле не слышал этого… воя.",
+              "maleVariant": "",
+              "stringId": "2181051879549288448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Звери, сука, а не люди.",
+              "maleVariant": "",
+              "stringId": "2181052939852562432"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

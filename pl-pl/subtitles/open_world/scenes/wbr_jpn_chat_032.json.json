@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ale mówisz tak, bo nigdy nie spróbowałeś prawdziwej polędwicy!",
+              "maleVariant": "",
+              "stringId": "2160395616628285440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jest parę rzeczy, które chętnie próbuję, ale nie są to trupy. Dzięki, nie!",
+              "maleVariant": "",
+              "stringId": "2196887786190381056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Racja, zapomniałem! Masz swoje śmieciowe syntetyczne mięso.",
+              "maleVariant": "",
+              "stringId": "2196890640330366976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Śmieciowe? Mocne słowo jak na kogoś, kto tęskni za padliną.",
+              "maleVariant": "",
+              "stringId": "2196909340248875008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nie tęsknię za padliną! Tęsknię za tradycją!",
+              "maleVariant": "",
+              "stringId": "2196911285046976512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A możesz tęsknić bez zawracania mi dupy?",
+              "maleVariant": "",
+              "stringId": "2197036057386917888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

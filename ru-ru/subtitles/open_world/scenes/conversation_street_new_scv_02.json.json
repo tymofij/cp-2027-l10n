@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Говорил я ему, Костя, не вывози ничего из Ленинграда. Ну и что? Поймали его на границе с наркотой.",
+              "maleVariant": "",
+              "stringId": "2276535761930199056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ну ребёнок, что ты от него хочешь? Двадцать лет отца не видел. Хотел тебя удивить, наверно.",
+              "maleVariant": "",
+              "stringId": "2276535761930199068"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Вот уж удивил так удивил, сука. Теперь надо кого-то другого на работу искать.",
+              "maleVariant": "",
+              "stringId": "2276535761930199080"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

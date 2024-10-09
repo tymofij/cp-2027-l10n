@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.14.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 2120,
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Laboratorium zniszczone. Dokładnie o to nam chodziło.",
+              "maleVariant": "",
+              "stringId": "2328758690523099136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I wiesz - nie ma co się oszukiwać. Błyszczyk pewnie nie zniknie z rynku, ale przynajmniej napsuliśmy trochę krwi skurwysynom, którzy go tworzą.",
+              "maleVariant": "",
+              "stringId": "2334853652173656064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aaa... i jeszcze jedno. Arati kazała cię pozdrowić. Jest naprawdę wdzięczna za tę robotę. Jeszcze raz dzięki i do usłyszenia.",
+              "maleVariant": "",
+              "stringId": "2334860713737424896"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}
