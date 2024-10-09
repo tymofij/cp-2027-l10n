@@ -18,6 +18,18 @@
           "entries": [
             {
               "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Покажи, що є в меню.",
+              "maleVariant": "",
+              "stringId": "1783748166422384640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Налий щось випити.",
+              "maleVariant": "",
+              "stringId": "1935648808663166980"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
               "femaleVariant": "Я б щось випила.",
               "maleVariant": "Я б щось випив.",
               "stringId": "1977633281005879296"
@@ -42,13 +54,13 @@
             },
             {
               "$type": "localizationPersistenceSubtitleEntry",
-              "femaleVariant": "Може я не пила Шампараді кожного дня, але Шато Піке було дуже популярне в Арасаці.",
-              "maleVariant": "Може я не пив Шампараді кожного дня, але Шато Піке було дуже популярне в Арасаці.",
+              "femaleVariant": "Може, я й не пила «Шампараді» кожного дня, але «Шато Піке» було дуже популярне в Арасаці.",
+              "maleVariant": "Може, я й не пив «Шампараді» кожного дня, але «Шато Піке» було дуже популярне в Арасаці.",
               "stringId": "1979276688365436928"
             },
             {
               "$type": "localizationPersistenceSubtitleEntry",
-              "femaleVariant": "Ми обслуговуємо верхівку корпоративної еліти. Боюся наші вина будуть тобі не по кишені.",
+              "femaleVariant": "Ми обслуговуємо верхівку корпоративної еліти. Боюся, наші вина будуть тобі не по кишені.",
               "maleVariant": "",
               "stringId": "1979279357855383552"
             },
@@ -96,15 +108,33 @@
             },
             {
               "$type": "localizationPersistenceSubtitleEntry",
-              "femaleVariant": "Вже несу, панно. Ми завжди раді клієнтам Арасаки.",
-              "maleVariant": "Вже несу, пане. Ми завжди раді клієнтам Арасаки.",
+              "femaleVariant": "Уже несу, панно. Ми завжди раді клієнтам Арасаки.",
+              "maleVariant": "Уже несу, пане. Ми завжди раді клієнтам Арасаки.",
               "stringId": "1979342116487938048"
             },
             {
               "$type": "localizationPersistenceSubtitleEntry",
-              "femaleVariant": "Скільки себе пам’ятаю. Дідусь відкрив крамницю в Кембриджі, а потім батько перевіз її сюди, в Найт-Сіті.",
+              "femaleVariant": "Скільки себе пам’ятаю. Дідусь відкрив крамницю в Кембриджі, а потім батько перевіз її сюди, у Найт-Сіті.",
               "maleVariant": "",
               "stringId": "1979365591839653888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Випити]",
+              "maleVariant": "",
+              "stringId": "4108827857818365964"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Відійти від бару]",
+              "maleVariant": "",
+              "stringId": "4108827871894450184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Сісти за бар] Кортить чогось хильнути.",
+              "maleVariant": "",
+              "stringId": "4115800971752124416"
             }
           ]
         }
