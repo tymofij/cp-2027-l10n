@@ -18,6 +18,12 @@
           "entries": [
             {
               "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Выпить нальёшь?",
+              "maleVariant": "Налей выпить.",
+              "stringId": "1935648808663166980"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
               "femaleVariant": "Я хочу выпить.",
               "maleVariant": "",
               "stringId": "1979339413595332612"
@@ -87,6 +93,24 @@
               "femaleVariant": "Тебе надо чего? Или хочешь просто на уши присесть?",
               "maleVariant": "",
               "stringId": "1979365556641648640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Выпить.]",
+              "maleVariant": "",
+              "stringId": "4108827857818365964"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Встать из-за стойки.]",
+              "maleVariant": "",
+              "stringId": "4108827871894450184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Сесть у бара.] Налей чего-нибудь.",
+              "maleVariant": "",
+              "stringId": "4115800971752124416"
             }
           ]
         }
